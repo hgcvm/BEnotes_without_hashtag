@@ -5,7 +5,12 @@ wget -O scraped.txt "https://resultmaps.neis-one.org/osm-notes-country-custom?c=
 LISTOFNOTES=`html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])'`
 
 #Via API alle notes downloaden
+
+echo LISTOFNOTES "@LISTOFNOTES"
+echo " "
+
 while IFS=" " read -r line; do
+echo line "$line"
 wget -O notes/$line https://api.openstreetmap.org/api/0.6/notes/$line
 done <<< "$LISTOFNOTES"
 
