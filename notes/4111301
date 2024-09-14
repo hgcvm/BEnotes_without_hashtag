@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4470006" lat="51.1409550">
+  <id>4111301</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4111301</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4111301/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4111301/close</close_url>
+  <date_created>2024-02-13 13:01:50 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-13 13:01:50 UTC</date>
+      <action>opened</action>
+      <text>Traject controles in aanleg : 
+
+Kontich - wijk Altena : 
+1/ https://www.mapillary.com/app/?pKey=915805049872162
+2/ https://www.mapillary.com/app/?pKey=371588405593581 
+3/ https://www.mapillary.com/app/?pKey=750451873326176 
+4/ hier, ongeveer (niet gemeten) op erfgrens aanliggende gronden
+
+Kontich-Kazerne :  
+1/ https://www.mapillary.com/app/?pKey=889342602937347 
+2/ einde 3½T / 30km / fietsstr op Kapelstraat bij Kauwlei / Hoge Akker, steun niet opgemerkt
+
+Waarloos : geen steunen in F. Maes.</text>
+      <html>&lt;p&gt;Traject controles in aanleg : &lt;/p&gt;
+
+&lt;p&gt;Kontich - wijk Altena : 
+&lt;br /&gt;1/ &lt;a href="https://www.mapillary.com/app/?pKey=915805049872162" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=915805049872162&lt;/a&gt;
+&lt;br /&gt;2/ &lt;a href="https://www.mapillary.com/app/?pKey=371588405593581" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=371588405593581&lt;/a&gt; 
+&lt;br /&gt;3/ &lt;a href="https://www.mapillary.com/app/?pKey=750451873326176" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=750451873326176&lt;/a&gt; 
+&lt;br /&gt;4/ hier, ongeveer (niet gemeten) op erfgrens aanliggende gronden&lt;/p&gt;
+
+&lt;p&gt;Kontich-Kazerne :  
+&lt;br /&gt;1/ &lt;a href="https://www.mapillary.com/app/?pKey=889342602937347" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=889342602937347&lt;/a&gt; 
+&lt;br /&gt;2/ einde 3½T / 30km / fietsstr op Kapelstraat bij Kauwlei / Hoge Akker, steun niet opgemerkt&lt;/p&gt;
+
+&lt;p&gt;Waarloos : geen steunen in F. Maes.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 14:26:49 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Bij andere note werd gevraagd om pinnen op plek steunen, heb in plaats daarvan Mapillary photo references gegeven. Daarbij zijn die in Waarloos ondertussen ook geplaatst.</text>
+      <html>&lt;p&gt;Bij andere note werd gevraagd om pinnen op plek steunen, heb in plaats daarvan Mapillary photo references gegeven. Daarbij zijn die in Waarloos ondertussen ook geplaatst.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>
