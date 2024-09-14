@@ -3,6 +3,7 @@
 #Lijst met alle open notes in BE aanmaken
 wget -O scraped.txt "https://resultmaps.neis-one.org/osm-notes-country-custom?c=Belgium&query=open"
 LISTOFNOTES=`html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])'`
+html2text --version
 html2text --mark-code scraped.txt
 
 echo "$LISTOFNOTES"
