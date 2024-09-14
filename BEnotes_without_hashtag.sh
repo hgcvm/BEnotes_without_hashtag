@@ -6,7 +6,7 @@ LISTOFNOTES=`html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?
 
 #Via API alle notes downloaden
 
-echo LISTOFNOTES "@LISTOFNOTES"
+echo LISTOFNOTES "$LISTOFNOTES"
 echo " "
 
 while IFS=" " read -r line; do
