@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5254150" lat="50.4571019">
+  <id>4329711</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4329711</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4329711/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4329711/close</close_url>
+  <date_created>2024-07-12 07:58:39 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-12 07:58:39 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>Have these plans been executed? https://www.dhnet.be/regions/charleroi/2021/03/19/fleurus-la-salle-du-vieux-campinaire-va-etre-amenagee-en-lieu-de-spectacle-65BAYVPSENHALN4EK76BASESMY/
+So a cultural centre or theatre now, not a sports place?</text>
+      <html>&lt;p&gt;Have these plans been executed? &lt;a href="https://www.dhnet.be/regions/charleroi/2021/03/19/fleurus-la-salle-du-vieux-campinaire-va-etre-amenagee-en-lieu-de-spectacle-65BAYVPSENHALN4EK76BASESMY/" rel="nofollow noopener noreferrer"&gt;https://www.dhnet.be/regions/charleroi/2021/03/19/fleurus-la-salle-du-vieux-campinaire-va-etre-amenagee-en-lieu-de-spectacle-65BAYVPSENHALN4EK76BASESMY/&lt;/a&gt;
+&lt;br /&gt;So a cultural centre or theatre now, not a sports place?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

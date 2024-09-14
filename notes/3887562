@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1594897" lat="50.7071040">
+  <id>3887562</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3887562</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3887562/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3887562/close</close_url>
+  <date_created>2023-09-13 17:16:48 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-13 17:16:48 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>Please double-check if there is a school here. See also https://www.openstreetmap.org/changeset/124679848#map=16/50.7051/4.1573
+If you're around here, could you check?</text>
+      <html>&lt;p&gt;Please double-check if there is a school here. See also &lt;a href="https://www.openstreetmap.org/changeset/124679848#map=16/50.7051/4.1573" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/124679848#map=16/50.7051/4.1573&lt;/a&gt;
+&lt;br /&gt;If you're around here, could you check?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-19 18:58:01 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

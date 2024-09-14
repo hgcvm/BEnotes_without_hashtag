@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6397495" lat="50.9160214">
+  <id>2603339</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2603339</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2603339/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2603339/close</close_url>
+  <date_created>2021-04-01 09:37:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-04-01 09:37:17 UTC</date>
+      <uid>11031943</uid>
+      <user>Mobi-Herent</user>
+      <user_url>https://api.openstreetmap.org/user/Mobi-Herent</user_url>
+      <action>opened</action>
+      <text>Dit laatste rechte stuk is privaat en geen voetweg</text>
+      <html>&lt;p&gt;Dit laatste rechte stuk is privaat en geen voetweg&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-03-28 12:54:19 UTC</date>
+      <uid>68954</uid>
+      <user>BHiko</user>
+      <user_url>https://api.openstreetmap.org/user/BHiko</user_url>
+      <action>commented</action>
+      <text>Dit stukje staat niet op de atlas buurtwegen. Het bordje privé staat er slechts in één wandelrichting.</text>
+      <html>&lt;p&gt;Dit stukje staat niet op de atlas buurtwegen. Het bordje privé staat er slechts in één wandelrichting.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-03-28 13:12:22 UTC</date>
+      <uid>68954</uid>
+      <user>BHiko</user>
+      <user_url>https://api.openstreetmap.org/user/BHiko</user_url>
+      <action>commented</action>
+      <text>Wat verderop, West-Oost aansluiting Stokstraat op Broekveldweg W34 langs de huizen, staat er ook een privé bord in één richting, maar die weg is openbaar volgens deze bron: http://docs.vl-brabant.be/gisdata/abw/WIN/Wijzigingen/Document/WIN_PW_020.jpg verbinding A-M op verlegde W34 </text>
+      <html>&lt;p&gt;Wat verderop, West-Oost aansluiting Stokstraat op Broekveldweg W34 langs de huizen, staat er ook een privé bord in één richting, maar die weg is openbaar volgens deze bron: &lt;a href="http://docs.vl-brabant.be/gisdata/abw/WIN/Wijzigingen/Document/WIN_PW_020.jpg" rel="nofollow noopener noreferrer"&gt;http://docs.vl-brabant.be/gisdata/abw/WIN/Wijzigingen/Document/WIN_PW_020.jpg&lt;/a&gt; verbinding A-M op verlegde W34 &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

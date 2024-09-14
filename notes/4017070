@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.9645114" lat="50.1235274">
+  <id>4017070</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4017070</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4017070/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4017070/close</close_url>
+  <date_created>2023-12-06 13:00:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-06 13:00:08 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>opened</action>
+      <text>it would be interesting to check the waterways connection all around here. The spw shaded relief is not clear and picc too</text>
+      <html>&lt;p&gt;it would be interesting to check the waterways connection all around here. The spw shaded relief is not clear and picc too&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-14 20:59:13 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

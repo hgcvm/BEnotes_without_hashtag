@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4836959" lat="50.7938833">
+  <id>4270682</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4270682</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4270682/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4270682/close</close_url>
+  <date_created>2024-05-29 17:17:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-29 17:17:25 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>AED mapillary
+Imgur in feite
+Witherendreef 1 
+Jezus Eik
+parking aan nr 11</text>
+      <html>&lt;p&gt;AED mapillary
+&lt;br /&gt;Imgur in feite
+&lt;br /&gt;Witherendreef 1 
+&lt;br /&gt;Jezus Eik
+&lt;br /&gt;parking aan nr 11&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

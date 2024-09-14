@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.3719711" lat="50.4792612">
+  <id>2354469</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2354469</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2354469/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2354469/close</close_url>
+  <date_created>2020-09-19 07:41:09 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-09-19 07:41:09 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>opened</action>
+      <text>Rond-point prévu à surveiller
+https://www.dhnet.be/regions/liege/tinlot-le-reamenagement-du-carrefour-levooz-une-priorite-5e4aa7b79978e2310683528f</text>
+      <html>&lt;p&gt;Rond-point prévu à surveiller
+&lt;br /&gt;&lt;a href="https://www.dhnet.be/regions/liege/tinlot-le-reamenagement-du-carrefour-levooz-une-priorite-5e4aa7b79978e2310683528f" rel="nofollow noopener noreferrer"&gt;https://www.dhnet.be/regions/liege/tinlot-le-reamenagement-du-carrefour-levooz-une-priorite-5e4aa7b79978e2310683528f&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-15 08:47:43 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>closed</action>
+      <text>Still not started. Propose to reopen a note when there is progress</text>
+      <html>&lt;p&gt;Still not started. Propose to reopen a note when there is progress&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-15 12:51:09 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-15 12:51:36 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>It's supposed to have started, if not very soon:
+https://infrastructures.wallonie.be/news/tinlot--n63--deux-nouveaux-giratoires-et-un-parking-de--covoiturage-po
+https://www.rtbf.be/article/un-vaste-chantier-debutera-sur-la-n63-a-tinlot-11262193</text>
+      <html>&lt;p&gt;It's supposed to have started, if not very soon:
+&lt;br /&gt;&lt;a href="https://infrastructures.wallonie.be/news/tinlot--n63--deux-nouveaux-giratoires-et-un-parking-de--covoiturage-po" rel="nofollow noopener noreferrer"&gt;https://infrastructures.wallonie.be/news/tinlot--n63--deux-nouveaux-giratoires-et-un-parking-de--covoiturage-po&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.rtbf.be/article/un-vaste-chantier-debutera-sur-la-n63-a-tinlot-11262193" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/un-vaste-chantier-debutera-sur-la-n63-a-tinlot-11262193&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 20:50:37 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>The bridge is now demolished and the N63 reopened: https://www.rtbf.be/article/la-demolition-du-pont-de-tinlot-achevee-la-n63-est-a-nouveau-ouverte-a-la-circulation-11376315</text>
+      <html>&lt;p&gt;The bridge is now demolished and the N63 reopened: &lt;a href="https://www.rtbf.be/article/la-demolition-du-pont-de-tinlot-achevee-la-n63-est-a-nouveau-ouverte-a-la-circulation-11376315" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/la-demolition-du-pont-de-tinlot-achevee-la-n63-est-a-nouveau-ouverte-a-la-circulation-11376315&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

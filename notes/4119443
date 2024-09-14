@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="6.0378451" lat="50.6227813">
+  <id>4119443</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4119443</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4119443/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4119443/close</close_url>
+  <date_created>2024-02-19 13:27:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-19 13:27:20 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>opened</action>
+      <text>Access should be updated.
+Based on GR15 belgian website, this is the temporary deviation</text>
+      <html>&lt;p&gt;Access should be updated.
+&lt;br /&gt;Based on GR15 belgian website, this is the temporary deviation&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 10:37:03 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>there's an access for pedestrians &gt; https://www.openstreetmap.org/way/92885154
+what other access tag needs to be updated?</text>
+      <html>&lt;p&gt;there's an access for pedestrians &amp;gt; &lt;a href="https://www.openstreetmap.org/way/92885154" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/92885154&lt;/a&gt;
+&lt;br /&gt;what other access tag needs to be updated?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 15:42:13 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>commented</action>
+      <text>If i remind me well, Access was no because the bridge was damaged by the flood</text>
+      <html>&lt;p&gt;If i remind me well, Access was no because the bridge was damaged by the flood&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8664258" lat="51.0056401">
+  <id>3490314</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3490314</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3490314/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3490314/close</close_url>
+  <date_created>2022-12-25 08:41:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-12-25 08:41:46 UTC</date>
+      <action>opened</action>
+      <text>bossen werden gerooid, ikv aanleg nieuw natuurgebied</text>
+      <html>&lt;p&gt;bossen werden gerooid, ikv aanleg nieuw natuurgebied&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-12-25 09:33:54 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>hoeveel bos gebied opp ?</text>
+      <html>&lt;p&gt;hoeveel bos gebied opp ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-07 17:16:27 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://sigmaplan.be/nl/projecten/scheldemeander-gent-wetteren/projectnieuws/start-aanleg-gecontroleerd-overstromingsgebied-ham-in-wetteren/ : zo te zien het hele gebied? , duur zo'n  twee jaar.</text>
+      <html>&lt;p&gt;&lt;a href="https://sigmaplan.be/nl/projecten/scheldemeander-gent-wetteren/projectnieuws/start-aanleg-gecontroleerd-overstromingsgebied-ham-in-wetteren/" rel="nofollow noopener noreferrer"&gt;https://sigmaplan.be/nl/projecten/scheldemeander-gent-wetteren/projectnieuws/start-aanleg-gecontroleerd-overstromingsgebied-ham-in-wetteren/&lt;/a&gt; : zo te zien het hele gebied? , duur zo'n  twee jaar.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

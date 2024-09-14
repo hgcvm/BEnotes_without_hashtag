@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.2420531" lat="50.5201120">
+  <id>4360517</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4360517</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4360517/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4360517/close</close_url>
+  <date_created>2024-07-31 17:04:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-31 17:04:30 UTC</date>
+      <uid>19908284</uid>
+      <user>Akya23</user>
+      <user_url>https://api.openstreetmap.org/user/Akya23</user_url>
+      <action>opened</action>
+      <text>J'ai ajouté l'escalier mais je ne sais pas comment représenter ça clairement : il va vers l'étage 0 du parking du Quadrilatère et non vers l'étage 1 visible de manière aérienne.</text>
+      <html>&lt;p&gt;J'ai ajouté l'escalier mais je ne sais pas comment représenter ça clairement : il va vers l'étage 0 du parking du Quadrilatère et non vers l'étage 1 visible de manière aérienne.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

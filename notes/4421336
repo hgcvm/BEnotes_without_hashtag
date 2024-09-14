@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5305497" lat="50.9809437">
+  <id>4421336</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4421336</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4421336/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4421336/close</close_url>
+  <date_created>2024-09-05 15:44:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-05 15:44:57 UTC</date>
+      <uid>29504</uid>
+      <user>Kurt Roeckx</user>
+      <user_url>https://api.openstreetmap.org/user/Kurt%20Roeckx</user_url>
+      <action>opened</action>
+      <text>The whole urban region is zone 30 (traffic sign start urban zone (F1, F1a, F1b) + maxspeed 30 (C43)). Only some of the roads are set with correct speed limit.</text>
+      <html>&lt;p&gt;The whole urban region is zone 30 (traffic sign start urban zone (F1, F1a, F1b) + maxspeed 30 (C43)). Only some of the roads are set with correct speed limit.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 16:52:56 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>you can easily actualise the speed zones with MapComplete &gt; https://mapcomplete.org/maxspeed.html?z=16.2&amp;lat=50.9832221171107&amp;lon=4.527916788160951</text>
+      <html>&lt;p&gt;you can easily actualise the speed zones with MapComplete &amp;gt; &lt;a href="https://mapcomplete.org/maxspeed.html?z=16.2&amp;amp;lat=50.9832221171107&amp;amp;lon=4.527916788160951" rel="nofollow noopener noreferrer"&gt;https://mapcomplete.org/maxspeed.html?z=16.2&amp;amp;lat=50.9832221171107&amp;amp;lon=4.527916788160951&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

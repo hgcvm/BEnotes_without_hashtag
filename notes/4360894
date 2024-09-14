@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4811693" lat="51.2172942">
+  <id>4360894</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4360894</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4360894/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4360894/close</close_url>
+  <date_created>2024-07-31 22:13:43 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-31 22:13:43 UTC</date>
+      <action>opened</action>
+      <text>GO! Freinetschool kleuter en lager onderwijs</text>
+      <html>&lt;p&gt;GO! Freinetschool kleuter en lager onderwijs&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

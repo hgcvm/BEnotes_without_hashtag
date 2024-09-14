@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4731200" lat="51.1941507">
+  <id>4357494</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4357494</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4357494/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4357494/close</close_url>
+  <date_created>2024-07-29 16:27:21 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-29 16:27:21 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>#maproulette : Fort iii straat 5 : Fort Uniek https://fortuniek.stedelijkonderwijs.be/ 
+</text>
+      <html>&lt;p&gt;#maproulette : Fort iii straat 5 : Fort Uniek &lt;a href="https://fortuniek.stedelijkonderwijs.be/" rel="nofollow noopener noreferrer"&gt;https://fortuniek.stedelijkonderwijs.be/&lt;/a&gt; 
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-31 21:22:57 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>bezocht 31 jul'24 : geen aanwijzing voor Het Winkeltje, prentjes morgen of zo.</text>
+      <html>&lt;p&gt;bezocht 31 jul'24 : geen aanwijzing voor Het Winkeltje, prentjes morgen of zo.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

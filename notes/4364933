@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.6834131" lat="49.9659959">
+  <id>4364933</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4364933</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4364933/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4364933/close</close_url>
+  <date_created>2024-08-03 11:59:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-03 11:59:55 UTC</date>
+      <action>opened</action>
+      <text>Cette portion est praticable pour tous les types de vélos, zone en tarmac, comme la suite (euroravel 5) </text>
+      <html>&lt;p&gt;Cette portion est praticable pour tous les types de vélos, zone en tarmac, comme la suite (euroravel 5) &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-03 12:51:50 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Quelle panneaux de signalisations se trouve débuts/fin de ce chemin/sentier ? un F99.. ? 
+https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/F_Direction_and_information_signs#F99aC3 avec ...
+https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/C_Prohibitory_signs#C3</text>
+      <html>&lt;p&gt;Quelle panneaux de signalisations se trouve débuts/fin de ce chemin/sentier ? un F99.. ? 
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/F_Direction_and_information_signs#F99aC3" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/F_Direction_and_information_signs#F99aC3&lt;/a&gt; avec ...
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/C_Prohibitory_signs#C3" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/C_Prohibitory_signs#C3&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

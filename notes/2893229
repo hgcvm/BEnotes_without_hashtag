@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1866493" lat="51.0388169">
+  <id>2893229</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2893229</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2893229/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2893229/close</close_url>
+  <date_created>2021-10-13 08:35:34 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-10-13 08:35:34 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Na bezoek : het overstromingsgebied hiernaast is veeleer 'slikken en schorren' ,  wordt tweemaal daags overstroomd doorheen aantal bressen in de groene strook langs de rivier; het track bij deze note is niet meer zichtbaar. </text>
+      <html>&lt;p&gt;Na bezoek : het overstromingsgebied hiernaast is veeleer 'slikken en schorren' ,  wordt tweemaal daags overstroomd doorheen aantal bressen in de groene strook langs de rivier; het track bij deze note is niet meer zichtbaar. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-13 08:46:46 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Mocht in deze (naast eerder gelinkt https://sigmaplan.be/nl/projecten/wal-zwijn/deelprojecten/grote-wal-kleine-wal-en-zwijn%20/) verwijzen naar https://sigmaplan.be/uploads/2020/03/pb-wal-zwijn-lr.pdf : pag 5/9 , dan lijkt middelste overstromingsgebied vooral ontluikende natte bebossing, een ander beeld dan de vaal-blauwe lijntjes die er nu staan? 
+Uiterst linker overstromingsgebied staat in geen van beide publicaties als overstroom, of 'zanddepot' daar eeuwig blijft? 
+Timing p.9/9 geeft aan dat voltooiing pas voor 2024 geschreven staat.
+</text>
+      <html>&lt;p&gt;Mocht in deze (naast eerder gelinkt &lt;a href="https://sigmaplan.be/nl/projecten/wal-zwijn/deelprojecten/grote-wal-kleine-wal-en-zwijn%20/" rel="nofollow noopener noreferrer"&gt;https://sigmaplan.be/nl/projecten/wal-zwijn/deelprojecten/grote-wal-kleine-wal-en-zwijn%20/&lt;/a&gt;) verwijzen naar &lt;a href="https://sigmaplan.be/uploads/2020/03/pb-wal-zwijn-lr.pdf" rel="nofollow noopener noreferrer"&gt;https://sigmaplan.be/uploads/2020/03/pb-wal-zwijn-lr.pdf&lt;/a&gt; : pag 5/9 , dan lijkt middelste overstromingsgebied vooral ontluikende natte bebossing, een ander beeld dan de vaal-blauwe lijntjes die er nu staan? 
+&lt;br /&gt;Uiterst linker overstromingsgebied staat in geen van beide publicaties als overstroom, of 'zanddepot' daar eeuwig blijft? 
+&lt;br /&gt;Timing p.9/9 geeft aan dat voltooiing pas voor 2024 geschreven staat.
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:45:10 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>diet er hier nog iets gemapt te worden?</text>
+      <html>&lt;p&gt;diet er hier nog iets gemapt te worden?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

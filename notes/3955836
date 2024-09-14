@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3968411" lat="51.0117528">
+  <id>3955836</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3955836</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3955836/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3955836/close</close_url>
+  <date_created>2023-10-24 11:13:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-24 11:14:00 UTC</date>
+      <uid>18524590</uid>
+      <user>driesverlinden</user>
+      <user_url>https://api.openstreetmap.org/user/driesverlinden</user_url>
+      <action>opened</action>
+      <text>bouw voorzien</text>
+      <html>&lt;p&gt;bouw voorzien&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

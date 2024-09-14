@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8091846" lat="50.1314492">
+  <id>4049461</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4049461</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4049461/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4049461/close</close_url>
+  <date_created>2024-01-01 21:53:52 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-01 21:53:53 UTC</date>
+      <uid>3136580</uid>
+      <user>Plav</user>
+      <user_url>https://api.openstreetmap.org/user/Plav</user_url>
+      <action>opened</action>
+      <text>From this point northwards the path was overflooded at 28 December 2023. Can someone confirm if this path does continue in normal conditions? Coming from the south-west, this path was difficult going, as very slippery and not good visable. </text>
+      <html>&lt;p&gt;From this point northwards the path was overflooded at 28 December 2023. Can someone confirm if this path does continue in normal conditions? Coming from the south-west, this path was difficult going, as very slippery and not good visable. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-02 09:53:16 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>adding this can explain why path is difficult in winter ;)
+https://wiki.openstreetmap.org/wiki/Key:seasonal</text>
+      <html>&lt;p&gt;adding this can explain why path is difficult in winter ;)
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Key:seasonal" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Key:seasonal&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

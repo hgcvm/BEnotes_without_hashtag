@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6165448" lat="50.6706324">
+  <id>3939487</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3939487</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3939487/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3939487/close</close_url>
+  <date_created>2023-10-14 09:30:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-14 09:30:54 UTC</date>
+      <uid>11121290</uid>
+      <user>Twijg</user>
+      <user_url>https://api.openstreetmap.org/user/Twijg</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Are these opening hours still correct?" for https://osm.org/way/614560762 via StreetComplete 54.0:
+
+La magasin n'est plus ici. Une nouveaux magasin "Maison 123" est en construction.</text>
+      <html>&lt;p&gt;Unable to answer "Are these opening hours still correct?" for &lt;a href="https://osm.org/way/614560762" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/614560762&lt;/a&gt; via StreetComplete 54.0:&lt;/p&gt;
+
+&lt;p&gt;La magasin n'est plus ici. Une nouveaux magasin "Maison 123" est en construction.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 10:52:06 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>La construction de ce magasin est-elle terminée ?</text>
+      <html>&lt;p&gt;La construction de ce magasin est-elle terminée&amp;nbsp;?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

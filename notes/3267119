@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4088508" lat="51.1877234">
+  <id>3267119</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3267119</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3267119/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3267119/close</close_url>
+  <date_created>2022-07-14 15:47:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-14 15:47:49 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What kind of building is this?" for https://osm.org/way/178202950 via StreetComplete 45.0:
+
+Voormalig koetshuis, nu kantoren, dus gebouwtype?</text>
+      <html>&lt;p&gt;Unable to answer "What kind of building is this?" for &lt;a href="https://osm.org/way/178202950" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/178202950&lt;/a&gt; via StreetComplete 45.0:&lt;/p&gt;
+
+&lt;p&gt;Voormalig koetshuis, nu kantoren, dus gebouwtype?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-15 11:16:58 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Tenzij wat gebruikelijk is veranderde : een gebouw dat qua aanzicht 'kerk' is, nu tapijtverkoop huisvest tagt men als building=church + shop=carpets - met eventueel nog wat tags er bij? </text>
+      <html>&lt;p&gt;Tenzij wat gebruikelijk is veranderde : een gebouw dat qua aanzicht 'kerk' is, nu tapijtverkoop huisvest tagt men als building=church + shop=carpets - met eventueel nog wat tags er bij? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-15 12:11:42 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Gebouw is en blijft eruit zien als kerk dan zou ik dat behouden. church is dan type gebouw. "place of warship" was de functie exploitatie en nu wordt shop=*
+Mijn benadering ...</text>
+      <html>&lt;p&gt;Gebouw is en blijft eruit zien als kerk dan zou ik dat behouden. church is dan type gebouw. "place of warship" was de functie exploitatie en nu wordt shop=*
+&lt;br /&gt;Mijn benadering ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-20 12:43:36 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Ik kan wel niets vinden op https://wiki.openstreetmap.org/wiki/Key:building dat overeenkomt met een “koetshuis”.</text>
+      <html>&lt;p&gt;Ik kan wel niets vinden op &lt;a href="https://wiki.openstreetmap.org/wiki/Key:building" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Key:building&lt;/a&gt; dat overeenkomt met een “koetshuis”.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

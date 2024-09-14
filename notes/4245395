@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3082553" lat="50.9108266">
+  <id>4245395</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4245395</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4245395/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4245395/close</close_url>
+  <date_created>2024-05-14 09:25:39 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-14 09:25:39 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>opened</action>
+      <text>alle eenrichtingsverkeer geldt volgende kaart hier ook voor fietsers. Dat lijkt erg onwaarschijnlijk.</text>
+      <html>&lt;p&gt;alle eenrichtingsverkeer geldt volgende kaart hier ook voor fietsers. Dat lijkt erg onwaarschijnlijk.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-16 15:42:06 UTC</date>
+      <uid>2644288</uid>
+      <user>bxl-forever</user>
+      <user_url>https://api.openstreetmap.org/user/bxl-forever</user_url>
+      <action>commented</action>
+      <text>Problem comes from this changeset: https://www.openstreetmap.org/changeset/147480706
+This is a person working for Gemeente Wemmel.
+But one of his first contributions (changeset_count=6), the user was probably unaware that oneway:bicycle=no is wanted.  I suggest leaving a changeset comment there.</text>
+      <html>&lt;p&gt;Problem comes from this changeset: &lt;a href="https://www.openstreetmap.org/changeset/147480706" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/147480706&lt;/a&gt;
+&lt;br /&gt;This is a person working for Gemeente Wemmel.
+&lt;br /&gt;But one of his first contributions (changeset_count=6), the user was probably unaware that oneway:bicycle=no is wanted.  I suggest leaving a changeset comment there.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-17 16:50:28 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>Dat is een goed idee. Is gebeurd. Maar ik laat de note nog even open als reminder.</text>
+      <html>&lt;p&gt;Dat is een goed idee. Is gebeurd. Maar ik laat de note nog even open als reminder.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-17 20:36:55 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>I have no knowledge on this area, but I noticed in some areas I surveyed that there's sometimes roads tagged with `oneway=yes` + `oneway:bicycle=no`, where in fact also `oneway:mofa=no` applies. This might be worth checking as well.</text>
+      <html>&lt;p&gt;I have no knowledge on this area, but I noticed in some areas I surveyed that there's sometimes roads tagged with `oneway=yes` + `oneway:bicycle=no`, where in fact also `oneway:mofa=no` applies. This might be worth checking as well.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-09 02:54:19 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>yes for this street exception for bicycle ; mofa and speed pedelec.
+
+https://www.mapillary.com/app/?pKey=770473065245450
+
+This part is defacto a oneway cycleway https://www.openstreetmap.org/way/29025634 : https://www.mapillary.com/app/?pKey=986861416215191
+
+The oneway part of dries stop on intersection of Berkenlaan https://www.mapillary.com/app/?pKey=1541599106422836</text>
+      <html>&lt;p&gt;yes for this street exception for bicycle ; mofa and speed pedelec.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=770473065245450" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=770473065245450&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This part is defacto a oneway cycleway &lt;a href="https://www.openstreetmap.org/way/29025634" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/29025634&lt;/a&gt; : &lt;a href="https://www.mapillary.com/app/?pKey=986861416215191" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=986861416215191&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The oneway part of dries stop on intersection of Berkenlaan &lt;a href="https://www.mapillary.com/app/?pKey=1541599106422836" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1541599106422836&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

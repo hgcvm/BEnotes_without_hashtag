@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5285290" lat="50.9921298">
+  <id>4383117</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4383117</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4383117/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4383117/close</close_url>
+  <date_created>2024-08-14 10:01:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-14 10:01:57 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Snelheidsbeperking tot 30 km/u vanaf eind augustus 2024</text>
+      <html>&lt;p&gt;Snelheidsbeperking tot 30 km/u vanaf eind augustus 2024&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 10:02:00 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>https://wegenenverkeer.be/werken/oversteekplaats-fietssnelweg-f8-leuven-mechelen-veiliger</text>
+      <html>&lt;p&gt;&lt;a href="https://wegenenverkeer.be/werken/oversteekplaats-fietssnelweg-f8-leuven-mechelen-veiliger" rel="nofollow noopener noreferrer"&gt;https://wegenenverkeer.be/werken/oversteekplaats-fietssnelweg-f8-leuven-mechelen-veiliger&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-21 16:38:11 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Vanaf hier tot waar precies?</text>
+      <html>&lt;p&gt;Vanaf hier tot waar precies?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

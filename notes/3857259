@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8286000" lat="50.9091000">
+  <id>3857259</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3857259</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3857259/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3857259/close</close_url>
+  <date_created>2023-08-27 20:30:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-27 20:30:13 UTC</date>
+      <action>opened</action>
+      <text>object  Oombergen (3395550) staat nu als subarea van én Zottegem, én Sint-Lievens-Houtem. Dat laatste is verkeerd.</text>
+      <html>&lt;p&gt;object  Oombergen (3395550) staat nu als subarea van én Zottegem, én Sint-Lievens-Houtem. Dat laatste is verkeerd.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-30 18:37:06 UTC</date>
+      <uid>551808</uid>
+      <user>QuercE</user>
+      <user_url>https://api.openstreetmap.org/user/QuercE</user_url>
+      <action>commented</action>
+      <text>Boundary relation (1184308) aangepast: 
+https://www.openstreetmap.org/changeset/140602855 
+
+Wat met  https://www.openstreetmap.org/relation/16244966 (deel Oombergen opgegaan in Sint-Lievens-Houtem): nog relevant te behouden?
+Vergelijk bvb: https://www.openstreetmap.org/relation/149829 en https://www.openstreetmap.org/relation/2714643</text>
+      <html>&lt;p&gt;Boundary relation (1184308) aangepast: 
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/changeset/140602855" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/140602855&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Wat met  &lt;a href="https://www.openstreetmap.org/relation/16244966" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/16244966&lt;/a&gt; (deel Oombergen opgegaan in Sint-Lievens-Houtem): nog relevant te behouden?
+&lt;br /&gt;Vergelijk bvb: &lt;a href="https://www.openstreetmap.org/relation/149829" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/149829&lt;/a&gt; en &lt;a href="https://www.openstreetmap.org/relation/2714643" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/2714643&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

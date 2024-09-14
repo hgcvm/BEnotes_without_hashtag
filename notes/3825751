@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.1289015" lat="50.7981319">
+  <id>3825751</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3825751</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3825751/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3825751/close</close_url>
+  <date_created>2023-08-10 08:29:21 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-10 08:29:21 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>opened</action>
+      <text>Afgesloten werken
+https://www.wegenenverkeer.be/werken/vernieuwen-rijweg-de-j-en-m-sabbestraat</text>
+      <html>&lt;p&gt;Afgesloten werken
+&lt;br /&gt;&lt;a href="https://www.wegenenverkeer.be/werken/vernieuwen-rijweg-de-j-en-m-sabbestraat" rel="nofollow noopener noreferrer"&gt;https://www.wegenenverkeer.be/werken/vernieuwen-rijweg-de-j-en-m-sabbestraat&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 18:46:31 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #FollowUp in 2025</text>
+      <html>&lt;p&gt;#OsmBE #FollowUp in 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

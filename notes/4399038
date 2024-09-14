@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8312486" lat="50.7199623">
+  <id>4399038</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4399038</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4399038/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4399038/close</close_url>
+  <date_created>2024-08-23 19:27:40 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-23 19:27:40 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>I have remapped the police station here as offices. It looks like the offices moved to https://www.openstreetmap.org/way/97441737/ and this building is just used as an office now.</text>
+      <html>&lt;p&gt;I have remapped the police station here as offices. It looks like the offices moved to &lt;a href="https://www.openstreetmap.org/way/97441737/" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/97441737/&lt;/a&gt; and this building is just used as an office now.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 10:43:09 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>What exactly needs to be mapped here still?</text>
+      <html>&lt;p&gt;What exactly needs to be mapped here still?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 07:13:07 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Sorry, my note is a little vague. The point is that the "downgrade" from police station to offices was only a deduction from what limited info I could find online. The building could have another use now, or maybe I'm just wrong. Feel free to close.</text>
+      <html>&lt;p&gt;Sorry, my note is a little vague. The point is that the "downgrade" from police station to offices was only a deduction from what limited info I could find online. The building could have another use now, or maybe I'm just wrong. Feel free to close.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

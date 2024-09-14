@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5121971" lat="51.2133694">
+  <id>3894795</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3894795</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3894795/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3894795/close</close_url>
+  <date_created>2023-09-18 07:32:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-18 07:32:08 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>Volgens een RouteYou gebruiker zou hier een mountainbikepad moeten liggen. Kan iemand dit controleren en, indien correct, intekenen?</text>
+      <html>&lt;p&gt;Volgens een RouteYou gebruiker zou hier een mountainbikepad moeten liggen. Kan iemand dit controleren en, indien correct, intekenen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-18 18:22:48 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

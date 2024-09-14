@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1497099" lat="51.1717490">
+  <id>3658156</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3658156</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3658156/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3658156/close</close_url>
+  <date_created>2023-04-24 12:12:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-24 12:12:19 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Hier komt binnenkort project 'Paterssite' van Wooncoop.
+
+Meer info: https://www.elisabethwijk.be/actueel/paterssite/
+
+https://www.wooncoop.be/projecten/paterssite/</text>
+      <html>&lt;p&gt;Hier komt binnenkort project 'Paterssite' van Wooncoop.&lt;/p&gt;
+
+&lt;p&gt;Meer info: &lt;a href="https://www.elisabethwijk.be/actueel/paterssite/" rel="nofollow noopener noreferrer"&gt;https://www.elisabethwijk.be/actueel/paterssite/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.wooncoop.be/projecten/paterssite/" rel="nofollow noopener noreferrer"&gt;https://www.wooncoop.be/projecten/paterssite/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5338533" lat="51.2419776">
+  <id>4294773</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4294773</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4294773/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4294773/close</close_url>
+  <date_created>2024-06-16 19:25:43 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-16 19:25:43 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>AED mapillary
+Sentrum
+Singelken Sint Laureins
+Voor als die in Oudeman klaar zal zijn.
+Dat kan nog lang duren.</text>
+      <html>&lt;p&gt;AED mapillary
+&lt;br /&gt;Sentrum
+&lt;br /&gt;Singelken Sint Laureins
+&lt;br /&gt;Voor als die in Oudeman klaar zal zijn.
+&lt;br /&gt;Dat kan nog lang duren.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

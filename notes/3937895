@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7942019" lat="51.2427634">
+  <id>3937895</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3937895</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3937895/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3937895/close</close_url>
+  <date_created>2023-10-13 08:03:04 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-13 08:03:04 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>volgens kaartje natuurpunt heet dit gebied 'Kindernouw'</text>
+      <html>&lt;p&gt;volgens kaartje natuurpunt heet dit gebied 'Kindernouw'&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-13 08:04:33 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.natuurpunt.be/natuurgebied/visbeekvallei-kindernouw : kennelijk twee afzonderlijke gebieden? </text>
+      <html>&lt;p&gt;&lt;a href="https://www.natuurpunt.be/natuurgebied/visbeekvallei-kindernouw" rel="nofollow noopener noreferrer"&gt;https://www.natuurpunt.be/natuurgebied/visbeekvallei-kindernouw&lt;/a&gt; : kennelijk twee afzonderlijke gebieden? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 14:55:19 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Tijdens 'pijltjes wandeling' opgemerkt dat dit gebied idd Kindernouw heet ; voornemen op dit gebied Visbeekvallei te veranderen in Kindernouw;  
+
+Andere vraag : waarom heet de beek doorheen 'Visbeekvallei' 'Bosbeek'? </text>
+      <html>&lt;p&gt;Tijdens 'pijltjes wandeling' opgemerkt dat dit gebied idd Kindernouw heet ; voornemen op dit gebied Visbeekvallei te veranderen in Kindernouw;  &lt;/p&gt;
+
+&lt;p&gt;Andere vraag : waarom heet de beek doorheen 'Visbeekvallei' 'Bosbeek'? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

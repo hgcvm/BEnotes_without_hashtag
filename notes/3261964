@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.8929968" lat="51.2108536">
+  <id>3261964</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3261964</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3261964/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3261964/close</close_url>
+  <date_created>2022-07-11 09:25:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-11 09:25:19 UTC</date>
+      <uid>15015689</uid>
+      <user>Toerisme Vlaanderen - Pin je punt</user>
+      <user_url>https://api.openstreetmap.org/user/Toerisme%20Vlaanderen%20-%20Pin%20je%20punt</user_url>
+      <action>opened</action>
+      <text>Hier staat mogelijks een zitbank. Ben je in de buurt, zou je dan willen nakijken of de bank bestaat?
+Bevindt zich in of nabij Prins Roselaan
+
+Oorspronkelijke data van Stad Oostende
+Meer informatie over deze import: https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Imports/Toerisme_Vlaanderen
+
+Voeg dit punt eenvoudig toe met MapComplete:
+https://mapcomplete.osm.be/toerisme_vlaanderen.html?z=18&amp;lat=51.2108535766602&amp;lon=2.8929967880249#import
+amenity=bench
+operator=Stad Oostende</text>
+      <html>&lt;p&gt;Hier staat mogelijks een zitbank. Ben je in de buurt, zou je dan willen nakijken of de bank bestaat?
+&lt;br /&gt;Bevindt zich in of nabij Prins Roselaan&lt;/p&gt;
+
+&lt;p&gt;Oorspronkelijke data van Stad Oostende
+&lt;br /&gt;Meer informatie over deze import: &lt;a href="https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Imports/Toerisme_Vlaanderen" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Imports/Toerisme_Vlaanderen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Voeg dit punt eenvoudig toe met MapComplete:
+&lt;br /&gt;&lt;a href="https://mapcomplete.osm.be/toerisme_vlaanderen.html?z=18&amp;amp;lat=51.2108535766602&amp;amp;lon=2.8929967880249#import" rel="nofollow noopener noreferrer"&gt;https://mapcomplete.osm.be/toerisme_vlaanderen.html?z=18&amp;amp;lat=51.2108535766602&amp;amp;lon=2.8929967880249#import&lt;/a&gt;
+&lt;br /&gt;amenity=bench
+&lt;br /&gt;operator=Stad Oostende&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-03 17:46:22 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>Zou het om dit platform gaan? https://www.mapillary.com/app/?pKey=463208074938033</text>
+      <html>&lt;p&gt;Zou het om dit platform gaan? &lt;a href="https://www.mapillary.com/app/?pKey=463208074938033" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=463208074938033&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6504000" lat="50.9616000">
+  <id>3640993</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3640993</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3640993/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3640993/close</close_url>
+  <date_created>2023-04-13 14:13:24 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-13 14:13:24 UTC</date>
+      <action>opened</action>
+      <text>Aan het begin van deze straat en aan de Ganzenbroek wordt niet aangegeven dat deze weg "voor plaatselijk verkeer" is. Hoe weten bestuurders dat dan? Ik heb het gevoel dat dat verkeersbord dat verkeer staat (niet weggehaald nu de betonblokken er staan), en dat alle verkeer de straat mag nemen en de N60 mag oprijden.</text>
+      <html>&lt;p&gt;Aan het begin van deze straat en aan de Ganzenbroek wordt niet aangegeven dat deze weg "voor plaatselijk verkeer" is. Hoe weten bestuurders dat dan? Ik heb het gevoel dat dat verkeersbord dat verkeer staat (niet weggehaald nu de betonblokken er staan), en dat alle verkeer de straat mag nemen en de N60 mag oprijden.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-21 08:21:24 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Niet erg duidelijk hier.
+Codering is vehicle=destination ?
+Dus enkel bestemmingsverkeer.
+Maar is er reeds een aanpassing gebeurt ?</text>
+      <html>&lt;p&gt;Niet erg duidelijk hier.
+&lt;br /&gt;Codering is vehicle=destination ?
+&lt;br /&gt;Dus enkel bestemmingsverkeer.
+&lt;br /&gt;Maar is er reeds een aanpassing gebeurt ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-19 21:45:37 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Meest recente Mapillarybeelden (2 juni 2023, dus recenter dan deze note) tonen het volgende: géén verkeersborden voor verkeer gaande naar de N60, verkeersborden komende vanaf de N60 (richting noord) naar de Koedreef: zoals op dit moment ingegeven in OSM (C3 met een uitzondering voor fietsers, bromfietsen klasse A en plaatselijk verkeer).
+
+Misschien kan het volgende een goede oplossing zijn: de tagging van de Koedreef terug open zetten voor alle verkeer (geen toegangsbeperkingen), en een relatie met `type=restriction` aanmaken ter hoogte van het kruispunt N60/Koedreef die het inrijden van de Koedreef verbiedt, behalve voor bepaalde vervoersmodi?
+
+Het alternatief is om de toegangsbeperkingen slechts in één richting te taggen.</text>
+      <html>&lt;p&gt;Meest recente Mapillarybeelden (2 juni 2023, dus recenter dan deze note) tonen het volgende: géén verkeersborden voor verkeer gaande naar de N60, verkeersborden komende vanaf de N60 (richting noord) naar de Koedreef: zoals op dit moment ingegeven in OSM (C3 met een uitzondering voor fietsers, bromfietsen klasse A en plaatselijk verkeer).&lt;/p&gt;
+
+&lt;p&gt;Misschien kan het volgende een goede oplossing zijn: de tagging van de Koedreef terug open zetten voor alle verkeer (geen toegangsbeperkingen), en een relatie met `type=restriction` aanmaken ter hoogte van het kruispunt N60/Koedreef die het inrijden van de Koedreef verbiedt, behalve voor bepaalde vervoersmodi?&lt;/p&gt;
+
+&lt;p&gt;Het alternatief is om de toegangsbeperkingen slechts in één richting te taggen.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6579913" lat="50.7462489">
+  <id>3033812</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3033812</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3033812/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3033812/close</close_url>
+  <date_created>2022-02-01 16:47:07 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-02-01 16:47:07 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>"Ten slotte zal de verbinding met Elzele via de vroegere spoorwegtunnel onder Rue Beaufaux hersteld worden."
+https://pers.oost-vlaanderen.be/traject-fietssnelweg-f421-ronse-rozenaken-officieel-ingefietst#</text>
+      <html>&lt;p&gt;"Ten slotte zal de verbinding met Elzele via de vroegere spoorwegtunnel onder Rue Beaufaux hersteld worden."
+&lt;br /&gt;&lt;a href="https://pers.oost-vlaanderen.be/traject-fietssnelweg-f421-ronse-rozenaken-officieel-ingefietst#" rel="nofollow noopener noreferrer"&gt;https://pers.oost-vlaanderen.be/traject-fietssnelweg-f421-ronse-rozenaken-officieel-ingefietst#&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-09 23:47:46 UTC</date>
+      <uid>11146954</uid>
+      <user>malte1030</user>
+      <user_url>https://api.openstreetmap.org/user/malte1030</user_url>
+      <action>commented</action>
+      <text>maar die tunnel is er nog niet.</text>
+      <html>&lt;p&gt;maar die tunnel is er nog niet.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-22 13:26:14 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Gegeven Note 4108642, lijkt dit in orde te zijn. Ik pas het aan</text>
+      <html>&lt;p&gt;Gegeven Note 4108642, lijkt dit in orde te zijn. Ik pas het aan&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-22 13:26:14 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>closed</action>
+      <text>Gegeven Note 4108642, lijkt dit in orde te zijn. Ik pas het aan</text>
+      <html>&lt;p&gt;Gegeven Note 4108642, lijkt dit in orde te zijn. Ik pas het aan&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-28 17:42:11 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-28 17:48:16 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>Wijzigingset https://www.openstreetmap.org/changeset/150377791 heeft alles terug op construction gezet. Misschien note open laten tot dat is uitgeklaard.</text>
+      <html>&lt;p&gt;Wijzigingset &lt;a href="https://www.openstreetmap.org/changeset/150377791" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/150377791&lt;/a&gt; heeft alles terug op construction gezet. Misschien note open laten tot dat is uitgeklaard.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-29 07:22:10 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Oh, excuses! Iets te veel vertrouwen gehad in die andere note dan.</text>
+      <html>&lt;p&gt;Oh, excuses! Iets te veel vertrouwen gehad in die andere note dan.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

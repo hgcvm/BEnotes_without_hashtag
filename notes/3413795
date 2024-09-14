@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7312210" lat="51.0693369">
+  <id>3413795</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3413795</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3413795/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3413795/close</close_url>
+  <date_created>2022-10-26 08:50:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-10-26 08:50:19 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Adressen Millinocketstraat te updaten?</text>
+      <html>&lt;p&gt;Adressen Millinocketstraat te updaten?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 11:43:37 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Grotendeels aangepast in changeset 156270771. De gebouwen op nummers 36-42 lijken meerdere gebouwen op luchtbeelden, maar zitten als één object in GRB. Enig idee hoe dat zit?</text>
+      <html>&lt;p&gt;Grotendeels aangepast in changeset 156270771. De gebouwen op nummers 36-42 lijken meerdere gebouwen op luchtbeelden, maar zitten als één object in GRB. Enig idee hoe dat zit?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

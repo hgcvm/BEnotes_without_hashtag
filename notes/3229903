@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1429454" lat="51.1584784">
+  <id>3229903</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3229903</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3229903/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3229903/close</close_url>
+  <date_created>2022-06-18 10:18:42 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-06-18 10:18:42 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Verkaveling
+
+ #MapComplete #notes</text>
+      <html>&lt;p&gt;Verkaveling&lt;/p&gt;
+
+&lt;p&gt; #MapComplete #notes&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-18 10:19:00 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/2wzWZgz.jpg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/2wzWZgz.jpg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/2wzWZgz.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-08 03:39:28 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>landuse=construction toegevoegd. Verder op te volgen.</text>
+      <html>&lt;p&gt;landuse=construction toegevoegd. Verder op te volgen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-11 08:51:23 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #FollowUp in 2025</text>
+      <html>&lt;p&gt;#OsmBE #FollowUp in 2025&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-11 09:30:39 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>dak, daarmee outline, reeds zichtbaar op DigiVla recent</text>
+      <html>&lt;p&gt;dak, daarmee outline, reeds zichtbaar op DigiVla recent&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

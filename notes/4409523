@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3434405" lat="50.4864156">
+  <id>4409523</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4409523</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4409523/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4409523/close</close_url>
+  <date_created>2024-08-29 18:53:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-29 18:53:08 UTC</date>
+      <uid>21900556</uid>
+      <user>Purplewolf10</user>
+      <user_url>https://api.openstreetmap.org/user/Purplewolf10</user_url>
+      <action>opened</action>
+      <text>piste cyclable en construction</text>
+      <html>&lt;p&gt;piste cyclable en construction&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

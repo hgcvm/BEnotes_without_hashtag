@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3422014" lat="50.8700285">
+  <id>4357573</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4357573</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4357573/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4357573/close</close_url>
+  <date_created>2024-07-29 17:38:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-29 17:38:46 UTC</date>
+      <uid>21714288</uid>
+      <user>oliviodare</user>
+      <user_url>https://api.openstreetmap.org/user/oliviodare</user_url>
+      <action>opened</action>
+      <text>AFAIK the place called Packfarm, not Farmhouse. https://parckfarm.be/fr/</text>
+      <html>&lt;p&gt;AFAIK the place called Packfarm, not Farmhouse. &lt;a href="https://parckfarm.be/fr/" rel="nofollow noopener noreferrer"&gt;https://parckfarm.be/fr/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-29 22:15:56 UTC</date>
+      <uid>2644288</uid>
+      <user>bxl-forever</user>
+      <user_url>https://api.openstreetmap.org/user/bxl-forever</user_url>
+      <action>commented</action>
+      <text>Good point.
+
+We should probably tag both, but as separate objects.  If I understand correctly, Parckfarm is the name of the association and how they brand most activities here, but they still call Farmhouse this "bar" in a former greenhouse, which they describe here: https://parckfarm.be/fr/farmhouse/
+
+This is another argument to split the building from the amenity, so some data cleanup will be needed here.  I leave it open for some time, and will do it later, unless another friendly mapper is faster.</text>
+      <html>&lt;p&gt;Good point.&lt;/p&gt;
+
+&lt;p&gt;We should probably tag both, but as separate objects.  If I understand correctly, Parckfarm is the name of the association and how they brand most activities here, but they still call Farmhouse this "bar" in a former greenhouse, which they describe here: &lt;a href="https://parckfarm.be/fr/farmhouse/" rel="nofollow noopener noreferrer"&gt;https://parckfarm.be/fr/farmhouse/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is another argument to split the building from the amenity, so some data cleanup will be needed here.  I leave it open for some time, and will do it later, unless another friendly mapper is faster.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

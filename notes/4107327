@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3931446" lat="51.2115496">
+  <id>4107327</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4107327</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4107327/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4107327/close</close_url>
+  <date_created>2024-02-10 16:45:03 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-10 16:45:03 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>Senzelle is over te nemen
+
+via StreetComplete 56.1
+
+Attached photo(s):
+https://westnordost.de/p/195827.jpg</text>
+      <html>&lt;p&gt;Senzelle is over te nemen&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 56.1&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/195827.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/195827.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-05 22:00:11 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Staat dit effectief al leeg? Indien ja, best taggen met `shop=vacant`.</text>
+      <html>&lt;p&gt;Staat dit effectief al leeg? Indien ja, best taggen met `shop=vacant`.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-07 20:40:28 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Onduidelijk foto https://www.mapillary.com/app/?pKey=237200269435450</text>
+      <html>&lt;p&gt;Onduidelijk foto &lt;a href="https://www.mapillary.com/app/?pKey=237200269435450" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=237200269435450&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-08 17:47:19 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Naar mijn mening ziet het er op Mapillary niet echt naar uit dat er daar een restaurant gevestigd is. Maar ik vind `shop=vacant` ook niet de beste tagging, aangezien het gebouw eruitziet als een woning en niet als een winkelpand. Misschien `was:amenity=restaurant`?</text>
+      <html>&lt;p&gt;Naar mijn mening ziet het er op Mapillary niet echt naar uit dat er daar een restaurant gevestigd is. Maar ik vind `shop=vacant` ook niet de beste tagging, aangezien het gebouw eruitziet als een woning en niet als een winkelpand. Misschien `was:amenity=restaurant`?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-09 07:56:39 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Google op Senzelle, dan ziet u dat het een restaurant is, Vlaamse kaai 10, met reviews op meerdere sites, u treft ook een link naar https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0656501641 , alwaar slinkende activa en over een reeks van jaren smalle marge / amper winst , niet verwonderlijk dat google in de rechter kolom 'Permanently closed' stelt . 
+
+Kijkend naar prentjes bij reviews betreft het de poort met ramen beide zijden : waarom zou daar geen resto gevestigd kunnen zijn? 
+
+Blijft dat resto geen shop is ... </text>
+      <html>&lt;p&gt;Google op Senzelle, dan ziet u dat het een restaurant is, Vlaamse kaai 10, met reviews op meerdere sites, u treft ook een link naar &lt;a href="https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0656501641" rel="nofollow noopener noreferrer"&gt;https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0656501641&lt;/a&gt; , alwaar slinkende activa en over een reeks van jaren smalle marge / amper winst , niet verwonderlijk dat google in de rechter kolom 'Permanently closed' stelt . &lt;/p&gt;
+
+&lt;p&gt;Kijkend naar prentjes bij reviews betreft het de poort met ramen beide zijden : waarom zou daar geen resto gevestigd kunnen zijn? &lt;/p&gt;
+
+&lt;p&gt;Blijft dat resto geen shop is ... &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

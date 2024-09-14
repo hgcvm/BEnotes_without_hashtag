@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2866287" lat="51.2098931">
+  <id>3042724</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3042724</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3042724/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3042724/close</close_url>
+  <date_created>2022-02-08 23:55:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-02-08 23:55:25 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Ergens nieuwe verkaveling;
+
+Advies: Deze verkaveling met één nieuwe straatnaam is reeds op de commissiebijeenkomst van 4 juli 2018 aan bod gekomen, maar omdat deze verkaveling nog niet was goedgekeurd, was het voorstel toen (Filips van de Elzasstraat) nog niet voorgelegd aan het College. Na zoveel jaar later vindt de commissie dat er reeds heel wat graven en hertogen een straatnaam hebben gekregen. Het voorstel is om nu te kiezen voor een gravin: Margaretha van Brabant (1323-1380). Zij was gravin van Vlaanderen, de echtgenote van Lodewijk van Male en moeder van Margareta van Vlaanderen. Echtgenoot en dochter hebben reeds een straatnaam in de nabijheid van deze verkaveling en op die manier krijgt nu ook de moeder een straatnaam.
+
+Straatnaambord: Margaretha van Brabantstraat Gravin van Vlaanderen (1323 – 1380).
+
+https://besluitvorming.brugge.be/zittingen/21.0930.2563.6375/agendapunten/21.1203.2267.9955</text>
+      <html>&lt;p&gt;Ergens nieuwe verkaveling;&lt;/p&gt;
+
+&lt;p&gt;Advies: Deze verkaveling met één nieuwe straatnaam is reeds op de commissiebijeenkomst van 4 juli 2018 aan bod gekomen, maar omdat deze verkaveling nog niet was goedgekeurd, was het voorstel toen (Filips van de Elzasstraat) nog niet voorgelegd aan het College. Na zoveel jaar later vindt de commissie dat er reeds heel wat graven en hertogen een straatnaam hebben gekregen. Het voorstel is om nu te kiezen voor een gravin: Margaretha van Brabant (1323-1380). Zij was gravin van Vlaanderen, de echtgenote van Lodewijk van Male en moeder van Margareta van Vlaanderen. Echtgenoot en dochter hebben reeds een straatnaam in de nabijheid van deze verkaveling en op die manier krijgt nu ook de moeder een straatnaam.&lt;/p&gt;
+
+&lt;p&gt;Straatnaambord: Margaretha van Brabantstraat Gravin van Vlaanderen (1323 – 1380).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://besluitvorming.brugge.be/zittingen/21.0930.2563.6375/agendapunten/21.1203.2267.9955" rel="nofollow noopener noreferrer"&gt;https://besluitvorming.brugge.be/zittingen/21.0930.2563.6375/agendapunten/21.1203.2267.9955&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-15 07:05:23 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>Voorlopig enkel plannen voor een nieuwe straatnaam? Of ook concrete plannen voor de verkaveling zelf? Indien het eerste, dan wellicht beter om deze note te sluiten.</text>
+      <html>&lt;p&gt;Voorlopig enkel plannen voor een nieuwe straatnaam? Of ook concrete plannen voor de verkaveling zelf? Indien het eerste, dan wellicht beter om deze note te sluiten.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

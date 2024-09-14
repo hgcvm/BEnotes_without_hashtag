@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4456223" lat="51.1710627">
+  <id>3991676</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3991676</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3991676/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3991676/close</close_url>
+  <date_created>2023-11-17 20:20:42 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-17 20:20:42 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Om langs te fietsen : dit stuk : https://www.mortsel.be/file/download/e18adb6a-b3ee-4a01-9e6b-167106aa6469/1FmLuRnbWhVm0VkTGws7xfoEzCFHFS0N29VgPWzXOJ03d : zo te zien vooral asverschuiving </text>
+      <html>&lt;p&gt;Om langs te fietsen : dit stuk : &lt;a href="https://www.mortsel.be/file/download/e18adb6a-b3ee-4a01-9e6b-167106aa6469/1FmLuRnbWhVm0VkTGws7xfoEzCFHFS0N29VgPWzXOJ03d" rel="nofollow noopener noreferrer"&gt;https://www.mortsel.be/file/download/e18adb6a-b3ee-4a01-9e6b-167106aa6469/1FmLuRnbWhVm0VkTGws7xfoEzCFHFS0N29VgPWzXOJ03d&lt;/a&gt; : zo te zien vooral asverschuiving &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

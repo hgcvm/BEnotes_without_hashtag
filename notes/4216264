@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8563161" lat="50.5900929">
+  <id>4216264</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4216264</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4216264/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4216264/close</close_url>
+  <date_created>2024-04-26 17:49:32 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-26 17:49:32 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>@Freddy Theis
+
+https://www.openstreetmap.org/way/1271171385#map=19/50.59001/5.85665&amp;layers=N
+
+Hier steht kein Haus, sondern seit vielen Jahren eine Bauruine, die langsam in sich zusammenfällt.
+
+Bild von heute 26. April 2024
+
+ https://up.picr.de/47498371mk.jpg
+
+Es-tu allé toi-même sur place ?
+
+https://up.picr.de/47498405ha.jpg
+---
+
+Il ne s'agit pas d'une maison, mais d'un bâtiment en ruine qui s'effondre lentement depuis de nombreuses années.
+
+Image d'aujourd'hui 26 avril 2024
+
+ https://up.picr.de/47498371mk.jpg
+
+Es-tu allé sur place ?
+
+https://up.picr.de/47498405ha.jpg
+</text>
+      <html>&lt;p&gt;@Freddy Theis&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/1271171385#map=19/50.59001/5.85665&amp;amp;layers=N" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1271171385#map=19/50.59001/5.85665&amp;amp;layers=N&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hier steht kein Haus, sondern seit vielen Jahren eine Bauruine, die langsam in sich zusammenfällt.&lt;/p&gt;
+
+&lt;p&gt;Bild von heute 26. April 2024&lt;/p&gt;
+
+&lt;p&gt; &lt;a href="https://up.picr.de/47498371mk.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/47498371mk.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es-tu allé toi-même sur place ?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/47498405ha.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/47498405ha.jpg&lt;/a&gt;
+&lt;br /&gt;---&lt;/p&gt;
+
+&lt;p&gt;Il ne s'agit pas d'une maison, mais d'un bâtiment en ruine qui s'effondre lentement depuis de nombreuses années.&lt;/p&gt;
+
+&lt;p&gt;Image d'aujourd'hui 26 avril 2024&lt;/p&gt;
+
+&lt;p&gt; &lt;a href="https://up.picr.de/47498371mk.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/47498371mk.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es-tu allé sur place ?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/47498405ha.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/47498405ha.jpg&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-26 18:01:05 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>29. Mai 2021:
+
+ https://up.picr.de/47498557jp.jpg</text>
+      <html>&lt;p&gt;29. Mai 2021:&lt;/p&gt;
+
+&lt;p&gt; &lt;a href="https://up.picr.de/47498557jp.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/47498557jp.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-27 06:23:44 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Bonjour
+
+Diese kaputte Ruine hat keine Hausnummer.
+
+https://www.google.com/maps/place/Schwarzer+Adler+Burger/@50.5902006,5.8566877,3a,75y,258.55h,100.03t/data=!3m6!1e1!3m4!1sZgb0MT1DaH4kQC_h0pbrKw!2e0!7i16384!8i8192!4m6!3m5!1s0x47c08bf99c176eb5:0x3003286a3be5302e!8m2!3d50.5902483!4d5.8566754!16s%2Fg%2F11s59818ht?authuser=0&amp;entry=ttu
+
+Das wird auch bald wieder abgerissen.
+
+Ich ändre das später in building=ruins und in disused:building=yes
+Bonjour
+
+Cette ruine cassée n’a pas de numéro de rue.
+
+https://www.google.com/maps/place/Schwarzer+Adler+Burger/@50.5902006,5.8566877,3a,75y,258.55h,100.03t/data=!3m6!1e1!3m4!1sZgb0MT1DaH4kQC_h0pbrKw!2 e0!7i16384!8i8192!4m6!3m5!1s0x47c08bf99c176eb5:0x3003286a3be5302e!8m2!3d50.5902483!4d5.8566754!16s%2Fg%2F11s59818ht?authuser=0&amp;entry=ttu
+
+Ça aussi, ça va bientôt être démoli.
+
+Je le changerai plus tard en building=ruins et en disused:building=yes
+
+https://wiki.openstreetmap.org/wiki/FR:Key:ruins
+
+Salutations	Peer</text>
+      <html>&lt;p&gt;Bonjour&lt;/p&gt;
+
+&lt;p&gt;Diese kaputte Ruine hat keine Hausnummer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.google.com/maps/place/Schwarzer+Adler+Burger/@50.5902006,5.8566877,3a,75y,258.55h,100.03t/data=!3m6!1e1!3m4!1sZgb0MT1DaH4kQC_h0pbrKw!2e0!7i16384!8i8192!4m6!3m5!1s0x47c08bf99c176eb5:0x3003286a3be5302e!8m2!3d50.5902483!4d5.8566754!16s%2Fg%2F11s59818ht?authuser=0&amp;amp;entry=ttu" rel="nofollow noopener noreferrer"&gt;https://www.google.com/maps/place/Schwarzer+Adler+Burger/@50.5902006,5.8566877,3a,75y,258.55h,100.03t/data=!3m6!1e1!3m4!1sZgb0MT1DaH4kQC_h0pbrKw!2e0!7i16384!8i8192!4m6!3m5!1s0x47c08bf99c176eb5:0x3003286a3be5302e!8m2!3d50.5902483!4d5.8566754!16s%2Fg%2F11s59818ht?authuser=0&amp;amp;entry=ttu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Das wird auch bald wieder abgerissen.&lt;/p&gt;
+
+&lt;p&gt;Ich ändre das später in building=ruins und in disused:building=yes
+&lt;br /&gt;Bonjour&lt;/p&gt;
+
+&lt;p&gt;Cette ruine cassée n’a pas de numéro de rue.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.google.com/maps/place/Schwarzer+Adler+Burger/@50.5902006,5.8566877,3a,75y,258.55h,100.03t/data=!3m6!1e1!3m4!1sZgb0MT1DaH4kQC_h0pbrKw!2" rel="nofollow noopener noreferrer"&gt;https://www.google.com/maps/place/Schwarzer+Adler+Burger/@50.5902006,5.8566877,3a,75y,258.55h,100.03t/data=!3m6!1e1!3m4!1sZgb0MT1DaH4kQC_h0pbrKw!2&lt;/a&gt; e0!7i16384!8i8192!4m6!3m5!1s0x47c08bf99c176eb5:0x3003286a3be5302e!8m2!3d50.5902483!4d5.8566754!16s%2Fg%2F11s59818ht?authuser=0&amp;amp;entry=ttu&lt;/p&gt;
+
+&lt;p&gt;Ça aussi, ça va bientôt être démoli.&lt;/p&gt;
+
+&lt;p&gt;Je le changerai plus tard en building=ruins et en disused:building=yes&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/FR:Key:ruins" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/FR:Key:ruins&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Salutations	Peer&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-26 13:45:14 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://up.picr.de/48440003lf.jpg</text>
+      <html>&lt;p&gt;&lt;a href="https://up.picr.de/48440003lf.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48440003lf.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

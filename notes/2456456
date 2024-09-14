@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4008505" lat="51.2115615">
+  <id>2456456</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2456456</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2456456/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2456456/close</close_url>
+  <date_created>2020-12-08 17:39:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-12-08 17:39:56 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Om op te volgen en tzt in te tekenen : 
+
+Vanaf 'Vlaamsekaai (eigenlijk Kloosterstraat) tot aan Amerika- / Britselei worden Kronenburg- en Kasteelpleinstraat heraangelegd ; hoofdpagina met onderaan links naar de definitive ontwerpen 1 - 4 is https://www.antwerpen.be/info/5ad89f0fa6779339185cee93/heraanleg-kronenburgstraat-kasteelpleinstraat. </text>
+      <html>&lt;p&gt;Om op te volgen en tzt in te tekenen : &lt;/p&gt;
+
+&lt;p&gt;Vanaf 'Vlaamsekaai (eigenlijk Kloosterstraat) tot aan Amerika- / Britselei worden Kronenburg- en Kasteelpleinstraat heraangelegd ; hoofdpagina met onderaan links naar de definitive ontwerpen 1 - 4 is &lt;a href="https://www.antwerpen.be/info/5ad89f0fa6779339185cee93/heraanleg-kronenburgstraat-kasteelpleinstraat" rel="nofollow noopener noreferrer"&gt;https://www.antwerpen.be/info/5ad89f0fa6779339185cee93/heraanleg-kronenburgstraat-kasteelpleinstraat&lt;/a&gt;. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-01-13 16:23:58 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Kronenburgstraat vanaf Volks- / Nationalestraat tot Vrijheidsstraat (incl. aansluiting Begijnenstraat) in grote lijnen gedaan en her-berijdbaar. . 
+
+Detail plannen voor de liefhebber via https://www.antwerpen.be/info/5ad89f0fa6779339185cee93/heraanleg-kronenburgstraat-kasteelpleinstraat : 
+https://assets.antwerpen.be/srv/assets/api/download/359c2b69-ed6d-4481-846a-a1fda35c8ff9/20190312_BE0115000992_w_F2-2.pdf idd gedaan , bij https://assets.antwerpen.be/srv/assets/api/download/66c1656d-a57b-41f2-812b-8521d39edcc2/20190312_BE0115000992_w_F2-3.pdf is de aansluiting op de Verbondsstraat nog niet open. 
+
+Tijdsplanning op https://www.slimnaarantwerpen.be/nl/wegenwerken/kasteelpleinstraat-kronenburgstraat-heraanleg </text>
+      <html>&lt;p&gt;Kronenburgstraat vanaf Volks- / Nationalestraat tot Vrijheidsstraat (incl. aansluiting Begijnenstraat) in grote lijnen gedaan en her-berijdbaar. . &lt;/p&gt;
+
+&lt;p&gt;Detail plannen voor de liefhebber via &lt;a href="https://www.antwerpen.be/info/5ad89f0fa6779339185cee93/heraanleg-kronenburgstraat-kasteelpleinstraat" rel="nofollow noopener noreferrer"&gt;https://www.antwerpen.be/info/5ad89f0fa6779339185cee93/heraanleg-kronenburgstraat-kasteelpleinstraat&lt;/a&gt; : 
+&lt;br /&gt;&lt;a href="https://assets.antwerpen.be/srv/assets/api/download/359c2b69-ed6d-4481-846a-a1fda35c8ff9/20190312_BE0115000992_w_F2-2.pdf" rel="nofollow noopener noreferrer"&gt;https://assets.antwerpen.be/srv/assets/api/download/359c2b69-ed6d-4481-846a-a1fda35c8ff9/20190312_BE0115000992_w_F2-2.pdf&lt;/a&gt; idd gedaan , bij &lt;a href="https://assets.antwerpen.be/srv/assets/api/download/66c1656d-a57b-41f2-812b-8521d39edcc2/20190312_BE0115000992_w_F2-3.pdf" rel="nofollow noopener noreferrer"&gt;https://assets.antwerpen.be/srv/assets/api/download/66c1656d-a57b-41f2-812b-8521d39edcc2/20190312_BE0115000992_w_F2-3.pdf&lt;/a&gt; is de aansluiting op de Verbondsstraat nog niet open. &lt;/p&gt;
+
+&lt;p&gt;Tijdsplanning op &lt;a href="https://www.slimnaarantwerpen.be/nl/wegenwerken/kasteelpleinstraat-kronenburgstraat-heraanleg" rel="nofollow noopener noreferrer"&gt;https://www.slimnaarantwerpen.be/nl/wegenwerken/kasteelpleinstraat-kronenburgstraat-heraanleg&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 10:43:50 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>moet hier nog iets gemapt worden?</text>
+      <html>&lt;p&gt;moet hier nog iets gemapt worden?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

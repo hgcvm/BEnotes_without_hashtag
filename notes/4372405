@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2049812" lat="50.9208111">
+  <id>4372405</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4372405</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4372405/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4372405/close</close_url>
+  <date_created>2024-08-08 07:15:29 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-08 07:15:29 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>construction tunnel</text>
+      <html>&lt;p&gt;construction tunnel&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

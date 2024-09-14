@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6001700" lat="50.7464400">
+  <id>3629235</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3629235</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3629235/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3629235/close</close_url>
+  <date_created>2023-04-06 01:32:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-06 01:32:22 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>According to AIV Flandre GRB somewhere here the spring of "Ruisseau des Sept Bonniers de Bilande" (continue to the nord). Can show the flow on AIV Modèle d'altitude numérique Flandres II, Skyview facteur 0,25 m. 
+
+More info : https://sillonblog.wordpress.com/2017/02/05/ruisseau-des-sept-bonniers-de-bilande/
+
+</text>
+      <html>&lt;p&gt;According to AIV Flandre GRB somewhere here the spring of "Ruisseau des Sept Bonniers de Bilande" (continue to the nord). Can show the flow on AIV Modèle d'altitude numérique Flandres II, Skyview facteur 0,25 m. &lt;/p&gt;
+
+&lt;p&gt;More info : &lt;a href="https://sillonblog.wordpress.com/2017/02/05/ruisseau-des-sept-bonniers-de-bilande/" rel="nofollow noopener noreferrer"&gt;https://sillonblog.wordpress.com/2017/02/05/ruisseau-des-sept-bonniers-de-bilande/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-09 21:40:34 UTC</date>
+      <uid>12405210</uid>
+      <user>JLambert93</user>
+      <user_url>https://api.openstreetmap.org/user/JLambert93</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-09 22:27:40 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

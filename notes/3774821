@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2319237" lat="51.0995763">
+  <id>3774821</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3774821</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3774821/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3774821/close</close_url>
+  <date_created>2023-07-11 08:53:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-11 08:53:47 UTC</date>
+      <uid>16456565</uid>
+      <user>Pikachu4live</user>
+      <user_url>https://api.openstreetmap.org/user/Pikachu4live</user_url>
+      <action>opened</action>
+      <text>hier is een verbinding gemaakt tussen 2 gebouwen</text>
+      <html>&lt;p&gt;hier is een verbinding gemaakt tussen 2 gebouwen&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8814858" lat="49.6232964">
+  <id>4065302</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4065302</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4065302/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4065302/close</close_url>
+  <date_created>2024-01-13 13:22:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-13 13:22:13 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>opened</action>
+      <text>In context of "Surfaces" overlay for https://osm.org/way/442601617 via StreetComplete 56.0:
+
+Grass patch only, way around.
+
+Attached photo(s):
+https://westnordost.de/p/192642.jpg</text>
+      <html>&lt;p&gt;In context of "Surfaces" overlay for &lt;a href="https://osm.org/way/442601617" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/442601617&lt;/a&gt; via StreetComplete 56.0:&lt;/p&gt;
+
+&lt;p&gt;Grass patch only, way around.&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/192642.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/192642.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-13 17:05:05 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text>Removed it. Let people take the semi paved way around.</text>
+      <html>&lt;p&gt;Removed it. Let people take the semi paved way around.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 14:18:08 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 14:21:36 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>A board visible on your photo in the middle of your "grass patch only" that according you no one can pass over there to join the track on the other side. Where is the logic??? Does this mean government is putting boards on inaccessible grass patches???</text>
+      <html>&lt;p&gt;A board visible on your photo in the middle of your "grass patch only" that according you no one can pass over there to join the track on the other side. Where is the logic??? Does this mean government is putting boards on inaccessible grass patches???&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:54:38 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:56:15 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:40:13 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:42:41 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 10:31:45 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/relation/6325760 take the deleted track https://www.openstreetmap.org/way/442601617/history see : https://map.geoportail.lu/theme/tourisme?bgLayer=basemap_2015_global&amp;version=3&amp;zoom=19&amp;X=654822&amp;Y=6381291&amp;lang=fr&amp;rotation=0&amp;layers=176&amp;opacities=1&amp;time=
+
+I suggest to restore the way but to tag it as a footway ; surface= grass trail_visibility=no </text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/relation/6325760" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/6325760&lt;/a&gt; take the deleted track &lt;a href="https://www.openstreetmap.org/way/442601617/history" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/442601617/history&lt;/a&gt; see : &lt;a href="https://map.geoportail.lu/theme/tourisme?bgLayer=basemap_2015_global&amp;amp;version=3&amp;amp;zoom=19&amp;amp;X=654822&amp;amp;Y=6381291&amp;amp;lang=fr&amp;amp;rotation=0&amp;amp;layers=176&amp;amp;opacities=1&amp;amp;time=" rel="nofollow noopener noreferrer"&gt;https://map.geoportail.lu/theme/tourisme?bgLayer=basemap_2015_global&amp;amp;version=3&amp;amp;zoom=19&amp;amp;X=654822&amp;amp;Y=6381291&amp;amp;lang=fr&amp;amp;rotation=0&amp;amp;layers=176&amp;amp;opacities=1&amp;amp;time=&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I suggest to restore the way but to tag it as a footway ; surface= grass trail_visibility=no &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 11:44:22 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>commented</action>
+      <text>That sounds good. That way routing and trespassing over the grass, especially for bicycles, will be limited and the proper track next to it more favoured.</text>
+      <html>&lt;p&gt;That sounds good. That way routing and trespassing over the grass, especially for bicycles, will be limited and the proper track next to it more favoured.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-07 13:20:56 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>Hi Raphael,
+
+Thank you for your intervention, insightful observations and the resources, specially for reminding the hiking route!
+
+Yesterday on site, panomaric photo: https://drive.google.com/file/d/1gpjEvwsyQRs8e_vfuoVtBR9ld00FKJX2
+On the other side we can see 2 trails from a vehicle:
+https://drive.google.com/file/d/1U3X8Ch1MVh44yilQ6fmpQC1AJc3yi0Kx The original contributor added it as track and when I passed by years ago, it had clear trails from a vehicle, visible on 2018's aerial photos. I would guess that on rare occasions a vehicle passes here to directly reach the northern field instead of making the complicated manoeuvres around the building, no other entrance because of the river. In this case, I don't care if we add it as track or path as I guess this portion will be very rarely used by large vehicles to access the field, it seems at rest and there are wetland portions but it's not a dedicated footway, there is nothing stating so or forbidding any other kind of user. The anti-bicycle comment is irrelevant and even inappropriate. 
+
+@Kugelbaum AKA tomolobla, AKA ltwo, AKA grauwutayette, AKA eyasonu and other sock puppets... Well done for showing once again that you make subjective edits and comments, specially anti bicycles. Care to explain why you deleted the way and deviated the hiking route? 
+
+
+</text>
+      <html>&lt;p&gt;Hi Raphael,&lt;/p&gt;
+
+&lt;p&gt;Thank you for your intervention, insightful observations and the resources, specially for reminding the hiking route!&lt;/p&gt;
+
+&lt;p&gt;Yesterday on site, panomaric photo: &lt;a href="https://drive.google.com/file/d/1gpjEvwsyQRs8e_vfuoVtBR9ld00FKJX2" rel="nofollow noopener noreferrer"&gt;https://drive.google.com/file/d/1gpjEvwsyQRs8e_vfuoVtBR9ld00FKJX2&lt;/a&gt;
+&lt;br /&gt;On the other side we can see 2 trails from a vehicle:
+&lt;br /&gt;&lt;a href="https://drive.google.com/file/d/1U3X8Ch1MVh44yilQ6fmpQC1AJc3yi0Kx" rel="nofollow noopener noreferrer"&gt;https://drive.google.com/file/d/1U3X8Ch1MVh44yilQ6fmpQC1AJc3yi0Kx&lt;/a&gt; The original contributor added it as track and when I passed by years ago, it had clear trails from a vehicle, visible on 2018's aerial photos. I would guess that on rare occasions a vehicle passes here to directly reach the northern field instead of making the complicated manoeuvres around the building, no other entrance because of the river. In this case, I don't care if we add it as track or path as I guess this portion will be very rarely used by large vehicles to access the field, it seems at rest and there are wetland portions but it's not a dedicated footway, there is nothing stating so or forbidding any other kind of user. The anti-bicycle comment is irrelevant and even inappropriate. &lt;/p&gt;
+
+&lt;p&gt;@Kugelbaum AKA tomolobla, AKA ltwo, AKA grauwutayette, AKA eyasonu and other sock puppets... Well done for showing once again that you make subjective edits and comments, specially anti bicycles. Care to explain why you deleted the way and deviated the hiking route? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-12 08:48:12 UTC</date>
+      <uid>61942</uid>
+      <user>SomeoneElse</user>
+      <user_url>https://api.openstreetmap.org/user/SomeoneElse</user_url>
+      <action>commented</action>
+      <text>@SHARCRASH - you were previously blocked for ad-hominem comments like the one above - see https://www.openstreetmap.org/user_blocks/6519 .  It is perfectly possible to contribute to OSM without comments like this.  If you find yourself wanting to refer to another contributor by name, just don't.</text>
+      <html>&lt;p&gt;@SHARCRASH - you were previously blocked for ad-hominem comments like the one above - see &lt;a href="https://www.openstreetmap.org/user_blocks/6519" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/user_blocks/6519&lt;/a&gt; .  It is perfectly possible to contribute to OSM without comments like this.  If you find yourself wanting to refer to another contributor by name, just don't.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-13 21:10:41 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>@SomeoneElse, then address the problem at the source, not at the consequences. It's frustrating to see so many deleted or falsified elements misinforming map users and making the repairs. Several tens of examples backed up by third part sources or contributors confirmed the tampered data. Despite all these brought up since 2021, there's been no effort on the other side for self-improvement. In this situation, anyone dedicated to the project can easily loose his composure.</text>
+      <html>&lt;p&gt;@SomeoneElse, then address the problem at the source, not at the consequences. It's frustrating to see so many deleted or falsified elements misinforming map users and making the repairs. Several tens of examples backed up by third part sources or contributors confirmed the tampered data. Despite all these brought up since 2021, there's been no effort on the other side for self-improvement. In this situation, anyone dedicated to the project can easily loose his composure.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-13 21:15:37 UTC</date>
+      <uid>61942</uid>
+      <user>SomeoneElse</user>
+      <user_url>https://api.openstreetmap.org/user/SomeoneElse</user_url>
+      <action>commented</action>
+      <text>@Sharcrash, as an independent observer, that simply isn't my impression.
+You have been just as guilty of poor mapping as anyone else involved here (perhaps more so).</text>
+      <html>&lt;p&gt;@Sharcrash, as an independent observer, that simply isn't my impression.
+&lt;br /&gt;You have been just as guilty of poor mapping as anyone else involved here (perhaps more so).&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-13 21:43:54 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>The pot calling the kettle black! That's an ad hominem attack you just did there and demonstrates how your judgement is biased. 
+
+But its' OK, I'm always willing to correct myself, just bring the examples on a forum to see what's that about. I had already invited you on the thread i created, you didn't bring up any! The ones brought by Kugelbaum were unjustified as I explained here https://community.openstreetmap.org/t/3-years-issue-with-individual-making-subjective-deletions-created-8-accounts-etc/108368/16</text>
+      <html>&lt;p&gt;The pot calling the kettle black! That's an ad hominem attack you just did there and demonstrates how your judgement is biased. &lt;/p&gt;
+
+&lt;p&gt;But its' OK, I'm always willing to correct myself, just bring the examples on a forum to see what's that about. I had already invited you on the thread i created, you didn't bring up any! The ones brought by Kugelbaum were unjustified as I explained here &lt;a href="https://community.openstreetmap.org/t/3-years-issue-with-individual-making-subjective-deletions-created-8-accounts-etc/108368/16" rel="nofollow noopener noreferrer"&gt;https://community.openstreetmap.org/t/3-years-issue-with-individual-making-subjective-deletions-created-8-accounts-etc/108368/16&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

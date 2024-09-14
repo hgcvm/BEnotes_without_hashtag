@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4000450" lat="51.2226411">
+  <id>3629708</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3629708</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3629708/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3629708/close</close_url>
+  <date_created>2023-04-06 12:13:43 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-06 12:13:43 UTC</date>
+      <uid>16212</uid>
+      <user>nowhereman</user>
+      <user_url>https://api.openstreetmap.org/user/nowhereman</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What surface does this piece of road have?" for https://osm.org/way/569418973 via StreetComplete 51.1:
+
+Different
+
+Attached photo(s):
+https://westnordost.de/p/140477.jpg</text>
+      <html>&lt;p&gt;Unable to answer "What surface does this piece of road have?" for &lt;a href="https://osm.org/way/569418973" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/569418973&lt;/a&gt; via StreetComplete 51.1:&lt;/p&gt;
+
+&lt;p&gt;Different&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/140477.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/140477.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-06 15:42:11 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>That's a /very/ concise way to indicate that some ways have concrete paving blocks ca. 10×20cm, and a curving stretch of cast concrete, then there are trees, benches, planting areas and some grass. It is , in other words, quite a nice modern courtyard</text>
+      <html>&lt;p&gt;That's a /very/ concise way to indicate that some ways have concrete paving blocks ca. 10×20cm, and a curving stretch of cast concrete, then there are trees, benches, planting areas and some grass. It is , in other words, quite a nice modern courtyard&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

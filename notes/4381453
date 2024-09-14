@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.7726200" lat="50.8535800">
+  <id>4381453</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4381453</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4381453/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4381453/close</close_url>
+  <date_created>2024-08-13 10:10:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-13 10:10:55 UTC</date>
+      <action>opened</action>
+      <text>vanaf hier tot aan de Kriekstraat (zuiden) heeft deze straat een dubbele naam: Lindegoedstraat kant Poperinge en Paupersstraat kant Ieper.
+Bron: aan deze note staat een straatbordje Lindegoedstraat, en verder de adressen op Geopunt.</text>
+      <html>&lt;p&gt;vanaf hier tot aan de Kriekstraat (zuiden) heeft deze straat een dubbele naam: Lindegoedstraat kant Poperinge en Paupersstraat kant Ieper.
+&lt;br /&gt;Bron: aan deze note staat een straatbordje Lindegoedstraat, en verder de adressen op Geopunt.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

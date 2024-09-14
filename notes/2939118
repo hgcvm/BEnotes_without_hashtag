@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4725600" lat="51.2006700">
+  <id>2939118</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2939118</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2939118/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2939118/close</close_url>
+  <date_created>2021-11-17 19:39:50 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-11-17 19:39:50 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>Hier staat een [begin woonstraat](https://www.mapillary.com/app/?lat=51.200647799972&amp;lng=4.4726147999722&amp;z=17&amp;trafficSign=all&amp;pKey=162825672438815&amp;focus=photo) bord, maar dat lijkt te conflicteren met de einde woonstraat borden bij het eerste kruispunt west van hier</text>
+      <html>&lt;p&gt;Hier staat een [begin woonstraat](&lt;a href="https://www.mapillary.com/app/?lat=51.200647799972&amp;amp;lng=4.4726147999722&amp;amp;z=17&amp;amp;trafficSign=all&amp;amp;pKey=162825672438815&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.200647799972&amp;amp;lng=4.4726147999722&amp;amp;z=17&amp;amp;trafficSign=all&amp;amp;pKey=162825672438815&amp;amp;focus=photo&lt;/a&gt;) bord, maar dat lijkt te conflicteren met de einde woonstraat borden bij het eerste kruispunt west van hier&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-11-18 10:15:46 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Werfgebieden, daar komt 't wel eens voor dat borden nog niet allemaal op punt staan.</text>
+      <html>&lt;p&gt;Werfgebieden, daar komt 't wel eens voor dat borden nog niet allemaal op punt staan.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-01-09 23:21:37 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Befietst, geen prentjes, helm video toont vanaf Eksterlaar geen borjes woonerf op Constant Joris en eerste deel = tweerichting ; 'laatste deel' Const Joris = eenrichting naar Manebrugge except fiets + spe/ped ; geen bord eenrichting opgemerkt doch versmalling bij #14 maakt aannemelijk vanaf daar ; Hof Nieles idd eenricht + wooerf fiets + spe/ped tegenrichting ; Hugo en Freddy idd woonerf ; bord woonerf hangt echter niet meer aan de lampsteun op https://www.mapillary.com/app/?pKey=338366757623704 : 
+
+Nog vragen? Ik heb er één "Wie weet -liefst freeware- om video gezichten en nummerplaten te blurren?" (hoewel : mijn helm videos mij in de thuis bioscoop zowat zeeziek maken)</text>
+      <html>&lt;p&gt;Befietst, geen prentjes, helm video toont vanaf Eksterlaar geen borjes woonerf op Constant Joris en eerste deel = tweerichting ; 'laatste deel' Const Joris = eenrichting naar Manebrugge except fiets + spe/ped ; geen bord eenrichting opgemerkt doch versmalling bij #14 maakt aannemelijk vanaf daar ; Hof Nieles idd eenricht + wooerf fiets + spe/ped tegenrichting ; Hugo en Freddy idd woonerf ; bord woonerf hangt echter niet meer aan de lampsteun op &lt;a href="https://www.mapillary.com/app/?pKey=338366757623704" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=338366757623704&lt;/a&gt; : &lt;/p&gt;
+
+&lt;p&gt;Nog vragen? Ik heb er één "Wie weet -liefst freeware- om video gezichten en nummerplaten te blurren?" (hoewel : mijn helm videos mij in de thuis bioscoop zowat zeeziek maken)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-01-10 10:19:34 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Aangepast als volgt : Const Joris woonerf verwijderd, en laatste stukje eenrichting behalve fiets &amp; speped ; Hugo &amp; Freddy wel woonerf.
+
+Laat note open gezien aanvang eenrichting nog te vinden, plus gevolgen ingebruikname bouwkavels? </text>
+      <html>&lt;p&gt;Aangepast als volgt : Const Joris woonerf verwijderd, en laatste stukje eenrichting behalve fiets &amp;amp; speped ; Hugo &amp;amp; Freddy wel woonerf.&lt;/p&gt;
+
+&lt;p&gt;Laat note open gezien aanvang eenrichting nog te vinden, plus gevolgen ingebruikname bouwkavels? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-11 12:02:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Als 't plannetjes klopt met de foto gaat hier nog altijd een andere inrichting komen, zie https://www.antwerpen.be/nl/overzicht/district-deurne-1/openbare-werken-en-mobiliteit/heraanleg-eksterlaar : niert zo evident waar de vertraging uit voortkomt</text>
+      <html>&lt;p&gt;Als 't plannetjes klopt met de foto gaat hier nog altijd een andere inrichting komen, zie &lt;a href="https://www.antwerpen.be/nl/overzicht/district-deurne-1/openbare-werken-en-mobiliteit/heraanleg-eksterlaar" rel="nofollow noopener noreferrer"&gt;https://www.antwerpen.be/nl/overzicht/district-deurne-1/openbare-werken-en-mobiliteit/heraanleg-eksterlaar&lt;/a&gt; : niert zo evident waar de vertraging uit voortkomt&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

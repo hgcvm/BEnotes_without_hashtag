@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7031356" lat="51.0657282">
+  <id>4406620</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4406620</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4406620/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4406620/close</close_url>
+  <date_created>2024-08-28 08:14:38 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-28 08:14:38 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Dit project is bijna af, en heeft een aantal toegankelijke paden achter de gebouwen. Toe te voegen wanneer GRB-data in de tool zit + luchtfoto's er zijn</text>
+      <html>&lt;p&gt;Dit project is bijna af, en heeft een aantal toegankelijke paden achter de gebouwen. Toe te voegen wanneer GRB-data in de tool zit + luchtfoto's er zijn&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

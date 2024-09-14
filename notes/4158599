@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3841752" lat="51.0934173">
+  <id>4158599</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4158599</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4158599/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4158599/close</close_url>
+  <date_created>2024-03-18 16:48:45 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-18 16:48:45 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>opened</action>
+      <text>Hier wordt een skate-ramp gebouwd in beton.  Precieze locatie te bepalen.</text>
+      <html>&lt;p&gt;Hier wordt een skate-ramp gebouwd in beton.  Precieze locatie te bepalen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-04 19:51:21 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://www.facebook.com/photo?fbid=2739840656116048&amp;set=pcb.2739851072781673</text>
+      <html>&lt;p&gt;&lt;a href="https://www.facebook.com/photo?fbid=2739840656116048&amp;amp;set=pcb.2739851072781673" rel="nofollow noopener noreferrer"&gt;https://www.facebook.com/photo?fbid=2739840656116048&amp;amp;set=pcb.2739851072781673&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-08 18:13:19 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Het gaat voor alle duidelijkheid over een nieuwe permanente skateplek in beton, niet zoals op de facebook foto.  Er werden ook verschillende beplantingen en bomen bijgezet.  </text>
+      <html>&lt;p&gt;Het gaat voor alle duidelijkheid over een nieuwe permanente skateplek in beton, niet zoals op de facebook foto.  Er werden ook verschillende beplantingen en bomen bijgezet.  &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-04 08:41:52 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Opening 'skatebowl' op 10 mei: https://www.deschorre.be/evenementenkalender.masterdetail.html/p_detail_url/nl/dvt/de-schorre/kalender/opening-skatebowl-.period_1.html</text>
+      <html>&lt;p&gt;Opening 'skatebowl' op 10 mei: &lt;a href="https://www.deschorre.be/evenementenkalender.masterdetail.html/p_detail_url/nl/dvt/de-schorre/kalender/opening-skatebowl-.period_1.html" rel="nofollow noopener noreferrer"&gt;https://www.deschorre.be/evenementenkalender.masterdetail.html/p_detail_url/nl/dvt/de-schorre/kalender/opening-skatebowl-.period_1.html&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 04:33:24 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>commented</action>
+      <text>Wat niet wil zeggen dat ze nu al niet gebruikt wordt.</text>
+      <html>&lt;p&gt;Wat niet wil zeggen dat ze nu al niet gebruikt wordt.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 05:20:52 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Het is bereikbaar en bruikbaar.  Ik heb foto's genomen, maar ben niet zeker hoe ik deze moet mappen...</text>
+      <html>&lt;p&gt;Het is bereikbaar en bruikbaar.  Ik heb foto's genomen, maar ben niet zeker hoe ik deze moet mappen...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-07 05:42:17 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Intussen iets proberen toevoegen via mapilary, maar geen idee hoe correct te mappen.</text>
+      <html>&lt;p&gt;Intussen iets proberen toevoegen via mapilary, maar geen idee hoe correct te mappen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-07 05:46:05 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>commented</action>
+      <text>Volgens
+https://wiki.openstreetmap.org/wiki/Tag:sport%3Dskateboard
+
+is het leisure=pitch
++ sport=skateboard
+
+Je kan het nu doen met een node, als er luchtbeelden zijn, kan het omgezet worden naar een gebied (area).
+
+</text>
+      <html>&lt;p&gt;Volgens
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:sport%3Dskateboard" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:sport%3Dskateboard&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;is het leisure=pitch
+&lt;br /&gt;+ sport=skateboard&lt;/p&gt;
+
+&lt;p&gt;Je kan het nu doen met een node, als er luchtbeelden zijn, kan het omgezet worden naar een gebied (area).&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-18 17:59:12 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Nog verder te vervolledigen na het beschikbaar komen van luchtfoto's.  Ook betonnen 'voetgangerspleinen' moeten nog worden bijgetekend.</text>
+      <html>&lt;p&gt;Nog verder te vervolledigen na het beschikbaar komen van luchtfoto's.  Ook betonnen 'voetgangerspleinen' moeten nog worden bijgetekend.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

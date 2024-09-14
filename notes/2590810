@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5252881" lat="50.5369808">
+  <id>2590810</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2590810</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2590810/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2590810/close</close_url>
+  <date_created>2021-03-23 12:26:44 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-03-23 12:26:44 UTC</date>
+      <uid>7207260</uid>
+      <user>Bancki</user>
+      <user_url>https://api.openstreetmap.org/user/Bancki</user_url>
+      <action>opened</action>
+      <text>Est-ce qu'on écrit Audemez sans T ou Audemetz avec T ?</text>
+      <html>&lt;p&gt;Est-ce qu'on écrit Audemez sans T ou Audemetz avec T ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-23 13:33:15 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Ici site http://www.peruwelz.be/ donne les deux j'ai envoyé mail...</text>
+      <html>&lt;p&gt;Ici site &lt;a href="http://www.peruwelz.be/" rel="nofollow noopener noreferrer"&gt;http://www.peruwelz.be/&lt;/a&gt; donne les deux j'ai envoyé mail...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-03 09:41:24 UTC</date>
+      <uid>7580315</uid>
+      <user>Antoine - Wapi</user>
+      <user_url>https://api.openstreetmap.org/user/Antoine%20-%20Wapi</user_url>
+      <action>closed</action>
+      <text>Écrit très majoritairement avec un T</text>
+      <html>&lt;p&gt;Écrit très majoritairement avec un T&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-06 06:19:36 UTC</date>
+      <uid>7207260</uid>
+      <user>Bancki</user>
+      <user_url>https://api.openstreetmap.org/user/Bancki</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-06 06:23:10 UTC</date>
+      <uid>7207260</uid>
+      <user>Bancki</user>
+      <user_url>https://api.openstreetmap.org/user/Bancki</user_url>
+      <action>commented</action>
+      <text>Sur les cartes IGN sans T et le nom officiel de la commune avant les fusions était "Wasmes-Audemez-Briffoeil" sans T</text>
+      <html>&lt;p&gt;Sur les cartes IGN sans T et le nom officiel de la commune avant les fusions était "Wasmes-Audemez-Briffoeil" sans T&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-12 14:08:26 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>réponse de la commune:
+"Selon moi, historiquement, il y a bien un T à Audemetz."</text>
+      <html>&lt;p&gt;réponse de la commune:
+&lt;br /&gt;"Selon moi, historiquement, il y a bien un T à Audemetz."&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-16 06:29:02 UTC</date>
+      <uid>7207260</uid>
+      <user>Bancki</user>
+      <user_url>https://api.openstreetmap.org/user/Bancki</user_url>
+      <action>commented</action>
+      <text>Historiquement avec un T je ne le doute pas, mais plus aujourd'hui. (Comme on écrivait historiquement Tournay et Charleroy et ...)</text>
+      <html>&lt;p&gt;Historiquement avec un T je ne le doute pas, mais plus aujourd'hui. (Comme on écrivait historiquement Tournay et Charleroy et ...)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-16 06:50:04 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Je pense il faut aller vérifier la rue sur place....et ajouter note survey:date=*
+et "hamlet" écrire même façon ....
+Je jette l'éponge ....
+</text>
+      <html>&lt;p&gt;Je pense il faut aller vérifier la rue sur place....et ajouter note survey:date=*
+&lt;br /&gt;et "hamlet" écrire même façon ....
+&lt;br /&gt;Je jette l'éponge ....
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-05-18 14:59:51 UTC</date>
+      <uid>635080</uid>
+      <user>bibi6</user>
+      <user_url>https://api.openstreetmap.org/user/bibi6</user_url>
+      <action>commented</action>
+      <text>Si j'ai bonne mémoire: le nom du "village" est Audemez, mais il s'agit bien de la rue d'Audemetz. Faudra que je me rappelle de noter lorsque je passerai par là, normalement en juillet... ;)</text>
+      <html>&lt;p&gt;Si j'ai bonne mémoire: le nom du "village" est Audemez, mais il s'agit bien de la rue d'Audemetz. Faudra que je me rappelle de noter lorsque je passerai par là, normalement en juillet... ;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:05:03 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>@bibi6: vous êtes entre-temps passé sur place pour vérifier?</text>
+      <html>&lt;p&gt;@bibi6: vous êtes entre-temps passé sur place pour vérifier?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 10:28:08 UTC</date>
+      <uid>635080</uid>
+      <user>bibi6</user>
+      <user_url>https://api.openstreetmap.org/user/bibi6</user_url>
+      <action>commented</action>
+      <text>Pour le nom de rue, je confirme: avec un T. Pour le "village", sans T, c'est à peu près sûr - mais la plupart des panneaux affichent "Wasmes-A-B"...
+Je pense qu'on peut effectuer la modif sans problème majeur.</text>
+      <html>&lt;p&gt;Pour le nom de rue, je confirme: avec un T. Pour le "village", sans T, c'est à peu près sûr - mais la plupart des panneaux affichent "Wasmes-A-B"...
+&lt;br /&gt;Je pense qu'on peut effectuer la modif sans problème majeur.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

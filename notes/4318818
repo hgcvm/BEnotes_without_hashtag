@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3793841" lat="50.6052167">
+  <id>4318818</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4318818</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4318818/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4318818/close</close_url>
+  <date_created>2024-07-04 11:54:07 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-04 11:54:07 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>This building has street Avenue des Frères Rimbaut according to the website of the cultural center, but that street does not seem to exist. Is it an old address or a new street?</text>
+      <html>&lt;p&gt;This building has street Avenue des Frères Rimbaut according to the website of the cultural center, but that street does not seem to exist. Is it an old address or a new street?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3665726" lat="51.1874670">
+  <id>4331908</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4331908</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4331908/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4331908/close</close_url>
+  <date_created>2024-07-13 18:01:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-13 18:01:10 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>opened</action>
+      <text>Hier ergens is (tijdelijke?) evenementenlocatie 'blikfabriek'.  Parking thv Lageweg, ingangen via Krugerstraat en Frieslandstraat.  Ik probeer nog info te vergaren.  Indeling is me heel onduidelijk.  Er lijkt ook een soort horecagelegenheid te zijn, eerder aan de kant van de inham aan de Krugerstraat. </text>
+      <html>&lt;p&gt;Hier ergens is (tijdelijke?) evenementenlocatie 'blikfabriek'.  Parking thv Lageweg, ingangen via Krugerstraat en Frieslandstraat.  Ik probeer nog info te vergaren.  Indeling is me heel onduidelijk.  Er lijkt ook een soort horecagelegenheid te zijn, eerder aan de kant van de inham aan de Krugerstraat. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-13 18:02:49 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>https://blikfabriek.be/
+https://marius.be/blikfabriek24/</text>
+      <html>&lt;p&gt;&lt;a href="https://blikfabriek.be/" rel="nofollow noopener noreferrer"&gt;https://blikfabriek.be/&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://marius.be/blikfabriek24/" rel="nofollow noopener noreferrer"&gt;https://marius.be/blikfabriek24/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-13 18:29:28 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Poging gedaan om een aantal onderdelen toe te voegen als punten, niet zeker hoe dit best gemapt wordt...</text>
+      <html>&lt;p&gt;Poging gedaan om een aantal onderdelen toe te voegen als punten, niet zeker hoe dit best gemapt wordt...&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

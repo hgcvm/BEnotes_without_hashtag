@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.9798074" lat="50.7430614">
+  <id>3290117</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3290117</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3290117/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3290117/close</close_url>
+  <date_created>2022-07-30 06:31:45 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-30 06:31:45 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Die alten Gebäude des "Home Franck" sind längst abgerissen und Neubauten stehen hier noch lange nicht. Das dauert noch eine ganze Weile.
+-
+https://www.openstreetmap.org/way/1044554236</text>
+      <html>&lt;p&gt;Die alten Gebäude des "Home Franck" sind längst abgerissen und Neubauten stehen hier noch lange nicht. Das dauert noch eine ganze Weile.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/1044554236" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1044554236&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-30 06:36:28 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Irgendwann soll es mal so aussehen.
+-
+https://www.conventsag.be/voelkerich-gemmenich/
+-
+https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg
+-
+Wie gesehen, haben gerade mal die ersten Bodenerschließungsarbeiten begonnen und einige Baugruben wurde ausgehoben. Ansonsten passiert hier nicht viel.</text>
+      <html>&lt;p&gt;Irgendwann soll es mal so aussehen.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.conventsag.be/voelkerich-gemmenich/" rel="nofollow noopener noreferrer"&gt;https://www.conventsag.be/voelkerich-gemmenich/&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg" rel="nofollow noopener noreferrer"&gt;https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;Wie gesehen, haben gerade mal die ersten Bodenerschließungsarbeiten begonnen und einige Baugruben wurde ausgehoben. Ansonsten passiert hier nicht viel.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-20 16:23:24 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Ein Gebäude wächst langsam in die Höhe. Es sind zwei Kräne am tun und machen.</text>
+      <html>&lt;p&gt;Ein Gebäude wächst langsam in die Höhe. Es sind zwei Kräne am tun und machen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-26 15:39:02 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Mittlerweile stehen zwei Gebäude im Rohbau und sind eingerüstet.
+-
+https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg</text>
+      <html>&lt;p&gt;Mittlerweile stehen zwei Gebäude im Rohbau und sind eingerüstet.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg" rel="nofollow noopener noreferrer"&gt;https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-17 20:25:14 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Nun stehen drei Gebäude im  Rohbau da. Sonst ist nicht viel passiert.</text>
+      <html>&lt;p&gt;Nun stehen drei Gebäude im  Rohbau da. Sonst ist nicht viel passiert.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-17 20:29:42 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>In Völkerich sollen 20 Wohnhäuser und 24 Appartements gebaut werden. Der Wohnkomplex entsteht direkt neben dem ehemaligen Franziskanerkloster.
+
+https://www.lavenir.net/regions/verviers/plombieres/2020/01/14/20-maisons-et-24-appartements-a-volkerich-W2NXCVC2OFB2JHLWOYMV7EIXTM/
+
+Bei dem Tempo ...???</text>
+      <html>&lt;p&gt;In Völkerich sollen 20 Wohnhäuser und 24 Appartements gebaut werden. Der Wohnkomplex entsteht direkt neben dem ehemaligen Franziskanerkloster.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.lavenir.net/regions/verviers/plombieres/2020/01/14/20-maisons-et-24-appartements-a-volkerich-W2NXCVC2OFB2JHLWOYMV7EIXTM/" rel="nofollow noopener noreferrer"&gt;https://www.lavenir.net/regions/verviers/plombieres/2020/01/14/20-maisons-et-24-appartements-a-volkerich-W2NXCVC2OFB2JHLWOYMV7EIXTM/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bei dem Tempo ...???&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-17 20:55:16 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>So soll das mal aussehen: https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg</text>
+      <html>&lt;p&gt;So soll das mal aussehen: &lt;a href="https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg" rel="nofollow noopener noreferrer"&gt;https://conventsag.be/wp-content/uploads/2019/05/voelkerich-plan-neu-1024x576.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-01 08:09:15 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Es stehen jetzt 4 Gebäude auf dem Grundstück. Leben ist nicht zu erkennen. Aktive arbeiten auch nicht.</text>
+      <html>&lt;p&gt;Es stehen jetzt 4 Gebäude auf dem Grundstück. Leben ist nicht zu erkennen. Aktive arbeiten auch nicht.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-30 15:32:32 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Na gut, vor paar Tagen haben ein paar Leute da irgendwas gearbeitet.
+
+3 Gebäude sind wohl fertig ein weiteres ist gerade mal im Rohbau ..
+
+</text>
+      <html>&lt;p&gt;Na gut, vor paar Tagen haben ein paar Leute da irgendwas gearbeitet.&lt;/p&gt;
+
+&lt;p&gt;3 Gebäude sind wohl fertig ein weiteres ist gerade mal im Rohbau ..&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

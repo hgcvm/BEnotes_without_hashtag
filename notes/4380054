@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.4050938" lat="50.8908491">
+  <id>4380054</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4380054</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4380054/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4380054/close</close_url>
+  <date_created>2024-08-12 14:24:23 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-12 14:24:23 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>in- en uitvoegstrook gepland https://wegenenverkeer.be/werken/en-uitvoegstrook-op-expresweg-thv-eikenlaan</text>
+      <html>&lt;p&gt;in- en uitvoegstrook gepland &lt;a href="https://wegenenverkeer.be/werken/en-uitvoegstrook-op-expresweg-thv-eikenlaan" rel="nofollow noopener noreferrer"&gt;https://wegenenverkeer.be/werken/en-uitvoegstrook-op-expresweg-thv-eikenlaan&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 16:02:29 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>deel Eikenlaan access=no door werken tot Oktober</text>
+      <html>&lt;p&gt;deel Eikenlaan access=no door werken tot Oktober&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-22 07:53:32 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp tot eind oktober 2024</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp tot eind oktober 2024&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

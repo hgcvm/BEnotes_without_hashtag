@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3219829" lat="51.3075989">
+  <id>4197280</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4197280</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4197280/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4197280/close</close_url>
+  <date_created>2024-04-14 09:09:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-14 09:09:06 UTC</date>
+      <action>opened</action>
+      <text>Hier is een fietsbus in gebruik, zodat de omwegen niet nodig zijn : kunt u deze op de kaart zetten? 
+
+Bijvoorbeeld https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&amp;route=51.30870%2C4.32620%3B51.30179%2C4.30319#map=15/51.3057/4.3164&amp;layers=N</text>
+      <html>&lt;p&gt;Hier is een fietsbus in gebruik, zodat de omwegen niet nodig zijn : kunt u deze op de kaart zetten? &lt;/p&gt;
+
+&lt;p&gt;Bijvoorbeeld &lt;a href="https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&amp;amp;route=51.30870%2C4.32620%3B51.30179%2C4.30319#map=15/51.3057/4.3164&amp;amp;layers=N" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&amp;amp;route=51.30870%2C4.32620%3B51.30179%2C4.30319#map=15/51.3057/4.3164&amp;amp;layers=N&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-14 09:20:29 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://www.slimnaarantwerpen.be/nl/werken-events/lillobrug-afgesloten-voor-fietsers
+Graag meer info over die bus ?
+Mag enkel die bus over de brug ?</text>
+      <html>&lt;p&gt;&lt;a href="https://www.slimnaarantwerpen.be/nl/werken-events/lillobrug-afgesloten-voor-fietsers" rel="nofollow noopener noreferrer"&gt;https://www.slimnaarantwerpen.be/nl/werken-events/lillobrug-afgesloten-voor-fietsers&lt;/a&gt;
+&lt;br /&gt;Graag meer info over die bus ?
+&lt;br /&gt;Mag enkel die bus over de brug ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-15 17:03:48 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>In 't kort : fietsbus gaat door Tijsmans en Liekenshoektunnels, heeft op vier plekken vijf op- afstapmomenten, zie https://www.portofantwerpbruges.com/nl/onze-haven/mens-en-omgeving/mobiliteit/de-fietsbus ; 
+
+gaat zo te zien ééns in 't uur, round-trip neemt één uur? 
+
+https://newsroom.portofantwerpbruges.com/renovatie-lillobrug-krijgt-europese-steun#
+
+Einde werken / heropening verwacht zo ergens eind 2027 of ergens verder in de toekomst - ongetwijfeld afhankelijk van wat er nóg aan problemen opduikt. 
+
+https://nl.wikipedia.org/wiki/Lillobrug </text>
+      <html>&lt;p&gt;In 't kort : fietsbus gaat door Tijsmans en Liekenshoektunnels, heeft op vier plekken vijf op- afstapmomenten, zie &lt;a href="https://www.portofantwerpbruges.com/nl/onze-haven/mens-en-omgeving/mobiliteit/de-fietsbus" rel="nofollow noopener noreferrer"&gt;https://www.portofantwerpbruges.com/nl/onze-haven/mens-en-omgeving/mobiliteit/de-fietsbus&lt;/a&gt; ; &lt;/p&gt;
+
+&lt;p&gt;gaat zo te zien ééns in 't uur, round-trip neemt één uur? &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://newsroom.portofantwerpbruges.com/renovatie-lillobrug-krijgt-europese-steun#" rel="nofollow noopener noreferrer"&gt;https://newsroom.portofantwerpbruges.com/renovatie-lillobrug-krijgt-europese-steun#&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Einde werken / heropening verwacht zo ergens eind 2027 of ergens verder in de toekomst - ongetwijfeld afhankelijk van wat er nóg aan problemen opduikt. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://nl.wikipedia.org/wiki/Lillobrug" rel="nofollow noopener noreferrer"&gt;https://nl.wikipedia.org/wiki/Lillobrug&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-17 09:32:04 UTC</date>
+      <uid>14088321</uid>
+      <user>multimob</user>
+      <user_url>https://api.openstreetmap.org/user/multimob</user_url>
+      <action>commented</action>
+      <text>Hebben we het echt over deze bestaande relatie? https://www.openstreetmap.org/relation/9573274</text>
+      <html>&lt;p&gt;Hebben we het echt over deze bestaande relatie? &lt;a href="https://www.openstreetmap.org/relation/9573274" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/9573274&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-18 19:39:21 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dank voor uw reactie, als fietser eigenlijk vooral geïnteresseerd in dát routeerders deze fietsverbinding-per-bus tonen - gelijk zij overzetveren in de routering opnemen, dat is nu niet het geval. 
+
+Zie bijvoorbeeld : https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&amp;route=51.3038%2C4.3080%3B51.3118%2C4.3279#map=13/51.3376/4.2990 of https://www.openstreetmap.org/directions?engine=fossgis_osrm_bike&amp;route=51.3038%2C4.3080%3B51.3118%2C4.3279#map=13/51.2776/4.3471 ; http://brouter.de/brouter-web/#map=13/51.2795/4.3425/standard&amp;lonlats=4.327865,51.311754;4.30795,51.303814 neemt de fietsbus óók al niet op. 
+
+Gezien het nog enkele jaren duurt tot de Lillobrug weer bruikbaar is lijkt een routeerbare 'fietsverbinding' gewenst, een in 't veld niet waarneembaar fietspad intekenen lijkt dan wel in routes opgenomen te kunnen worden, doch druist in tegen 'we map what's there' - of niet? </text>
+      <html>&lt;p&gt;Dank voor uw reactie, als fietser eigenlijk vooral geïnteresseerd in dát routeerders deze fietsverbinding-per-bus tonen - gelijk zij overzetveren in de routering opnemen, dat is nu niet het geval. &lt;/p&gt;
+
+&lt;p&gt;Zie bijvoorbeeld : &lt;a href="https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&amp;amp;route=51.3038%2C4.3080%3B51.3118%2C4.3279#map=13/51.3376/4.2990" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/directions?engine=graphhopper_bicycle&amp;amp;route=51.3038%2C4.3080%3B51.3118%2C4.3279#map=13/51.3376/4.2990&lt;/a&gt; of &lt;a href="https://www.openstreetmap.org/directions?engine=fossgis_osrm_bike&amp;amp;route=51.3038%2C4.3080%3B51.3118%2C4.3279#map=13/51.2776/4.3471" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/directions?engine=fossgis_osrm_bike&amp;amp;route=51.3038%2C4.3080%3B51.3118%2C4.3279#map=13/51.2776/4.3471&lt;/a&gt; ; &lt;a href="http://brouter.de/brouter-web/#map=13/51.2795/4.3425/standard&amp;amp;lonlats=4.327865,51.311754;4.30795,51.303814" rel="nofollow noopener noreferrer"&gt;http://brouter.de/brouter-web/#map=13/51.2795/4.3425/standard&amp;amp;lonlats=4.327865,51.311754;4.30795,51.303814&lt;/a&gt; neemt de fietsbus óók al niet op. &lt;/p&gt;
+
+&lt;p&gt;Gezien het nog enkele jaren duurt tot de Lillobrug weer bruikbaar is lijkt een routeerbare 'fietsverbinding' gewenst, een in 't veld niet waarneembaar fietspad intekenen lijkt dan wel in routes opgenomen te kunnen worden, doch druist in tegen 'we map what's there' - of niet? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

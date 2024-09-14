@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8349371" lat="49.6064991">
+  <id>4065298</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4065298</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4065298/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4065298/close</close_url>
+  <date_created>2024-01-13 13:22:09 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-13 13:22:09 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>opened</action>
+      <text>In context of "Surfaces" overlay for https://osm.org/way/1027115736 via StreetComplete 56.0:
+
+Gone
+
+Attached photo(s):
+https://westnordost.de/p/192638.jpg</text>
+      <html>&lt;p&gt;In context of "Surfaces" overlay for &lt;a href="https://osm.org/way/1027115736" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/1027115736&lt;/a&gt; via StreetComplete 56.0:&lt;/p&gt;
+
+&lt;p&gt;Gone&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/192638.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/192638.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-13 16:58:20 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text>Removed it.</text>
+      <html>&lt;p&gt;Removed it.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 13:46:19 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 13:52:48 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>That's a track with grade 5, totally passable between the large passage between trees and over the small grasses. Grasses are natural and grow, any forestry vehicle, horse riders, pedestrians can recognize it and use it. Many examples exist with tracks with small grasses, OSM's Wiki has examples showing grade 5 tracks with grass. Even if the grasses would be higher the way would still be eligible as a track because grasses grow and its natural to grow, they do not block passage. Don't you understand that?
+
+Again and again you deleted data which exists!</text>
+      <html>&lt;p&gt;That's a track with grade 5, totally passable between the large passage between trees and over the small grasses. Grasses are natural and grow, any forestry vehicle, horse riders, pedestrians can recognize it and use it. Many examples exist with tracks with small grasses, OSM's Wiki has examples showing grade 5 tracks with grass. Even if the grasses would be higher the way would still be eligible as a track because grasses grow and its natural to grow, they do not block passage. Don't you understand that?&lt;/p&gt;
+
+&lt;p&gt;Again and again you deleted data which exists!&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:55:23 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:57:13 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:40:24 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:43:54 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

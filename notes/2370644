@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5614666" lat="51.1226101">
+  <id>2370644</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2370644</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2370644/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2370644/close</close_url>
+  <date_created>2020-10-01 19:09:38 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-10-01 19:09:38 UTC</date>
+      <uid>11906896</uid>
+      <user>MJArthur95</user>
+      <user_url>https://api.openstreetmap.org/user/MJArthur95</user_url>
+      <action>opened</action>
+      <text>New Fresh tarmac is finished completely! able better cycling road than the other side</text>
+      <html>&lt;p&gt;New Fresh tarmac is finished completely! able better cycling road than the other side&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-10-02 05:06:48 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>terug opengesteld voor ? Welke verkeersborden staan er die toegang geven tot de weg ?</text>
+      <html>&lt;p&gt;terug opengesteld voor ? Welke verkeersborden staan er die toegang geven tot de weg ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-10-05 12:01:33 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Vanaf andere zijde Nete / Netekanaal gezien dat fietsers deel vanaf Duffel berijden, tot voorbij PIME (en dan waarschijnlijk tot Ringenhof gezien ontbreken zijwegen) ; nog geen borden of vangrails bij zijwegen waardoor toegelaten categorieen onbekend, doch doorgaans jaagpad = wandelen joggen fietsen dienstwagens , mogelijk moped-A of -P : laat dit liefst open tot nader bekeken?; onzeker of deel waar deze note staat - van R16 tot Ringenhof - al open is : er wordt m.i. nog gewerkt aan de in-/uitlaatsluizen waardoor dijk en jaagpad onderbroken blijven en wegens werfzone verboden toegang. </text>
+      <html>&lt;p&gt;Vanaf andere zijde Nete / Netekanaal gezien dat fietsers deel vanaf Duffel berijden, tot voorbij PIME (en dan waarschijnlijk tot Ringenhof gezien ontbreken zijwegen) ; nog geen borden of vangrails bij zijwegen waardoor toegelaten categorieen onbekend, doch doorgaans jaagpad = wandelen joggen fietsen dienstwagens , mogelijk moped-A of -P : laat dit liefst open tot nader bekeken?; onzeker of deel waar deze note staat - van R16 tot Ringenhof - al open is : er wordt m.i. nog gewerkt aan de in-/uitlaatsluizen waardoor dijk en jaagpad onderbroken blijven en wegens werfzone verboden toegang. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-11-23 18:56:20 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Bezocht 2020-11-23 : vanhier tot Ringenhof nog gesloten wegens bouw inlaatsluis. </text>
+      <html>&lt;p&gt;Bezocht 2020-11-23 : vanhier tot Ringenhof nog gesloten wegens bouw inlaatsluis. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-20 07:17:43 UTC</date>
+      <uid>330501</uid>
+      <user>Dolar</user>
+      <user_url>https://api.openstreetmap.org/user/Dolar</user_url>
+      <action>commented</action>
+      <text>Iemand nog recentelijk hier geweest? Op het forum staat dat het weer open is, zojuist route 05-31 terug over jaagpad gezet.
+
+Kan gesloten worden?</text>
+      <html>&lt;p&gt;Iemand nog recentelijk hier geweest? Op het forum staat dat het weer open is, zojuist route 05-31 terug over jaagpad gezet.&lt;/p&gt;
+
+&lt;p&gt;Kan gesloten worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-20 18:20:47 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Pad open, bord verboden voetgangers met onleesbaar onderbord; overigens deel jaagpad. 
+Prentjes van de kompaan worden binnenkort opgeladen; tonen één in-/uitlaatwerk. 
+Fietsroute bordjes worden t.z.t. / zijn reeds aangepast - staan hopelijk óók leesbaar op de prentjes. </text>
+      <html>&lt;p&gt;Pad open, bord verboden voetgangers met onleesbaar onderbord; overigens deel jaagpad. 
+&lt;br /&gt;Prentjes van de kompaan worden binnenkort opgeladen; tonen één in-/uitlaatwerk. 
+&lt;br /&gt;Fietsroute bordjes worden t.z.t. / zijn reeds aangepast - staan hopelijk óók leesbaar op de prentjes. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-15 14:19:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Diverse barelen - zie mijn prentjes 220615 , verboden indien overstromingsgebied in werking .</text>
+      <html>&lt;p&gt;Diverse barelen - zie mijn prentjes 220615 , verboden indien overstromingsgebied in werking .&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-15 22:03:33 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>... https://www.mapillary.com/app/?pKey=1772836329714066 toont er één : eerste vraag : access=no @ [flood alleviation measures activated / flood relief in operation] ? 
+
+Eens dat gekend is : ook bij https://www.mapillary.com/app/?pKey=350218523902867 en https://www.mapillary.com/app/?pKey=761941161831728 : rest copy/paste</text>
+      <html>&lt;p&gt;... &lt;a href="https://www.mapillary.com/app/?pKey=1772836329714066" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1772836329714066&lt;/a&gt; toont er één : eerste vraag : access=no @ [flood alleviation measures activated / flood relief in operation] ? &lt;/p&gt;
+
+&lt;p&gt;Eens dat gekend is : ook bij &lt;a href="https://www.mapillary.com/app/?pKey=350218523902867" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=350218523902867&lt;/a&gt; en &lt;a href="https://www.mapillary.com/app/?pKey=761941161831728" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=761941161831728&lt;/a&gt; : rest copy/paste&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

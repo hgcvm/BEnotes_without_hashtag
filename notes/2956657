@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0019578" lat="51.1015825">
+  <id>2956657</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2956657</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2956657/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2956657/close</close_url>
+  <date_created>2021-12-02 08:09:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-12-02 08:09:47 UTC</date>
+      <action>opened</action>
+      <text>Local news: https://www.hln.be/lokeren/spoeddienst-az-lokeren-sluit-op-1-januari-2022-ambulancedienst-blijft-maar-vervoert-patienten-naar-andere-ziekenhuizen~ae14018c/</text>
+      <html>&lt;p&gt;Local news: &lt;a href="https://www.hln.be/lokeren/spoeddienst-az-lokeren-sluit-op-1-januari-2022-ambulancedienst-blijft-maar-vervoert-patienten-naar-andere-ziekenhuizen~ae14018c/" rel="nofollow noopener noreferrer"&gt;https://www.hln.be/lokeren/spoeddienst-az-lokeren-sluit-op-1-januari-2022-ambulancedienst-blijft-maar-vervoert-patienten-naar-andere-ziekenhuizen~ae14018c/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-05 07:26:36 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>niet duidelijk wat er dient gemapt te worden. Gelieve een nieuwe note te maken met concrete vraag wat er juist dient gemapt te worden</text>
+      <html>&lt;p&gt;niet duidelijk wat er dient gemapt te worden. Gelieve een nieuwe note te maken met concrete vraag wat er juist dient gemapt te worden&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 11:49:22 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 11:54:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Wat er gemapt dient te worden? Begint u met : https://www.vitaz.be/over-vitaz : Op 1 januari 2022 zijn het AZ Lokeren en het AZ Nikolaas officieel samengesmolten tot één ziekenhuis. Vitaz heeft zes campussen, verspreid over het Waasland. : geeft de indruk dat hier het nodige gestroomlijnd werd / wordt, niet louter de Spoed opgeheven, vervangen door 'Medische Hulppost Lokeren': 
+
+Het is aardig, dergelijke info op de kaart te zetten, doch dan best redelijk up2date houden? 
+
+Nootje gewoon sluiten heeft hier geen zin, de achterhaalde info blijft immers aanwezig!</text>
+      <html>&lt;p&gt;Wat er gemapt dient te worden? Begint u met : &lt;a href="https://www.vitaz.be/over-vitaz" rel="nofollow noopener noreferrer"&gt;https://www.vitaz.be/over-vitaz&lt;/a&gt; : Op 1 januari 2022 zijn het AZ Lokeren en het AZ Nikolaas officieel samengesmolten tot één ziekenhuis. Vitaz heeft zes campussen, verspreid over het Waasland. : geeft de indruk dat hier het nodige gestroomlijnd werd / wordt, niet louter de Spoed opgeheven, vervangen door 'Medische Hulppost Lokeren': &lt;/p&gt;
+
+&lt;p&gt;Het is aardig, dergelijke info op de kaart te zetten, doch dan best redelijk up2date houden? &lt;/p&gt;
+
+&lt;p&gt;Nootje gewoon sluiten heeft hier geen zin, de achterhaalde info blijft immers aanwezig!&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

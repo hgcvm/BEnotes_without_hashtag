@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7908491" lat="50.9814757">
+  <id>4299581</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4299581</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4299581/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4299581/close</close_url>
+  <date_created>2024-06-20 08:03:04 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-20 08:03:04 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>There's a BE:C3 sign here according to 10+ year old street level imagery and it's also present in the traffic_sign tag. Can someone with local knowledge confirm this if it's still there and add the relevant other tags?
+https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/C_Prohibitory_signs</text>
+      <html>&lt;p&gt;There's a BE:C3 sign here according to 10+ year old street level imagery and it's also present in the traffic_sign tag. Can someone with local knowledge confirm this if it's still there and add the relevant other tags?
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/C_Prohibitory_signs" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/C_Prohibitory_signs&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-22 20:51:49 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

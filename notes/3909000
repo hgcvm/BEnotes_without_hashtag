@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3180749" lat="51.0615276">
+  <id>3909000</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3909000</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3909000/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3909000/close</close_url>
+  <date_created>2023-09-26 08:10:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-26 08:10:22 UTC</date>
+      <uid>18524590</uid>
+      <user>driesverlinden</user>
+      <user_url>https://api.openstreetmap.org/user/driesverlinden</user_url>
+      <action>opened</action>
+      <text>Hier komt een Hoppinpunt</text>
+      <html>&lt;p&gt;Hier komt een Hoppinpunt&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-06 15:32:57 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>Datum gekend?</text>
+      <html>&lt;p&gt;Datum gekend?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

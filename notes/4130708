@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4829208" lat="50.8985028">
+  <id>4130708</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4130708</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4130708/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4130708/close</close_url>
+  <date_created>2024-02-27 21:29:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-27 21:29:08 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>Brussels Airport
+I have mapped several defibrillators without an understanding of the building.
+Yet I have good mapillary that should make it easy for someone who knows his way there.
+Some AEDs are also on the official maps.</text>
+      <html>&lt;p&gt;Brussels Airport
+&lt;br /&gt;I have mapped several defibrillators without an understanding of the building.
+&lt;br /&gt;Yet I have good mapillary that should make it easy for someone who knows his way there.
+&lt;br /&gt;Some AEDs are also on the official maps.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

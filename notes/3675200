@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.7131749" lat="50.6737605">
+  <id>3675200</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3675200</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3675200/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3675200/close</close_url>
+  <date_created>2023-05-05 09:01:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-05-05 09:01:30 UTC</date>
+      <uid>17565193</uid>
+      <user>Kamille Ouaali</user>
+      <user_url>https://api.openstreetmap.org/user/Kamille%20Ouaali</user_url>
+      <action>opened</action>
+      <text>Chemin accidenté sur 10 à 15 mètres à cause des blaireaux qui y vivent. </text>
+      <html>&lt;p&gt;Chemin accidenté sur 10 à 15 mètres à cause des blaireaux qui y vivent. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

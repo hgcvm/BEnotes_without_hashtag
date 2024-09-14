@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.9905368" lat="50.6109445">
+  <id>2872284</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2872284</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2872284/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2872284/close</close_url>
+  <date_created>2021-09-28 09:11:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-09-28 09:11:19 UTC</date>
+      <uid>515868</uid>
+      <user>Vincs</user>
+      <user_url>https://api.openstreetmap.org/user/Vincs</user_url>
+      <action>opened</action>
+      <text>Ce pont a été détruit lors des inondations de juillet 2021.
+----------
+This bridge has been destroy by the flooding of Juilly 2021.</text>
+      <html>&lt;p&gt;Ce pont a été détruit lors des inondations de juillet 2021.
+&lt;br /&gt;----------
+&lt;br /&gt;This bridge has been destroy by the flooding of Juilly 2021.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-28 09:50:25 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>pont mis to "demolished."
+Le randonne "Au fil de l'eau" est ainsi interrompu ....
+https://hiking.waymarkedtrails.org/#route?id=12802905&amp;map=17!50.6112!5.9907</text>
+      <html>&lt;p&gt;pont mis to "demolished."
+&lt;br /&gt;Le randonne "Au fil de l'eau" est ainsi interrompu ....
+&lt;br /&gt;&lt;a href="https://hiking.waymarkedtrails.org/#route?id=12802905&amp;amp;map=17!50.6112!5.9907" rel="nofollow noopener noreferrer"&gt;https://hiking.waymarkedtrails.org/#route?id=12802905&amp;amp;map=17!50.6112!5.9907&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-20 20:38:25 UTC</date>
+      <uid>2109841</uid>
+      <user>Macumba Macaca</user>
+      <user_url>https://api.openstreetmap.org/user/Macumba%20Macaca</user_url>
+      <action>commented</action>
+      <text>Temporary route: https://www.baelen.be/loisirs/tourisme/promenades/au-fil-de-leau</text>
+      <html>&lt;p&gt;Temporary route: &lt;a href="https://www.baelen.be/loisirs/tourisme/promenades/au-fil-de-leau" rel="nofollow noopener noreferrer"&gt;https://www.baelen.be/loisirs/tourisme/promenades/au-fil-de-leau&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-19 20:44:03 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Has this bridge been reconstructed yet?</text>
+      <html>&lt;p&gt;Has this bridge been reconstructed yet?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

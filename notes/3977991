@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="6.0066050" lat="50.5049699">
+  <id>3977991</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3977991</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3977991/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3977991/close</close_url>
+  <date_created>2023-11-08 09:19:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-08 09:19:08 UTC</date>
+      <action>opened</action>
+      <text>La zone "Wihonfagne" reprend une grande partie de forêt exploitée qui ne devrait pas être dedans. La vraie Wihonfagne est la partie Nord-Est uniquement.
+Au Sud de l'ancien chemin de Sart à Xhoffraix, il s'agit de la "fagne du Tapeu".
+
+Aussi, le "Bois domanial de la Hoëgne" est mal situé, il doit être tout autour de la Hoëgne justement, alors que pour l'instant il montre une partie du "Bois communal de Jalhay".
+
+Pour les limites entre domanial et communal, se référer à la couche "limites administratives du DNF" sur WalOnMap.
+
+Merci pour votre considération.
+
+#osmreport #osmbe</text>
+      <html>&lt;p&gt;La zone "Wihonfagne" reprend une grande partie de forêt exploitée qui ne devrait pas être dedans. La vraie Wihonfagne est la partie Nord-Est uniquement.
+&lt;br /&gt;Au Sud de l'ancien chemin de Sart à Xhoffraix, il s'agit de la "fagne du Tapeu".&lt;/p&gt;
+
+&lt;p&gt;Aussi, le "Bois domanial de la Hoëgne" est mal situé, il doit être tout autour de la Hoëgne justement, alors que pour l'instant il montre une partie du "Bois communal de Jalhay".&lt;/p&gt;
+
+&lt;p&gt;Pour les limites entre domanial et communal, se référer à la couche "limites administratives du DNF" sur WalOnMap.&lt;/p&gt;
+
+&lt;p&gt;Merci pour votre considération.&lt;/p&gt;
+
+&lt;p&gt;#osmreport #osmbe&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

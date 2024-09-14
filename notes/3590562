@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3515100" lat="51.2200000">
+  <id>3590562</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3590562</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3590562/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3590562/close</close_url>
+  <date_created>2023-03-09 00:32:39 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-03-09 00:32:39 UTC</date>
+      <uid>11678919</uid>
+      <user>Roeckx</user>
+      <user_url>https://api.openstreetmap.org/user/Roeckx</user_url>
+      <action>opened</action>
+      <text>Onderstaand artikel geeft de namen aan voor deze weg. Namenlijk "Parallelweg Noord" en "Parallelweg Zuid". Er is echter geen informatie waar de splitsing extact is. Men refereert enkel naar "P+R Linkeroever". In mijn indruk kan dit zowel naar het kruispunt ten noorden van de Blancefloerlaan, als naar het kruispunt ten zuiden van de Blancefloerlaan refereren. Voorlopig heb ik de weg (letterlijk) in het midden gelaten. En halverwege de de twee kruispunten gesplitst.
+
+Uitleg namen staat helemaal onderaan:
+https://nieuws.oosterweelverbinding.be/ingebruikname-eerste-delen-antwerpen-west-vanaf-mei/</text>
+      <html>&lt;p&gt;Onderstaand artikel geeft de namen aan voor deze weg. Namenlijk "Parallelweg Noord" en "Parallelweg Zuid". Er is echter geen informatie waar de splitsing extact is. Men refereert enkel naar "P+R Linkeroever". In mijn indruk kan dit zowel naar het kruispunt ten noorden van de Blancefloerlaan, als naar het kruispunt ten zuiden van de Blancefloerlaan refereren. Voorlopig heb ik de weg (letterlijk) in het midden gelaten. En halverwege de de twee kruispunten gesplitst.&lt;/p&gt;
+
+&lt;p&gt;Uitleg namen staat helemaal onderaan:
+&lt;br /&gt;&lt;a href="https://nieuws.oosterweelverbinding.be/ingebruikname-eerste-delen-antwerpen-west-vanaf-mei/" rel="nofollow noopener noreferrer"&gt;https://nieuws.oosterweelverbinding.be/ingebruikname-eerste-delen-antwerpen-west-vanaf-mei/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

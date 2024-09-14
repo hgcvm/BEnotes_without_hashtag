@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6107888" lat="50.6680198">
+  <id>4118055</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4118055</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4118055/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4118055/close</close_url>
+  <date_created>2024-02-18 11:45:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-18 11:45:56 UTC</date>
+      <uid>11204087</uid>
+      <user>Sorcier_bleu</user>
+      <user_url>https://api.openstreetmap.org/user/Sorcier_bleu</user_url>
+      <action>opened</action>
+      <text>Fait partie du même bâtiment
+
+via StreetComplete 56.1</text>
+      <html>&lt;p&gt;Fait partie du même bâtiment&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 56.1&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

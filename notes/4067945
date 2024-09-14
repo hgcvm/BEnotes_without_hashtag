@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3938600" lat="51.0470700">
+  <id>4067945</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4067945</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4067945/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4067945/close</close_url>
+  <date_created>2024-01-14 14:26:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-14 14:26:59 UTC</date>
+      <action>opened</action>
+      <text>signposted as N183, also indicated on https://www.wegenenverkeer.be/ and https://www.verkeerscentrum.be/</text>
+      <html>&lt;p&gt;signposted as N183, also indicated on &lt;a href="https://www.wegenenverkeer.be/" rel="nofollow noopener noreferrer"&gt;https://www.wegenenverkeer.be/&lt;/a&gt; and &lt;a href="https://www.verkeerscentrum.be/" rel="nofollow noopener noreferrer"&gt;https://www.verkeerscentrum.be/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

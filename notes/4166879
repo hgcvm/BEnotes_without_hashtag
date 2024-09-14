@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2165480" lat="51.1317944">
+  <id>4166879</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4166879</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4166879/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4166879/close</close_url>
+  <date_created>2024-03-25 08:51:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-25 08:51:47 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>A RouteYou user, says some of these roads here are private property and therefore, you're not allowed to walk on them. Can someone with local knowledge mark the right roads as private?</text>
+      <html>&lt;p&gt;A RouteYou user, says some of these roads here are private property and therefore, you're not allowed to walk on them. Can someone with local knowledge mark the right roads as private?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-19 22:05:45 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/way/584287775 is marked as private. If there's more roads that are private, we'd need more information. Note that the pin for this note isn't actually on any path.
+
+#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/584287775" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/584287775&lt;/a&gt; is marked as private. If there's more roads that are private, we'd need more information. Note that the pin for this note isn't actually on any path.&lt;/p&gt;
+
+&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

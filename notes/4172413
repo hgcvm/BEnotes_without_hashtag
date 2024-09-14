@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8991513" lat="50.9787501">
+  <id>4172413</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4172413</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4172413/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4172413/close</close_url>
+  <date_created>2024-03-29 01:54:28 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-29 01:54:28 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Bezocht, aantal wegen werd opgegraven, nieuwe riolering gelegd, onder deze pin basin=infiltration met overflow naar naastgelegen beek / riviertje ; beton &gt; asfalt ; enkele prentjes dezer dagen. </text>
+      <html>&lt;p&gt;Bezocht, aantal wegen werd opgegraven, nieuwe riolering gelegd, onder deze pin basin=infiltration met overflow naar naastgelegen beek / riviertje ; beton &amp;gt; asfalt ; enkele prentjes dezer dagen. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

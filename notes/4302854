@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1031954" lat="50.4675198">
+  <id>4302854</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4302854</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4302854/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4302854/close</close_url>
+  <date_created>2024-06-22 12:40:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-22 12:40:22 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>opened</action>
+      <text>armoire télécom
+
+via StreetComplete_ee 58.0
+
+Attached photo(s):
+https://westnordost.de/p/219805.jpg</text>
+      <html>&lt;p&gt;armoire télécom&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete_ee 58.0&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/219805.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/219805.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

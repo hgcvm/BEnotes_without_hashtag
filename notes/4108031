@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.2107704" lat="49.8750433">
+  <id>4108031</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4108031</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4108031/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4108031/close</close_url>
+  <date_created>2024-02-11 08:32:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-11 08:32:55 UTC</date>
+      <action>opened</action>
+      <text>New road is open</text>
+      <html>&lt;p&gt;New road is open&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-11 08:54:05 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>possible de donner liens vers traveaux plan ....
+ctrl+F5 pour voir data</text>
+      <html>&lt;p&gt;possible de donner liens vers traveaux plan ....
+&lt;br /&gt;ctrl+F5 pour voir data&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-11 09:31:31 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Il y a un points nœuds 33-74 ou il va maintenant que passage a niveau est fermer ?</text>
+      <html>&lt;p&gt;Il y a un points nœuds 33-74 ou il va maintenant que passage a niveau est fermer ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 19:36:37 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Je gaat geen antwoord krijgen van de auteur van deze note. Voor de relatie van de knooppunten: ofwel moet die blijven liggen (maar eigenlijk kan je er niet door), ofwel moet die omgelegd worden zonder verdere kennis, dus wordt gokwerk dan. Maar dat lijkt me eerlijk gezegd beter dan het laten liggen over een gesloten overweg.</text>
+      <html>&lt;p&gt;Je gaat geen antwoord krijgen van de auteur van deze note. Voor de relatie van de knooppunten: ofwel moet die blijven liggen (maar eigenlijk kan je er niet door), ofwel moet die omgelegd worden zonder verdere kennis, dus wordt gokwerk dan. Maar dat lijkt me eerlijk gezegd beter dan het laten liggen over een gesloten overweg.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

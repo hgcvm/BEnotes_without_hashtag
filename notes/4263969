@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5958391" lat="51.0116756">
+  <id>4263969</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4263969</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4263969/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4263969/close</close_url>
+  <date_created>2024-05-25 11:01:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-25 11:01:06 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>opened</action>
+      <text>Geen bouwterrein meer, maar wat is dit juist? Huis, feestzaal, ...?</text>
+      <html>&lt;p&gt;Geen bouwterrein meer, maar wat is dit juist? Huis, feestzaal, ...?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-02 11:32:33 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

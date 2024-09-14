@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4694113" lat="51.0360980">
+  <id>4423798</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4423798</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4423798/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4423798/close</close_url>
+  <date_created>2024-09-07 12:09:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-07 12:09:51 UTC</date>
+      <uid>15008171</uid>
+      <user>FrederickMatheuse</user>
+      <user_url>https://api.openstreetmap.org/user/FrederickMatheuse</user_url>
+      <action>opened</action>
+      <text>Dit stukje van de Keerdoklaan (Weg: Keerdoklaan (345617105)) zou niet beschikbaar mogen zijn voor fietsers. </text>
+      <html>&lt;p&gt;Dit stukje van de Keerdoklaan (Weg: Keerdoklaan (345617105)) zou niet beschikbaar mogen zijn voor fietsers. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 13:45:26 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>foot=no + bicycle=use_sidepath toegevoegd. Bedankt voor de nota!
+https://www.openstreetmap.org/way/345617105</text>
+      <html>&lt;p&gt;foot=no + bicycle=use_sidepath toegevoegd. Bedankt voor de nota!
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/345617105" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/345617105&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 14:42:07 UTC</date>
+      <uid>15008171</uid>
+      <user>FrederickMatheuse</user>
+      <user_url>https://api.openstreetmap.org/user/FrederickMatheuse</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 14:42:35 UTC</date>
+      <uid>15008171</uid>
+      <user>FrederickMatheuse</user>
+      <user_url>https://api.openstreetmap.org/user/FrederickMatheuse</user_url>
+      <action>closed</action>
+      <text>Naast deze baan ligt geen sidepath, of wijst dit op het fietspad dat in de toekomst gaat aangelegd worden?</text>
+      <html>&lt;p&gt;Naast deze baan ligt geen sidepath, of wijst dit op het fietspad dat in de toekomst gaat aangelegd worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 14:42:38 UTC</date>
+      <uid>15008171</uid>
+      <user>FrederickMatheuse</user>
+      <user_url>https://api.openstreetmap.org/user/FrederickMatheuse</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 14:48:43 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>parallel is er inderdaad een fietspad in aanleg gemapt: https://www.openstreetmap.org/way/1219087846#map=17/51.035376/4.470894&amp;layers=N
+kent u daar de stand van zaken van?</text>
+      <html>&lt;p&gt;parallel is er inderdaad een fietspad in aanleg gemapt: &lt;a href="https://www.openstreetmap.org/way/1219087846#map=17/51.035376/4.470894&amp;amp;layers=N" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1219087846#map=17/51.035376/4.470894&amp;amp;layers=N&lt;/a&gt;
+&lt;br /&gt;kent u daar de stand van zaken van?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-08 04:02:33 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>6 aug'24 op https://www.mapillary.com/app/?lat=51.036339200000015&amp;lng=4.469277000000034&amp;z=19.9&amp;pKey=498750792752058&amp;focus=photo&amp;x=0.4220060002096033&amp;y=0.4989118644116272&amp;zoom=0 geen spoor van aanleg.</text>
+      <html>&lt;p&gt;6 aug'24 op &lt;a href="https://www.mapillary.com/app/?lat=51.036339200000015&amp;amp;lng=4.469277000000034&amp;amp;z=19.9&amp;amp;pKey=498750792752058&amp;amp;focus=photo&amp;amp;x=0.4220060002096033&amp;amp;y=0.4989118644116272&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.036339200000015&amp;amp;lng=4.469277000000034&amp;amp;z=19.9&amp;amp;pKey=498750792752058&amp;amp;focus=photo&amp;amp;x=0.4220060002096033&amp;amp;y=0.4989118644116272&amp;amp;zoom=0&lt;/a&gt; geen spoor van aanleg.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-08 04:07:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>op https://www.mapillary.com/app/?lat=51.0343038&amp;lng=4.4726849&amp;z=19.9&amp;pKey=934319452043091&amp;focus=photo&amp;x=0.6740703819127793&amp;y=0.5062597497367207&amp;zoom=0 evenmin ; nu ik u toch spreek : 
+
+parking delhaize is veranderd, met 'dikke ' laadzuilen https://www.mapillary.com/app/?lat=51.0369738&amp;lng=4.472357200000033&amp;z=19.9&amp;pKey=3275516939421787&amp;focus=photo&amp;x=0.2941640632719948&amp;y=0.5369896165705077&amp;zoom=0 en niet langer toegankelijk vanaf N1 : https://www.mapillary.com/app/?lat=51.03658659999999&amp;lng=4.473066600000038&amp;z=19.9&amp;pKey=1027888582677981&amp;focus=photo&amp;x=0.4472866267496717&amp;y=0.46809296184071797&amp;zoom=0 </text>
+      <html>&lt;p&gt;op &lt;a href="https://www.mapillary.com/app/?lat=51.0343038&amp;amp;lng=4.4726849&amp;amp;z=19.9&amp;amp;pKey=934319452043091&amp;amp;focus=photo&amp;amp;x=0.6740703819127793&amp;amp;y=0.5062597497367207&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.0343038&amp;amp;lng=4.4726849&amp;amp;z=19.9&amp;amp;pKey=934319452043091&amp;amp;focus=photo&amp;amp;x=0.6740703819127793&amp;amp;y=0.5062597497367207&amp;amp;zoom=0&lt;/a&gt; evenmin ; nu ik u toch spreek : &lt;/p&gt;
+
+&lt;p&gt;parking delhaize is veranderd, met 'dikke ' laadzuilen &lt;a href="https://www.mapillary.com/app/?lat=51.0369738&amp;amp;lng=4.472357200000033&amp;amp;z=19.9&amp;amp;pKey=3275516939421787&amp;amp;focus=photo&amp;amp;x=0.2941640632719948&amp;amp;y=0.5369896165705077&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.0369738&amp;amp;lng=4.472357200000033&amp;amp;z=19.9&amp;amp;pKey=3275516939421787&amp;amp;focus=photo&amp;amp;x=0.2941640632719948&amp;amp;y=0.5369896165705077&amp;amp;zoom=0&lt;/a&gt; en niet langer toegankelijk vanaf N1 : &lt;a href="https://www.mapillary.com/app/?lat=51.03658659999999&amp;amp;lng=4.473066600000038&amp;amp;z=19.9&amp;amp;pKey=1027888582677981&amp;amp;focus=photo&amp;amp;x=0.4472866267496717&amp;amp;y=0.46809296184071797&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.03658659999999&amp;amp;lng=4.473066600000038&amp;amp;z=19.9&amp;amp;pKey=1027888582677981&amp;amp;focus=photo&amp;amp;x=0.4472866267496717&amp;amp;y=0.46809296184071797&amp;amp;zoom=0&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

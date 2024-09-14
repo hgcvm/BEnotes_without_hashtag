@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.8961313" lat="50.8646539">
+  <id>3892390</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3892390</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3892390/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3892390/close</close_url>
+  <date_created>2023-09-16 19:53:33 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-16 19:53:33 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>This area of the Jan Yperman Ziekenhuis needs to be updated. I already did some adjustments based on areal imagery, but this should be reviewed by someon who has on the ground knowledge.</text>
+      <html>&lt;p&gt;This area of the Jan Yperman Ziekenhuis needs to be updated. I already did some adjustments based on areal imagery, but this should be reviewed by someon who has on the ground knowledge.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-07 13:55:38 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

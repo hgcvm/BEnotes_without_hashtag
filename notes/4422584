@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0675002" lat="51.0282461">
+  <id>4422584</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4422584</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4422584/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4422584/close</close_url>
+  <date_created>2024-09-06 12:43:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-06 12:43:55 UTC</date>
+      <action>opened</action>
+      <text>wat zou de bron van deze straatnaam zijn? geen verwijzing gevonden.</text>
+      <html>&lt;p&gt;wat zou de bron van deze straatnaam zijn? geen verwijzing gevonden.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 09:34:49 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dit lijkt #Survey # needed? 
+
+Is hier werkelijk een pad? Zie geen aanwijzing op digitale hoogtemodellen, evenmin GRB?
+Wie zou wegens kortere afstand voorkeur geven aan zo te zien smalle grasbeemd boven bestaande verharde weg ? zie ook geen Mapillary? 
+
+Daarbij de vervelende ervaring dat 'Wegspotter' mij als fietser regelmatig in een grachtje stuurt waar een pad werd ingetekend. 
+
+Wel toont Atlas Buurtwegen een weg die naastgelegen delen Denderstraat goed benadert - afgezien van kruispunt. </text>
+      <html>&lt;p&gt;Dit lijkt #Survey # needed? &lt;/p&gt;
+
+&lt;p&gt;Is hier werkelijk een pad? Zie geen aanwijzing op digitale hoogtemodellen, evenmin GRB?
+&lt;br /&gt;Wie zou wegens kortere afstand voorkeur geven aan zo te zien smalle grasbeemd boven bestaande verharde weg ? zie ook geen Mapillary? &lt;/p&gt;
+
+&lt;p&gt;Daarbij de vervelende ervaring dat 'Wegspotter' mij als fietser regelmatig in een grachtje stuurt waar een pad werd ingetekend. &lt;/p&gt;
+
+&lt;p&gt;Wel toont Atlas Buurtwegen een weg die naastgelegen delen Denderstraat goed benadert - afgezien van kruispunt. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

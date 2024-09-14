@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4023955" lat="51.2225088">
+  <id>3606569</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3606569</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3606569/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3606569/close</close_url>
+  <date_created>2023-03-20 18:20:03 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-03-20 18:20:03 UTC</date>
+      <action>opened</action>
+      <text>lange koepoortstraat 'onlangs rijrichting aangepast' </text>
+      <html>&lt;p&gt;lange koepoortstraat 'onlangs rijrichting aangepast' &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-20 18:56:32 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Kan je vermelding "van" "naar waar" zodanig dat we niet terug omdraaien de vollledige "lange koepoortstraat"</text>
+      <html>&lt;p&gt;Kan je vermelding "van" "naar waar" zodanig dat we niet terug omdraaien de vollledige "lange koepoortstraat"&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-22 09:36:23 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>... staat op de lijst ...</text>
+      <html>&lt;p&gt;... staat op de lijst ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-25 19:12:04 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>za 250323 zoals op OSM, en dat is al weken zo.</text>
+      <html>&lt;p&gt;za 250323 zoals op OSM, en dat is al weken zo.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-25 19:14:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>... en zo uit de ooghoek ontbreken diverse woonerven.</text>
+      <html>&lt;p&gt;... en zo uit de ooghoek ontbreken diverse woonerven.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

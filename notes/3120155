@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5063794" lat="51.3621331">
+  <id>3120155</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3120155</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3120155/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3120155/close</close_url>
+  <date_created>2022-04-04 21:28:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-04-04 21:28:49 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>En hier ongeveer (benoorden Franse weg, zuidelijk van fietsoversteek) treft u nog een tweezijdige ANPR (traject) camera</text>
+      <html>&lt;p&gt;En hier ongeveer (benoorden Franse weg, zuidelijk van fietsoversteek) treft u nog een tweezijdige ANPR (traject) camera&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-04-05 07:53:12 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Camera erbij werkt samen met welke andere voor traject controle?</text>
+      <html>&lt;p&gt;Camera erbij werkt samen met welke andere voor traject controle?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-04-05 08:47:51 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Zou gezien verloop gemeentegrens (deze aan zuid-einde Kalmthout) dat deze samenwerkt met de cameras noordzijde Achterbroek en (speculatie!) die bij samenkomst N117 met N122? 
+
+Ook een ANPR bij de autodealer kilometertje naar zuiden.
+
+Zou qua model - die gegalvaniseerde 'boom' over de weg - menen dat deze 'iets anders' bijvoorbeeld Via-pass kan zijn? 
+
+Heeft enige mapper vanuit werk kennis van typen en achtergronden? </text>
+      <html>&lt;p&gt;Zou gezien verloop gemeentegrens (deze aan zuid-einde Kalmthout) dat deze samenwerkt met de cameras noordzijde Achterbroek en (speculatie!) die bij samenkomst N117 met N122? &lt;/p&gt;
+
+&lt;p&gt;Ook een ANPR bij de autodealer kilometertje naar zuiden.&lt;/p&gt;
+
+&lt;p&gt;Zou qua model - die gegalvaniseerde 'boom' over de weg - menen dat deze 'iets anders' bijvoorbeeld Via-pass kan zijn? &lt;/p&gt;
+
+&lt;p&gt;Heeft enige mapper vanuit werk kennis van typen en achtergronden? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

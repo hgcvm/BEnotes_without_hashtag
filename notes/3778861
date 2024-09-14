@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3978767" lat="51.0139257">
+  <id>3778861</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3778861</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3778861/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3778861/close</close_url>
+  <date_created>2023-07-13 21:29:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-13 21:29:21 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Volgens het stadsbestuur van Tielt bevindt zich hier een AED (https://www.tielt.be/product/891/aed-toestellen)</text>
+      <html>&lt;p&gt;Volgens het stadsbestuur van Tielt bevindt zich hier een AED (&lt;a href="https://www.tielt.be/product/891/aed-toestellen" rel="nofollow noopener noreferrer"&gt;https://www.tielt.be/product/891/aed-toestellen&lt;/a&gt;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-22 20:21:30 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>DV heeft het gemapt, maar slordig, ik heb er een fixme op gezet.</text>
+      <html>&lt;p&gt;DV heeft het gemapt, maar slordig, ik heb er een fixme op gezet.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

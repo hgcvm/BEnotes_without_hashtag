@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4133979" lat="51.1813321">
+  <id>4043186</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4043186</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4043186/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4043186/close</close_url>
+  <date_created>2023-12-28 02:59:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-28 02:59:20 UTC</date>
+      <action>opened</action>
+      <text>hier komt 'zomer 2024' de nieuwe museumshop en bezoekerscentrum, de bibliotheek vanaf voorjaar 2024 in Collectie Paviljoen, de toiletten daar blijven publiek toegankelijk</text>
+      <html>&lt;p&gt;hier komt 'zomer 2024' de nieuwe museumshop en bezoekerscentrum, de bibliotheek vanaf voorjaar 2024 in Collectie Paviljoen, de toiletten daar blijven publiek toegankelijk&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

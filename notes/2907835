@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4257350" lat="50.7650983">
+  <id>2907835</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2907835</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2907835/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2907835/close</close_url>
+  <date_created>2021-10-24 10:58:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-10-24 10:58:57 UTC</date>
+      <uid>10209781</uid>
+      <user>Jhowie_Nitnek</user>
+      <user_url>https://api.openstreetmap.org/user/Jhowie_Nitnek</user_url>
+      <action>opened</action>
+      <text>According to https://app.bruxellesenvironnement.be/multimedia/plan-gestion-foret-soignes/Boek_I_20190404_EtatConnaissances_NL.pdf there should be 19 boundary markers from the time of Charles V, Holy Roman Emperor </text>
+      <html>&lt;p&gt;According to &lt;a href="https://app.bruxellesenvironnement.be/multimedia/plan-gestion-foret-soignes/Boek_I_20190404_EtatConnaissances_NL.pdf" rel="nofollow noopener noreferrer"&gt;https://app.bruxellesenvironnement.be/multimedia/plan-gestion-foret-soignes/Boek_I_20190404_EtatConnaissances_NL.pdf&lt;/a&gt; there should be 19 boundary markers from the time of Charles V, Holy Roman Emperor &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-02-05 22:19:03 UTC</date>
+      <uid>362083</uid>
+      <user>ghia</user>
+      <user_url>https://api.openstreetmap.org/user/ghia</user_url>
+      <action>commented</action>
+      <text>Yes, some are present around the Ganzepootvijver and along the Kloosterweg</text>
+      <html>&lt;p&gt;Yes, some are present around the Ganzepootvijver and along the Kloosterweg&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-29 08:50:57 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>I did a virtual tour of the Ganzepootvijver and the Kloosterweg, but couldn't see any. Could you find an example so I'd know what to look for?</text>
+      <html>&lt;p&gt;I did a virtual tour of the Ganzepootvijver and the Kloosterweg, but couldn't see any. Could you find an example so I'd know what to look for?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-29 20:39:57 UTC</date>
+      <uid>362083</uid>
+      <user>ghia</user>
+      <user_url>https://api.openstreetmap.org/user/ghia</user_url>
+      <action>commented</action>
+      <text>No, not to see with Mapillary. Ugly perspective and against light. Dark grey mossy poles of approx. 10x10x15cm covered in the vegetation and the mulch. Along the Kloosterweg they are at the south side of it in the bank at half a meter height. There should be 4 poles opposite the Lindevijver and one halfway the grass field against the bended tormented tree.
+https://www.openstreetmap.org/?mlat=50.76413&amp;mlon=4.42779#map=19/50.76413/4.42779
+Around the west side of the pond, there are several and 3 at the cape closest to the road.
+https://www.openstreetmap.org/?mlat=50.76435&amp;mlon=4.42334#map=19/50.76435/4.42334</text>
+      <html>&lt;p&gt;No, not to see with Mapillary. Ugly perspective and against light. Dark grey mossy poles of approx. 10x10x15cm covered in the vegetation and the mulch. Along the Kloosterweg they are at the south side of it in the bank at half a meter height. There should be 4 poles opposite the Lindevijver and one halfway the grass field against the bended tormented tree.
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/?mlat=50.76413&amp;amp;mlon=4.42779#map=19/50.76413/4.42779" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/?mlat=50.76413&amp;amp;mlon=4.42779#map=19/50.76413/4.42779&lt;/a&gt;
+&lt;br /&gt;Around the west side of the pond, there are several and 3 at the cape closest to the road.
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/?mlat=50.76435&amp;amp;mlon=4.42334#map=19/50.76435/4.42334" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/?mlat=50.76435&amp;amp;mlon=4.42334#map=19/50.76435/4.42334&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-08 13:46:15 UTC</date>
+      <uid>1860737</uid>
+      <user>StefDeGreef</user>
+      <user_url>https://api.openstreetmap.org/user/StefDeGreef</user_url>
+      <action>commented</action>
+      <text>I think this is what we're looking for - this style : https://www.lavenir.net/regions/brabantwallon/braine-l-alleud/2010/10/26/la-borne-est-en-voie-de-classement-HTGBH7KPDNF5DG3DFNLRWUCIRM/</text>
+      <html>&lt;p&gt;I think this is what we're looking for - this style : &lt;a href="https://www.lavenir.net/regions/brabantwallon/braine-l-alleud/2010/10/26/la-borne-est-en-voie-de-classement-HTGBH7KPDNF5DG3DFNLRWUCIRM/" rel="nofollow noopener noreferrer"&gt;https://www.lavenir.net/regions/brabantwallon/braine-l-alleud/2010/10/26/la-borne-est-en-voie-de-classement-HTGBH7KPDNF5DG3DFNLRWUCIRM/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-08 17:21:21 UTC</date>
+      <uid>362083</uid>
+      <user>ghia</user>
+      <user_url>https://api.openstreetmap.org/user/ghia</user_url>
+      <action>commented</action>
+      <text>No, it is not that monumental, but much inconspicuous. Maybe it's on https://www.mapillary.com/app/?focus=photo&amp;pKey=1081141579127580&amp;lat=50.764238499972&amp;lng=4.4279618&amp;z=17&amp;x=0.36555251488257423&amp;y=0.5172061837340545&amp;zoom=3 or https://www.mapillary.com/app/?focus=photo&amp;pKey=214255957536797&amp;lat=50.764682899972&amp;lng=4.431379800000059&amp;z=17.578033344853342&amp;x=0.2505577882661737&amp;y=0.5776531171861823&amp;zoom=1.7201834862385321
+</text>
+      <html>&lt;p&gt;No, it is not that monumental, but much inconspicuous. Maybe it's on &lt;a href="https://www.mapillary.com/app/?focus=photo&amp;amp;pKey=1081141579127580&amp;amp;lat=50.764238499972&amp;amp;lng=4.4279618&amp;amp;z=17&amp;amp;x=0.36555251488257423&amp;amp;y=0.5172061837340545&amp;amp;zoom=3" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?focus=photo&amp;amp;pKey=1081141579127580&amp;amp;lat=50.764238499972&amp;amp;lng=4.4279618&amp;amp;z=17&amp;amp;x=0.36555251488257423&amp;amp;y=0.5172061837340545&amp;amp;zoom=3&lt;/a&gt; or &lt;a href="https://www.mapillary.com/app/?focus=photo&amp;amp;pKey=214255957536797&amp;amp;lat=50.764682899972&amp;amp;lng=4.431379800000059&amp;amp;z=17.578033344853342&amp;amp;x=0.2505577882661737&amp;amp;y=0.5776531171861823&amp;amp;zoom=1.7201834862385321" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?focus=photo&amp;amp;pKey=214255957536797&amp;amp;lat=50.764682899972&amp;amp;lng=4.431379800000059&amp;amp;z=17.578033344853342&amp;amp;x=0.2505577882661737&amp;amp;y=0.5776531171861823&amp;amp;zoom=1.7201834862385321&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

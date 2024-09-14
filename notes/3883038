@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6393496" lat="50.4984969">
+  <id>3883038</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3883038</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3883038/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3883038/close</close_url>
+  <date_created>2023-09-11 12:27:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-11 12:27:30 UTC</date>
+      <action>opened</action>
+      <text>Deze paden zijn niet accuraat ingetekend. Er zijn meer wegels te vinden, maar niet die die ingetekend zijn. Ze zijn alleszins van mindere kwaliteit (smalle aardenweg)</text>
+      <html>&lt;p&gt;Deze paden zijn niet accuraat ingetekend. Er zijn meer wegels te vinden, maar niet die die ingetekend zijn. Ze zijn alleszins van mindere kwaliteit (smalle aardenweg)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-31 11:35:53 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

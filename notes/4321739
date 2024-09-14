@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7407200" lat="51.0736026">
+  <id>4321739</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4321739</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4321739/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4321739/close</close_url>
+  <date_created>2024-07-06 12:02:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-06 12:02:12 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Aan de ingang van de Weba hangt een bordje om aan te geven dat er een AED aanwezig is.</text>
+      <html>&lt;p&gt;Aan de ingang van de Weba hangt een bordje om aan te geven dat er een AED aanwezig is.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

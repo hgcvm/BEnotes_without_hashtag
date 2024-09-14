@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1150880" lat="51.2051088">
+  <id>2678615</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2678615</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2678615/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2678615/close</close_url>
+  <date_created>2021-05-21 11:34:36 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-05-21 11:34:36 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Befietst 2021-05-20 , prentjes : vanaf de Klokputweg verveegt het pad langzaam, tot het hier 'gewoon gemaaid gras' is : wie is er voldoende bekend om afdoend antwoord te geven of publiek recht op overpad werd opgeheven wegens in onbruik of zwaarwegens economisch belang (wandelaar(s) die een (of meer?) appeltje(s) plukken ... </text>
+      <html>&lt;p&gt;Befietst 2021-05-20 , prentjes : vanaf de Klokputweg verveegt het pad langzaam, tot het hier 'gewoon gemaaid gras' is : wie is er voldoende bekend om afdoend antwoord te geven of publiek recht op overpad werd opgeheven wegens in onbruik of zwaarwegens economisch belang (wandelaar(s) die een (of meer?) appeltje(s) plukken ... &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-17 07:34:04 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Befietst 16 jun'24 : veld langs de Klokputweg is geen boomgaard, betreft akker met graan; geen sporen van bewandeling , wel dam over grachtje - kennelijk voor toegang tot akker. 
+
+TO DO : boomgaard reeds verkleind / akker nog toe te voegen. </text>
+      <html>&lt;p&gt;Befietst 16 jun'24 : veld langs de Klokputweg is geen boomgaard, betreft akker met graan; geen sporen van bewandeling , wel dam over grachtje - kennelijk voor toegang tot akker. &lt;/p&gt;
+
+&lt;p&gt;TO DO : boomgaard reeds verkleind / akker nog toe te voegen. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

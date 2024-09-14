@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0149048" lat="50.8723221">
+  <id>2520821</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2520821</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2520821/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2520821/close</close_url>
+  <date_created>2021-02-01 10:42:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-02-01 10:42:51 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>is de weg van hier naar de school aangesloten op de Borrekenskerkweg? Is de weg vanaf de Molenstraat enkel toegangekelijk voor gebruikers van de school?</text>
+      <html>&lt;p&gt;is de weg van hier naar de school aangesloten op de Borrekenskerkweg? Is de weg vanaf de Molenstraat enkel toegangekelijk voor gebruikers van de school?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-15 12:52:40 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE @SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE @SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

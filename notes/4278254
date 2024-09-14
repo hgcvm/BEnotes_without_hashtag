@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1870915" lat="50.4769150">
+  <id>4278254</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4278254</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4278254/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4278254/close</close_url>
+  <date_created>2024-06-04 10:20:05 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-04 10:20:06 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>opened</action>
+      <text>CECP Hainaut (horaires sur photo)
+
+via StreetComplete_ee 57.4
+
+Attached photo(s):
+https://westnordost.de/p/216528.jpg</text>
+      <html>&lt;p&gt;CECP Hainaut (horaires sur photo)&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete_ee 57.4&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/216528.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/216528.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

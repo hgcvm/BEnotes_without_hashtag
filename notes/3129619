@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.9405673" lat="50.4802954">
+  <id>3129619</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3129619</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3129619/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3129619/close</close_url>
+  <date_created>2022-04-11 23:09:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-04-11 23:09:25 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Due to relentless (and useless) redrawing of the cliff and bar-rock area, the 'voie apline Jaune' is probably wrong as it goes over the cliff right now.</text>
+      <html>&lt;p&gt;Due to relentless (and useless) redrawing of the cliff and bar-rock area, the 'voie apline Jaune' is probably wrong as it goes over the cliff right now.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-13 11:59:24 UTC</date>
+      <uid>2109841</uid>
+      <user>Macumba Macaca</user>
+      <user_url>https://api.openstreetmap.org/user/Macumba%20Macaca</user_url>
+      <action>commented</action>
+      <text>Is there any kind of map of the voies alpines?</text>
+      <html>&lt;p&gt;Is there any kind of map of the voies alpines?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-14 19:33:58 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>commented</action>
+      <text>Good question, maybe some hiking map?</text>
+      <html>&lt;p&gt;Good question, maybe some hiking map?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

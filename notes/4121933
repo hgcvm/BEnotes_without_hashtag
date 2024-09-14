@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4192854" lat="51.1948415">
+  <id>4121933</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4121933</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4121933/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4121933/close</close_url>
+  <date_created>2024-02-21 11:47:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-21 11:47:55 UTC</date>
+      <action>opened</action>
+      <text>There is a passageway to the courtyard in the recent development ; there is another passage in the Koh-i-noor building.</text>
+      <html>&lt;p&gt;There is a passageway to the courtyard in the recent development ; there is another passage in the Koh-i-noor building.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-21 13:48:49 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>I see a gate access for who ?
+https://www.mapillary.com/app/?pKey=1088750465810319
+Koh is private ?
+https://www.mapillary.com/app/?pKey=742319674418441</text>
+      <html>&lt;p&gt;I see a gate access for who ?
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=1088750465810319" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1088750465810319&lt;/a&gt;
+&lt;br /&gt;Koh is private ?
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=742319674418441" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=742319674418441&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-21 22:33:05 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Oeps, zie deze note, net iets te laat: heb beide wegen toegevoegd als privaat aangezien dat me wel het geval leek via Mapillary en luchtbeelden. </text>
+      <html>&lt;p&gt;Oeps, zie deze note, net iets te laat: heb beide wegen toegevoegd als privaat aangezien dat me wel het geval leek via Mapillary en luchtbeelden. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-22 08:55:37 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>closed</action>
+      <text>@ p11 de doorgang 137 mogen geen auto's naar garage ? path is niet voor auto's ik kijk naar deze tabel https://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access_restrictions#Belgium</text>
+      <html>&lt;p&gt;@ p11 de doorgang 137 mogen geen auto's naar garage ? path is niet voor auto's ik kijk naar deze tabel &lt;a href="https://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access_restrictions#Belgium" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/OSM_tags_for_routing/Access_restrictions#Belgium&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-22 09:40:47 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-22 09:42:46 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>closed</action>
+      <text>Dag Jakka, ik was niet zeker maar ik vermoed het aangezien er geen doorsteek is over de trambedding naar de Grotesteenweg: auto's zouden dan over het trottoir moeten rijden, wat me vreemd lijkt. Ben wel niet helemaal zeker. </text>
+      <html>&lt;p&gt;Dag Jakka, ik was niet zeker maar ik vermoed het aangezien er geen doorsteek is over de trambedding naar de Grotesteenweg: auto's zouden dan over het trottoir moeten rijden, wat me vreemd lijkt. Ben wel niet helemaal zeker. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-22 09:58:59 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-22 09:59:59 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>closed</action>
+      <text>vreemde situatie geen enkele woning is dan bereikbaar ....</text>
+      <html>&lt;p&gt;vreemde situatie geen enkele woning is dan bereikbaar ....&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-24 11:19:21 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text>Zo hier géén oversteek tram staat : wat dan https://www.mapillary.com/app/?pKey=1080753846392155&amp;focus=photo ? 
+Op luchtfoto ziet u wagen geparkeerd, dat is 'common practice' , ook elders langs de Grotesteenweg;
+op https://www.mapillary.com/app/?pKey=6872660969498796&amp;focus=photo ziet u dat ook die parking -van advocaten- via de getoonde tram oversteek bediend wordt. 
+En nu ik u toch spreek : in beide onderdoorgangen brievenbussen, bellenpaneel en video parlofoon, in doorgang Klauwaardstraat geen bussen bellen.</text>
+      <html>&lt;p&gt;Zo hier géén oversteek tram staat : wat dan &lt;a href="https://www.mapillary.com/app/?pKey=1080753846392155&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1080753846392155&amp;amp;focus=photo&lt;/a&gt; ? 
+&lt;br /&gt;Op luchtfoto ziet u wagen geparkeerd, dat is 'common practice' , ook elders langs de Grotesteenweg;
+&lt;br /&gt;op &lt;a href="https://www.mapillary.com/app/?pKey=6872660969498796&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=6872660969498796&amp;amp;focus=photo&lt;/a&gt; ziet u dat ook die parking -van advocaten- via de getoonde tram oversteek bediend wordt. 
+&lt;br /&gt;En nu ik u toch spreek : in beide onderdoorgangen brievenbussen, bellenpaneel en video parlofoon, in doorgang Klauwaardstraat geen bussen bellen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-28 13:50:09 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>commented</action>
+      <text>Hier komen geen autos via deze web denk ik.
+
+Attached photo(s):
+https://westnordost.de/p/228180.jpg
+https://westnordost.de/p/228181.jpg</text>
+      <html>&lt;p&gt;Hier komen geen autos via deze web denk ik.&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/228180.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/228180.jpg&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/228181.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/228181.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="6.0293683" lat="50.6332738">
+  <id>2335504</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2335504</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2335504/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2335504/close</close_url>
+  <date_created>2020-09-04 16:55:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-09-04 16:55:20 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Die Gewächshäuser und andere Gebäude sind abgerissen. Es wird komplett neu bebaut und in einigen Bereichen sind die Rohbauten der Kellergeschosse gut voran geschritten.
+-
+https://www.grenzecho.net/33577/artikel/2020-03-23/der-eupener-simarstrasse-entsteht-ein-neues-oko-wohnviertel
+-
+https://www.grenzecho.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/03/23/node_33577/7482275/public/2020/03/23/B9723018327Z.1_20200323162939_000+G5VFP8M6O.1-0.jpg?itok=5vguHQVs1584977389
+-
+https://www.facebook.com/euImmobilien/photos/projektvorstellungwir-stellen-euch-das-neubauprojekt-neo-simarstraße-eupen-vor-s/1834394546691805/
+-
+.</text>
+      <html>&lt;p&gt;Die Gewächshäuser und andere Gebäude sind abgerissen. Es wird komplett neu bebaut und in einigen Bereichen sind die Rohbauten der Kellergeschosse gut voran geschritten.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.grenzecho.net/33577/artikel/2020-03-23/der-eupener-simarstrasse-entsteht-ein-neues-oko-wohnviertel" rel="nofollow noopener noreferrer"&gt;https://www.grenzecho.net/33577/artikel/2020-03-23/der-eupener-simarstrasse-entsteht-ein-neues-oko-wohnviertel&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.grenzecho.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/03/23/node_33577/7482275/public/2020/03/23/B9723018327Z.1_20200323162939_000+G5VFP8M6O.1-0.jpg?itok=5vguHQVs1584977389" rel="nofollow noopener noreferrer"&gt;https://www.grenzecho.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/03/23/node_33577/7482275/public/2020/03/23/B9723018327Z.1_20200323162939_000+G5VFP8M6O.1-0.jpg?itok=5vguHQVs1584977389&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.facebook.com/euImmobilien/photos/projektvorstellungwir-stellen-euch-das-neubauprojekt-neo-simarstraße-eupen-vor-s/1834394546691805/" rel="nofollow noopener noreferrer"&gt;https://www.facebook.com/euImmobilien/photos/projektvorstellungwir-stellen-euch-das-neubauprojekt-neo-simarstraße-eupen-vor-s/1834394546691805/&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-01 17:13:13 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Das gesamte Gelände ist im Grunde genommen bebaut und wird bewohnt oder es stehen Objekte zur Vermietung oder zum Kauf frei.
+-
+https://ne-np.facebook.com/euImmobilien/photos/a.779099605554643/1830588597072400
+-
+https://www.ostbelgien.net/Immobilien/Haeuser/Eupen/Neubauprojekt-Neo-Simarstrasse---Haus-Nr_01
+-
+https://objects.demetec.net/services/immo/objektbilder/133053/20220628163336902-4.jpg
+-
+Auf den Luftbildern ist leider so gut wie nichts zu erkennen.
+-
+https://www.openstreetmap.org/edit#map=18/50.63361/6.03001</text>
+      <html>&lt;p&gt;Das gesamte Gelände ist im Grunde genommen bebaut und wird bewohnt oder es stehen Objekte zur Vermietung oder zum Kauf frei.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://ne-np.facebook.com/euImmobilien/photos/a.779099605554643/1830588597072400" rel="nofollow noopener noreferrer"&gt;https://ne-np.facebook.com/euImmobilien/photos/a.779099605554643/1830588597072400&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.ostbelgien.net/Immobilien/Haeuser/Eupen/Neubauprojekt-Neo-Simarstrasse---Haus-Nr_01" rel="nofollow noopener noreferrer"&gt;https://www.ostbelgien.net/Immobilien/Haeuser/Eupen/Neubauprojekt-Neo-Simarstrasse---Haus-Nr_01&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://objects.demetec.net/services/immo/objektbilder/133053/20220628163336902-4.jpg" rel="nofollow noopener noreferrer"&gt;https://objects.demetec.net/services/immo/objektbilder/133053/20220628163336902-4.jpg&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;Auf den Luftbildern ist leider so gut wie nichts zu erkennen.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/edit#map=18/50.63361/6.03001" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/edit#map=18/50.63361/6.03001&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-01 18:04:24 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Ein aussagekräftiger Bericht hierzu auf BRF.
+-
+https://brf.be/regional/1600734/</text>
+      <html>&lt;p&gt;Ein aussagekräftiger Bericht hierzu auf BRF.
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://brf.be/regional/1600734/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1600734/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-28 10:25:05 UTC</date>
+      <uid>329453</uid>
+      <user>Biff</user>
+      <user_url>https://api.openstreetmap.org/user/Biff</user_url>
+      <action>commented</action>
+      <text>Inzwischen ist auf aktuellen Luftbildern einiges zu erkennen.</text>
+      <html>&lt;p&gt;Inzwischen ist auf aktuellen Luftbildern einiges zu erkennen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-28 12:46:34 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Mach ich mich die Tage mal peu a peu  dran. Vorher fahr ich Anfang Mai mal wieder nach Eupen. 
+
+Will auch die Fortschritte vom Bau des neuen Bushof und andere Objekte beschauen.</text>
+      <html>&lt;p&gt;Mach ich mich die Tage mal peu a peu  dran. Vorher fahr ich Anfang Mai mal wieder nach Eupen. &lt;/p&gt;
+
+&lt;p&gt;Will auch die Fortschritte vom Bau des neuen Bushof und andere Objekte beschauen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-01 07:05:49 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>12 neu errichtetet Gebäude im Eupener Rathaus-Viertel eingetragen. Hausnummern und weiteres in Bälde sobald bekannt.
+
+https://brf.be/regional/1600734/
+
+https://m.brf.be/beitraege/929589/
+
+
+</text>
+      <html>&lt;p&gt;12 neu errichtetet Gebäude im Eupener Rathaus-Viertel eingetragen. Hausnummern und weiteres in Bälde sobald bekannt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://brf.be/regional/1600734/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1600734/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://m.brf.be/beitraege/929589/" rel="nofollow noopener noreferrer"&gt;https://m.brf.be/beitraege/929589/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-01 16:11:24 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Also einige der Gebäude sind gerade mal im Rohbau (teilweise mit Verglasung) fertig. 
+
+In anderen Gebäuden finden noch umfangreichen Innenarbeiten statt.
+
+Die Außenbereiche haben noch nicht mal ansatzweise Gehwege, Grünanlagen, Beleuchtung oder andere urbane Standards.
+
+Das wird hier noch was dauern.</text>
+      <html>&lt;p&gt;Also einige der Gebäude sind gerade mal im Rohbau (teilweise mit Verglasung) fertig. &lt;/p&gt;
+
+&lt;p&gt;In anderen Gebäuden finden noch umfangreichen Innenarbeiten statt.&lt;/p&gt;
+
+&lt;p&gt;Die Außenbereiche haben noch nicht mal ansatzweise Gehwege, Grünanlagen, Beleuchtung oder andere urbane Standards.&lt;/p&gt;
+
+&lt;p&gt;Das wird hier noch was dauern.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-02 12:12:02 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Hab gerade noch etliche Gebäude in building = construction umgeschrieben.</text>
+      <html>&lt;p&gt;Hab gerade noch etliche Gebäude in building = construction umgeschrieben.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-26 17:11:20 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://brf.be/regional/1815647/
+
+"NEO, "neu"- so hat der Immobilienpromoter das Viertel genannt, das sich in bester Stadtlage Eupens zwischen Klosterkirche, Stadthaus und Friedhof erstreckt. Es ist die erste Etappe in einem Masterplan der Stadt, der das gesamte Gelände bis zum Friedenspark umfasst."</text>
+      <html>&lt;p&gt;&lt;a href="https://brf.be/regional/1815647/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1815647/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;"NEO, "neu"- so hat der Immobilienpromoter das Viertel genannt, das sich in bester Stadtlage Eupens zwischen Klosterkirche, Stadthaus und Friedhof erstreckt. Es ist die erste Etappe in einem Masterplan der Stadt, der das gesamte Gelände bis zum Friedenspark umfasst."&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-14 16:59:29 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Die Tage mal die Hausnummern einpflegen!!!
+
+</text>
+      <html>&lt;p&gt;Die Tage mal die Hausnummern einpflegen!!!&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-15 09:57:03 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Die Gebäude sind weitestgehend fertig und in großen Teilen bewohnt. 
+Hab die Adressen an den Eingängen eingetragen und die verkehrsberuhigten Wege im inneren Garten- und Parkbereich eingezeichnet.
+
+Die vielen anderen kleinen Dinge folgen sukzessive.</text>
+      <html>&lt;p&gt;Die Gebäude sind weitestgehend fertig und in großen Teilen bewohnt. 
+&lt;br /&gt;Hab die Adressen an den Eingängen eingetragen und die verkehrsberuhigten Wege im inneren Garten- und Parkbereich eingezeichnet.&lt;/p&gt;
+
+&lt;p&gt;Die vielen anderen kleinen Dinge folgen sukzessive.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

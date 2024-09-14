@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1589582" lat="51.0462507">
+  <id>2702694</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2702694</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2702694/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2702694/close</close_url>
+  <date_created>2021-06-07 09:55:14 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-06-07 09:55:14 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Om op te volgen , befietst 2021-06-05 : jaagpad onderbroken tot einde 2022</text>
+      <html>&lt;p&gt;Om op te volgen , befietst 2021-06-05 : jaagpad onderbroken tot einde 2022&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-30 10:50:42 UTC</date>
+      <uid>7911492</uid>
+      <user>StijnTOV</user>
+      <user_url>https://api.openstreetmap.org/user/StijnTOV</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-30 10:50:54 UTC</date>
+      <uid>7911492</uid>
+      <user>StijnTOV</user>
+      <user_url>https://api.openstreetmap.org/user/StijnTOV</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-12 18:12:49 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Tussen de twee pinnen alles op no gezet.
+Er lopen twee routes over ...wandelknooppunt 170-171 en Ros Beiaardroute Lokaal omleidingen voorzien ?</text>
+      <html>&lt;p&gt;Tussen de twee pinnen alles op no gezet.
+&lt;br /&gt;Er lopen twee routes over ...wandelknooppunt 170-171 en Ros Beiaardroute Lokaal omleidingen voorzien ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-12 21:14:55 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=322935256078941 https://www.mapillary.com/app/?pKey=588897592272031 https://www.mapillary.com/app/?pKey=840297770026436 https://www.mapillary.com/app/?pKey=240563674134269 : jaagpad onderbroken ma-vrij 06u - 18u , wkp 175 rechts, fiets rechtdoor https://www.mapillary.com/app/?pKey=364697211867326 jaagpad onderbroken 07u - 17u https://www.mapillary.com/app/?pKey=300473798264205 : kunt u 'm lezen?  https://www.mapillary.com/app/?pKey=4866298083397652 : fietsroutes terug ontdekt NOT : langs hrele traject vlinders aan palen, en oranje op wegdek geschilderd : omlegging?  https://www.mapillary.com/app/?pKey=830848887615568 : u vroeg naar 170? https://www.mapillary.com/app/?pKey=335842757981976 : weer die oranje vlinder - kennelijk géén omlegging?  https://www.mapillary.com/app/?pKey=131188625895421 : plakkertje 'NIET' : kennelijk geen duidelijke omlegging, trek een plan of zo ... </text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=322935256078941" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=322935256078941&lt;/a&gt; &lt;a href="https://www.mapillary.com/app/?pKey=588897592272031" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=588897592272031&lt;/a&gt; &lt;a href="https://www.mapillary.com/app/?pKey=840297770026436" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=840297770026436&lt;/a&gt; &lt;a href="https://www.mapillary.com/app/?pKey=240563674134269" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=240563674134269&lt;/a&gt; : jaagpad onderbroken ma-vrij 06u - 18u , wkp 175 rechts, fiets rechtdoor &lt;a href="https://www.mapillary.com/app/?pKey=364697211867326" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=364697211867326&lt;/a&gt; jaagpad onderbroken 07u - 17u &lt;a href="https://www.mapillary.com/app/?pKey=300473798264205" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=300473798264205&lt;/a&gt; : kunt u 'm lezen?  &lt;a href="https://www.mapillary.com/app/?pKey=4866298083397652" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=4866298083397652&lt;/a&gt; : fietsroutes terug ontdekt NOT : langs hrele traject vlinders aan palen, en oranje op wegdek geschilderd : omlegging?  &lt;a href="https://www.mapillary.com/app/?pKey=830848887615568" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=830848887615568&lt;/a&gt; : u vroeg naar 170? &lt;a href="https://www.mapillary.com/app/?pKey=335842757981976" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=335842757981976&lt;/a&gt; : weer die oranje vlinder - kennelijk géén omlegging?  &lt;a href="https://www.mapillary.com/app/?pKey=131188625895421" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=131188625895421&lt;/a&gt; : plakkertje 'NIET' : kennelijk geen duidelijke omlegging, trek een plan of zo ... &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-13 07:43:21 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Dat is om gemakkelijk te maken twee verschillende doorgangs-uren ?</text>
+      <html>&lt;p&gt;Dat is om gemakkelijk te maken twee verschillende doorgangs-uren ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-13 08:27:31 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Gezien dijkpad omweg betreft én smoothness bovenop nieuwe deel matig is zou ik - please correct me if I'm wrong - access=sat+sun hebben ingegeven? Doel is uiteindelijk kwetsbare gebruikers buiten bereik van 'heavy construction machinery' te houden? 
+Most important is dat pad bij note-pin wegens bouw uitwateringssluis volledig onderbroken is, volgens bordje tot april 2022, volgens https://www.openstreetmap.org/note/2892056 tot einde 2022. 
+'Om op te volgen'</text>
+      <html>&lt;p&gt;Gezien dijkpad omweg betreft én smoothness bovenop nieuwe deel matig is zou ik - please correct me if I'm wrong - access=sat+sun hebben ingegeven? Doel is uiteindelijk kwetsbare gebruikers buiten bereik van 'heavy construction machinery' te houden? 
+&lt;br /&gt;Most important is dat pad bij note-pin wegens bouw uitwateringssluis volledig onderbroken is, volgens bordje tot april 2022, volgens &lt;a href="https://www.openstreetmap.org/note/2892056" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/2892056&lt;/a&gt; tot einde 2022. 
+&lt;br /&gt;'Om op te volgen'&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-13 08:50:25 UTC</date>
+      <uid>14279830</uid>
+      <user>Toerisme Oost-Vlaanderen vzw</user>
+      <user_url>https://api.openstreetmap.org/user/Toerisme%20Oost-Vlaanderen%20vzw</user_url>
+      <action>commented</action>
+      <text>Omdat de Sigmawerken een werk van lange adem en lange duur zijn heeft ToerOVL het FNW (fietsnetwerk) bij de laatste herwerking (permanent) aangepast om deze 'werfzone' volledig te omzeilen. In 2025 volgt waarschijnlijk een nieuwe (permanente) aanpassing ifv de Sigma realisaties. Het WNW (wandelnetwerk) gaat wek door deze 'werfzone'. Op de online routeplanner (https://www.routen.be/wandelrouteplanner) wordt deze zone aangeduid als niet routeerbaar. Op terrein zou in principe op KP 170, 174 en 176 de verwijzingen naar respectievelijke 171, 173 en 177 moeten zijn afgeplakt met oranje sticker niet bereikbaar. Volgende week gaat iemand van ToerOVL ter plaatse om de situatie nog eens te controleren! </text>
+      <html>&lt;p&gt;Omdat de Sigmawerken een werk van lange adem en lange duur zijn heeft ToerOVL het FNW (fietsnetwerk) bij de laatste herwerking (permanent) aangepast om deze 'werfzone' volledig te omzeilen. In 2025 volgt waarschijnlijk een nieuwe (permanente) aanpassing ifv de Sigma realisaties. Het WNW (wandelnetwerk) gaat wek door deze 'werfzone'. Op de online routeplanner (&lt;a href="https://www.routen.be/wandelrouteplanner" rel="nofollow noopener noreferrer"&gt;https://www.routen.be/wandelrouteplanner&lt;/a&gt;) wordt deze zone aangeduid als niet routeerbaar. Op terrein zou in principe op KP 170, 174 en 176 de verwijzingen naar respectievelijke 171, 173 en 177 moeten zijn afgeplakt met oranje sticker niet bereikbaar. Volgende week gaat iemand van ToerOVL ter plaatse om de situatie nog eens te controleren! &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-13 08:54:55 UTC</date>
+      <uid>14279830</uid>
+      <user>Toerisme Oost-Vlaanderen vzw</user>
+      <user_url>https://api.openstreetmap.org/user/Toerisme%20Oost-Vlaanderen%20vzw</user_url>
+      <action>commented</action>
+      <text>De bebording van de door ToerOVL apart bewegwijzerde (zeshoekjes, rood opschrift) Ros Beiaard route werd in principe al geruime tijd weggenomen ... tenzij er in deze zone nog enkele zijn achtergebleven net omwille van ontoegankelijkheid op het ogenblik van het wegnemen.</text>
+      <html>&lt;p&gt;De bebording van de door ToerOVL apart bewegwijzerde (zeshoekjes, rood opschrift) Ros Beiaard route werd in principe al geruime tijd weggenomen ... tenzij er in deze zone nog enkele zijn achtergebleven net omwille van ontoegankelijkheid op het ogenblik van het wegnemen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-12-04 15:32:31 UTC</date>
+      <uid>16456565</uid>
+      <user>Pikachu4live</user>
+      <user_url>https://api.openstreetmap.org/user/Pikachu4live</user_url>
+      <action>closed</action>
+      <text>reeds terug open, hier is een sluis gerealiseerd </text>
+      <html>&lt;p&gt;reeds terug open, hier is een sluis gerealiseerd &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-12-04 16:09:19 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-12-04 16:12:12 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Aardig, dat u de note sloot; weet u in hoeverre de kaart werd bijgewerkt door de in-/uitlaatsluis en toekomende waterloop in te tekenen? 
+Dient access:all=no nu ook aangepast te worden? </text>
+      <html>&lt;p&gt;Aardig, dat u de note sloot; weet u in hoeverre de kaart werd bijgewerkt door de in-/uitlaatsluis en toekomende waterloop in te tekenen? 
+&lt;br /&gt;Dient access:all=no nu ook aangepast te worden? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-12-06 11:31:36 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Op basis info Pikachu4life access=yes gemaakt ; in-/uitlaatsluis zichtbaar op AIV lucht prelim, waterlopen nog niet. Laat note nog even staan?</text>
+      <html>&lt;p&gt;Op basis info Pikachu4life access=yes gemaakt ; in-/uitlaatsluis zichtbaar op AIV lucht prelim, waterlopen nog niet. Laat note nog even staan?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-15 14:25:34 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dient hier nog iets gemapt te worden?</text>
+      <html>&lt;p&gt;dient hier nog iets gemapt te worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-03 16:44:33 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>verse prentjes 1 jul'24 : vanaf dwarsdijk is Scheldedijk min-of-meer verboden, doch die rasters hangen ergens in 't struweel; wel bij Vlassenbroek een poort met hangslot; surface en acces bijgewerkt, zal in de toekomst verder veranderen naarmate werf-bres bij Broekstraat eindelijk gesloten wordt; onder andere overloopdijk langs Schelde. Zag ergens 'einde 2026' - dit duurt dan nog even, zie ook de verlaagde dijk prentjes 1 jul'24 noordelijke dijk.</text>
+      <html>&lt;p&gt;verse prentjes 1 jul'24 : vanaf dwarsdijk is Scheldedijk min-of-meer verboden, doch die rasters hangen ergens in 't struweel; wel bij Vlassenbroek een poort met hangslot; surface en acces bijgewerkt, zal in de toekomst verder veranderen naarmate werf-bres bij Broekstraat eindelijk gesloten wordt; onder andere overloopdijk langs Schelde. Zag ergens 'einde 2026' - dit duurt dan nog even, zie ook de verlaagde dijk prentjes 1 jul'24 noordelijke dijk.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

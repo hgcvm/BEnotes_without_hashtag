@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4949961" lat="51.2526994">
+  <id>4060318</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4060318</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4060318/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4060318/close</close_url>
+  <date_created>2024-01-10 01:31:41 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-10 01:31:41 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>opened</action>
+      <text>Verkeersplan van gemeente Schoten dat start in januari 2024 en minstens zes maanden loopt.
+
+Drie barrieres werden toegevoegd: een op deze pin, en twee andere op ieder van de bogen bij het marktplein.  
+
+Dient herbekeken te worden na afloop van termijn van zes maanden.
+
+Relevante bron: https://www.nieuwsblad.be/cnt/dmf20240108_96600039</text>
+      <html>&lt;p&gt;Verkeersplan van gemeente Schoten dat start in januari 2024 en minstens zes maanden loopt.&lt;/p&gt;
+
+&lt;p&gt;Drie barrieres werden toegevoegd: een op deze pin, en twee andere op ieder van de bogen bij het marktplein.  &lt;/p&gt;
+
+&lt;p&gt;Dient herbekeken te worden na afloop van termijn van zes maanden.&lt;/p&gt;
+
+&lt;p&gt;Relevante bron: &lt;a href="https://www.nieuwsblad.be/cnt/dmf20240108_96600039" rel="nofollow noopener noreferrer"&gt;https://www.nieuwsblad.be/cnt/dmf20240108_96600039&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-05 21:22:19 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>barrier=block is reeds gemapt door uzelf https://www.openstreetmap.org/node/11504784873</text>
+      <html>&lt;p&gt;barrier=block is reeds gemapt door uzelf &lt;a href="https://www.openstreetmap.org/node/11504784873" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/11504784873&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-05 22:04:35 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-05 22:06:10 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Inderdaad, maar aangezien de opstelling slechts tijdelijk is (6 maanden), en veranderingen op meerdere plekken werden aangebracht, leek het me logisch een note te plaatsen om dit opnieuw te bekijken na afloop van de termijn. </text>
+      <html>&lt;p&gt;Inderdaad, maar aangezien de opstelling slechts tijdelijk is (6 maanden), en veranderingen op meerdere plekken werden aangebracht, leek het me logisch een note te plaatsen om dit opnieuw te bekijken na afloop van de termijn. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 04:22:10 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Aanpassing op til, termijn onduidelijk:
+
+https://www.gva.be/cnt/dmf20240614_92915059</text>
+      <html>&lt;p&gt;Aanpassing op til, termijn onduidelijk:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gva.be/cnt/dmf20240614_92915059" rel="nofollow noopener noreferrer"&gt;https://www.gva.be/cnt/dmf20240614_92915059&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 17:21:34 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

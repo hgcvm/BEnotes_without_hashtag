@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4187202" lat="51.1623965">
+  <id>2964066</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2964066</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2964066/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2964066/close</close_url>
+  <date_created>2021-12-08 15:19:07 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-12-08 15:19:07 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>In deze buurt zijn veel straten met bomen. Nog te mappen?
+
+via StreetComplete 38.1</text>
+      <html>&lt;p&gt;In deze buurt zijn veel straten met bomen. Nog te mappen?&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 38.1&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-02-12 09:14:16 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Gezien er geen respons kwam op uw vraag : mijn gedachte zou zijn die lanen waar forse bomen een (bijna) aaneengesloten rij vormen van 'row of trees' te voorzien, andere wegen waar her en der een miniem boompje tracht te overleven vooralsnog over te slaan? 
+
+Daarbij zou ik er niet voor kiezen elke boom apart op de kaart te zetten - tenzij het unieke exemplaren -bijvoorbeeld in een arboretum- betreft, dewelke in dat geval ook van soortnaam en andere details (stam- en kroon omvang, hoogte, jaar en door wie geplant) worden voorzien ... </text>
+      <html>&lt;p&gt;Gezien er geen respons kwam op uw vraag : mijn gedachte zou zijn die lanen waar forse bomen een (bijna) aaneengesloten rij vormen van 'row of trees' te voorzien, andere wegen waar her en der een miniem boompje tracht te overleven vooralsnog over te slaan? &lt;/p&gt;
+
+&lt;p&gt;Daarbij zou ik er niet voor kiezen elke boom apart op de kaart te zetten - tenzij het unieke exemplaren -bijvoorbeeld in een arboretum- betreft, dewelke in dat geval ook van soortnaam en andere details (stam- en kroon omvang, hoogte, jaar en door wie geplant) worden voorzien ... &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

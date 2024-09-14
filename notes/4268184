@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7622400" lat="51.4073400">
+  <id>4268184</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4268184</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4268184/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4268184/close</close_url>
+  <date_created>2024-05-27 19:11:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-27 19:11:53 UTC</date>
+      <action>opened</action>
+      <text>Dit deel van de Moerstraat is éénrichting richting Boxtelstraat en tot deze straat.</text>
+      <html>&lt;p&gt;Dit deel van de Moerstraat is éénrichting richting Boxtelstraat en tot deze straat.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-27 20:11:49 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>oneway=yes + oneway:bicycle=no</text>
+      <html>&lt;p&gt;oneway=yes + oneway:bicycle=no&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

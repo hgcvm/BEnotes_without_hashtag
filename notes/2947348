@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7267041" lat="51.0705942">
+  <id>2947348</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2947348</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2947348/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2947348/close</close_url>
+  <date_created>2021-11-24 10:04:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-11-24 10:04:30 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Heraanleg Wiedauwkaai (2023?)
+
+https://wegenenverkeer.be/werken/heraanleg-wiedauwkaai-naar-een-veiligere-en-vlottere-verbindingsweg</text>
+      <html>&lt;p&gt;Heraanleg Wiedauwkaai (2023?)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://wegenenverkeer.be/werken/heraanleg-wiedauwkaai-naar-een-veiligere-en-vlottere-verbindingsweg" rel="nofollow noopener noreferrer"&gt;https://wegenenverkeer.be/werken/heraanleg-wiedauwkaai-naar-een-veiligere-en-vlottere-verbindingsweg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-31 01:52:51 UTC</date>
+      <uid>18381660</uid>
+      <user>Knnf</user>
+      <user_url>https://api.openstreetmap.org/user/Knnf</user_url>
+      <action>commented</action>
+      <text>Roadworks starting soon</text>
+      <html>&lt;p&gt;Roadworks starting soon&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-01 14:06:49 UTC</date>
+      <uid>5423278</uid>
+      <user>thpar</user>
+      <user_url>https://api.openstreetmap.org/user/thpar</user_url>
+      <action>closed</action>
+      <text>Construction works finished</text>
+      <html>&lt;p&gt;Construction works finished&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-01 14:31:09 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 11:44:12 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp eind 2025</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp eind 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

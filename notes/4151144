@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3566400" lat="50.8616700">
+  <id>4151144</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4151144</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4151144/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4151144/close</close_url>
+  <date_created>2024-03-13 11:18:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-13 11:18:54 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>Constructions works are only finished on the building part called Bâtiment Marie-Elisabeth Belpaire - Marie-Elisabeth Belpairegebouw not all the building (rest of the building is the Zin project that will be an hotel and appartements). 
+
+Finished part : 
+
+https://www.mapillary.com/app/?pKey=973068380819656
+
+Near "CASCO" part : https://www.mapillary.com/app/?pKey=1629470911156966 (still installing EPDM water evacuation ...)
+
+Not finished at all (glass atrium) : 
+
+https://www.mapillary.com/app/?pKey=385087190968549</text>
+      <html>&lt;p&gt;Constructions works are only finished on the building part called Bâtiment Marie-Elisabeth Belpaire - Marie-Elisabeth Belpairegebouw not all the building (rest of the building is the Zin project that will be an hotel and appartements). &lt;/p&gt;
+
+&lt;p&gt;Finished part : &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=973068380819656" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=973068380819656&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Near "CASCO" part : &lt;a href="https://www.mapillary.com/app/?pKey=1629470911156966" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1629470911156966&lt;/a&gt; (still installing EPDM water evacuation ...)&lt;/p&gt;
+
+&lt;p&gt;Not finished at all (glass atrium) : &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=385087190968549" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=385087190968549&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-13 11:21:44 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>+ building level is probably not correct too (14 is the interconnected levels ; probably 28 but need survey and more research to fix this part).
+</text>
+      <html>&lt;p&gt;+ building level is probably not correct too (14 is the interconnected levels ; probably 28 but need survey and more research to fix this part).
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-13 16:44:44 UTC</date>
+      <uid>2644288</uid>
+      <user>bxl-forever</user>
+      <user_url>https://api.openstreetmap.org/user/bxl-forever</user_url>
+      <action>commented</action>
+      <text>Grrr, we always have to verify and redo what this mapper does.</text>
+      <html>&lt;p&gt;Grrr, we always have to verify and redo what this mapper does.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-15 02:55:56 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>For the name : 
+
+Zin : "Avec 110.000 m2, c’est une des plus importantes opérations immobilières bruxelloises de ces dernières année" (...) "L’objectif est de réaliser 75.000 m2 de bureaux dans la partie qui sera baptisée « immeuble Marie-Élisabeth Belpaire »" =&gt; https://a-plus.be/fr/projet/un-cheval-de-troie-dans-le-quartier-nord/
+
+"Le bâtiment Marie-Elisabeth Belpaire fait partie du projet ZIN, qui comprend non seulement des bureaux et des espaces de coworking, mais aussi des espaces de vie avec des appartements, un hôtel et des commerces." =&gt; https://zin.brussels/fr/news/pose-de-la-premiere-pierre-symbolique-du-nouvel-immeuble-de-bureaux/
+
+"Ce partenariat, d'une durée de 18 années, concrétise la stratégie immobilière de l’Administration flamande qui vise à centraliser son activité dans le BX Nord au sein de trois édifices. Cette dernière occupera 75 000 m² au sein du ZIN, ce qui permettra d'accueillir environ 4 800 employés. Les employés de l’Administration flamande ont choisi de nommer leur lieu de travail "Bâtiment Marie-Elisabeth Belpaire", en hommage à l'écrivaine flamande qui a activement œuvré pour l'amélioration de l'éducation des jeunes filles en Flandre."  =&gt; https://www.befimmo.be/fr/news/befimmo-accueille-ladministration-flamande-comme-nouveau-locataire-du-zin
+
+To finish this part for the name ; common sence : how a tenant can name a all building he doesn't own or rent ? 
+
+Official address will be Simon Bolivarlaan 17 (Urbis is not uptodate for this at the moment).
+
+Other names of buildings parts : 
+
+Zen @ Zin : https://zin.brussels/fr/zen/ 
+https://www.mapillary.com/app/?pKey=1495852614152945 (expecting end of the works summer 2024).
+
+This part will be finished on autumn 2024 https://www.mapillary.com/app/?pKey=2178116172519909 (hotel and appartements).
+
+For the levels i miss explaining in my previous comment ; there is a "Zebra" concept : https://www.circubuild.be/nl/nieuws/zin-als-zebra-verweven-functies-in-het-brusselse-landschap/</text>
+      <html>&lt;p&gt;For the name : &lt;/p&gt;
+
+&lt;p&gt;Zin : "Avec 110.000 m2, c’est une des plus importantes opérations immobilières bruxelloises de ces dernières année" (...) "L’objectif est de réaliser 75.000 m2 de bureaux dans la partie qui sera baptisée « immeuble Marie-Élisabeth Belpaire »" =&amp;gt; &lt;a href="https://a-plus.be/fr/projet/un-cheval-de-troie-dans-le-quartier-nord/" rel="nofollow noopener noreferrer"&gt;https://a-plus.be/fr/projet/un-cheval-de-troie-dans-le-quartier-nord/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;"Le bâtiment Marie-Elisabeth Belpaire fait partie du projet ZIN, qui comprend non seulement des bureaux et des espaces de coworking, mais aussi des espaces de vie avec des appartements, un hôtel et des commerces." =&amp;gt; &lt;a href="https://zin.brussels/fr/news/pose-de-la-premiere-pierre-symbolique-du-nouvel-immeuble-de-bureaux/" rel="nofollow noopener noreferrer"&gt;https://zin.brussels/fr/news/pose-de-la-premiere-pierre-symbolique-du-nouvel-immeuble-de-bureaux/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;"Ce partenariat, d'une durée de 18 années, concrétise la stratégie immobilière de l’Administration flamande qui vise à centraliser son activité dans le BX Nord au sein de trois édifices. Cette dernière occupera 75 000 m² au sein du ZIN, ce qui permettra d'accueillir environ 4 800 employés. Les employés de l’Administration flamande ont choisi de nommer leur lieu de travail "Bâtiment Marie-Elisabeth Belpaire", en hommage à l'écrivaine flamande qui a activement œuvré pour l'amélioration de l'éducation des jeunes filles en Flandre."  =&amp;gt; &lt;a href="https://www.befimmo.be/fr/news/befimmo-accueille-ladministration-flamande-comme-nouveau-locataire-du-zin" rel="nofollow noopener noreferrer"&gt;https://www.befimmo.be/fr/news/befimmo-accueille-ladministration-flamande-comme-nouveau-locataire-du-zin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To finish this part for the name ; common sence : how a tenant can name a all building he doesn't own or rent ? &lt;/p&gt;
+
+&lt;p&gt;Official address will be Simon Bolivarlaan 17 (Urbis is not uptodate for this at the moment).&lt;/p&gt;
+
+&lt;p&gt;Other names of buildings parts : &lt;/p&gt;
+
+&lt;p&gt;Zen @ Zin : &lt;a href="https://zin.brussels/fr/zen/" rel="nofollow noopener noreferrer"&gt;https://zin.brussels/fr/zen/&lt;/a&gt; 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=1495852614152945" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1495852614152945&lt;/a&gt; (expecting end of the works summer 2024).&lt;/p&gt;
+
+&lt;p&gt;This part will be finished on autumn 2024 &lt;a href="https://www.mapillary.com/app/?pKey=2178116172519909" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=2178116172519909&lt;/a&gt; (hotel and appartements).&lt;/p&gt;
+
+&lt;p&gt;For the levels i miss explaining in my previous comment ; there is a "Zebra" concept : &lt;a href="https://www.circubuild.be/nl/nieuws/zin-als-zebra-verweven-functies-in-het-brusselse-landschap/" rel="nofollow noopener noreferrer"&gt;https://www.circubuild.be/nl/nieuws/zin-als-zebra-verweven-functies-in-het-brusselse-landschap/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-15 07:33:38 UTC</date>
+      <uid>16794559</uid>
+      <user>RaphaelPasloin_mobile</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin_mobile</user_url>
+      <action>commented</action>
+      <text>Info from bpc surveyor : Underground level 5. Total level 32 hé count from -5 including Roof top part Office have only impair level that interconnet the 3 buildings parts. Pair level is appartement and hôtel that don t connect beetween buildings parts.</text>
+      <html>&lt;p&gt;Info from bpc surveyor : Underground level 5. Total level 32 hé count from -5 including Roof top part Office have only impair level that interconnet the 3 buildings parts. Pair level is appartement and hôtel that don t connect beetween buildings parts.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-26 12:13:43 UTC</date>
+      <uid>16794559</uid>
+      <user>RaphaelPasloin_mobile</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin_mobile</user_url>
+      <action>commented</action>
+      <text>According to secretaris van Vlaams minister voor Brussel , the greenhouse part is done and open to the public. But i spotted somme Works remaining 2 days ago. </text>
+      <html>&lt;p&gt;According to secretaris van Vlaams minister voor Brussel , the greenhouse part is done and open to the public. But i spotted somme Works remaining 2 days ago. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 02:50:37 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/Jd7itwS.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/Jd7itwS.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/Jd7itwS.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 02:50:38 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/mzaUjoJ.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/mzaUjoJ.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/mzaUjoJ.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7396109" lat="51.0016509">
+  <id>2550264</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2550264</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2550264/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2550264/close</close_url>
+  <date_created>2021-02-23 11:32:05 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-02-23 11:32:05 UTC</date>
+      <action>opened</action>
+      <text>Hier plant men tegen eind 2022 een fietsbrug die de Zwijnaardsesteenweg met het eiland verbindt. (bron https://www.merelbeke.be/nieuws/nieuwe-fietsersbrug-tussen-merelbeke-en-eiland-zwijnaarde-2022)</text>
+      <html>&lt;p&gt;Hier plant men tegen eind 2022 een fietsbrug die de Zwijnaardsesteenweg met het eiland verbindt. (bron &lt;a href="https://www.merelbeke.be/nieuws/nieuwe-fietsersbrug-tussen-merelbeke-en-eiland-zwijnaarde-2022" rel="nofollow noopener noreferrer"&gt;https://www.merelbeke.be/nieuws/nieuwe-fietsersbrug-tussen-merelbeke-en-eiland-zwijnaarde-2022&lt;/a&gt;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-04 11:27:03 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>closed</action>
+      <text>Update: kan nog wel tijdje duren: er is een nieuwe vergunning aangevraagd, https://www.pzc.nl/gent/kan-bouw-fietsbrug-richting-eiland-zwijnaarde-opnieuw-starten-nieuwe-vergunning-aangevraagd-voor-project-van-2-miljoen-euro~a6824767/ op 27/03/23</text>
+      <html>&lt;p&gt;Update: kan nog wel tijdje duren: er is een nieuwe vergunning aangevraagd, &lt;a href="https://www.pzc.nl/gent/kan-bouw-fietsbrug-richting-eiland-zwijnaarde-opnieuw-starten-nieuwe-vergunning-aangevraagd-voor-project-van-2-miljoen-euro~a6824767/" rel="nofollow noopener noreferrer"&gt;https://www.pzc.nl/gent/kan-bouw-fietsbrug-richting-eiland-zwijnaarde-opnieuw-starten-nieuwe-vergunning-aangevraagd-voor-project-van-2-miljoen-euro~a6824767/&lt;/a&gt; op 27/03/23&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-04 11:27:14 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-02 15:50:18 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>Update: werken herstart april '24. Voorzien klaar: zomer '25.
+https://www.vlaamsewaterweg.be/nieuws/heropstart-bouw-nieuwe-fietsbrug-naar-eiland-zwijnaarde</text>
+      <html>&lt;p&gt;Update: werken herstart april '24. Voorzien klaar: zomer '25.
+&lt;br /&gt;&lt;a href="https://www.vlaamsewaterweg.be/nieuws/heropstart-bouw-nieuwe-fietsbrug-naar-eiland-zwijnaarde" rel="nofollow noopener noreferrer"&gt;https://www.vlaamsewaterweg.be/nieuws/heropstart-bouw-nieuwe-fietsbrug-naar-eiland-zwijnaarde&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-07 09:21:19 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp in zomer 2025</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp in zomer 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

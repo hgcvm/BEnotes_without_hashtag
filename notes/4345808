@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2319143" lat="51.1141532">
+  <id>4345808</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4345808</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4345808/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4345808/close</close_url>
+  <date_created>2024-07-22 20:22:28 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-22 20:22:28 UTC</date>
+      <uid>13062237</uid>
+      <user>DieterDavid</user>
+      <user_url>https://api.openstreetmap.org/user/DieterDavid</user_url>
+      <action>opened</action>
+      <text>Ik stel voor om (ook) dit pad weg te doen. Bij inspectie ter plaatse niet te zien.
+Het gaat om dit stuk tot het volgende pad (dat wel nog aanwezig is)</text>
+      <html>&lt;p&gt;Ik stel voor om (ook) dit pad weg te doen. Bij inspectie ter plaatse niet te zien.
+&lt;br /&gt;Het gaat om dit stuk tot het volgende pad (dat wel nog aanwezig is)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-24 08:11:20 UTC</date>
+      <uid>428001</uid>
+      <user>wegspotter</user>
+      <user_url>https://api.openstreetmap.org/user/wegspotter</user_url>
+      <action>closed</action>
+      <text>Toch nog wel wat Strava-gebruik op deze plaats. Op luchtfoto's zie je dat de stroken bereden/gemaaid zijn. Het zou kunnen zijn dat deze terug ingroeien, zodat er nu niks zichtbaar is? Misschien tagschema aanvullen?
+surface=grass &amp; trail_visibility=none/bad?</text>
+      <html>&lt;p&gt;Toch nog wel wat Strava-gebruik op deze plaats. Op luchtfoto's zie je dat de stroken bereden/gemaaid zijn. Het zou kunnen zijn dat deze terug ingroeien, zodat er nu niks zichtbaar is? Misschien tagschema aanvullen?
+&lt;br /&gt;surface=grass &amp;amp; trail_visibility=none/bad?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-24 08:11:46 UTC</date>
+      <uid>428001</uid>
+      <user>wegspotter</user>
+      <user_url>https://api.openstreetmap.org/user/wegspotter</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-30 10:18:49 UTC</date>
+      <uid>13062237</uid>
+      <user>DieterDavid</user>
+      <user_url>https://api.openstreetmap.org/user/DieterDavid</user_url>
+      <action>commented</action>
+      <text>nog eens langs gereden. langs de rooiveldstraat staat een bord 'privaat domein .verboden toegang'. meer strava activiteit zal dus normaal niet volgen</text>
+      <html>&lt;p&gt;nog eens langs gereden. langs de rooiveldstraat staat een bord 'privaat domein .verboden toegang'. meer strava activiteit zal dus normaal niet volgen&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

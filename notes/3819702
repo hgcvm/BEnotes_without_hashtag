@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.5242755" lat="50.0360003">
+  <id>3819702</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3819702</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3819702/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3819702/close</close_url>
+  <date_created>2023-08-06 15:23:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-06 15:23:51 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>opened</action>
+      <text>should have a charging station for bike. https://www.ardennebelge.be/fr/outils/bornes-velos-electriques.php</text>
+      <html>&lt;p&gt;should have a charging station for bike. &lt;a href="https://www.ardennebelge.be/fr/outils/bornes-velos-electriques.php" rel="nofollow noopener noreferrer"&gt;https://www.ardennebelge.be/fr/outils/bornes-velos-electriques.php&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 12:41:59 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

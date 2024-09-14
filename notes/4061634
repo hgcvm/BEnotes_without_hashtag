@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6546996" lat="50.9305044">
+  <id>4061634</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4061634</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4061634/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4061634/close</close_url>
+  <date_created>2024-01-11 04:14:14 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-11 04:14:14 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>IN deze fietsenstalling is hoogstwaarschijnlijk een fietspomp (op basis van Velopark.be). Indien je ter plaatse passeert, voeg je deze toe?
+
+Dit kan eenvoudig met MapComplete:
+https://mapcomplete.org/cyclofix.html?z=18&amp;lat=50.93049&amp;lon=3.65477#import amenity=bicycle_repair_station
+service:bicycle:tools=no
+service:bicycle:pump=yes</text>
+      <html>&lt;p&gt;IN deze fietsenstalling is hoogstwaarschijnlijk een fietspomp (op basis van Velopark.be). Indien je ter plaatse passeert, voeg je deze toe?&lt;/p&gt;
+
+&lt;p&gt;Dit kan eenvoudig met MapComplete:
+&lt;br /&gt;&lt;a href="https://mapcomplete.org/cyclofix.html?z=18&amp;amp;lat=50.93049&amp;amp;lon=3.65477#import" rel="nofollow noopener noreferrer"&gt;https://mapcomplete.org/cyclofix.html?z=18&amp;amp;lat=50.93049&amp;amp;lon=3.65477#import&lt;/a&gt; amenity=bicycle_repair_station
+&lt;br /&gt;service:bicycle:tools=no
+&lt;br /&gt;service:bicycle:pump=yes&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

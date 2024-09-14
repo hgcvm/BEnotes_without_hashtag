@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8269554" lat="49.6069057">
+  <id>4065295</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4065295</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4065295/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4065295/close</close_url>
+  <date_created>2024-01-13 13:22:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-13 13:22:06 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>opened</action>
+      <text>In context of "Surfaces" overlay for https://osm.org/way/1033594881 via StreetComplete 56.0:
+
+Vegetation, and private forest!
+
+Attached photo(s):
+https://westnordost.de/p/192635.jpg</text>
+      <html>&lt;p&gt;In context of "Surfaces" overlay for &lt;a href="https://osm.org/way/1033594881" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/1033594881&lt;/a&gt; via StreetComplete 56.0:&lt;/p&gt;
+
+&lt;p&gt;Vegetation, and private forest!&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/192635.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/192635.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-13 16:55:02 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text>Shortened it and set to private.</text>
+      <html>&lt;p&gt;Shortened it and set to private.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 13:25:01 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 14:58:23 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>There are many parcels. The private sign you showed is only for the overgrown passage with high grasses near the fence on parcels 907B 907C. You've put  the track as private though which is on another parcel 927 and deleted the rest of the way going through parcels 926A and 927. One private sign for a parcel is not necessarily one for the others. 
+
+Apparently people pass on these parcels as shown on Strava activities one only 4 days before you deleted it https://www.strava.com/activities/10526379143 and in 2023 https://www.strava.com/activities/9038368641 ,
+https://www.strava.com/activities/9038199083
+
+Where is the evidence that these are private and did you contact Cadastre of Belgium?</text>
+      <html>&lt;p&gt;There are many parcels. The private sign you showed is only for the overgrown passage with high grasses near the fence on parcels 907B 907C. You've put  the track as private though which is on another parcel 927 and deleted the rest of the way going through parcels 926A and 927. One private sign for a parcel is not necessarily one for the others. &lt;/p&gt;
+
+&lt;p&gt;Apparently people pass on these parcels as shown on Strava activities one only 4 days before you deleted it &lt;a href="https://www.strava.com/activities/10526379143" rel="nofollow noopener noreferrer"&gt;https://www.strava.com/activities/10526379143&lt;/a&gt; and in 2023 &lt;a href="https://www.strava.com/activities/9038368641" rel="nofollow noopener noreferrer"&gt;https://www.strava.com/activities/9038368641&lt;/a&gt; ,
+&lt;br /&gt;&lt;a href="https://www.strava.com/activities/9038199083" rel="nofollow noopener noreferrer"&gt;https://www.strava.com/activities/9038199083&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Where is the evidence that these are private and did you contact Cadastre of Belgium?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:54:29 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:56:27 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:41:12 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:44:03 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 19:43:36 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>There appear to be a few similar notes around here. If there is no verifiable information available that confirms that this specific section of path is private, I would not map it as such. And definitely do not delete it! `access=private` exists for good reason.</text>
+      <html>&lt;p&gt;There appear to be a few similar notes around here. If there is no verifiable information available that confirms that this specific section of path is private, I would not map it as such. And definitely do not delete it! `access=private` exists for good reason.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

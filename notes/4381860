@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.7116461" lat="50.1384328">
+  <id>4381860</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4381860</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4381860/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4381860/close</close_url>
+  <date_created>2024-08-13 13:37:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-13 13:37:59 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>Is there really a ford here?</text>
+      <html>&lt;p&gt;Is there really a ford here?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8532940" lat="50.5928208">
+  <id>4379578</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4379578</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4379578/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4379578/close</close_url>
+  <date_created>2024-08-12 10:05:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-12 10:05:30 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>"In Verviers haben sich am Samstag zwei Kinder im Alter von sechs und acht Jahren bei einem Sturz am Quai Jacques Brel erheblich verletzt. ... Nun bleiben die Zugänge zum Flussufer nahe der St. Antonius-Kirche aus Sicherheitsgründen gesperrt."
+
+https://brf.be/regional/1886207/
+
+"Die Sperrung soll bis zum Ende der Sanierung des Uferbereiches gelten. ... Die Arbeiten haben jedoch noch nicht begonnen."
+
+Das kann seeeehr lange dauern ...
+ </text>
+      <html>&lt;p&gt;"In Verviers haben sich am Samstag zwei Kinder im Alter von sechs und acht Jahren bei einem Sturz am Quai Jacques Brel erheblich verletzt. ... Nun bleiben die Zugänge zum Flussufer nahe der St. Antonius-Kirche aus Sicherheitsgründen gesperrt."&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://brf.be/regional/1886207/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1886207/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;"Die Sperrung soll bis zum Ende der Sanierung des Uferbereiches gelten. ... Die Arbeiten haben jedoch noch nicht begonnen."&lt;/p&gt;
+
+&lt;p&gt;Das kann seeeehr lange dauern ...
+&lt;br /&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-13 12:51:16 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://www.vedia.be/info/verviers-une-partie-du-quai-jacques-brel-fermee-pour-des-raisons-de-securite/203338</text>
+      <html>&lt;p&gt;&lt;a href="https://www.vedia.be/info/verviers-une-partie-du-quai-jacques-brel-fermee-pour-des-raisons-de-securite/203338" rel="nofollow noopener noreferrer"&gt;https://www.vedia.be/info/verviers-une-partie-du-quai-jacques-brel-fermee-pour-des-raisons-de-securite/203338&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

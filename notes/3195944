@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8577380" lat="50.9424762">
+  <id>3195944</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3195944</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3195944/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3195944/close</close_url>
+  <date_created>2022-05-26 13:33:29 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-05-26 13:33:29 UTC</date>
+      <action>opened</action>
+      <text>Houwaartseberg</text>
+      <html>&lt;p&gt;Houwaartseberg&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-13 16:02:37 UTC</date>
+      <uid>9469836</uid>
+      <user>1r2r3</user>
+      <user_url>https://api.openstreetmap.org/user/1r2r3</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-13 16:02:48 UTC</date>
+      <uid>9469836</uid>
+      <user>1r2r3</user>
+      <user_url>https://api.openstreetmap.org/user/1r2r3</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-13 19:04:47 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Heb geen info gevonden om deze specifieke note toe te voegen ? Is dit ter plaatse aangeduid ?</text>
+      <html>&lt;p&gt;Heb geen info gevonden om deze specifieke note toe te voegen ? Is dit ter plaatse aangeduid ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-14 13:30:57 UTC</date>
+      <uid>9469836</uid>
+      <user>1r2r3</user>
+      <user_url>https://api.openstreetmap.org/user/1r2r3</user_url>
+      <action>commented</action>
+      <text>Ik had per abuus geklikt op "opgelost", en daarom ook terug op "opnieuw geactiveerd" geklikt. Ik heb geen idee waar deze opmerking (zonder uitleg) op slaat ...</text>
+      <html>&lt;p&gt;Ik had per abuus geklikt op "opgelost", en daarom ook terug op "opnieuw geactiveerd" geklikt. Ik heb geen idee waar deze opmerking (zonder uitleg) op slaat ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-14 20:01:15 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Ik kan niet verifiëren of er ter plaatse iets aangeduid is, maar de naam “Houwaartseberg” is wel in gebruik, bijv. op https://www.toerismevlaamsbrabant.be/producten/wandelen/houwaartse-bergwandeling/, een wandelroute van Toerisme Vlaams-Brabant.</text>
+      <html>&lt;p&gt;Ik kan niet verifiëren of er ter plaatse iets aangeduid is, maar de naam “Houwaartseberg” is wel in gebruik, bijv. op &lt;a href="https://www.toerismevlaamsbrabant.be/producten/wandelen/houwaartse-bergwandeling/" rel="nofollow noopener noreferrer"&gt;https://www.toerismevlaamsbrabant.be/producten/wandelen/houwaartse-bergwandeling/&lt;/a&gt;, een wandelroute van Toerisme Vlaams-Brabant.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

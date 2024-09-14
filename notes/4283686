@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3868870" lat="51.2075194">
+  <id>4283686</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4283686</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4283686/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4283686/close</close_url>
+  <date_created>2024-06-08 13:17:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-08 13:17:57 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Is drinking water available here? If so, what is its source?" – Drinking Water – https://osm.org/node/9817892114 via StreetComplete 58.0:
+
+Niet drinkbaar
+
+Attached photo(s):
+https://westnordost.de/p/217131.jpg</text>
+      <html>&lt;p&gt;Unable to answer "Is drinking water available here? If so, what is its source?" – Drinking Water – &lt;a href="https://osm.org/node/9817892114" rel="nofollow noopener noreferrer"&gt;https://osm.org/node/9817892114&lt;/a&gt; via StreetComplete 58.0:&lt;/p&gt;
+
+&lt;p&gt;Niet drinkbaar&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/217131.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/217131.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-04 18:20:05 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>De 'echte' rechthoekige grijze drinkwater zuilen met messing drukbouton zijn sinds begin jul'24 weer in werking : was paaltje door toevoerleiding geslagen. </text>
+      <html>&lt;p&gt;De 'echte' rechthoekige grijze drinkwater zuilen met messing drukbouton zijn sinds begin jul'24 weer in werking : was paaltje door toevoerleiding geslagen. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

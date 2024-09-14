@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4040479" lat="51.2395997">
+  <id>4144878</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4144878</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4144878/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4144878/close</close_url>
+  <date_created>2024-03-08 21:45:31 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-08 21:45:31 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Op de landtongen tussen de droogdokken treft men een vissersschip, een havensleepbootje, een mijnenveger en een kust patrouillevaartuig - staan op recente (plm1-3mnd oude) prentjes</text>
+      <html>&lt;p&gt;Op de landtongen tussen de droogdokken treft men een vissersschip, een havensleepbootje, een mijnenveger en een kust patrouillevaartuig - staan op recente (plm1-3mnd oude) prentjes&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4007800" lat="51.2260400">
+  <id>3372516</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3372516</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3372516/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3372516/close</close_url>
+  <date_created>2022-09-24 20:13:16 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-24 20:13:16 UTC</date>
+      <action>opened</action>
+      <text>Sint-Paulusplaats tramhalte ?</text>
+      <html>&lt;p&gt;Sint-Paulusplaats tramhalte ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-05 21:57:37 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Is dit niet https://www.openstreetmap.org/node/11302008208?</text>
+      <html>&lt;p&gt;Is dit niet &lt;a href="https://www.openstreetmap.org/node/11302008208" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/11302008208&lt;/a&gt;?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-07 20:37:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>bekijkt u met mij recente bolfotos : geen haltebord zichtbaar bij deze note, evenmin https://www.mapillary.com/app/?pKey=775995714337829 is gelinkte node ; wel haltebordje op https://www.mapillary.com/app/?pKey=226318707216205 = waar die twee busjes staan</text>
+      <html>&lt;p&gt;bekijkt u met mij recente bolfotos : geen haltebord zichtbaar bij deze note, evenmin &lt;a href="https://www.mapillary.com/app/?pKey=775995714337829" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=775995714337829&lt;/a&gt; is gelinkte node ; wel haltebordje op &lt;a href="https://www.mapillary.com/app/?pKey=226318707216205" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=226318707216205&lt;/a&gt; = waar die twee busjes staan&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-08 17:52:45 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Nu, die eerste Mapillarylink is wel van december 2023, dus voor de grote wijzigingen van De Lijn in januari dit jaar. Het is niet uitgesloten dat er een tramhalte verplaatst of bijgekomen is, gezien de schaal van de aanpassingen aan het net van De Lijn. Ik denk dat een survey hier toch gewenst zou zijn, maar kom zelf spijtig genoeg amper in Antwerpen.
+
+Op de tweede Mapillaryfoto kan ik niet lezen welke lijnen er op het haltebord aangeduid staan, dus ik weet niet of het een bus- of tramhalte betreft. Het feit dat er een tramspoor ligt impliceert niet automatisch dat er trams stoppen, het tramspoor kan ook een keerlus zijn.</text>
+      <html>&lt;p&gt;Nu, die eerste Mapillarylink is wel van december 2023, dus voor de grote wijzigingen van De Lijn in januari dit jaar. Het is niet uitgesloten dat er een tramhalte verplaatst of bijgekomen is, gezien de schaal van de aanpassingen aan het net van De Lijn. Ik denk dat een survey hier toch gewenst zou zijn, maar kom zelf spijtig genoeg amper in Antwerpen.&lt;/p&gt;
+
+&lt;p&gt;Op de tweede Mapillaryfoto kan ik niet lezen welke lijnen er op het haltebord aangeduid staan, dus ik weet niet of het een bus- of tramhalte betreft. Het feit dat er een tramspoor ligt impliceert niet automatisch dat er trams stoppen, het tramspoor kan ook een keerlus zijn.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

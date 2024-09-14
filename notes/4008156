@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.9267246" lat="51.2275314">
+  <id>4008156</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4008156</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4008156/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4008156/close</close_url>
+  <date_created>2023-11-29 12:54:02 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-29 12:54:02 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>Drink Drinkwaterfonteintje station Oostende
+https://www.vrt.be/vrtnws/nl/2023/11/24/nmbs-biedt-voortaan-gratis-drinkwater-aan-in-stations/</text>
+      <html>&lt;p&gt;Drink Drinkwaterfonteintje station Oostende
+&lt;br /&gt;&lt;a href="https://www.vrt.be/vrtnws/nl/2023/11/24/nmbs-biedt-voortaan-gratis-drinkwater-aan-in-stations/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/2023/11/24/nmbs-biedt-voortaan-gratis-drinkwater-aan-in-stations/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

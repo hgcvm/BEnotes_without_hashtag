@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2059240" lat="50.4090050">
+  <id>4433600</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4433600</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4433600/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4433600/close</close_url>
+  <date_created>2024-09-13 21:07:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-13 21:07:19 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>opened</action>
+      <text>devrait être démoli d'ici qq mois pour y construire un Burger King
+https://www.dhnet.be/regions/centre/2024/09/13/la-ville-de-binche-donne-son-feu-vert-pour-le-burger-king-mais-sous-conditions-on-applique-la-meme-logique-que-pour-le-mcdonalds-U4VWTD4CGVCB7O7DRTKTLMAZ6Y/</text>
+      <html>&lt;p&gt;devrait être démoli d'ici qq mois pour y construire un Burger King
+&lt;br /&gt;&lt;a href="https://www.dhnet.be/regions/centre/2024/09/13/la-ville-de-binche-donne-son-feu-vert-pour-le-burger-king-mais-sous-conditions-on-applique-la-meme-logique-que-pour-le-mcdonalds-U4VWTD4CGVCB7O7DRTKTLMAZ6Y/" rel="nofollow noopener noreferrer"&gt;https://www.dhnet.be/regions/centre/2024/09/13/la-ville-de-binche-donne-son-feu-vert-pour-le-burger-king-mais-sous-conditions-on-applique-la-meme-logique-que-pour-le-mcdonalds-U4VWTD4CGVCB7O7DRTKTLMAZ6Y/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

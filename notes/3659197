@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7364204" lat="51.0574597">
+  <id>3659197</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3659197</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3659197/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3659197/close</close_url>
+  <date_created>2023-04-25 09:04:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-25 09:04:46 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Project Edouard in te tekenen</text>
+      <html>&lt;p&gt;Project Edouard in te tekenen&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

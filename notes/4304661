@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8491615" lat="50.6495964">
+  <id>4304661</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4304661</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4304661/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4304661/close</close_url>
+  <date_created>2024-06-23 14:18:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-23 14:18:10 UTC</date>
+      <uid>9450507</uid>
+      <user>karlmichaelw</user>
+      <user_url>https://api.openstreetmap.org/user/karlmichaelw</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Is this still here?" – Les Pensées (School Grounds) – https://osm.org/way/473529256 via StreetComplete 58.0:
+
+See picture
+
+Attached photo(s):
+https://westnordost.de/p/220081.jpg</text>
+      <html>&lt;p&gt;Unable to answer "Is this still here?" – Les Pensées (School Grounds) – &lt;a href="https://osm.org/way/473529256" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/473529256&lt;/a&gt; via StreetComplete 58.0:&lt;/p&gt;
+
+&lt;p&gt;See picture&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/220081.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/220081.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

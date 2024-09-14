@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4923997" lat="51.2200158">
+  <id>3595425</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3595425</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3595425/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3595425/close</close_url>
+  <date_created>2023-03-12 19:20:43 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-03-12 19:20:43 UTC</date>
+      <action>opened</action>
+      <text>"Boskruit", "in Park Groot Schijn" wordt eerste Voedselbos in deze regio aangeplant, ontmoetingsplaats om kennis te maken met eetbare planten, 
+zie https://klimplant.be/projecten/voedselbos/ met plannetje waarop tekst 'parking Makro', eens u dat weet herkent u de canopy van het filling station. </text>
+      <html>&lt;p&gt;"Boskruit", "in Park Groot Schijn" wordt eerste Voedselbos in deze regio aangeplant, ontmoetingsplaats om kennis te maken met eetbare planten, 
+&lt;br /&gt;zie &lt;a href="https://klimplant.be/projecten/voedselbos/" rel="nofollow noopener noreferrer"&gt;https://klimplant.be/projecten/voedselbos/&lt;/a&gt; met plannetje waarop tekst 'parking Makro', eens u dat weet herkent u de canopy van het filling station. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-14 11:43:21 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Zal gans dit gebied dienst doen als
+landuse=orchard + orchard=forest_garden</text>
+      <html>&lt;p&gt;Zal gans dit gebied dienst doen als
+&lt;br /&gt;landuse=orchard + orchard=forest_garden&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-15 12:57:53 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>... en wat dacht u van het ArboFretum op Lekkeroever : https://klimplant.be/projecten/arbofretum-op-lekkeroever/ ? geen idee waar Ch. de Coster 1 is : vele gebouwen met nummer 1 ontlenen dat aan een andere weg.</text>
+      <html>&lt;p&gt;... en wat dacht u van het ArboFretum op Lekkeroever : &lt;a href="https://klimplant.be/projecten/arbofretum-op-lekkeroever/" rel="nofollow noopener noreferrer"&gt;https://klimplant.be/projecten/arbofretum-op-lekkeroever/&lt;/a&gt; ? geen idee waar Ch. de Coster 1 is : vele gebouwen met nummer 1 ontlenen dat aan een andere weg.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

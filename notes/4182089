@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3686318" lat="51.1059454">
+  <id>4182089</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4182089</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4182089/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4182089/close</close_url>
+  <date_created>2024-04-04 12:54:27 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-04 12:54:27 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>3 dikke Delhaize electra senlladers : https://www.mapillary.com/app/?pKey=1407036646599542 </text>
+      <html>&lt;p&gt;3 dikke Delhaize electra senlladers : &lt;a href="https://www.mapillary.com/app/?pKey=1407036646599542" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1407036646599542&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

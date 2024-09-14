@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3655419" lat="51.1974989">
+  <id>4350166</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4350166</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4350166/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4350166/close</close_url>
+  <date_created>2024-07-25 10:26:40 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-25 10:26:40 UTC</date>
+      <action>opened</action>
+      <text>voetwegen heten ook Maria Telkstraat  Zie LARA</text>
+      <html>&lt;p&gt;voetwegen heten ook Maria Telkstraat  Zie LARA&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-25 15:20:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>p. 5/5 van ondergelinkt besluit toont alleen het beton fietspad met deze naam : https://ebesluit.antwerpen.be/document/5adde8c1a5890708c06b1016;jsessionid=8C12B2FD6B492886D7D6D5D55208DED2</text>
+      <html>&lt;p&gt;p. 5/5 van ondergelinkt besluit toont alleen het beton fietspad met deze naam : &lt;a href="https://ebesluit.antwerpen.be/document/5adde8c1a5890708c06b1016;jsessionid=8C12B2FD6B492886D7D6D5D55208DED2" rel="nofollow noopener noreferrer"&gt;https://ebesluit.antwerpen.be/document/5adde8c1a5890708c06b1016;jsessionid=8C12B2FD6B492886D7D6D5D55208DED2&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0299439" lat="51.0671340">
+  <id>3247105</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3247105</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3247105/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3247105/close</close_url>
+  <date_created>2022-07-01 05:42:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-01 05:42:13 UTC</date>
+      <uid>648095</uid>
+      <user>nielsdg</user>
+      <user_url>https://api.openstreetmap.org/user/nielsdg</user_url>
+      <action>opened</action>
+      <text>New project for this site is described here: https://www.hln.be/zele/gemeente-stelt-toekomstvisie-voor-vhvd-site-lange-akker-voor-slechts-20-procent-van-het-gebied-zal-bebouwd-worden~a250ed38/</text>
+      <html>&lt;p&gt;New project for this site is described here: &lt;a href="https://www.hln.be/zele/gemeente-stelt-toekomstvisie-voor-vhvd-site-lange-akker-voor-slechts-20-procent-van-het-gebied-zal-bebouwd-worden~a250ed38/" rel="nofollow noopener noreferrer"&gt;https://www.hln.be/zele/gemeente-stelt-toekomstvisie-voor-vhvd-site-lange-akker-voor-slechts-20-procent-van-het-gebied-zal-bebouwd-worden~a250ed38/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-02 15:01:13 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>enig idee wat de stand van zaken hier is?</text>
+      <html>&lt;p&gt;enig idee wat de stand van zaken hier is?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-02 20:05:55 UTC</date>
+      <uid>648095</uid>
+      <user>nielsdg</user>
+      <user_url>https://api.openstreetmap.org/user/nielsdg</user_url>
+      <action>commented</action>
+      <text>Ondertussen is de sporthal afgebroken.
+
+De laatste status staat op https://www.zele.be/producten/detail/724/brownfield-lange-akker</text>
+      <html>&lt;p&gt;Ondertussen is de sporthal afgebroken.&lt;/p&gt;
+
+&lt;p&gt;De laatste status staat op &lt;a href="https://www.zele.be/producten/detail/724/brownfield-lange-akker" rel="nofollow noopener noreferrer"&gt;https://www.zele.be/producten/detail/724/brownfield-lange-akker&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

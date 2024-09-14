@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2906300" lat="50.4066200">
+  <id>3937238</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3937238</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3937238/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3937238/close</close_url>
+  <date_created>2023-10-12 18:24:45 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-12 18:24:45 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>opened</action>
+      <text>construction ravel</text>
+      <html>&lt;p&gt;construction ravel&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-04 21:04:35 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>quel est l'état des lieux?</text>
+      <html>&lt;p&gt;quel est l'état des lieux?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 18:45:53 UTC</date>
+      <uid>21900556</uid>
+      <user>Purplewolf10</user>
+      <user_url>https://api.openstreetmap.org/user/Purplewolf10</user_url>
+      <action>commented</action>
+      <text>Chantier terminé</text>
+      <html>&lt;p&gt;Chantier terminé&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

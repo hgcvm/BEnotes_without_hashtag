@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7873148" lat="51.0805899">
+  <id>3535665</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3535665</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3535665/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3535665/close</close_url>
+  <date_created>2023-01-28 15:51:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-01-28 15:51:51 UTC</date>
+      <uid>10726928</uid>
+      <user>Alfa Mito Rider</user>
+      <user_url>https://api.openstreetmap.org/user/Alfa%20Mito%20Rider</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What’s the surface here?" for https://osm.org/way/1116517834 via StreetComplete 50.2:
+
+Under construction</text>
+      <html>&lt;p&gt;Unable to answer "What’s the surface here?" for &lt;a href="https://osm.org/way/1116517834" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/1116517834&lt;/a&gt; via StreetComplete 50.2:&lt;/p&gt;
+
+&lt;p&gt;Under construction&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-28 16:50:17 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>wat is in aanbouw/erken ?</text>
+      <html>&lt;p&gt;wat is in aanbouw/erken ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

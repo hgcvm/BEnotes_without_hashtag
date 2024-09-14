@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.7189373" lat="50.9475425">
+  <id>3539518</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3539518</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3539518/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3539518/close</close_url>
+  <date_created>2023-01-31 14:48:01 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-01-31 14:48:01 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Op luchtfoto's lijken hier twee picknickbanken te staan. In te tekenen zonder survey?</text>
+      <html>&lt;p&gt;Op luchtfoto's lijken hier twee picknickbanken te staan. In te tekenen zonder survey?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-07 09:41:02 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded
+Kan nog altijd ingetekend worden als er niemand passeert binnen een redelijke tijd.</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded
+&lt;br /&gt;Kan nog altijd ingetekend worden als er niemand passeert binnen een redelijke tijd.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

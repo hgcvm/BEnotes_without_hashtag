@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4620371" lat="51.2187860">
+  <id>3691385</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3691385</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3691385/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3691385/close</close_url>
+  <date_created>2023-05-16 04:55:50 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-05-16 04:55:50 UTC</date>
+      <action>opened</action>
+      <text>Mag men hier fietsen? En is dit nog altijd een bijzondere planten verzameling? </text>
+      <html>&lt;p&gt;Mag men hier fietsen? En is dit nog altijd een bijzondere planten verzameling? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-16 13:02:35 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>'Nee', en 'enigszins' : aan de drie toegangspoortjes tot dit vanouds Arboretum zijn drie duidelijke pictogram / icoon bordjes 'niet fietsen', 'geen honden', en 'niet roken' ; collectie werd blijkens infopaneel in 2004 met Arboretum Kalmthout uitgedund ; 
+
+het 'grid' van aangelegde paden, en de verzameling azaleas blijkt wel uit Arboretum verdwenen: die azaleas verhuisden in eerste instantie naar een perk naast de Cornelissenlaan, vormen nu een 'border' rond stuk bos, en bevolken sinds kort ook grasveld rechts van de minigolf / doolhof : 
+
+men werkt daar nog loggia en brug. 
+
+Elders werden een tuin met planten uit de Apalachen , een rozentuin, en een schaduwtuin aangelegd. 
+
+Al met al mag Rivierenhof (eerste provinciaal domein van België, sinds 1923) op OSM eens opgefrist worden</text>
+      <html>&lt;p&gt;'Nee', en 'enigszins' : aan de drie toegangspoortjes tot dit vanouds Arboretum zijn drie duidelijke pictogram / icoon bordjes 'niet fietsen', 'geen honden', en 'niet roken' ; collectie werd blijkens infopaneel in 2004 met Arboretum Kalmthout uitgedund ; &lt;/p&gt;
+
+&lt;p&gt;het 'grid' van aangelegde paden, en de verzameling azaleas blijkt wel uit Arboretum verdwenen: die azaleas verhuisden in eerste instantie naar een perk naast de Cornelissenlaan, vormen nu een 'border' rond stuk bos, en bevolken sinds kort ook grasveld rechts van de minigolf / doolhof : &lt;/p&gt;
+
+&lt;p&gt;men werkt daar nog loggia en brug. &lt;/p&gt;
+
+&lt;p&gt;Elders werden een tuin met planten uit de Apalachen , een rozentuin, en een schaduwtuin aangelegd. &lt;/p&gt;
+
+&lt;p&gt;Al met al mag Rivierenhof (eerste provinciaal domein van België, sinds 1923) op OSM eens opgefrist worden&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

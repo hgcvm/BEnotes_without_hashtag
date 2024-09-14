@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4447476" lat="50.9545406">
+  <id>4338556</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4338556</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4338556/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4338556/close</close_url>
+  <date_created>2024-07-18 12:41:38 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-18 12:41:38 UTC</date>
+      <action>opened</action>
+      <text>Hier bevind zich een ruiterpad (enkel voor ruiters toegankelijk) naast de gracht en de openbare weg.</text>
+      <html>&lt;p&gt;Hier bevind zich een ruiterpad (enkel voor ruiters toegankelijk) naast de gracht en de openbare weg.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4818097" lat="51.0181755">
+  <id>4376497</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4376497</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4376497/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4376497/close</close_url>
+  <date_created>2024-08-10 16:46:16 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-10 16:46:16 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>Fietspaden zijn gescheiden,  kunnen appart op de kaart
+
+via StreetComplete 58.2
+
+Attached photo(s):
+https://westnordost.de/p/231424.jpg</text>
+      <html>&lt;p&gt;Fietspaden zijn gescheiden,  kunnen appart op de kaart&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 58.2&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/231424.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/231424.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-22 08:51:00 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Indien over gans de lengte Leopoldstraat beide kanten gescheiden, kan men reeds op de hoofdweg https://www.openstreetmap.org/way/176498314
+cycleway lane aanpassen naar track ;) https://wiki.openstreetmap.org/wiki/Tag:cycleway=track?uselang=nl</text>
+      <html>&lt;p&gt;Indien over gans de lengte Leopoldstraat beide kanten gescheiden, kan men reeds op de hoofdweg &lt;a href="https://www.openstreetmap.org/way/176498314" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/176498314&lt;/a&gt;
+&lt;br /&gt;cycleway lane aanpassen naar track ;) &lt;a href="https://wiki.openstreetmap.org/wiki/Tag:cycleway=track?uselang=nl" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:cycleway=track?uselang=nl&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

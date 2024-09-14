@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5269680" lat="51.2237384">
+  <id>3041390</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3041390</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3041390/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3041390/close</close_url>
+  <date_created>2022-02-07 21:14:31 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-02-07 21:14:31 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Om op te volgen : dit pad is onderdeel van WKP 17-18 'Kempen'; de WKP 17 en 18 staan op prentjes van deze middag, doch routes erheen en vandaan lijken te ontbreken : ook het Vlemickspad blijkt  diverse losse eindjes te kennen : wandelwerk ! </text>
+      <html>&lt;p&gt;Om op te volgen : dit pad is onderdeel van WKP 17-18 'Kempen'; de WKP 17 en 18 staan op prentjes van deze middag, doch routes erheen en vandaan lijken te ontbreken : ook het Vlemickspad blijkt  diverse losse eindjes te kennen : wandelwerk ! &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 22:30:16 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/relation/659817</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/relation/659817" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/659817&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

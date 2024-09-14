@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4185402" lat="51.1990882">
+  <id>2731420</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2731420</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2731420/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2731420/close</close_url>
+  <date_created>2021-06-27 18:47:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-06-27 18:47:22 UTC</date>
+      <action>opened</action>
+      <text>De Wijnstraat wordt groener, met niet alleen geveltuintjes, ook gevlochten wilgetenen rondom bomen, composthoop, diverse eetbare plantjes : lijkt een paradijs voor wie graag geveltuintjes en dergelijke intekent. https://atv.be/nieuws/bewoners-maken-berchemse-straat-wat-groener-121308</text>
+      <html>&lt;p&gt;De Wijnstraat wordt groener, met niet alleen geveltuintjes, ook gevlochten wilgetenen rondom bomen, composthoop, diverse eetbare plantjes : lijkt een paradijs voor wie graag geveltuintjes en dergelijke intekent. &lt;a href="https://atv.be/nieuws/bewoners-maken-berchemse-straat-wat-groener-121308" rel="nofollow noopener noreferrer"&gt;https://atv.be/nieuws/bewoners-maken-berchemse-straat-wat-groener-121308&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-05 07:19:31 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>geveltuintjes kunnen met MapComplete gemapt worden &gt; https://mapcomplete.org/facadegardens.html?</text>
+      <html>&lt;p&gt;geveltuintjes kunnen met MapComplete gemapt worden &amp;gt; &lt;a href="https://mapcomplete.org/facadegardens.html" rel="nofollow noopener noreferrer"&gt;https://mapcomplete.org/facadegardens.html&lt;/a&gt;?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-18 09:46:22 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Vraag ontstaat of GPS op smartphone in deze straatjes voldoende nauwkeurig zal zijn. 
+Dan is er nog de handtekeningen actie elders in de Stad waar een al lang bestaande collectie plantkuipen verwijderd zou moeten worden wegens doorgang beperking : dat werd na ruim 4k protesten ingetrokken, toch blijft er argwaan als iemand die op 'surveyor' lijkt dingen op tablet of zo invoert. Daarom is MapComplete hier niet geschikt - nog afgezien van leesbaarheid scherm bij zonlicht. 
+Anders geformuleerd : handiger plantvakken in te tekenen obv lucht en street-level pics. </text>
+      <html>&lt;p&gt;Vraag ontstaat of GPS op smartphone in deze straatjes voldoende nauwkeurig zal zijn. 
+&lt;br /&gt;Dan is er nog de handtekeningen actie elders in de Stad waar een al lang bestaande collectie plantkuipen verwijderd zou moeten worden wegens doorgang beperking : dat werd na ruim 4k protesten ingetrokken, toch blijft er argwaan als iemand die op 'surveyor' lijkt dingen op tablet of zo invoert. Daarom is MapComplete hier niet geschikt - nog afgezien van leesbaarheid scherm bij zonlicht. 
+&lt;br /&gt;Anders geformuleerd : handiger plantvakken in te tekenen obv lucht en street-level pics. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

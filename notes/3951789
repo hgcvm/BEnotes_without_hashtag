@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6102506" lat="51.1648013">
+  <id>3951789</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3951789</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3951789/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3951789/close</close_url>
+  <date_created>2023-10-21 18:51:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-21 18:51:26 UTC</date>
+      <action>opened</action>
+      <text>Valt op dat binnen een dorp helft van tweestrooks rijbaan Dorpsstraat heet, andere helft naar aanliggende wooncomplex zou zijn genoemd? En elke rijstrook als aparte rijbaan getekend?</text>
+      <html>&lt;p&gt;Valt op dat binnen een dorp helft van tweestrooks rijbaan Dorpsstraat heet, andere helft naar aanliggende wooncomplex zou zijn genoemd? En elke rijstrook als aparte rijbaan getekend?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-22 08:10:06 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>als weg op grens van gemeentes ligt, dan moet deze codering gebruikt worden.
+https://wiki.openstreetmap.org/wiki/Key:name:left enz...</text>
+      <html>&lt;p&gt;als weg op grens van gemeentes ligt, dan moet deze codering gebruikt worden.
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Key:name:left" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Key:name:left&lt;/a&gt; enz...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-22 08:12:06 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://www.geopunt.be/shared/9686a310-ffff-4cf3-9b20-a7f13e632856</text>
+      <html>&lt;p&gt;&lt;a href="https://www.geopunt.be/shared/9686a310-ffff-4cf3-9b20-a7f13e632856" rel="nofollow noopener noreferrer"&gt;https://www.geopunt.be/shared/9686a310-ffff-4cf3-9b20-a7f13e632856&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

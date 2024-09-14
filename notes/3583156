@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4206077" lat="51.2216134">
+  <id>3583156</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3583156</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3583156/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3583156/close</close_url>
+  <date_created>2023-03-03 18:01:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-03-03 18:01:56 UTC</date>
+      <action>opened</action>
+      <text>nog meer lokaal nieuws vrij 3 mrt : op De Koninckpln gaat één rijbaan verdwijnen - welke niet evident uit filmpje. </text>
+      <html>&lt;p&gt;nog meer lokaal nieuws vrij 3 mrt : op De Koninckpln gaat één rijbaan verdwijnen - welke niet evident uit filmpje. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-02 12:00:28 UTC</date>
+      <uid>19587218</uid>
+      <user>Namapathan</user>
+      <user_url>https://api.openstreetmap.org/user/Namapathan</user_url>
+      <action>commented</action>
+      <text>De kant van De Kiebooms wordt autovrij. In de LBS veranderen er wat rijrichting, zelfde voor Dambrugge</text>
+      <html>&lt;p&gt;De kant van De Kiebooms wordt autovrij. In de LBS veranderen er wat rijrichting, zelfde voor Dambrugge&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

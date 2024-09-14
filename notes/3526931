@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4289011" lat="51.3148989">
+  <id>3526931</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3526931</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3526931/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3526931/close</close_url>
+  <date_created>2023-01-21 17:53:09 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-01-21 17:53:09 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Lokaal nieuws , nootje in afwachting bezoek : café De Draak reeds grotendeels gesloopt, wordt tandartsen praktijk - acht artsen ; TUI op de hoek blijft ; Site 't Brugske / Administratief Centrum zo te zien voltooid , paden etc t.z.t. op te nemen </text>
+      <html>&lt;p&gt;Lokaal nieuws , nootje in afwachting bezoek : café De Draak reeds grotendeels gesloopt, wordt tandartsen praktijk - acht artsen ; TUI op de hoek blijft ; Site 't Brugske / Administratief Centrum zo te zien voltooid , paden etc t.z.t. op te nemen &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8551927" lat="51.0021671">
+  <id>4422556</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4422556</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4422556/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4422556/close</close_url>
+  <date_created>2024-09-06 12:27:29 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-06 12:27:29 UTC</date>
+      <action>opened</action>
+      <text>zou deze straatnaam echt zijn?</text>
+      <html>&lt;p&gt;zou deze straatnaam echt zijn?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 12:33:52 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>vraag gesteld aan de mapper in deze changeset: https://www.openstreetmap.org/changeset/116811063</text>
+      <html>&lt;p&gt;vraag gesteld aan de mapper in deze changeset: &lt;a href="https://www.openstreetmap.org/changeset/116811063" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/116811063&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

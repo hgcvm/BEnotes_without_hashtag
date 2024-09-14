@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4055389" lat="51.0813526">
+  <id>4113059</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4113059</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4113059/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4113059/close</close_url>
+  <date_created>2024-02-14 18:49:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-14 18:49:10 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>opened</action>
+      <text>Deze weg is voor een stuk aangelegd en toegankelijk.  Gedeeltelijk toegevoegd aan osm, maar parkeervakken voor vrachtwagens ontbreken alsook waterwegen.  Moet nog exacter gemapt worden, maar enkel zichtbaar in mapillary en niet op luchtfoto's.</text>
+      <html>&lt;p&gt;Deze weg is voor een stuk aangelegd en toegankelijk.  Gedeeltelijk toegevoegd aan osm, maar parkeervakken voor vrachtwagens ontbreken alsook waterwegen.  Moet nog exacter gemapt worden, maar enkel zichtbaar in mapillary en niet op luchtfoto's.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-30 02:25:05 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>check nu eens de (meest recente) luchtbeelden. Ik zie nu wel parkeervakken en een waterloop</text>
+      <html>&lt;p&gt;check nu eens de (meest recente) luchtbeelden. Ik zie nu wel parkeervakken en een waterloop&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

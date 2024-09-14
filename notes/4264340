@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.9764929" lat="51.1124271">
+  <id>4264340</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4264340</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4264340/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4264340/close</close_url>
+  <date_created>2024-05-25 14:01:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-25 14:01:51 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>opened</action>
+      <text>Het jaagpad wordt doorgetrokken van de Veerstraat tot aan de Gentdam, zie https://stadsprojecten.lokeren.be/wegen-riolering/aanleg-technische-wegenis-langs-durme-fase-2
+Volgens de tekst (op 25/5/2024) is de vergunningsprocedure lopende.</text>
+      <html>&lt;p&gt;Het jaagpad wordt doorgetrokken van de Veerstraat tot aan de Gentdam, zie &lt;a href="https://stadsprojecten.lokeren.be/wegen-riolering/aanleg-technische-wegenis-langs-durme-fase-2" rel="nofollow noopener noreferrer"&gt;https://stadsprojecten.lokeren.be/wegen-riolering/aanleg-technische-wegenis-langs-durme-fase-2&lt;/a&gt;
+&lt;br /&gt;Volgens de tekst (op 25/5/2024) is de vergunningsprocedure lopende.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-25 16:32:27 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>weg in aanleg reeds gemapt https://www.openstreetmap.org/way/973729615#map=14/51.1244/3.9797</text>
+      <html>&lt;p&gt;weg in aanleg reeds gemapt &lt;a href="https://www.openstreetmap.org/way/973729615#map=14/51.1244/3.9797" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/973729615#map=14/51.1244/3.9797&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 08:00:57 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 08:03:25 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>Ik weet dat er een weg in aanleg gemapt is: dat is foutief, want de aanleg is nog niet begonnen. Zoals gezegd, de vergunningsprocedure is nog lopende. Overigens is het geplande stuk een eind langer dan dat stuk.</text>
+      <html>&lt;p&gt;Ik weet dat er een weg in aanleg gemapt is: dat is foutief, want de aanleg is nog niet begonnen. Zoals gezegd, de vergunningsprocedure is nog lopende. Overigens is het geplande stuk een eind langer dan dat stuk.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 08:27:57 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>niet echt ondersteund vanuit ...
+https://wiki.openstreetmap.org/wiki/Key:proposed</text>
+      <html>&lt;p&gt;niet echt ondersteund vanuit ...
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Key:proposed" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Key:proposed&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 18:53:44 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>Ik ben niet mee. De weg is verkeerd getagd, want hij is niet "under construction". Heb ik ooit gezegd dat hij als "proposed" moest ingetekend worden?</text>
+      <html>&lt;p&gt;Ik ben niet mee. De weg is verkeerd getagd, want hij is niet "under construction". Heb ik ooit gezegd dat hij als "proposed" moest ingetekend worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 19:59:46 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Nee ik stel dat voor ;)</text>
+      <html>&lt;p&gt;Nee ik stel dat voor ;)&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

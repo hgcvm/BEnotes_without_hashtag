@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3892580" lat="51.0652360">
+  <id>2847342</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2847342</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2847342/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2847342/close</close_url>
+  <date_created>2021-09-11 21:01:34 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-09-11 21:01:34 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Hier ongeveer tijdhut 1000m / tevens aligners hut voor wedstrijd over 1000m. Merk ook de staaldraad over het water. </text>
+      <html>&lt;p&gt;Hier ongeveer tijdhut 1000m / tevens aligners hut voor wedstrijd over 1000m. Merk ook de staaldraad over het water. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:41:39 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>kan je dit zelf toevoegen of hulp nodig?</text>
+      <html>&lt;p&gt;kan je dit zelf toevoegen of hulp nodig?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-13 07:01:00 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Mijn grootste handicap hier is hoe dergelijke zaken elders  gemapt worden, en in hoeverre het zin heeft méér dan een kotje op de kaart te zetten? 
+
+Die staaldraad zou ik wel opnemen? </text>
+      <html>&lt;p&gt;Mijn grootste handicap hier is hoe dergelijke zaken elders  gemapt worden, en in hoeverre het zin heeft méér dan een kotje op de kaart te zetten? &lt;/p&gt;
+
+&lt;p&gt;Die staaldraad zou ik wel opnemen? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

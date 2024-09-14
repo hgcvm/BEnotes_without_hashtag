@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5966464" lat="51.2268728">
+  <id>4381442</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4381442</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4381442/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4381442/close</close_url>
+  <date_created>2024-08-13 10:01:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-13 10:01:06 UTC</date>
+      <action>opened</action>
+      <text>volgens geopunt weldegelijk 2 verschillende namen voor deze straat.
+de dubbele naam ontbreekt nog.</text>
+      <html>&lt;p&gt;volgens geopunt weldegelijk 2 verschillende namen voor deze straat.
+&lt;br /&gt;de dubbele naam ontbreekt nog.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

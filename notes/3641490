@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.9192767" lat="51.2267867">
+  <id>3641490</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3641490</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3641490/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3641490/close</close_url>
+  <date_created>2023-04-13 21:34:14 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-13 21:34:14 UTC</date>
+      <uid>2096650</uid>
+      <user>RubOSM</user>
+      <user_url>https://api.openstreetmap.org/user/RubOSM</user_url>
+      <action>opened</action>
+      <text>Kan iemand verifiëren of deze bank er nog staat?</text>
+      <html>&lt;p&gt;Kan iemand verifiëren of deze bank er nog staat?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-15 20:38:52 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

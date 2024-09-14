@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.4037082" lat="51.0134735">
+  <id>4332509</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4332509</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4332509/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4332509/close</close_url>
+  <date_created>2024-07-14 09:06:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-14 09:06:12 UTC</date>
+      <uid>18524590</uid>
+      <user>driesverlinden</user>
+      <user_url>https://api.openstreetmap.org/user/driesverlinden</user_url>
+      <action>opened</action>
+      <text>herinrichting plein + rotonde voorzien #OSMBE #FollowUp</text>
+      <html>&lt;p&gt;herinrichting plein + rotonde voorzien #OSMBE #FollowUp&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

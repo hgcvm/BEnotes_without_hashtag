@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4956291" lat="51.2610085">
+  <id>3806063</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3806063</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3806063/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3806063/close</close_url>
+  <date_created>2023-07-29 23:19:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-29 23:19:26 UTC</date>
+      <uid>12369934</uid>
+      <user>Money Moustache</user>
+      <user_url>https://api.openstreetmap.org/user/Money%20Moustache</user_url>
+      <action>opened</action>
+      <text>Controleer of er hier nog steeds een "meer" is en repareer de tagging.</text>
+      <html>&lt;p&gt;Controleer of er hier nog steeds een "meer" is en repareer de tagging.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-05 21:23:02 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>er is hier blijkbaar een meer, maar het is niet correct gemapt https://www.openstreetmap.org/way/342819368</text>
+      <html>&lt;p&gt;er is hier blijkbaar een meer, maar het is niet correct gemapt &lt;a href="https://www.openstreetmap.org/way/342819368" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/342819368&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-06 09:33:53 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dat meer werd 9 jaar geleden door iemand ingevoerd, als lijn; staat ook op GRB; lijkt - na overvloedige regenval - nuttig ook hier nog een langs te wandelen?</text>
+      <html>&lt;p&gt;Dat meer werd 9 jaar geleden door iemand ingevoerd, als lijn; staat ook op GRB; lijkt - na overvloedige regenval - nuttig ook hier nog een langs te wandelen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-06 09:44:40 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>@OsmBE @SurveyNeeded</text>
+      <html>&lt;p&gt;@OsmBE @SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

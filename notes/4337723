@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3893492" lat="51.1976569">
+  <id>4337723</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4337723</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4337723/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4337723/close</close_url>
+  <date_created>2024-07-17 19:19:35 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-17 19:19:35 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>opened</action>
+      <text>Hier zijn verschillende werken bezig.  Het fietspad loopt nu bv. achter het bushokje door</text>
+      <html>&lt;p&gt;Hier zijn verschillende werken bezig.  Het fietspad loopt nu bv. achter het bushokje door&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-19 14:48:50 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>befietst 19 jul'24 : behalve mooi asfalt pad achterom verhoogd breed bus perron ; 
+eigenlijk zijn alle fiets- voet oversteken Singel afgesloten wegens heraanleg; slechts één smal padje Station Zuid &lt;&gt; stad bleef open</text>
+      <html>&lt;p&gt;befietst 19 jul'24 : behalve mooi asfalt pad achterom verhoogd breed bus perron ; 
+&lt;br /&gt;eigenlijk zijn alle fiets- voet oversteken Singel afgesloten wegens heraanleg; slechts één smal padje Station Zuid &amp;lt;&amp;gt; stad bleef open&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-19 14:57:33 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>lijkt amper de moeite paden op constructie te zetten? ook al gezien de lange omweg die dit voor buurtbewoners veroorzaakt? &gt; 'zouden tegen het najaar 2024 kaar moeten zijn' , zie https://pers.antwerpen.be/omgeving-station-antwerpen-zuid-wordt-veiliger-voor-voetgangers-en-fietsers-c4fnez en https://www.vrt.be/vrtnws/nl/2023/07/13/bredere-fiets-en-voetpaden-en-veiligere-oversteekplaatsen-op-ko/</text>
+      <html>&lt;p&gt;lijkt amper de moeite paden op constructie te zetten? ook al gezien de lange omweg die dit voor buurtbewoners veroorzaakt? &amp;gt; 'zouden tegen het najaar 2024 kaar moeten zijn' , zie &lt;a href="https://pers.antwerpen.be/omgeving-station-antwerpen-zuid-wordt-veiliger-voor-voetgangers-en-fietsers-c4fnez" rel="nofollow noopener noreferrer"&gt;https://pers.antwerpen.be/omgeving-station-antwerpen-zuid-wordt-veiliger-voor-voetgangers-en-fietsers-c4fnez&lt;/a&gt; en &lt;a href="https://www.vrt.be/vrtnws/nl/2023/07/13/bredere-fiets-en-voetpaden-en-veiligere-oversteekplaatsen-op-ko/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/2023/07/13/bredere-fiets-en-voetpaden-en-veiligere-oversteekplaatsen-op-ko/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

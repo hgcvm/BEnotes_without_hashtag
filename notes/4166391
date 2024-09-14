@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3942845" lat="51.2234360">
+  <id>4166391</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4166391</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4166391/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4166391/close</close_url>
+  <date_created>2024-03-24 19:44:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-24 19:44:13 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Nog vier AEDs : navraag bij stuurvrouw van overzetveer 'Op Stroom' bevestigde dat op deze, en het andere veer op deze route, de 'Marnix van Sint-Aldegonde' EADs aanwezig zijn, op de terugweg werd daar aan toegevoegd dat die ook te vinden zijn op de veren van Bazel en Kruibeke. 
+In haar interpretatie zouden ook kleinere veren en de Waterbus er een aan boord moeten hebben. 
+Gezien deze overzetveren groot deel van de tijd aan de ponton liggen lijkt het correct, deze AEDs te taggen, maar wáár? Zou denken de node op paar meter van de ponton, nabij de toegang?</text>
+      <html>&lt;p&gt;Nog vier AEDs : navraag bij stuurvrouw van overzetveer 'Op Stroom' bevestigde dat op deze, en het andere veer op deze route, de 'Marnix van Sint-Aldegonde' EADs aanwezig zijn, op de terugweg werd daar aan toegevoegd dat die ook te vinden zijn op de veren van Bazel en Kruibeke. 
+&lt;br /&gt;In haar interpretatie zouden ook kleinere veren en de Waterbus er een aan boord moeten hebben. 
+&lt;br /&gt;Gezien deze overzetveren groot deel van de tijd aan de ponton liggen lijkt het correct, deze AEDs te taggen, maar wáár? Zou denken de node op paar meter van de ponton, nabij de toegang?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

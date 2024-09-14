@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6156980" lat="50.6705374">
+  <id>3939490</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3939490</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3939490/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3939490/close</close_url>
+  <date_created>2023-10-14 09:30:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-14 09:30:54 UTC</date>
+      <uid>11121290</uid>
+      <user>Twijg</user>
+      <user_url>https://api.openstreetmap.org/user/Twijg</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What kind of seating does this place have?" for https://osm.org/way/617629700 via StreetComplete 54.0:
+
+Il y sont des places dehors la magasin mais ils ne sont pas vraiment 'dehors'.</text>
+      <html>&lt;p&gt;Unable to answer "What kind of seating does this place have?" for &lt;a href="https://osm.org/way/617629700" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/617629700&lt;/a&gt; via StreetComplete 54.0:&lt;/p&gt;
+
+&lt;p&gt;Il y sont des places dehors la magasin mais ils ne sont pas vraiment 'dehors'.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

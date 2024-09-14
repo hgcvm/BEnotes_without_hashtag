@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2296700" lat="50.9626900">
+  <id>3326140</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3326140</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3326140/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3326140/close</close_url>
+  <date_created>2022-08-22 12:51:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-08-22 12:51:12 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>There's probably a charging station for electric bikes somewhere here
+
+https://www.merchtem.be/product/1045/oplaadpuntenlaadpalen-voor-elektrische-fietsen</text>
+      <html>&lt;p&gt;There's probably a charging station for electric bikes somewhere here&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.merchtem.be/product/1045/oplaadpuntenlaadpalen-voor-elektrische-fietsen" rel="nofollow noopener noreferrer"&gt;https://www.merchtem.be/product/1045/oplaadpuntenlaadpalen-voor-elektrische-fietsen&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-21 09:35:36 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>mogelijk heb ik niet goed genoeg rondgekeken, prentjes onderweg. 
+
+Op parking tussen sporthal en Albert H diverse laadzuilen - ook daar komen de prentjes weldra.</text>
+      <html>&lt;p&gt;mogelijk heb ik niet goed genoeg rondgekeken, prentjes onderweg. &lt;/p&gt;
+
+&lt;p&gt;Op parking tussen sporthal en Albert H diverse laadzuilen - ook daar komen de prentjes weldra.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-29 08:33:14 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>According to the "stratenplan", the bicycle charging point is here: https://osm.org/go/0EoVR6jZ0
+(see https://stratenplan.merchtem.be/?laagid=4338)</text>
+      <html>&lt;p&gt;According to the "stratenplan", the bicycle charging point is here: &lt;a href="https://osm.org/go/0EoVR6jZ0" rel="nofollow noopener noreferrer"&gt;https://osm.org/go/0EoVR6jZ0&lt;/a&gt;
+&lt;br /&gt;(see &lt;a href="https://stratenplan.merchtem.be/?laagid=4338" rel="nofollow noopener noreferrer"&gt;https://stratenplan.merchtem.be/?laagid=4338&lt;/a&gt;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-14 19:55:05 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>I've surveyed this and noted the exact locations of the charging points down, but haven't updated OSM yet. Will do after my holidays. But essentially, the map from the municipality is correct.</text>
+      <html>&lt;p&gt;I've surveyed this and noted the exact locations of the charging points down, but haven't updated OSM yet. Will do after my holidays. But essentially, the map from the municipality is correct.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

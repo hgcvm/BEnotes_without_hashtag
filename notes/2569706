@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6602559" lat="50.0011042">
+  <id>2569706</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2569706</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2569706/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2569706/close</close_url>
+  <date_created>2021-03-07 21:07:14 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-03-07 21:07:14 UTC</date>
+      <uid>696618</uid>
+      <user>fusa</user>
+      <user_url>https://api.openstreetmap.org/user/fusa</user_url>
+      <action>opened</action>
+      <text>Laagspanning</text>
+      <html>&lt;p&gt;Laagspanning&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-08 08:50:20 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Niet van zelfsprekend om deze op de juiste plaats te markeren.
+Je lokale kennis kan daar bij helpen om in te loggen in edit modus en de laag picc te gebruiken en de electriciteits paal in te voeren...minstens "power=pole"
+https://wiki.openstreetmap.org/wiki/Tag:power%3Dpole
+https://wiki.openstreetmap.org/wiki/Tag:power%3Dline</text>
+      <html>&lt;p&gt;Niet van zelfsprekend om deze op de juiste plaats te markeren.
+&lt;br /&gt;Je lokale kennis kan daar bij helpen om in te loggen in edit modus en de laag picc te gebruiken en de electriciteits paal in te voeren...minstens "power=pole"
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:power%3Dpole" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:power%3Dpole&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:power%3Dline" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:power%3Dline&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 13:34:19 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dag Fusa, als we geen concretere info krijgen over het juiste verloop van de elektriciteitspalen, kunnen we dit niet mappen. Kan je dit verduidelijken?</text>
+      <html>&lt;p&gt;dag Fusa, als we geen concretere info krijgen over het juiste verloop van de elektriciteitspalen, kunnen we dit niet mappen. Kan je dit verduidelijken?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

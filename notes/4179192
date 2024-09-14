@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7798113" lat="51.0388842">
+  <id>4179192</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4179192</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4179192/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4179192/close</close_url>
+  <date_created>2024-04-02 12:47:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-02 12:47:57 UTC</date>
+      <uid>13105061</uid>
+      <user>Foxie Boi</user>
+      <user_url>https://api.openstreetmap.org/user/Foxie%20Boi</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What are the opening hours here?" – De Nachtegaal (Bar) – https://osm.org/node/3523526281 via StreetComplete 57.1:
+
+Dit is in verbouwing. Niet zeker of het dezelfde locatie/bar zal blijven.</text>
+      <html>&lt;p&gt;Unable to answer "What are the opening hours here?" – De Nachtegaal (Bar) – &lt;a href="https://osm.org/node/3523526281" rel="nofollow noopener noreferrer"&gt;https://osm.org/node/3523526281&lt;/a&gt; via StreetComplete 57.1:&lt;/p&gt;
+
+&lt;p&gt;Dit is in verbouwing. Niet zeker of het dezelfde locatie/bar zal blijven.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-03 09:08:59 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Lifecycle prefixes toegevoegd om aan te geven dat dit op dit moment geen bar meer is. Op te volgen tot voltooiing renovatiewerken.</text>
+      <html>&lt;p&gt;Lifecycle prefixes toegevoegd om aan te geven dat dit op dit moment geen bar meer is. Op te volgen tot voltooiing renovatiewerken.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

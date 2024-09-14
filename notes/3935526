@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.4820356" lat="51.2272239">
+  <id>3935526</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3935526</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3935526/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3935526/close</close_url>
+  <date_created>2023-10-11 15:58:27 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-11 15:58:27 UTC</date>
+      <uid>5199038</uid>
+      <user>mjans</user>
+      <user_url>https://api.openstreetmap.org/user/mjans</user_url>
+      <action>opened</action>
+      <text>Vrijliggende fietspaden met oversteken aan rotonde Sint-Huibrechts-Lille
+
+https://wegenenverkeer.be/werken/vrijliggende-fietspaden-met-oversteken-aan-rotonde-sint-huibrechts-lille</text>
+      <html>&lt;p&gt;Vrijliggende fietspaden met oversteken aan rotonde Sint-Huibrechts-Lille&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://wegenenverkeer.be/werken/vrijliggende-fietspaden-met-oversteken-aan-rotonde-sint-huibrechts-lille" rel="nofollow noopener noreferrer"&gt;https://wegenenverkeer.be/werken/vrijliggende-fietspaden-met-oversteken-aan-rotonde-sint-huibrechts-lille&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 17:07:12 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Volgens die link zijn die werken als sinds eind 2023 afgelopen, enig idee of de huidige OSM-situatie correct is? Indien niet, kan je dit zelf aanpassen of zijn er foto's beschikbaar?</text>
+      <html>&lt;p&gt;Volgens die link zijn die werken als sinds eind 2023 afgelopen, enig idee of de huidige OSM-situatie correct is? Indien niet, kan je dit zelf aanpassen of zijn er foto's beschikbaar?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 17:50:46 UTC</date>
+      <uid>5199038</uid>
+      <user>mjans</user>
+      <user_url>https://api.openstreetmap.org/user/mjans</user_url>
+      <action>commented</action>
+      <text>Nog niet te zien op de meest recente luchtbeelden.</text>
+      <html>&lt;p&gt;Nog niet te zien op de meest recente luchtbeelden.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 19:03:31 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

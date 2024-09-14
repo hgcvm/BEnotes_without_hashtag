@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.9508295" lat="51.0238446">
+  <id>4422536</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4422536</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4422536/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4422536/close</close_url>
+  <date_created>2024-09-06 12:10:41 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-06 12:10:41 UTC</date>
+      <action>opened</action>
+      <text>naamplaatje geeft Bellamstraat weer.</text>
+      <html>&lt;p&gt;naamplaatje geeft Bellamstraat weer.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 09:20:01 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Komt overeen met https://eservices.minfin.fgov.be/ecad-web/#/ en https://www.mapillary.com/app/?lat=51.02387169999997&amp;lng=3.9508302999721536&amp;z=19.9&amp;pKey=703631554534934&amp;focus=photo&amp;x=0.11245938851239462&amp;y=0.28235611617171436&amp;zoom=3 : Bellam - zonder 's' ; zie ik geen naam op GRB? </text>
+      <html>&lt;p&gt;Komt overeen met &lt;a href="https://eservices.minfin.fgov.be/ecad-web/#/" rel="nofollow noopener noreferrer"&gt;https://eservices.minfin.fgov.be/ecad-web/#/&lt;/a&gt; en &lt;a href="https://www.mapillary.com/app/?lat=51.02387169999997&amp;amp;lng=3.9508302999721536&amp;amp;z=19.9&amp;amp;pKey=703631554534934&amp;amp;focus=photo&amp;amp;x=0.11245938851239462&amp;amp;y=0.28235611617171436&amp;amp;zoom=3" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.02387169999997&amp;amp;lng=3.9508302999721536&amp;amp;z=19.9&amp;amp;pKey=703631554534934&amp;amp;focus=photo&amp;amp;x=0.11245938851239462&amp;amp;y=0.28235611617171436&amp;amp;zoom=3&lt;/a&gt; : Bellam - zonder 's' ; zie ik geen naam op GRB? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:04:32 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Geopunt met extra laag “straatnamen” geeft ook geen naam. Maar als het bord ter plekke een naam aangeeft, kunnen we die in de `name=*` steken, toch?</text>
+      <html>&lt;p&gt;Geopunt met extra laag “straatnamen” geeft ook geen naam. Maar als het bord ter plekke een naam aangeeft, kunnen we die in de `name=*` steken, toch?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

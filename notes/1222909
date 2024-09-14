@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.7394474" lat="50.9315325">
+  <id>1222909</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1222909</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1222909/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1222909/close</close_url>
+  <date_created>2017-12-01 08:21:36 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2017-12-01 08:21:36 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>doorsteek via een school (denk ik) toegevoegd. Te controleren of je die mag gebruiken als doorsteek, of enkel voor toegang tot het gebouw.</text>
+      <html>&lt;p&gt;doorsteek via een school (denk ik) toegevoegd. Te controleren of je die mag gebruiken als doorsteek, of enkel voor toegang tot het gebouw.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-02 15:10:07 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

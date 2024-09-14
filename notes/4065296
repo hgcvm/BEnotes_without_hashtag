@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8286221" lat="49.6059409">
+  <id>4065296</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4065296</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4065296/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4065296/close</close_url>
+  <date_created>2024-01-13 13:22:07 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-13 13:22:07 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>opened</action>
+      <text>In context of "Surfaces" overlay for https://osm.org/way/1027125127 via StreetComplete 56.0:
+
+Just some illegal path residues through private forest.
+
+Attached photo(s):
+https://westnordost.de/p/192636.jpg</text>
+      <html>&lt;p&gt;In context of "Surfaces" overlay for &lt;a href="https://osm.org/way/1027125127" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/1027125127&lt;/a&gt; via StreetComplete 56.0:&lt;/p&gt;
+
+&lt;p&gt;Just some illegal path residues through private forest.&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/192636.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/192636.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-13 16:57:21 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text>Removed it.</text>
+      <html>&lt;p&gt;Removed it.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 13:31:27 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 13:45:13 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>You deleted a portion of a way https://www.openstreetmap.org/way/1239441067 going NE of this note and visible on your photo. Someone used it only 4 days before you deleted it https://www.strava.com/activities/10526379143 and others using it in 2023 https://www.strava.com/activities/9038368641 ,
+https://www.strava.com/activities/9038199083  
+
+Again you delete data which exists!
+
+Dare I say, you possibly put branches on terrain to make it look like it hasn't been used for ages but as i've shown here someone passed only 4 days ago before you delete it and several others within 2023.
+</text>
+      <html>&lt;p&gt;You deleted a portion of a way &lt;a href="https://www.openstreetmap.org/way/1239441067" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1239441067&lt;/a&gt; going NE of this note and visible on your photo. Someone used it only 4 days before you deleted it &lt;a href="https://www.strava.com/activities/10526379143" rel="nofollow noopener noreferrer"&gt;https://www.strava.com/activities/10526379143&lt;/a&gt; and others using it in 2023 &lt;a href="https://www.strava.com/activities/9038368641" rel="nofollow noopener noreferrer"&gt;https://www.strava.com/activities/9038368641&lt;/a&gt; ,
+&lt;br /&gt;&lt;a href="https://www.strava.com/activities/9038199083" rel="nofollow noopener noreferrer"&gt;https://www.strava.com/activities/9038199083&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Again you delete data which exists!&lt;/p&gt;
+
+&lt;p&gt;Dare I say, you possibly put branches on terrain to make it look like it hasn't been used for ages but as i've shown here someone passed only 4 days ago before you delete it and several others within 2023.
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:55:32 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:57:09 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:40:33 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:43:00 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

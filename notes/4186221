@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5755000" lat="50.8084500">
+  <id>4186221</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4186221</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4186221/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4186221/close</close_url>
+  <date_created>2024-04-07 03:09:31 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-07 03:09:31 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>missing social facility tag see :
+
+https://www.ganspoel.be/
+
++  building geometry near here : https://www.mapillary.com/app/?pKey=2451563545017169
+
+</text>
+      <html>&lt;p&gt;missing social facility tag see :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.ganspoel.be/" rel="nofollow noopener noreferrer"&gt;https://www.ganspoel.be/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;+  building geometry near here : &lt;a href="https://www.mapillary.com/app/?pKey=2451563545017169" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=2451563545017169&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-07 13:35:15 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>I've added some tags, but not everything is clear to me.
+
+- What `social_facility=*` value would you use here?
+- What exactly is wrong with the building geometry?</text>
+      <html>&lt;p&gt;I've added some tags, but not everything is clear to me.&lt;/p&gt;
+
+&lt;p&gt;- What `social_facility=*` value would you use here?
+&lt;br /&gt;- What exactly is wrong with the building geometry?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-08 03:44:38 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>i tend to say social_facility=day_care but need to doublecheck according to their website or local knowledge.
+
+For the building i mainly talking about : 
+https://www.openstreetmap.org/way/257075084
+https://www.openstreetmap.org/way/257075097 
+(probably new construction). 
+
+Not sure it's a good think to combine the landuse and the social facility (Josm validation warning, and i have do the same in the past , osmose also complain). </text>
+      <html>&lt;p&gt;i tend to say social_facility=day_care but need to doublecheck according to their website or local knowledge.&lt;/p&gt;
+
+&lt;p&gt;For the building i mainly talking about : 
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/257075084" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/257075084&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/257075097" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/257075097&lt;/a&gt; 
+&lt;br /&gt;(probably new construction). &lt;/p&gt;
+
+&lt;p&gt;Not sure it's a good think to combine the landuse and the social facility (Josm validation warning, and i have do the same in the past , osmose also complain). &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-09 11:30:03 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Combining the landuse and social facility ways indeed gives a validation warning, but they do cover the exact same area, so I don't know how else to map this.
+
+What I do also wonder is whether `landuse=residential` is appropriate here, but again, I wouldn't know what else to use.</text>
+      <html>&lt;p&gt;Combining the landuse and social facility ways indeed gives a validation warning, but they do cover the exact same area, so I don't know how else to map this.&lt;/p&gt;
+
+&lt;p&gt;What I do also wonder is whether `landuse=residential` is appropriate here, but again, I wouldn't know what else to use.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

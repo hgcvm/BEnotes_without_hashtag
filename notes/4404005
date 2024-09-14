@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5840240" lat="50.7891002">
+  <id>4404005</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4404005</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4404005/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4404005/close</close_url>
+  <date_created>2024-08-26 17:12:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-26 17:12:55 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>AED mapillary
+Google zoekopdracht voor de laatste maand gaf dit =
+https://www.hln.be/huldenberg/huldenberg-neemt-nieuwe-aed-toestellen-in-gebruik-ervoor-zorgen-dat-iedereen-snel-kan-handelen-in-geval-van-een-hartstilstand~a97b2e0a/
+
+De plaatsing staat echter nog niet op de website van de gemeente.
+</text>
+      <html>&lt;p&gt;AED mapillary
+&lt;br /&gt;Google zoekopdracht voor de laatste maand gaf dit =
+&lt;br /&gt;&lt;a href="https://www.hln.be/huldenberg/huldenberg-neemt-nieuwe-aed-toestellen-in-gebruik-ervoor-zorgen-dat-iedereen-snel-kan-handelen-in-geval-van-een-hartstilstand~a97b2e0a/" rel="nofollow noopener noreferrer"&gt;https://www.hln.be/huldenberg/huldenberg-neemt-nieuwe-aed-toestellen-in-gebruik-ervoor-zorgen-dat-iedereen-snel-kan-handelen-in-geval-van-een-hartstilstand~a97b2e0a/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;De plaatsing staat echter nog niet op de website van de gemeente.
+&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

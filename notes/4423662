@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3784480" lat="50.8851930">
+  <id>4423662</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4423662</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4423662/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4423662/close</close_url>
+  <date_created>2024-09-07 10:31:38 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-07 10:31:38 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>Crossing refurbished this is now a roundabout : https://www.mapillary.com/app/?lat=50.88532240000001&amp;lng=4.378471399999967&amp;z=18.68674814252618&amp;x=0.668412324766539&amp;y=0.5100703135454532&amp;zoom=0&amp;focus=photo&amp;pKey=1181632373139018</text>
+      <html>&lt;p&gt;Crossing refurbished this is now a roundabout : &lt;a href="https://www.mapillary.com/app/?lat=50.88532240000001&amp;amp;lng=4.378471399999967&amp;amp;z=18.68674814252618&amp;amp;x=0.668412324766539&amp;amp;y=0.5100703135454532&amp;amp;zoom=0&amp;amp;focus=photo&amp;amp;pKey=1181632373139018" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=50.88532240000001&amp;amp;lng=4.378471399999967&amp;amp;z=18.68674814252618&amp;amp;x=0.668412324766539&amp;amp;y=0.5100703135454532&amp;amp;zoom=0&amp;amp;focus=photo&amp;amp;pKey=1181632373139018&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

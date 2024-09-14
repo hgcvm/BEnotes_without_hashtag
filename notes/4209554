@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.4917426" lat="50.8019343">
+  <id>4209554</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4209554</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4209554/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4209554/close</close_url>
+  <date_created>2024-04-22 09:29:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-22 09:29:10 UTC</date>
+      <action>opened</action>
+      <text>hier is straatnaambordje duidelijk: de straat heet Koolbroekstraat
+
+Er is ook een verbod op zwaar verkeer (C23 + onderbord 3t5)</text>
+      <html>&lt;p&gt;hier is straatnaambordje duidelijk: de straat heet Koolbroekstraat&lt;/p&gt;
+
+&lt;p&gt;Er is ook een verbod op zwaar verkeer (C23 + onderbord 3t5)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-23 13:08:12 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Tonnagebeperking ingevoerd en straatnaam aangepast in https://www.openstreetmap.org/changeset/150395040.
+
+Geopunt geeft hier Koolbroek als naam; ik laat deze note nog open, zodat iemand melding kan doen van een mogelijke fout in Geopunt.</text>
+      <html>&lt;p&gt;Tonnagebeperking ingevoerd en straatnaam aangepast in &lt;a href="https://www.openstreetmap.org/changeset/150395040" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/150395040&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Geopunt geeft hier Koolbroek als naam; ik laat deze note nog open, zodat iemand melding kan doen van een mogelijke fout in Geopunt.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

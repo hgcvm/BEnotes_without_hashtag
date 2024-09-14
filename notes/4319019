@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.7261086" lat="49.6657390">
+  <id>4319019</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4319019</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4319019/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4319019/close</close_url>
+  <date_created>2024-07-04 15:14:28 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-04 15:14:28 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>Can you or can't you walk, cycle or horseride in this region? My search on the internet couldn't answer this question and most of the tracks/paths haven't been changed in the past couple of years.</text>
+      <html>&lt;p&gt;Can you or can't you walk, cycle or horseride in this region? My search on the internet couldn't answer this question and most of the tracks/paths haven't been changed in the past couple of years.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-17 12:46:31 UTC</date>
+      <uid>20820858</uid>
+      <user>Ardennen8</user>
+      <user_url>https://api.openstreetmap.org/user/Ardennen8</user_url>
+      <action>commented</action>
+      <text>Dit is een militair domein en volgens mij is er op dit moment geen toegang tot: https://www.openstreetmap.org/way/463608590
+https://www.wikidata.org/wiki/Q85313658 .</text>
+      <html>&lt;p&gt;Dit is een militair domein en volgens mij is er op dit moment geen toegang tot: &lt;a href="https://www.openstreetmap.org/way/463608590" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/463608590&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.wikidata.org/wiki/Q85313658" rel="nofollow noopener noreferrer"&gt;https://www.wikidata.org/wiki/Q85313658&lt;/a&gt; .&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 12:40:38 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Volgens https://fr.wikipedia.org/wiki/Camp_de_Lagland wordt het gebruikt voor schietoefeningen, dan zou ik inderdaad denken dat het niet openbaar toegankelijk is.</text>
+      <html>&lt;p&gt;Volgens &lt;a href="https://fr.wikipedia.org/wiki/Camp_de_Lagland" rel="nofollow noopener noreferrer"&gt;https://fr.wikipedia.org/wiki/Camp_de_Lagland&lt;/a&gt; wordt het gebruikt voor schietoefeningen, dan zou ik inderdaad denken dat het niet openbaar toegankelijk is.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 08:44:55 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

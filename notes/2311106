@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4612780" lat="51.2178822">
+  <id>2311106</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2311106</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2311106/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2311106/close</close_url>
+  <date_created>2020-08-17 15:30:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-08-17 15:30:17 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Vergelijk https://www.mapillary.com/map/im/Q4qzAlWeEzGYqyIdYSinl1 en https://www.mapillary.com/map/im/mYgjfSvGLwBe5gfcLDOtZO : 
+dan is niet evident waarom het ene stuk als cycle path / fietspad, het andere als pedestrian street werd ingevoerd? 
+Ook niet duidelijk hoe de breedte 2,95m werd vastgesteld? tel bij het 'overlopen' 19½ schoenen 'hiel-tegen-neus', dat is eerder 6 m wegens schoenlengte=31,2cm</text>
+      <html>&lt;p&gt;Vergelijk &lt;a href="https://www.mapillary.com/map/im/Q4qzAlWeEzGYqyIdYSinl1" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/Q4qzAlWeEzGYqyIdYSinl1&lt;/a&gt; en &lt;a href="https://www.mapillary.com/map/im/mYgjfSvGLwBe5gfcLDOtZO" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/mYgjfSvGLwBe5gfcLDOtZO&lt;/a&gt; : 
+&lt;br /&gt;dan is niet evident waarom het ene stuk als cycle path / fietspad, het andere als pedestrian street werd ingevoerd? 
+&lt;br /&gt;Ook niet duidelijk hoe de breedte 2,95m werd vastgesteld? tel bij het 'overlopen' 19½ schoenen 'hiel-tegen-neus', dat is eerder 6 m wegens schoenlengte=31,2cm&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-08-17 18:58:41 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>voor mij beiden fout analyse van de verkeersborden....Zie wiki verkeersborden</text>
+      <html>&lt;p&gt;voor mij beiden fout analyse van de verkeersborden....Zie wiki verkeersborden&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-08-17 23:21:31 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Valt uiteen in twee vragen : correcte highway= waarde , en toekennen voertuigen, daarbij : https://www.mapillary.com/map/im/to0tx1kRWaaF9J9rJOAXw0 , https://www.mapillary.com/map/im/to0tx1kRWaaF9J9rJOAXw0 , https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi , danwel https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi en https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi </text>
+      <html>&lt;p&gt;Valt uiteen in twee vragen : correcte highway= waarde , en toekennen voertuigen, daarbij : &lt;a href="https://www.mapillary.com/map/im/to0tx1kRWaaF9J9rJOAXw0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/to0tx1kRWaaF9J9rJOAXw0&lt;/a&gt; , &lt;a href="https://www.mapillary.com/map/im/to0tx1kRWaaF9J9rJOAXw0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/to0tx1kRWaaF9J9rJOAXw0&lt;/a&gt; , &lt;a href="https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi&lt;/a&gt; , danwel &lt;a href="https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi&lt;/a&gt; en &lt;a href="https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/YP4RpB2nkFgz1ymSCDVmCi&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-03 10:03:05 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>wat moet hier juist gemapt worden? Graag een kort, bondig en duidelijk antwoord!</text>
+      <html>&lt;p&gt;wat moet hier juist gemapt worden? Graag een kort, bondig en duidelijk antwoord!&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-03 12:32:25 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dit is zeker geen unclassified highway met verkeersfunctie - afgezien van fijn forensen fietspad ochtend/ avond, loop baan vrije dag ochtenden, en wandelpromenade moeders met kinderen op vrije dag middagen. Hoe ga je die 6 - 10 m brede allee mappen is de vraag.</text>
+      <html>&lt;p&gt;Dit is zeker geen unclassified highway met verkeersfunctie - afgezien van fijn forensen fietspad ochtend/ avond, loop baan vrije dag ochtenden, en wandelpromenade moeders met kinderen op vrije dag middagen. Hoe ga je die 6 - 10 m brede allee mappen is de vraag.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-03 12:35:00 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>highway=pedestrian met access-tags? evt. nog met maxspeed?</text>
+      <html>&lt;p&gt;highway=pedestrian met access-tags? evt. nog met maxspeed?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-03 12:49:39 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>C3 + M2 , zie geen max.speed, wel in lokaal ATV nieuws dat provinciale boswachter graag max.15km/u ziet;  https://www.mapillary.com/app/?lat=51.217841100000015&amp;lng=4.461224600000037&amp;z=19.9&amp;pKey=1541417569972713&amp;focus=photo&amp;x=0.48023712570460686&amp;y=0.5533455818917746&amp;zoom=0</text>
+      <html>&lt;p&gt;C3 + M2 , zie geen max.speed, wel in lokaal ATV nieuws dat provinciale boswachter graag max.15km/u ziet;  &lt;a href="https://www.mapillary.com/app/?lat=51.217841100000015&amp;amp;lng=4.461224600000037&amp;amp;z=19.9&amp;amp;pKey=1541417569972713&amp;amp;focus=photo&amp;amp;x=0.48023712570460686&amp;amp;y=0.5533455818917746&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.217841100000015&amp;amp;lng=4.461224600000037&amp;amp;z=19.9&amp;amp;pKey=1541417569972713&amp;amp;focus=photo&amp;amp;x=0.48023712570460686&amp;amp;y=0.5533455818917746&amp;amp;zoom=0&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

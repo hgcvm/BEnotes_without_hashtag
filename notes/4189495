@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4573539" lat="51.2325835">
+  <id>4189495</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4189495</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4189495/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4189495/close</close_url>
+  <date_created>2024-04-08 18:07:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-08 18:07:46 UTC</date>
+      <action>opened</action>
+      <text>Om op te volgen : kruispunt wordt veranderd, veiliger en overzichtelijker. Voornaamste effect dwarsen B'hoflaan gedurende werken niet mogelijk voor gemotoriseerd verkeer wegens jerseys in middenberm. Duurt tot okt.2024, fietsers in dubbelrichting op de rijbaan aan de zijde waar niet gewerkt wordt. </text>
+      <html>&lt;p&gt;Om op te volgen : kruispunt wordt veranderd, veiliger en overzichtelijker. Voornaamste effect dwarsen B'hoflaan gedurende werken niet mogelijk voor gemotoriseerd verkeer wegens jerseys in middenberm. Duurt tot okt.2024, fietsers in dubbelrichting op de rijbaan aan de zijde waar niet gewerkt wordt. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-08 18:25:23 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Jerseys toegevoegd, access wagen = no op dwarsende Lakborslei ways
+
+behoeft opvolging mid.sep'24</text>
+      <html>&lt;p&gt;Jerseys toegevoegd, access wagen = no op dwarsende Lakborslei ways&lt;/p&gt;
+
+&lt;p&gt;behoeft opvolging mid.sep'24&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

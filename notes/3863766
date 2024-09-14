@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8592990" lat="50.5931901">
+  <id>3863766</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3863766</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3863766/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3863766/close</close_url>
+  <date_created>2023-08-31 14:42:36 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-31 14:42:36 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Wird aktuell komplett abgerissen.</text>
+      <html>&lt;p&gt;Wird aktuell komplett abgerissen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-31 14:52:15 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Rue du Marteau 1 und 3 werden gerade abgerissen. Keine Überwachungskamera mehr.</text>
+      <html>&lt;p&gt;Rue du Marteau 1 und 3 werden gerade abgerissen. Keine Überwachungskamera mehr.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-09-11 15:13:06 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Was für eine Schande, diese wunderschönen Gebäude nicht retten zu könne/wollen.
+
+https://www.rtbf.be/article/la-merule-a-verviers-dans-ces-maisons-de-la-rue-du-marteau-elles-seront-demolies-11210092
+
+https://ds.static.rtbf.be/article/image/1248x702/8/4/d/4d95d05a4fc4eadbc3b9dde67afdca39-1686904354.jpg
+
+https://ds.static.rtbf.be/article/image/1248xAuto/7/1/7/df154f8efdf79059012b50bb27c30679-1686218327.jpg
+
+</text>
+      <html>&lt;p&gt;Was für eine Schande, diese wunderschönen Gebäude nicht retten zu könne/wollen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.rtbf.be/article/la-merule-a-verviers-dans-ces-maisons-de-la-rue-du-marteau-elles-seront-demolies-11210092" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/la-merule-a-verviers-dans-ces-maisons-de-la-rue-du-marteau-elles-seront-demolies-11210092&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://ds.static.rtbf.be/article/image/1248x702/8/4/d/4d95d05a4fc4eadbc3b9dde67afdca39-1686904354.jpg" rel="nofollow noopener noreferrer"&gt;https://ds.static.rtbf.be/article/image/1248x702/8/4/d/4d95d05a4fc4eadbc3b9dde67afdca39-1686904354.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://ds.static.rtbf.be/article/image/1248xAuto/7/1/7/df154f8efdf79059012b50bb27c30679-1686218327.jpg" rel="nofollow noopener noreferrer"&gt;https://ds.static.rtbf.be/article/image/1248xAuto/7/1/7/df154f8efdf79059012b50bb27c30679-1686218327.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-09-11 15:34:38 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>So wird´s nimmer.
+
+http://verviersvillelainiererues.blogspot.com/p/marteau-rue-du.html</text>
+      <html>&lt;p&gt;So wird´s nimmer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://verviersvillelainiererues.blogspot.com/p/marteau-rue-du.html" rel="nofollow noopener noreferrer"&gt;http://verviersvillelainiererues.blogspot.com/p/marteau-rue-du.html&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 14:52:39 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Weitere Gebäude sind abgerissen. Parkplätze eingeebnet. Wege verschwunden.
+
+Noch wird Schutt abgeräumt.
+
+Konstruktive Aufbauarbeiten sind noch keine erkennbar.
+----
+
+D'autres bâtiments ont été démolis. Des parkings ont été nivelés. Des chemins ont disparu.
+
+Les gravats sont encore en train d'être déblayés.
+
+Les travaux de construction ne sont pas encore visibles.</text>
+      <html>&lt;p&gt;Weitere Gebäude sind abgerissen. Parkplätze eingeebnet. Wege verschwunden.&lt;/p&gt;
+
+&lt;p&gt;Noch wird Schutt abgeräumt.&lt;/p&gt;
+
+&lt;p&gt;Konstruktive Aufbauarbeiten sind noch keine erkennbar.
+&lt;br /&gt;----&lt;/p&gt;
+
+&lt;p&gt;D'autres bâtiments ont été démolis. Des parkings ont été nivelés. Des chemins ont disparu.&lt;/p&gt;
+
+&lt;p&gt;Les gravats sont encore en train d'être déblayés.&lt;/p&gt;
+
+&lt;p&gt;Les travaux de construction ne sont pas encore visibles.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 16:24:10 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Die Rue du Marteau 1 wird vermutlich stehen bleiben und das Gebäude neben der Pont Saint-Laurent 33 wohl auch.
+
+Beides Häuser sind in einem erbärmlichen Zustand.
+---
+1 rue du Marteau will probably remain standing and the building next to 33 Pont Saint-Laurent probably will too.
+
+Both buildings are in a pitiful condition.
+---
+Le 1, rue du Marteau, restera probablement debout, tout comme le bâtiment situé à côté du 33, Pont Saint-Laurent.
+
+Les deux immeubles sont dans un état lamentable.</text>
+      <html>&lt;p&gt;Die Rue du Marteau 1 wird vermutlich stehen bleiben und das Gebäude neben der Pont Saint-Laurent 33 wohl auch.&lt;/p&gt;
+
+&lt;p&gt;Beides Häuser sind in einem erbärmlichen Zustand.
+&lt;br /&gt;---
+&lt;br /&gt;1 rue du Marteau will probably remain standing and the building next to 33 Pont Saint-Laurent probably will too.&lt;/p&gt;
+
+&lt;p&gt;Both buildings are in a pitiful condition.
+&lt;br /&gt;---
+&lt;br /&gt;Le 1, rue du Marteau, restera probablement debout, tout comme le bâtiment situé à côté du 33, Pont Saint-Laurent.&lt;/p&gt;
+
+&lt;p&gt;Les deux immeubles sont dans un état lamentable.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 16:30:13 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Sind also Gebäuderuinen mit der Option eines Wiederaufbaus.
+---
+Ce sont donc des bâtiments en ruine avec l'option de les reconstruire.
+</text>
+      <html>&lt;p&gt;Sind also Gebäuderuinen mit der Option eines Wiederaufbaus.
+&lt;br /&gt;---
+&lt;br /&gt;Ce sont donc des bâtiments en ruine avec l'option de les reconstruire.
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-26 10:25:01 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>A été démolie.
+
+https://up.picr.de/48439235re.jpg</text>
+      <html>&lt;p&gt;A été démolie.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48439235re.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48439235re.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.9278806" lat="51.2344293">
+  <id>3994666</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3994666</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3994666/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3994666/close</close_url>
+  <date_created>2023-11-19 21:45:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-19 21:45:59 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>Toilet
+Oostende Rechter Oever
+Hier is nog een WC 
+volgens
+https://www.oostende.be/schaduwplekken-in-jouw-buurt</text>
+      <html>&lt;p&gt;Toilet
+&lt;br /&gt;Oostende Rechter Oever
+&lt;br /&gt;Hier is nog een WC 
+&lt;br /&gt;volgens
+&lt;br /&gt;&lt;a href="https://www.oostende.be/schaduwplekken-in-jouw-buurt" rel="nofollow noopener noreferrer"&gt;https://www.oostende.be/schaduwplekken-in-jouw-buurt&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-19 21:54:04 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>Al van 2019 !  
+Waar zitten die gemotiveerden ?
+https://www.mapillary.com/app/user/filipc?lat=51.234413799972&amp;lng=2.9280708&amp;z=17&amp;mapStyle=OpenStreetMap&amp;pKey=2387115004761472&amp;focus=photo&amp;x=0.49762479250256064&amp;y=0.47740387352642694&amp;zoom=0</text>
+      <html>&lt;p&gt;Al van 2019 !  
+&lt;br /&gt;Waar zitten die gemotiveerden ?
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/user/filipc?lat=51.234413799972&amp;amp;lng=2.9280708&amp;amp;z=17&amp;amp;mapStyle=OpenStreetMap&amp;amp;pKey=2387115004761472&amp;amp;focus=photo&amp;amp;x=0.49762479250256064&amp;amp;y=0.47740387352642694&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/user/filipc?lat=51.234413799972&amp;amp;lng=2.9280708&amp;amp;z=17&amp;amp;mapStyle=OpenStreetMap&amp;amp;pKey=2387115004761472&amp;amp;focus=photo&amp;amp;x=0.49762479250256064&amp;amp;y=0.47740387352642694&amp;amp;zoom=0&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 09:40:46 UTC</date>
+      <uid>20578352</uid>
+      <user>olecky</user>
+      <user_url>https://api.openstreetmap.org/user/olecky</user_url>
+      <action>commented</action>
+      <text>Confirmed
+
+Attached photo(s):
+https://westnordost.de/p/239623.jpg</text>
+      <html>&lt;p&gt;Confirmed&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/239623.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/239623.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2697603" lat="50.6703662">
+  <id>2595804</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2595804</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2595804/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2595804/close</close_url>
+  <date_created>2021-03-26 21:57:44 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-03-26 21:57:44 UTC</date>
+      <uid>4041590</uid>
+      <user>lesleydc</user>
+      <user_url>https://api.openstreetmap.org/user/lesleydc</user_url>
+      <action>opened</action>
+      <text>Here is a path (waymarked) which is not in OSM yet.</text>
+      <html>&lt;p&gt;Here is a path (waymarked) which is not in OSM yet.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-27 07:35:09 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>waymarked path. Do you have gpx trail ? do not copy from other site to avoid errors ;)</text>
+      <html>&lt;p&gt;waymarked path. Do you have gpx trail ? do not copy from other site to avoid errors ;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-08 15:39:51 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

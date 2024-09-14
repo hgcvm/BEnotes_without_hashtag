@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8283678" lat="50.4842721">
+  <id>3895574</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3895574</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3895574/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3895574/close</close_url>
+  <date_created>2023-09-18 14:02:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-18 14:02:57 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>The name is probably rather IPPJ de Saint-Servais https://asbl-sypa.be/localisation/1999/ , and that's basically a youth prison</text>
+      <html>&lt;p&gt;The name is probably rather IPPJ de Saint-Servais &lt;a href="https://asbl-sypa.be/localisation/1999/" rel="nofollow noopener noreferrer"&gt;https://asbl-sypa.be/localisation/1999/&lt;/a&gt; , and that's basically a youth prison&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

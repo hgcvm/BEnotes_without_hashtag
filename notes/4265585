@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.4484022" lat="51.0749444">
+  <id>4265585</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4265585</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4265585/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4265585/close</close_url>
+  <date_created>2024-05-26 09:35:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-26 09:35:22 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>opened</action>
+      <text>EV chargers coming
+
+ #MapComplete #notes</text>
+      <html>&lt;p&gt;EV chargers coming&lt;/p&gt;
+
+&lt;p&gt; #MapComplete #notes&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 09:36:28 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/XGC9EZS.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/XGC9EZS.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/XGC9EZS.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 09:36:28 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/wakPUkW.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/wakPUkW.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/wakPUkW.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-26 09:36:31 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/XXf34x6.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/XXf34x6.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/XXf34x6.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 20:33:18 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Werken die ondertussen al?</text>
+      <html>&lt;p&gt;Werken die ondertussen al?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 21:32:35 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>commented</action>
+      <text>still not available to the public. it's blocked off by fences right now</text>
+      <html>&lt;p&gt;still not available to the public. it's blocked off by fences right now&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 05:48:42 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/mvTMPVS.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/mvTMPVS.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/mvTMPVS.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-13 07:14:34 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>#OSMbe #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMbe #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

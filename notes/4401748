@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.3059834" lat="51.2491302">
+  <id>4401748</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4401748</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4401748/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4401748/close</close_url>
+  <date_created>2024-08-25 12:51:40 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-25 12:51:40 UTC</date>
+      <uid>4198737</uid>
+      <user>dentonny</user>
+      <user_url>https://api.openstreetmap.org/user/dentonny</user_url>
+      <action>opened</action>
+      <text>dit is nu een parkeerplaats voor auto's en campers
+
+gebied inteken wanneer er nieuwe beelden zijn </text>
+      <html>&lt;p&gt;dit is nu een parkeerplaats voor auto's en campers&lt;/p&gt;
+
+&lt;p&gt;gebied inteken wanneer er nieuwe beelden zijn &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-25 14:35:52 UTC</date>
+      <uid>4198737</uid>
+      <user>dentonny</user>
+      <user_url>https://api.openstreetmap.org/user/dentonny</user_url>
+      <action>commented</action>
+      <text>https://www.lommel.be/nieuws/nieuwe-parking-sahara-geopend</text>
+      <html>&lt;p&gt;&lt;a href="https://www.lommel.be/nieuws/nieuwe-parking-sahara-geopend" rel="nofollow noopener noreferrer"&gt;https://www.lommel.be/nieuws/nieuwe-parking-sahara-geopend&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

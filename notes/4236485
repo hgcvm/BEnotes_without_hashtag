@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3772364" lat="51.1329860">
+  <id>4236485</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4236485</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4236485/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4236485/close</close_url>
+  <date_created>2024-05-08 17:50:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-08 17:50:49 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Leugstraat vanaf hier afgesloten wegens diepgravende werfwerken, duur mij niet bekend.</text>
+      <html>&lt;p&gt;Leugstraat vanaf hier afgesloten wegens diepgravende werfwerken, duur mij niet bekend.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-25 20:26:09 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=879439400881359 , https://www.mapillary.com/app/?pKey=429235513414519 , https://www.mapillary.com/app/?pKey=842803774443670</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=879439400881359" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=879439400881359&lt;/a&gt; , &lt;a href="https://www.mapillary.com/app/?pKey=429235513414519" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=429235513414519&lt;/a&gt; , &lt;a href="https://www.mapillary.com/app/?pKey=842803774443670" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=842803774443670&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

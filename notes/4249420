@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6691000" lat="51.3447000">
+  <id>4249420</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4249420</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4249420/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4249420/close</close_url>
+  <date_created>2024-05-16 18:12:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-16 18:12:26 UTC</date>
+      <action>opened</action>
+      <text>Is Sint-Lenaarts echt verdeeld in acht verschillende deelgebieden (admin_level 10) ? </text>
+      <html>&lt;p&gt;Is Sint-Lenaarts echt verdeeld in acht verschillende deelgebieden (admin_level 10) ? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5363907" lat="50.8619266">
+  <id>2778081</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2778081</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/2778081/reopen</reopen_url>
+  <date_created>2021-07-30 15:05:17 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-04-23 14:25:04 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2021-07-30 15:05:17 UTC</date>
+      <uid>5439560</uid>
+      <user>useredf816343045912f6</user>
+      <user_url>https://api.openstreetmap.org/user/useredf816343045912f6</user_url>
+      <action>opened</action>
+      <text>Validate that Architekst is here (node moved from Ghent to new location noted on their website)</text>
+      <html>&lt;p&gt;Validate that Architekst is here (node moved from Ghent to new location noted on their website)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-30 15:14:52 UTC</date>
+      <uid>5439560</uid>
+      <user>useredf816343045912f6</user>
+      <user_url>https://api.openstreetmap.org/user/useredf816343045912f6</user_url>
+      <action>commented</action>
+      <text>I sent a message to the architekst user on osm to mention this note</text>
+      <html>&lt;p&gt;I sent a message to the architekst user on osm to mention this note&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-07 09:04:49 UTC</date>
+      <uid>5846458</uid>
+      <user>Thibault Rommel</user>
+      <user_url>https://api.openstreetmap.org/user/Thibault%20Rommel</user_url>
+      <action>commented</action>
+      <text>Any response yet?</text>
+      <html>&lt;p&gt;Any response yet?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-23 14:25:04 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>closed</action>
+      <text>Eh, the address is on their website, so I see no reason why there would be an issue</text>
+      <html>&lt;p&gt;Eh, the address is on their website, so I see no reason why there would be an issue&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-23 14:25:04 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Eh, the address is on their website, so I see no reason why there would be an issue</text>
+      <html>&lt;p&gt;Eh, the address is on their website, so I see no reason why there would be an issue&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

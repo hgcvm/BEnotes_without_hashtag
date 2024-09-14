@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.9799820" lat="50.7315890">
+  <id>4408208</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4408208</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4408208/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4408208/close</close_url>
+  <date_created>2024-08-29 05:53:16 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-29 05:53:16 UTC</date>
+      <uid>21897924</uid>
+      <user>Saschbe</user>
+      <user_url>https://api.openstreetmap.org/user/Saschbe</user_url>
+      <action>opened</action>
+      <text>La route est barré pour des travaux </text>
+      <html>&lt;p&gt;La route est barré pour des travaux &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 08:04:45 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Vous savez la durée des traveaux</text>
+      <html>&lt;p&gt;Vous savez la durée des traveaux&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

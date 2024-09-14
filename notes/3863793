@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8578637" lat="50.5927117">
+  <id>3863793</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3863793</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3863793/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3863793/close</close_url>
+  <date_created>2023-08-31 15:00:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-31 15:00:54 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Fünf oder mehr Gebäude sind entweder dem Erdboden gleich gemacht worden oder stehen kurz davor.
+
+Ich mach erst mal Pause hier und muß neu sortieren was hier abgeht.</text>
+      <html>&lt;p&gt;Fünf oder mehr Gebäude sind entweder dem Erdboden gleich gemacht worden oder stehen kurz davor.&lt;/p&gt;
+
+&lt;p&gt;Ich mach erst mal Pause hier und muß neu sortieren was hier abgeht.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-31 15:05:38 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Fünf oder mehr Gebäude sind entweder dem Erdboden gleich gemacht worden oder stehen kurz davor. Zufahrtswege und Parkflächen sind nicht nutzbar.
+---
+Ich hör erst mal auf hier.</text>
+      <html>&lt;p&gt;Fünf oder mehr Gebäude sind entweder dem Erdboden gleich gemacht worden oder stehen kurz davor. Zufahrtswege und Parkflächen sind nicht nutzbar.
+&lt;br /&gt;---
+&lt;br /&gt;Ich hör erst mal auf hier.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-31 15:10:59 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Die gesamte Fläche mit den nicht mehr existierenden Gebäuden als Baustelle eingetragen nach persönlicher Begehung um 31. August 2023 und Photo-Dokumentation.</text>
+      <html>&lt;p&gt;Die gesamte Fläche mit den nicht mehr existierenden Gebäuden als Baustelle eingetragen nach persönlicher Begehung um 31. August 2023 und Photo-Dokumentation.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-31 15:12:48 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Scheiße!!!
+Ich hab noch nie derart großflächig eine halbe Stadt "ausradiert" wie Verviers in den letzten Monaten und vor allem heute ... Das ist bitter ...</text>
+      <html>&lt;p&gt;Scheiße!!!
+&lt;br /&gt;Ich hab noch nie derart großflächig eine halbe Stadt "ausradiert" wie Verviers in den letzten Monaten und vor allem heute ... Das ist bitter ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 14:49:36 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Weitere Gebäude sind abgerissen. Parkplätze eingeebnet. Wege verschwunden.
+
+Noch wird Schutt abgeräumt. 
+
+Konstruktive Aufbauarbeiten sind noch keine erkennbar.</text>
+      <html>&lt;p&gt;Weitere Gebäude sind abgerissen. Parkplätze eingeebnet. Wege verschwunden.&lt;/p&gt;
+
+&lt;p&gt;Noch wird Schutt abgeräumt. &lt;/p&gt;
+
+&lt;p&gt;Konstruktive Aufbauarbeiten sind noch keine erkennbar.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 14:51:01 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>D'autres bâtiments ont été démolis. Des parkings ont été nivelés. Des chemins ont disparu.
+
+Les gravats sont encore en train d'être déblayés.
+
+Les travaux de construction ne sont pas encore visibles.
+
+14. 10. 2023</text>
+      <html>&lt;p&gt;D'autres bâtiments ont été démolis. Des parkings ont été nivelés. Des chemins ont disparu.&lt;/p&gt;
+
+&lt;p&gt;Les gravats sont encore en train d'être déblayés.&lt;/p&gt;
+
+&lt;p&gt;Les travaux de construction ne sont pas encore visibles.&lt;/p&gt;
+
+&lt;p&gt;14. 10. 2023&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-12-20 19:12:16 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Stadtrat Verviers stimmt mehrheitlich für den Rückkauf der City-Mall-Grundstücke
+
+https://brf.be/regional/1786232/</text>
+      <html>&lt;p&gt;Stadtrat Verviers stimmt mehrheitlich für den Rückkauf der City-Mall-Grundstücke&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://brf.be/regional/1786232/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1786232/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-17 19:43:50 UTC</date>
+      <uid>12666494</uid>
+      <user>Freddy Theis</user>
+      <user_url>https://api.openstreetmap.org/user/Freddy%20Theis</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-17 21:21:53 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-17 21:21:59 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Je demande un commentaire de modification !
+
+Peer</text>
+      <html>&lt;p&gt;Je demande un commentaire de modification !&lt;/p&gt;
+
+&lt;p&gt;Peer&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-18 07:40:42 UTC</date>
+      <uid>12666494</uid>
+      <user>Freddy Theis</user>
+      <user_url>https://api.openstreetmap.org/user/Freddy%20Theis</user_url>
+      <action>commented</action>
+      <text>Erreur, désolé</text>
+      <html>&lt;p&gt;Erreur, désolé&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-25 15:34:22 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Bis an die Hausnummer 46 ist alles weg. Und das Haus Rue de Brou mit der Nummer 46 scheint auch bald weg zu sein.
+
+Dann ist bis an die Hauswand 44 alles abgerissen.
+- - - -
+
+Jusqu'au numéro 46, tout a disparu. Et il semble que la maison au numéro 46 soit bientôt partie elle aussi.
+
+Alors, jusqu'au mur de la maison 44, tout est démoli.</text>
+      <html>&lt;p&gt;Bis an die Hausnummer 46 ist alles weg. Und das Haus Rue de Brou mit der Nummer 46 scheint auch bald weg zu sein.&lt;/p&gt;
+
+&lt;p&gt;Dann ist bis an die Hauswand 44 alles abgerissen.
+&lt;br /&gt;- - - -&lt;/p&gt;
+
+&lt;p&gt;Jusqu'au numéro 46, tout a disparu. Et il semble que la maison au numéro 46 soit bientôt partie elle aussi.&lt;/p&gt;
+
+&lt;p&gt;Alors, jusqu'au mur de la maison 44, tout est démoli.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-09 18:55:54 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/note/3940556</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/note/3940556" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/3940556&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

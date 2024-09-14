@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3503700" lat="50.7828100">
+  <id>4321444</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4321444</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4321444/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4321444/close</close_url>
+  <date_created>2024-07-06 08:40:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-06 08:40:47 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>https://www.openstreetmap.org/way/1299301349
+
+It's signed on ground Plateau Engeland  like indicated here : https://gardens.brussels/fr/espaces-verts/plateau-engeland 
+,  for the  neighbourhood the name is ok. mabye create 2 objects ?) 
+Don't think there there is  farmland here, it's probably meadow but to check with existing mapillary and new one that will follow.
+
+</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/1299301349" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1299301349&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It's signed on ground Plateau Engeland  like indicated here : &lt;a href="https://gardens.brussels/fr/espaces-verts/plateau-engeland" rel="nofollow noopener noreferrer"&gt;https://gardens.brussels/fr/espaces-verts/plateau-engeland&lt;/a&gt; 
+&lt;br /&gt;,  for the  neighbourhood the name is ok. mabye create 2 objects ?) 
+&lt;br /&gt;Don't think there there is  farmland here, it's probably meadow but to check with existing mapillary and new one that will follow.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-07 02:57:20 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>For the name : https://www.mapillary.com/app/?pKey=496538683035919
+
+Not farmland : https://www.mapillary.com/app/?pKey=2786862588132156 : https://www.mapillary.com/app/?pKey=181416817382239</text>
+      <html>&lt;p&gt;For the name : &lt;a href="https://www.mapillary.com/app/?pKey=496538683035919" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=496538683035919&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not farmland : &lt;a href="https://www.mapillary.com/app/?pKey=2786862588132156" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=2786862588132156&lt;/a&gt; : &lt;a href="https://www.mapillary.com/app/?pKey=181416817382239" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=181416817382239&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

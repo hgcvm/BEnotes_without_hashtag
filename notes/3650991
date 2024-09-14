@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0392888" lat="50.9393232">
+  <id>3650991</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3650991</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3650991/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3650991/close</close_url>
+  <date_created>2023-04-20 08:03:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-04-20 08:03:46 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>add Pupillensite
+https://www.vrt.be/vrtnws/nl/2023/04/20/aalst-verkoopt-een-groot-deel-van-historische-site-rond-stadhuis/</text>
+      <html>&lt;p&gt;add Pupillensite
+&lt;br /&gt;&lt;a href="https://www.vrt.be/vrtnws/nl/2023/04/20/aalst-verkoopt-een-groot-deel-van-historische-site-rond-stadhuis/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/2023/04/20/aalst-verkoopt-een-groot-deel-van-historische-site-rond-stadhuis/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-16 10:48:55 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://aalst.be/sites/default/files/2023-12/rup_stadhuis-_en_pupillensite_bijlage_onderzoek_groenstructuren.pdf</text>
+      <html>&lt;p&gt;&lt;a href="https://aalst.be/sites/default/files/2023-12/rup_stadhuis-_en_pupillensite_bijlage_onderzoek_groenstructuren.pdf" rel="nofollow noopener noreferrer"&gt;https://aalst.be/sites/default/files/2023-12/rup_stadhuis-_en_pupillensite_bijlage_onderzoek_groenstructuren.pdf&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.5988889" lat="51.0809886">
+  <id>1869063</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1869063</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1869063/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1869063/close</close_url>
+  <date_created>2019-08-04 12:30:33 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2019-08-04 12:30:33 UTC</date>
+      <action>opened</action>
+      <text>Als ik de wiki goed lees, dan zouden individuele attracties in een pretpark niet als tourism=attraction getagged mogen worden, maar wel als attraction= ...
+attraction= ... is daarbij geen subkey van tourism=attraction</text>
+      <html>&lt;p&gt;Als ik de wiki goed lees, dan zouden individuele attracties in een pretpark niet als tourism=attraction getagged mogen worden, maar wel als attraction= ...
+&lt;br /&gt;attraction= ... is daarbij geen subkey van tourism=attraction&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-01 19:18:37 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>tourism=attraction zou hier moeten verdwijnen op de individuele attracties, maar niet gemakkelijk om voor elke gemapte attractie een goede tagging te vinden, want sommige zijn geen echte 'rides' maar bijv. een speeltuin, een ballenbad ... #notesBE</text>
+      <html>&lt;p&gt;tourism=attraction zou hier moeten verdwijnen op de individuele attracties, maar niet gemakkelijk om voor elke gemapte attractie een goede tagging te vinden, want sommige zijn geen echte 'rides' maar bijv. een speeltuin, een ballenbad ... #notesBE&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 19:56:37 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Misschien kan een deel ervan getagd worden met `playground=*`? Een `description=*` en `name=*` geven ook altijd al wat informatie.</text>
+      <html>&lt;p&gt;Misschien kan een deel ervan getagd worden met `playground=*`? Een `description=*` en `name=*` geven ook altijd al wat informatie.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.2650945" lat="51.1910681">
+  <id>4379834</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4379834</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4379834/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4379834/close</close_url>
+  <date_created>2024-08-12 12:26:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-12 12:26:26 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>This is node 552 according to data from Toerisme Vlaanderen, but is is tagged as 266 in OSM. Can someone with local knowledge correct this if necessary?</text>
+      <html>&lt;p&gt;This is node 552 according to data from Toerisme Vlaanderen, but is is tagged as 266 in OSM. Can someone with local knowledge correct this if necessary?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 17:14:14 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

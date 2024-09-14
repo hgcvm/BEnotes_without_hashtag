@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4152057" lat="51.0319015">
+  <id>4236472</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4236472</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4236472/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4236472/close</close_url>
+  <date_created>2024-05-08 17:42:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-08 17:42:46 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>max.weight in te voeren van prentjes</text>
+      <html>&lt;p&gt;max.weight in te voeren van prentjes&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-08 21:50:06 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>en wat is de max weight hier?</text>
+      <html>&lt;p&gt;en wat is de max weight hier?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-09 17:25:23 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>De laatste prentjes worden juist opgeladen, geven perfect aan van waar tot waar, met uitzonderingen, deze not geplaatst gezien borden al wat ouder ogen, geen beperking op deze ways te zien.</text>
+      <html>&lt;p&gt;De laatste prentjes worden juist opgeladen, geven perfect aan van waar tot waar, met uitzonderingen, deze not geplaatst gezien borden al wat ouder ogen, geen beperking op deze ways te zien.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4674800" lat="51.1824800">
+  <id>3796522</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3796522</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3796522/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3796522/close</close_url>
+  <date_created>2023-07-24 13:01:03 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-24 13:01:03 UTC</date>
+      <action>opened</action>
+      <text>De huidige verkeerssituatie klopt niet met wat er momenteel van toepassing is. Er is een straat in de richting van de luchthaven en iets verder een rondpunt</text>
+      <html>&lt;p&gt;De huidige verkeerssituatie klopt niet met wat er momenteel van toepassing is. Er is een straat in de richting van de luchthaven en iets verder een rondpunt&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-24 15:33:06 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dat klopt, na sloop baseball veld en vertrek voetbalclub worden hier nieuwe bestemmingen gegeven, onder andere een nieuwe stelplaats voor bussen van De Lijn, ter vervanging - volgens ATV lokaal nieuws - van die op Zurenborg ; geen veilige toegang met de fiets, dan wachten op DigiVla lucht?</text>
+      <html>&lt;p&gt;Dat klopt, na sloop baseball veld en vertrek voetbalclub worden hier nieuwe bestemmingen gegeven, onder andere een nieuwe stelplaats voor bussen van De Lijn, ter vervanging - volgens ATV lokaal nieuws - van die op Zurenborg ; geen veilige toegang met de fiets, dan wachten op DigiVla lucht?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-21 19:25:45 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Befietst 21 oct'23, nieuwe situatie ingetekend op basis GPS track, te vervolmaken eens verse DV lucht / GRB ; prentjes binnenkort.</text>
+      <html>&lt;p&gt;Befietst 21 oct'23, nieuwe situatie ingetekend op basis GPS track, te vervolmaken eens verse DV lucht / GRB ; prentjes binnenkort.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 08:50:20 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dag H4N5,
+we kregen een bericht van de mobiliteitsambtenaar van Mortsel met meer info over de "nieuwe" verkeerssituatie. Kan je even kijken naar deze note? https://www.openstreetmap.org/note/4162397#map=15/51.1843/4.4868&amp;layers=N</text>
+      <html>&lt;p&gt;dag H4N5,
+&lt;br /&gt;we kregen een bericht van de mobiliteitsambtenaar van Mortsel met meer info over de "nieuwe" verkeerssituatie. Kan je even kijken naar deze note? &lt;a href="https://www.openstreetmap.org/note/4162397#map=15/51.1843/4.4868&amp;amp;layers=N" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/4162397#map=15/51.1843/4.4868&amp;amp;layers=N&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 19:58:24 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>hier de origenele post van de mobiliteitsambtenaar van Morstel. Is het mogelijk om daar op te antwoorden van zodra de wijzigingen zijn doorgevoerd? Alvast bedankt.
+https://community.openstreetmap.org/t/aanpassing-wegennet-mortsel/110787</text>
+      <html>&lt;p&gt;hier de origenele post van de mobiliteitsambtenaar van Morstel. Is het mogelijk om daar op te antwoorden van zodra de wijzigingen zijn doorgevoerd? Alvast bedankt.
+&lt;br /&gt;&lt;a href="https://community.openstreetmap.org/t/aanpassing-wegennet-mortsel/110787" rel="nofollow noopener noreferrer"&gt;https://community.openstreetmap.org/t/aanpassing-wegennet-mortsel/110787&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-27 09:29:58 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Mocht opmerken dat bushaltes verplaatst werden, rijbaan gesplitst omheen verkeerseilanden geleid en nog zo wat zoal veranderd werd bij verplaatsing &amp; heraanleg aansluiting Gasthuishoeven op Krijgsbaan; heb diverse obv prelim air aangepast, doch er is nog veel meer; ongetwijfeld verse prentjes onderweg.</text>
+      <html>&lt;p&gt;Mocht opmerken dat bushaltes verplaatst werden, rijbaan gesplitst omheen verkeerseilanden geleid en nog zo wat zoal veranderd werd bij verplaatsing &amp;amp; heraanleg aansluiting Gasthuishoeven op Krijgsbaan; heb diverse obv prelim air aangepast, doch er is nog veel meer; ongetwijfeld verse prentjes onderweg.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

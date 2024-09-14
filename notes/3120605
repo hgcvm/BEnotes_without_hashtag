@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4270718" lat="51.2018822">
+  <id>3120605</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3120605</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3120605/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3120605/close</close_url>
+  <date_created>2022-04-05 09:18:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-04-05 09:18:56 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Om op te volgen :
+ https://www.antwerpen.be/info/6155706c54112039f56455ce/van-luppenstraat en https://assets.antwerpen.be/srv/assets/api/download/b3da7c5a-d1bb-4dc9-81fd-fba7c5f99517/20220310_12727_DO_NT%20(1).pdf</text>
+      <html>&lt;p&gt;Om op te volgen :
+&lt;br /&gt; &lt;a href="https://www.antwerpen.be/info/6155706c54112039f56455ce/van-luppenstraat" rel="nofollow noopener noreferrer"&gt;https://www.antwerpen.be/info/6155706c54112039f56455ce/van-luppenstraat&lt;/a&gt; en &lt;a href="https://assets.antwerpen.be/srv/assets/api/download/b3da7c5a-d1bb-4dc9-81fd-fba7c5f99517/20220310_12727_DO_NT%20(1).pdf" rel="nofollow noopener noreferrer"&gt;https://assets.antwerpen.be/srv/assets/api/download/b3da7c5a-d1bb-4dc9-81fd-fba7c5f99517/20220310_12727_DO_NT%20(1).pdf&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-19 19:19:20 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Op basis van de uitstekende konink360 360 foto's nog wat wijzigingen en correcties uitgevoerd (fietsers + pedelec enkelrichting, turn restrictie, bankjes en fietsparking toegevoegd). Voldoende om de note te sluiten? </text>
+      <html>&lt;p&gt;Op basis van de uitstekende konink360 360 foto's nog wat wijzigingen en correcties uitgevoerd (fietsers + pedelec enkelrichting, turn restrictie, bankjes en fietsparking toegevoegd). Voldoende om de note te sluiten? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-19 20:43:06 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Wat betreft de verkeerscirculatie zeker gedaan, bij bekijken prentjes stelt zich dan vraag : "hoever zou men gaan met gevel tuintjes en parkeerstrook-bomen?" : https://www.mapillary.com/app/?pKey=1697060617481789 ? 
+Enerzijds geeft het beeld van de vergroening van voorheen volledig 'stenen' straten ; hoe dan met de Tuin- en Groenstraten elders in deze stad en elders? zie bijvoorbeeld https://www.mapillary.com/app/?pKey=402466652244227 , alwaar dan kennelijk gebrek aan fiets opstel plekken - staan daar in geveltuin/ groenstrookje &lt;</text>
+      <html>&lt;p&gt;Wat betreft de verkeerscirculatie zeker gedaan, bij bekijken prentjes stelt zich dan vraag : "hoever zou men gaan met gevel tuintjes en parkeerstrook-bomen?" : &lt;a href="https://www.mapillary.com/app/?pKey=1697060617481789" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1697060617481789&lt;/a&gt; ? 
+&lt;br /&gt;Enerzijds geeft het beeld van de vergroening van voorheen volledig 'stenen' straten ; hoe dan met de Tuin- en Groenstraten elders in deze stad en elders? zie bijvoorbeeld &lt;a href="https://www.mapillary.com/app/?pKey=402466652244227" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=402466652244227&lt;/a&gt; , alwaar dan kennelijk gebrek aan fiets opstel plekken - staan daar in geveltuin/ groenstrookje &amp;lt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

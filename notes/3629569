@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8717445" lat="50.9163717">
+  <id>3629569</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3629569</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/3629569/reopen</reopen_url>
+  <date_created>2023-04-06 10:20:16 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-01-21 19:03:03 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2023-04-06 10:20:16 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Heykenspad starts here (name sign on spot); not clear where it goes or ends</text>
+      <html>&lt;p&gt;Heykenspad starts here (name sign on spot); not clear where it goes or ends&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-06 11:08:23 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>+ vicinal+ref=Voetweg 80 + vicinal+type=path + designation=communal_road</text>
+      <html>&lt;p&gt;+ vicinal+ref=Voetweg 80 + vicinal+type=path + designation=communal_road&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 19:03:03 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>https://www.openstreetmap.org/way/1227140334</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/1227140334" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1227140334&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 19:03:03 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/way/1227140334</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/1227140334" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1227140334&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

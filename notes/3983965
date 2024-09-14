@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4288550" lat="51.1863773">
+  <id>3983965</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3983965</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3983965/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3983965/close</close_url>
+  <date_created>2023-11-12 08:40:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-12 08:40:57 UTC</date>
+      <uid>1722488</uid>
+      <user>Mateusz Konieczny</user>
+      <user_url>https://api.openstreetmap.org/user/Mateusz%20Konieczny</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Does this crosswalk have tactile paving on both ends?" for https://osm.org/node/25944010 via StreetComplete 55.0:
+
+Crossings mapped separately</text>
+      <html>&lt;p&gt;Unable to answer "Does this crosswalk have tactile paving on both ends?" for &lt;a href="https://osm.org/node/25944010" rel="nofollow noopener noreferrer"&gt;https://osm.org/node/25944010&lt;/a&gt; via StreetComplete 55.0:&lt;/p&gt;
+
+&lt;p&gt;Crossings mapped separately&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-15 21:55:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Just to confirm : no tactile paving on any of three - or five? - zebra crossings, likely same reason as before : Ayes or similar app. </text>
+      <html>&lt;p&gt;Just to confirm : no tactile paving on any of three - or five? - zebra crossings, likely same reason as before : Ayes or similar app. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-12-14 13:22:20 UTC</date>
+      <uid>1722488</uid>
+      <user>Mateusz Konieczny</user>
+      <user_url>https://api.openstreetmap.org/user/Mateusz%20Konieczny</user_url>
+      <action>commented</action>
+      <text>in this case comment was made on  quest about tactile paving, but complaint was about weird at best topology here</text>
+      <html>&lt;p&gt;in this case comment was made on  quest about tactile paving, but complaint was about weird at best topology here&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-12-14 13:22:50 UTC</date>
+      <uid>1722488</uid>
+      <user>Mateusz Konieczny</user>
+      <user_url>https://api.openstreetmap.org/user/Mateusz%20Konieczny</user_url>
+      <action>commented</action>
+      <text>in this case highway=crossing at https://www.openstreetmap.org/node/25944010 seems clearly wrong to me</text>
+      <html>&lt;p&gt;in this case highway=crossing at &lt;a href="https://www.openstreetmap.org/node/25944010" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/25944010&lt;/a&gt; seems clearly wrong to me&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

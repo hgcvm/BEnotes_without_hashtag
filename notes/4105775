@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6070285" lat="50.4993957">
+  <id>4105775</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4105775</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4105775/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4105775/close</close_url>
+  <date_created>2024-02-09 08:51:15 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-09 08:51:15 UTC</date>
+      <uid>9450507</uid>
+      <user>karlmichaelw</user>
+      <user_url>https://api.openstreetmap.org/user/karlmichaelw</user_url>
+      <action>opened</action>
+      <text>L'esperanderie. Rue d'Esquermes, 5 -7603 Bon-Secours
+See picture
+https://esperanderie.eu/index.php/mnu-accueil/mnu-historique/mnu-histoesperanderie
+
+via StreetComplete 56.0
+
+Attached photo(s):
+https://westnordost.de/p/195672.jpg</text>
+      <html>&lt;p&gt;L'esperanderie. Rue d'Esquermes, 5 -7603 Bon-Secours
+&lt;br /&gt;See picture
+&lt;br /&gt;&lt;a href="https://esperanderie.eu/index.php/mnu-accueil/mnu-historique/mnu-histoesperanderie" rel="nofollow noopener noreferrer"&gt;https://esperanderie.eu/index.php/mnu-accueil/mnu-historique/mnu-histoesperanderie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 56.0&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/195672.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/195672.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

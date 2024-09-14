@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4846159" lat="51.0326876">
+  <id>3535917</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3535917</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3535917/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3535917/close</close_url>
+  <date_created>2023-01-28 19:14:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-01-28 19:14:19 UTC</date>
+      <action>opened</action>
+      <text>Fietsstraat, tweerichtingen, nog maar één rijstrook voor wagens op de 'witte' weg van Merode tot Keizer. </text>
+      <html>&lt;p&gt;Fietsstraat, tweerichtingen, nog maar één rijstrook voor wagens op de 'witte' weg van Merode tot Keizer. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-28 20:18:02 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>closed</action>
+      <text>fietsstraat ingevoerd.
+Fietsers mogen beide richting gebruiken. OK
+Wat met snorfietsen en speed_pedelec ?</text>
+      <html>&lt;p&gt;fietsstraat ingevoerd.
+&lt;br /&gt;Fietsers mogen beide richting gebruiken. OK
+&lt;br /&gt;Wat met snorfietsen en speed_pedelec ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-31 21:14:02 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-31 21:16:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Gezien https://denieuwevesten.mechelen.be/de-vesten-vandaag/tijdelijke-vernieuwing en  https://denieuwevesten.mechelen.be/wat valt hier nog wat aan te passen : geen secondary / tertiary highways in wijzerzin? 
+Zie ook https://www.mapillary.com/app/?pKey=736499171227409
+https://www.mapillary.com/app/?pKey=911391266569010 
+https://www.mapillary.com/app/?pKey=584252713088200 
+https://www.mapillary.com/app/?pKey=584252713088200 
+https://www.mapillary.com/app/?pKey=1197940504428768 
+https://www.mapillary.com/app/?pKey=589439599694055
+https://www.mapillary.com/app/?pKey=681423580345847 
+
+Ook hier lijkt nogmaals systematisch befietsen eerste stap. </text>
+      <html>&lt;p&gt;Gezien &lt;a href="https://denieuwevesten.mechelen.be/de-vesten-vandaag/tijdelijke-vernieuwing" rel="nofollow noopener noreferrer"&gt;https://denieuwevesten.mechelen.be/de-vesten-vandaag/tijdelijke-vernieuwing&lt;/a&gt; en  &lt;a href="https://denieuwevesten.mechelen.be/wat" rel="nofollow noopener noreferrer"&gt;https://denieuwevesten.mechelen.be/wat&lt;/a&gt; valt hier nog wat aan te passen : geen secondary / tertiary highways in wijzerzin? 
+&lt;br /&gt;Zie ook &lt;a href="https://www.mapillary.com/app/?pKey=736499171227409" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=736499171227409&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=911391266569010" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=911391266569010&lt;/a&gt; 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=584252713088200" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=584252713088200&lt;/a&gt; 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=584252713088200" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=584252713088200&lt;/a&gt; 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=1197940504428768" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1197940504428768&lt;/a&gt; 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=589439599694055" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=589439599694055&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=681423580345847" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=681423580345847&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Ook hier lijkt nogmaals systematisch befietsen eerste stap. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7267470" lat="51.0325425">
+  <id>3348018</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3348018</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3348018/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3348018/close</close_url>
+  <date_created>2022-09-06 09:55:33 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-06 09:55:33 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Heraanleg Vlierstraat - Bommelstraat tot tussen Zwijnaardsesteenweg en Musschestraat in 2023, verkeersfilter onder spoorweg
+https://stad.gent/nl/plannen-en-projecten/project-vlierstraat-en-omgeving</text>
+      <html>&lt;p&gt;Heraanleg Vlierstraat - Bommelstraat tot tussen Zwijnaardsesteenweg en Musschestraat in 2023, verkeersfilter onder spoorweg
+&lt;br /&gt;&lt;a href="https://stad.gent/nl/plannen-en-projecten/project-vlierstraat-en-omgeving" rel="nofollow noopener noreferrer"&gt;https://stad.gent/nl/plannen-en-projecten/project-vlierstraat-en-omgeving&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-24 12:02:01 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>De start van de wegen- en rioleringswerken is voorzien in de loop van 2025.</text>
+      <html>&lt;p&gt;De start van de wegen- en rioleringswerken is voorzien in de loop van 2025.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-22 07:50:13 UTC</date>
+      <uid>1710114</uid>
+      <user>lebeno</user>
+      <user_url>https://api.openstreetmap.org/user/lebeno</user_url>
+      <action>commented</action>
+      <text>De start van de wegen- en rioleringswerken is voorzien in het najaar van 2025.</text>
+      <html>&lt;p&gt;De start van de wegen- en rioleringswerken is voorzien in het najaar van 2025.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

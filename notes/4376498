@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4802925" lat="51.0186733">
+  <id>4376498</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4376498</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4376498/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4376498/close</close_url>
+  <date_created>2024-08-10 16:46:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-10 16:46:17 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>Hier is nieuwbouw
+
+via StreetComplete 58.2
+
+Attached photo(s):
+https://westnordost.de/p/231425.jpg</text>
+      <html>&lt;p&gt;Hier is nieuwbouw&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 58.2&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/231425.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/231425.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-22 07:46:18 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Nog niet zichtbaar op luchtbeelden of GRB.</text>
+      <html>&lt;p&gt;Nog niet zichtbaar op luchtbeelden of GRB.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

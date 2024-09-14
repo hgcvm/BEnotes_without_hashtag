@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6486955" lat="50.0040812">
+  <id>2569704</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2569704</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2569704/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2569704/close</close_url>
+  <date_created>2021-03-07 21:06:04 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-03-07 21:06:04 UTC</date>
+      <uid>696618</uid>
+      <user>fusa</user>
+      <user_url>https://api.openstreetmap.org/user/fusa</user_url>
+      <action>opened</action>
+      <text>Paal hoogspanning
+</text>
+      <html>&lt;p&gt;Paal hoogspanning
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-08 08:54:23 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://wiki.openstreetmap.org/wiki/Tag:power%3Dtower</text>
+      <html>&lt;p&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:power%3Dtower" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:power%3Dtower&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 13:34:44 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dag Fusa, als we geen concretere info krijgen over het juiste verloop van de elektriciteitspalen, kunnen we dit niet mappen. Kan je dit verduidelijken?</text>
+      <html>&lt;p&gt;dag Fusa, als we geen concretere info krijgen over het juiste verloop van de elektriciteitspalen, kunnen we dit niet mappen. Kan je dit verduidelijken?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

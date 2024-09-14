@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4642687" lat="51.4709827">
+  <id>3573861</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3573861</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3573861/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3573861/close</close_url>
+  <date_created>2023-02-25 10:16:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-02-25 10:16:30 UTC</date>
+      <action>opened</action>
+      <text>Zorgpunt Grens bevindt zich hier. </text>
+      <html>&lt;p&gt;Zorgpunt Grens bevindt zich hier. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-25 10:54:45 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>volgens site zou dat hier zijn Kerkeind 1 ?
+https://www.openstreetmap.org/way/367501717</text>
+      <html>&lt;p&gt;volgens site zou dat hier zijn Kerkeind 1 ?
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/367501717" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/367501717&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

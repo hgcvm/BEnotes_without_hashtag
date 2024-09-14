@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4643545" lat="51.4709780">
+  <id>3573855</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3573855</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3573855/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3573855/close</close_url>
+  <date_created>2023-02-25 10:15:07 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-02-25 10:15:07 UTC</date>
+      <action>opened</action>
+      <text>OCMW is niet op deze locatie. Nieuwe locatie is Heuvelplein 23.</text>
+      <html>&lt;p&gt;OCMW is niet op deze locatie. Nieuwe locatie is Heuvelplein 23.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-25 10:51:23 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>is dit dan in gemeente huis ?</text>
+      <html>&lt;p&gt;is dit dan in gemeente huis ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-25 10:55:19 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://www.essen.be/dienst/1591/zorgpunt-grens</text>
+      <html>&lt;p&gt;&lt;a href="https://www.essen.be/dienst/1591/zorgpunt-grens" rel="nofollow noopener noreferrer"&gt;https://www.essen.be/dienst/1591/zorgpunt-grens&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

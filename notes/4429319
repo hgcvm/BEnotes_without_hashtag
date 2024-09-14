@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2950197" lat="50.8429780">
+  <id>4429319</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4429319</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4429319/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4429319/close</close_url>
+  <date_created>2024-09-10 20:17:58 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-10 20:17:58 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>D'Broej 
+jeugdhuis/maison de jeunesse</text>
+      <html>&lt;p&gt;D'Broej 
+&lt;br /&gt;jeugdhuis/maison de jeunesse&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-11 03:16:15 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>There is only 2 units that can be used as such here one on the 4 and another in 4D but last time i passed there i don't see B'Roej here. 
+
+i think it's somewhere here : https://www.openstreetmap.org/way/252729179
+
+https://dbroej.be/fr/wie-zijn-we/contact/onze-uitvalsbasissen</text>
+      <html>&lt;p&gt;There is only 2 units that can be used as such here one on the 4 and another in 4D but last time i passed there i don't see B'Roej here. &lt;/p&gt;
+
+&lt;p&gt;i think it's somewhere here : &lt;a href="https://www.openstreetmap.org/way/252729179" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/252729179&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dbroej.be/fr/wie-zijn-we/contact/onze-uitvalsbasissen" rel="nofollow noopener noreferrer"&gt;https://dbroej.be/fr/wie-zijn-we/contact/onze-uitvalsbasissen&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

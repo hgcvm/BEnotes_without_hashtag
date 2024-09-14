@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3904006" lat="51.2101097">
+  <id>2456447</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2456447</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2456447/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2456447/close</close_url>
+  <date_created>2020-12-08 17:24:32 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-12-08 17:24:32 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Op https://www.antwerpenmorgen.be/nl/projecten/gedempte-zuiderdokken/over treft u info over diverse deel-projecten , https://www.antwerpenmorgen.be/api/1.0.0/file/download/11daf339-e038-4b17-9cb0-52c321ff983a toont in- uitritten ondergrondse parkings , https://www.slimnaarantwerpen.be/nl/wegenwerken/gedempte-zuiderdokken-park-dok-zuid situatie Namenstraat = inkom Parking Steendok omgeving Waalsekaai 60 - 62.</text>
+      <html>&lt;p&gt;Op &lt;a href="https://www.antwerpenmorgen.be/nl/projecten/gedempte-zuiderdokken/over" rel="nofollow noopener noreferrer"&gt;https://www.antwerpenmorgen.be/nl/projecten/gedempte-zuiderdokken/over&lt;/a&gt; treft u info over diverse deel-projecten , &lt;a href="https://www.antwerpenmorgen.be/api/1.0.0/file/download/11daf339-e038-4b17-9cb0-52c321ff983a" rel="nofollow noopener noreferrer"&gt;https://www.antwerpenmorgen.be/api/1.0.0/file/download/11daf339-e038-4b17-9cb0-52c321ff983a&lt;/a&gt; toont in- uitritten ondergrondse parkings , &lt;a href="https://www.slimnaarantwerpen.be/nl/wegenwerken/gedempte-zuiderdokken-park-dok-zuid" rel="nofollow noopener noreferrer"&gt;https://www.slimnaarantwerpen.be/nl/wegenwerken/gedempte-zuiderdokken-park-dok-zuid&lt;/a&gt; situatie Namenstraat = inkom Parking Steendok omgeving Waalsekaai 60 - 62.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 16:14:29 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>Wat dient er juist nog gemapt te worden? Er zijn al heel wat aanpassingen gebeurd ...</text>
+      <html>&lt;p&gt;Wat dient er juist nog gemapt te worden? Er zijn al heel wat aanpassingen gebeurd ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 22:11:01 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Vrijdag 17 mei opening laatste = noordelijke deel Zuidpark, voorzie rond die tijd lengte en breedte nieuwste en middelste deel op te nemen; Middelste deel Zuidpark ziet er op 't moment leeg uit; de tree row is deels verwijderd, u ziet reeds allerhand paden op DigiVla lucht, meer details op https://www.mapillary.com/app/?pKey=956422516129130 en andere.</text>
+      <html>&lt;p&gt;Vrijdag 17 mei opening laatste = noordelijke deel Zuidpark, voorzie rond die tijd lengte en breedte nieuwste en middelste deel op te nemen; Middelste deel Zuidpark ziet er op 't moment leeg uit; de tree row is deels verwijderd, u ziet reeds allerhand paden op DigiVla lucht, meer details op &lt;a href="https://www.mapillary.com/app/?pKey=956422516129130" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=956422516129130&lt;/a&gt; en andere.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

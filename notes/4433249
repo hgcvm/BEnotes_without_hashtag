@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5095093" lat="50.8435219">
+  <id>4433249</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4433249</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4433249/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4433249/close</close_url>
+  <date_created>2024-09-13 15:41:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-13 15:41:53 UTC</date>
+      <action>opened</action>
+      <text>Op adres Du Roy de Blicquylaan 12 is nu bistro-resto Balthazar
+
+https://balthazarresto.be/
+#osmreport #osmbe</text>
+      <html>&lt;p&gt;Op adres Du Roy de Blicquylaan 12 is nu bistro-resto Balthazar&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://balthazarresto.be/" rel="nofollow noopener noreferrer"&gt;https://balthazarresto.be/&lt;/a&gt;
+&lt;br /&gt;#osmreport #osmbe&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3967414" lat="51.2165885">
+  <id>2313141</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2313141</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2313141/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2313141/close</close_url>
+  <date_created>2020-08-18 20:56:02 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-08-18 20:56:02 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Bezocht, omvang nader uit te werken : op 18 Dienstencentrum De Oever , https://www.mapillary.com/map/im/N8CQczdVAJAgCJQgPIZOeO , https://www.zorgbedrijf.antwerpen.be/dienstencentra/dienstencentrum-de-oever en op 20 (zie foto) Serviceflats De Koninck , https://www.mapillary.com/map/im/ekHADOoP5l9x2HJBgjIExu danwel https://www.zorgbedrijf.antwerpen.be/serviceflats/serviceflats-de-koninck-i , waar ze op 18 staan - quod non.</text>
+      <html>&lt;p&gt;Bezocht, omvang nader uit te werken : op 18 Dienstencentrum De Oever , &lt;a href="https://www.mapillary.com/map/im/N8CQczdVAJAgCJQgPIZOeO" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/N8CQczdVAJAgCJQgPIZOeO&lt;/a&gt; , &lt;a href="https://www.zorgbedrijf.antwerpen.be/dienstencentra/dienstencentrum-de-oever" rel="nofollow noopener noreferrer"&gt;https://www.zorgbedrijf.antwerpen.be/dienstencentra/dienstencentrum-de-oever&lt;/a&gt; en op 20 (zie foto) Serviceflats De Koninck , &lt;a href="https://www.mapillary.com/map/im/ekHADOoP5l9x2HJBgjIExu" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/ekHADOoP5l9x2HJBgjIExu&lt;/a&gt; danwel &lt;a href="https://www.zorgbedrijf.antwerpen.be/serviceflats/serviceflats-de-koninck-i" rel="nofollow noopener noreferrer"&gt;https://www.zorgbedrijf.antwerpen.be/serviceflats/serviceflats-de-koninck-i&lt;/a&gt; , waar ze op 18 staan - quod non.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-07 11:52:59 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Handel je deze zelf nog af?</text>
+      <html>&lt;p&gt;Handel je deze zelf nog af?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

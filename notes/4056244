@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4863889" lat="51.0205715">
+  <id>4056244</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4056244</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/4056244/reopen</reopen_url>
+  <date_created>2024-01-06 21:27:35 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-01-21 18:44:27 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2024-01-06 21:27:35 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>https://www.openstreetmap.org/way/353207443
+add name=Rik Wouters to the building</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/353207443" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/353207443&lt;/a&gt;
+&lt;br /&gt;add name=Rik Wouters to the building&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 18:44:27 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>https://www.openstreetmap.org/way/353207443</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/353207443" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/353207443&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 18:44:27 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/way/353207443</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/353207443" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/353207443&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

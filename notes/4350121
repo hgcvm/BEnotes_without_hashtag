@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3567872" lat="51.1941368">
+  <id>4350121</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4350121</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4350121/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4350121/close</close_url>
+  <date_created>2024-07-25 10:11:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-25 10:11:22 UTC</date>
+      <action>opened</action>
+      <text>fietspad loopt verder tot aan Naftaweg Zie LARA</text>
+      <html>&lt;p&gt;fietspad loopt verder tot aan Naftaweg Zie LARA&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-03 12:15:43 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>aangepast</text>
+      <html>&lt;p&gt;aangepast&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

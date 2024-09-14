@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4127242" lat="51.2166525">
+  <id>3983579</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3983579</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3983579/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3983579/close</close_url>
+  <date_created>2023-11-11 20:43:31 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-11 20:43:31 UTC</date>
+      <uid>8823455</uid>
+      <user>Roman Braunschweiger</user>
+      <user_url>https://api.openstreetmap.org/user/Roman%20Braunschweiger</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Is this still here?" for https://osm.org/node/5468147724 via StreetComplete 55.0:
+
+There is some renovation inside</text>
+      <html>&lt;p&gt;Unable to answer "Is this still here?" for &lt;a href="https://osm.org/node/5468147724" rel="nofollow noopener noreferrer"&gt;https://osm.org/node/5468147724&lt;/a&gt; via StreetComplete 55.0:&lt;/p&gt;
+
+&lt;p&gt;There is some renovation inside&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 18:56:53 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>is there still something that needs to be mapped?</text>
+      <html>&lt;p&gt;is there still something that needs to be mapped?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-08 03:56:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?lat=51.21677325616699&amp;lng=4.412727660166638&amp;z=19.9&amp;pKey=1715884582234847&amp;focus=photo&amp;x=0.21088620274165926&amp;y=0.5161386443831556&amp;zoom=0 </text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?lat=51.21677325616699&amp;amp;lng=4.412727660166638&amp;amp;z=19.9&amp;amp;pKey=1715884582234847&amp;amp;focus=photo&amp;amp;x=0.21088620274165926&amp;amp;y=0.5161386443831556&amp;amp;zoom=0" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.21677325616699&amp;amp;lng=4.412727660166638&amp;amp;z=19.9&amp;amp;pKey=1715884582234847&amp;amp;focus=photo&amp;amp;x=0.21088620274165926&amp;amp;y=0.5161386443831556&amp;amp;zoom=0&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7362742" lat="51.0737559">
+  <id>2939707</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2939707</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2939707/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2939707/close</close_url>
+  <date_created>2021-11-18 11:00:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-11-18 11:00:12 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Deel sporen was vorige week opgebroken, geen idee permanent of tijdelijk</text>
+      <html>&lt;p&gt;Deel sporen was vorige week opgebroken, geen idee permanent of tijdelijk&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-11-18 11:49:44 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>aandacht niet zomaar verwijderen. Gebruik de https://wiki.openstreetmap.org/wiki/Category:Lifecycle
+
+https://www.openrailwaymap.org/?lang=en&amp;lat=51.02844005602989&amp;lon=3.49365234375&amp;zoom=9&amp;style=standard</text>
+      <html>&lt;p&gt;aandacht niet zomaar verwijderen. Gebruik de &lt;a href="https://wiki.openstreetmap.org/wiki/Category:Lifecycle" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Category:Lifecycle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openrailwaymap.org/?lang=en&amp;amp;lat=51.02844005602989&amp;amp;lon=3.49365234375&amp;amp;zoom=9&amp;amp;style=standard" rel="nofollow noopener noreferrer"&gt;https://www.openrailwaymap.org/?lang=en&amp;amp;lat=51.02844005602989&amp;amp;lon=3.49365234375&amp;amp;zoom=9&amp;amp;style=standard&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-19 17:49:25 UTC</date>
+      <uid>20820858</uid>
+      <user>Ardennen8</user>
+      <user_url>https://api.openstreetmap.org/user/Ardennen8</user_url>
+      <action>commented</action>
+      <text>Overweg ligt er nog altijd ongebruikt bij, inclusief lichten.</text>
+      <html>&lt;p&gt;Overweg ligt er nog altijd ongebruikt bij, inclusief lichten.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

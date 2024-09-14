@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8349714" lat="50.8022437">
+  <id>2398470</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2398470</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2398470/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2398470/close</close_url>
+  <date_created>2020-10-25 09:14:45 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-10-25 09:14:45 UTC</date>
+      <action>opened</action>
+      <text>Pad is volledig overwoekerd met bramen en struiken. Geen doorgang meer
+</text>
+      <html>&lt;p&gt;Pad is volledig overwoekerd met bramen en struiken. Geen doorgang meer
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-10-25 09:40:33 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Is dit op een bepaald stuk ? zo ja graag insluiten tussen twee pinnen. Best gemeenste informeren als dit een openbaar pad is.</text>
+      <html>&lt;p&gt;Is dit op een bepaald stuk ? zo ja graag insluiten tussen twee pinnen. Best gemeenste informeren als dit een openbaar pad is.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-10-26 10:00:41 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Bericht aan 	info@aalst.be verstuurd, opgevolgd / in behandeling.</text>
+      <html>&lt;p&gt;Bericht aan 	info@aalst.be verstuurd, opgevolgd / in behandeling.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-10-28 07:26:16 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Niet Aalst is beheerder maar Hoegaarden, berichtje gestuurd.</text>
+      <html>&lt;p&gt;Niet Aalst is beheerder maar Hoegaarden, berichtje gestuurd.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-11-03 10:25:43 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Pad maakt deel uit van een ruilverkaveling, het soms erg nat zompig pad gaat naar de bovenkant verplaats worden ....waardoor dit seizoen zinloos is om maai beurten te geven.
+thx verantwoordelijke groendienst Hoegaarden</text>
+      <html>&lt;p&gt;Pad maakt deel uit van een ruilverkaveling, het soms erg nat zompig pad gaat naar de bovenkant verplaats worden ....waardoor dit seizoen zinloos is om maai beurten te geven.
+&lt;br /&gt;thx verantwoordelijke groendienst Hoegaarden&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 20:41:10 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>wat doen we hiermee? ik zie nog gpx-tracks langs dit pad ...</text>
+      <html>&lt;p&gt;wat doen we hiermee? ik zie nog gpx-tracks langs dit pad ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-27 19:04:03 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>@Thierry1030: ik denk dat we hier niet veel mee kunnen doen zonder survey. Ik zou er zelf naartoe gaan, maar deze plek is spijtig genoeg erg moeilijk bereikbaar met openbaar vervoer.</text>
+      <html>&lt;p&gt;@Thierry1030: ik denk dat we hier niet veel mee kunnen doen zonder survey. Ik zou er zelf naartoe gaan, maar deze plek is spijtig genoeg erg moeilijk bereikbaar met openbaar vervoer.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-27 21:33:58 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

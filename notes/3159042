@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7219458" lat="50.8832365">
+  <id>3159042</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3159042</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3159042/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3159042/close</close_url>
+  <date_created>2022-04-30 07:43:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-04-30 07:43:31 UTC</date>
+      <uid>219908</uid>
+      <user>toeklk</user>
+      <user_url>https://api.openstreetmap.org/user/toeklk</user_url>
+      <action>opened</action>
+      <text>Building name not accurate: Basically the complete building should be tagged as the 'Centrale Werkplaatsen', consisting of Hal 4 (the Western part), a 'tussenhal' and 'Hal 5' (the narrower eastern part).</text>
+      <html>&lt;p&gt;Building name not accurate: Basically the complete building should be tagged as the 'Centrale Werkplaatsen', consisting of Hal 4 (the Western part), a 'tussenhal' and 'Hal 5' (the narrower eastern part).&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-04-30 12:11:24 UTC</date>
+      <uid>219908</uid>
+      <user>toeklk</user>
+      <user_url>https://api.openstreetmap.org/user/toeklk</user_url>
+      <action>commented</action>
+      <text>Partly corrected, but further improvements necessary/possible</text>
+      <html>&lt;p&gt;Partly corrected, but further improvements necessary/possible&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-15 19:53:12 UTC</date>
+      <uid>12496737</uid>
+      <user>Mizuna</user>
+      <user_url>https://api.openstreetmap.org/user/Mizuna</user_url>
+      <action>closed</action>
+      <text>Name is correct. See website erfgoed.</text>
+      <html>&lt;p&gt;Name is correct. See website erfgoed.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-23 09:03:33 UTC</date>
+      <uid>219908</uid>
+      <user>toeklk</user>
+      <user_url>https://api.openstreetmap.org/user/toeklk</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-06-23 09:11:46 UTC</date>
+      <uid>219908</uid>
+      <user>toeklk</user>
+      <user_url>https://api.openstreetmap.org/user/toeklk</user_url>
+      <action>commented</action>
+      <text>Hi Mizuna, what do you mean with 'name is correct'.  The new name (Centrale Werkplaats as of https://www.openstreetmap.org/changeset/120375336), or the old one, where this (entire) building was called 'Hal 5'?  FWIW, I left the issue open, since ideally the building should be split into 3 seperate (but connected) buildings: Hal 4, tussenhal and Hal 5...</text>
+      <html>&lt;p&gt;Hi Mizuna, what do you mean with 'name is correct'.  The new name (Centrale Werkplaats as of &lt;a href="https://www.openstreetmap.org/changeset/120375336" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/120375336&lt;/a&gt;), or the old one, where this (entire) building was called 'Hal 5'?  FWIW, I left the issue open, since ideally the building should be split into 3 seperate (but connected) buildings: Hal 4, tussenhal and Hal 5...&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

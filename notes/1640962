@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5379716" lat="50.9277778">
+  <id>1640962</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1640962</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1640962/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1640962/close</close_url>
+  <date_created>2019-01-06 08:05:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2019-01-06 08:05:20 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>opened</action>
+      <text>Bij controle van wandelroute 104-105 bleek node 104 verkeerd te staan. Heb deze en ook route 104-105 aangepast zoals aangegeven is door de bordjes.
+
+Echter route 103-104 wijzigt daardoor ook. Heb een gokje gedaan over hoe de route loopt, maar zou moeten gecontroleerd worden.</text>
+      <html>&lt;p&gt;Bij controle van wandelroute 104-105 bleek node 104 verkeerd te staan. Heb deze en ook route 104-105 aangepast zoals aangegeven is door de bordjes.&lt;/p&gt;
+
+&lt;p&gt;Echter route 103-104 wijzigt daardoor ook. Heb een gokje gedaan over hoe de route loopt, maar zou moeten gecontroleerd worden.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-08 10:55:15 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>Ik heb vorige maand daar in de buurt gefotografeerd.</text>
+      <html>&lt;p&gt;Ik heb vorige maand daar in de buurt gefotografeerd.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-08 11:32:04 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Beelden prima, maar de knooppunt bordjes niet te lezen.....</text>
+      <html>&lt;p&gt;Beelden prima, maar de knooppunt bordjes niet te lezen.....&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-08 18:31:47 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>commented</action>
+      <text>inderdaad, bv. op dit kruispunt https://www.mapillary.com/map/im/HcTs_pQz4NV18mcKz777PQ zie ik niet hoe de route zou moeten lopen.</text>
+      <html>&lt;p&gt;inderdaad, bv. op dit kruispunt &lt;a href="https://www.mapillary.com/map/im/HcTs_pQz4NV18mcKz777PQ" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/HcTs_pQz4NV18mcKz777PQ&lt;/a&gt; zie ik niet hoe de route zou moeten lopen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-12 07:39:17 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>2 jaar geleden is dit pad op access=no gezet. Ik heb een changeset-comment aangemaakt &gt; https://www.openstreetmap.org/changeset/112782169</text>
+      <html>&lt;p&gt;2 jaar geleden is dit pad op access=no gezet. Ik heb een changeset-comment aangemaakt &amp;gt; &lt;a href="https://www.openstreetmap.org/changeset/112782169" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/112782169&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-12 07:39:20 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-14 19:53:34 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Nog geen antwoord gekomen op die changeset comment zie ik. Ik zal hier vroeg of laat wel eens passeren, mogelijks is iemand mij voor.
+
+#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;Nog geen antwoord gekomen op die changeset comment zie ik. Ik zal hier vroeg of laat wel eens passeren, mogelijks is iemand mij voor.&lt;/p&gt;
+
+&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

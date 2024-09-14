@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4842082" lat="50.0056497">
+  <id>2316039</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2316039</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2316039/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2316039/close</close_url>
+  <date_created>2020-08-21 07:56:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-08-21 07:56:46 UTC</date>
+      <action>opened</action>
+      <text>Rue La Forestière (Drève des Cèpes) 269</text>
+      <html>&lt;p&gt;Rue La Forestière (Drève des Cèpes) 269&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-08-21 09:08:30 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Rue la Forestière et la rue principale ....Drève des Cèpes commence et termine où Toutes ses chemin sont mis en Privé ???? personne ne sais visiter ?</text>
+      <html>&lt;p&gt;Rue la Forestière et la rue principale ....Drève des Cèpes commence et termine où Toutes ses chemin sont mis en Privé ???? personne ne sais visiter ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-12-03 10:45:10 UTC</date>
+      <uid>2109841</uid>
+      <user>Macumba Macaca</user>
+      <user_url>https://api.openstreetmap.org/user/Macumba%20Macaca</user_url>
+      <action>commented</action>
+      <text>According to PICC, all these roads are still "Rue la Forestière".</text>
+      <html>&lt;p&gt;According to PICC, all these roads are still "Rue la Forestière".&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-09 21:08:55 UTC</date>
+      <uid>2109841</uid>
+      <user>Macumba Macaca</user>
+      <user_url>https://api.openstreetmap.org/user/Macumba%20Macaca</user_url>
+      <action>commented</action>
+      <text>From the location, I can't know which house is 269. Maybe the big one to the east?</text>
+      <html>&lt;p&gt;From the location, I can't know which house is 269. Maybe the big one to the east?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

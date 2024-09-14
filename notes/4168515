@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6142927" lat="50.6664289">
+  <id>4168515</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4168515</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4168515/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4168515/close</close_url>
+  <date_created>2024-03-26 13:15:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-26 13:15:53 UTC</date>
+      <action>opened</action>
+      <text>Barrière des deux côtés du sentier. Le riverain dit ne pas savoir si le sentier est privé ou public</text>
+      <html>&lt;p&gt;Barrière des deux côtés du sentier. Le riverain dit ne pas savoir si le sentier est privé ou public&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 10:50:51 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Quel type de barrière (clôture, chaîne, mur …) ?</text>
+      <html>&lt;p&gt;Quel type de barrière (clôture, chaîne, mur …) ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

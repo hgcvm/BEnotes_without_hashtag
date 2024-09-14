@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5609786" lat="50.6824939">
+  <id>4185416</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4185416</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/4185416/reopen</reopen_url>
+  <date_created>2024-04-06 14:09:06 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-04-15 08:03:54 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2024-04-06 14:09:06 UTC</date>
+      <uid>12288675</uid>
+      <user>Korgorr</user>
+      <user_url>https://api.openstreetmap.org/user/Korgorr</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What’s the height limit here?" – underground: Rue du Buston (Tertiary Road) – https://osm.org/way/627545201 via StreetComplete 57.1:
+
+Probablement 10m
+
+Attached photo(s):
+https://westnordost.de/p/205477.jpg</text>
+      <html>&lt;p&gt;Unable to answer "What’s the height limit here?" – underground: Rue du Buston (Tertiary Road) – &lt;a href="https://osm.org/way/627545201" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/627545201&lt;/a&gt; via StreetComplete 57.1:&lt;/p&gt;
+
+&lt;p&gt;Probablement 10m&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/205477.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/205477.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-06 16:10:44 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>if not know by sign ...
+https://wiki.openstreetmap.org/wiki/Tag:maxheight%3Ddefault</text>
+      <html>&lt;p&gt;if not know by sign ...
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:maxheight%3Ddefault" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:maxheight%3Ddefault&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-15 08:03:54 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>closed</action>
+      <text>Added maxheight=default</text>
+      <html>&lt;p&gt;Added maxheight=default&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-15 08:03:54 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Added maxheight=default</text>
+      <html>&lt;p&gt;Added maxheight=default&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

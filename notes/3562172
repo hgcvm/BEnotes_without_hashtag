@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8268497" lat="51.0606527">
+  <id>3562172</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3562172</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3562172/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3562172/close</close_url>
+  <date_created>2023-02-16 18:44:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-02-16 18:44:57 UTC</date>
+      <uid>11308911</uid>
+      <user>StijnDP</user>
+      <user_url>https://api.openstreetmap.org/user/StijnDP</user_url>
+      <action>opened</action>
+      <text>Nieuwe verkaveling tussen het pad in het noorden en de huizen in het zuiden. Huis nr 2 is al afgebroken. De straten liggen er ook al (nog niet te zien op luchtfoto's).  Enkele nieuwe huizen zijn al in aanbouw.</text>
+      <html>&lt;p&gt;Nieuwe verkaveling tussen het pad in het noorden en de huizen in het zuiden. Huis nr 2 is al afgebroken. De straten liggen er ook al (nog niet te zien op luchtfoto's).  Enkele nieuwe huizen zijn al in aanbouw.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-16 20:10:34 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>deel aangepast
+https://www.openstreetmap.org/way/1146782151#map=19/51.06034/4.82696</text>
+      <html>&lt;p&gt;deel aangepast
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/1146782151#map=19/51.06034/4.82696" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1146782151#map=19/51.06034/4.82696&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-28 08:13:31 UTC</date>
+      <uid>3574538</uid>
+      <user>Koen_VdE</user>
+      <user_url>https://api.openstreetmap.org/user/Koen_VdE</user_url>
+      <action>commented</action>
+      <text>weg aangepast op basis van nieuwe luchtfoto's</text>
+      <html>&lt;p&gt;weg aangepast op basis van nieuwe luchtfoto's&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-06 17:21:34 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Er zijn recente (23 mei'24?) bol- en vlakke prentjes, ook van winkel- / bedrijvenpark 'Looplein' , </text>
+      <html>&lt;p&gt;Er zijn recente (23 mei'24?) bol- en vlakke prentjes, ook van winkel- / bedrijvenpark 'Looplein' , &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-06 17:31:34 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>en een AED https://www.mapillary.com/app/?pKey=1348606549318589, een rijtje laadzuilen https://www.mapillary.com/app/?pKey=1165204297850211 (vier laders per twee back2back zuilen) , nog een laadzuil, wat nieuwbouw https://www.mapillary.com/app/?pKey=826189219425996 </text>
+      <html>&lt;p&gt;en een AED &lt;a href="https://www.mapillary.com/app/?pKey=1348606549318589" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1348606549318589&lt;/a&gt;, een rijtje laadzuilen &lt;a href="https://www.mapillary.com/app/?pKey=1165204297850211" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1165204297850211&lt;/a&gt; (vier laders per twee back2back zuilen) , nog een laadzuil, wat nieuwbouw &lt;a href="https://www.mapillary.com/app/?pKey=826189219425996" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=826189219425996&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-06 17:35:55 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>en een stuk Raeymaekers is eenrichting + 30km https://www.mapillary.com/app/?pKey=744773807856507</text>
+      <html>&lt;p&gt;en een stuk Raeymaekers is eenrichting + 30km &lt;a href="https://www.mapillary.com/app/?pKey=744773807856507" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=744773807856507&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

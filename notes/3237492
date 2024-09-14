@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6640664" lat="51.2257441">
+  <id>3237492</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3237492</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3237492/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3237492/close</close_url>
+  <date_created>2022-06-23 14:19:50 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-06-23 14:19:50 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Neem aan dat https://maproulette.org/browse/challenges/23550 hier op zoek is naar https://www.mapillary.com/app/?pKey=1087306035518361 + https://www.mapillary.com/app/?pKey=1087306035518361 en  https://www.mapillary.com/app/?pKey=966752507332589 ? Staan meer '50' in de time-lapse die morgen of zo komt. </text>
+      <html>&lt;p&gt;Neem aan dat &lt;a href="https://maproulette.org/browse/challenges/23550" rel="nofollow noopener noreferrer"&gt;https://maproulette.org/browse/challenges/23550&lt;/a&gt; hier op zoek is naar &lt;a href="https://www.mapillary.com/app/?pKey=1087306035518361" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1087306035518361&lt;/a&gt; + &lt;a href="https://www.mapillary.com/app/?pKey=1087306035518361" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1087306035518361&lt;/a&gt; en  &lt;a href="https://www.mapillary.com/app/?pKey=966752507332589" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=966752507332589&lt;/a&gt; ? Staan meer '50' in de time-lapse die morgen of zo komt. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 22:20:40 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>wat dient er hier juist gemapt te worden? graag een duidelijke uitleg</text>
+      <html>&lt;p&gt;wat dient er hier juist gemapt te worden? graag een duidelijke uitleg&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-08 03:53:21 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Zou zeker van https://www.mapillary.com/app/?lat=51.2220356&amp;lng=4.669206199999962&amp;z=19.432873880788883&amp;pKey=3904227039860430&amp;focus=photo&amp;x=0.22576391417494224&amp;y=0.5545065260809595&amp;zoom=0.035719417670065694 links de tonnage beperking, en beide zijwegen destination mappen; https://www.mapillary.com/app/?lat=51.2249085982931&amp;lng=4.660207628084095&amp;z=15.185357379143971&amp;pKey=1013933389920297&amp;focus=photo&amp;x=0.43067964843782414&amp;y=0.5044430521370181&amp;zoom=0.035719417670065694 tonnage ; https://www.mapillary.com/app/?lat=51.2250875&amp;lng=4.664758600000027&amp;z=15.185357379143971&amp;pKey=991626905776332&amp;focus=photo&amp;x=0.6136051102392374&amp;y=0.5025324222458055&amp;zoom=1.026010679805988 tonnage links + zone50 rechts , aanvang 50 achter mij staat op kaart ; https://www.mapillary.com/app/?lat=51.227728799999994&amp;lng=4.6622621999999865&amp;z=15.185357379143971&amp;pKey=412555357872672&amp;focus=photo&amp;x=0.7659785126075412&amp;y=0.4871831605338442&amp;zoom=2.992041475615971 ditto tonnage links ; en dan : hoe ver strekken die zones zich uit? </text>
+      <html>&lt;p&gt;Zou zeker van &lt;a href="https://www.mapillary.com/app/?lat=51.2220356&amp;amp;lng=4.669206199999962&amp;amp;z=19.432873880788883&amp;amp;pKey=3904227039860430&amp;amp;focus=photo&amp;amp;x=0.22576391417494224&amp;amp;y=0.5545065260809595&amp;amp;zoom=0.035719417670065694" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.2220356&amp;amp;lng=4.669206199999962&amp;amp;z=19.432873880788883&amp;amp;pKey=3904227039860430&amp;amp;focus=photo&amp;amp;x=0.22576391417494224&amp;amp;y=0.5545065260809595&amp;amp;zoom=0.035719417670065694&lt;/a&gt; links de tonnage beperking, en beide zijwegen destination mappen; &lt;a href="https://www.mapillary.com/app/?lat=51.2249085982931&amp;amp;lng=4.660207628084095&amp;amp;z=15.185357379143971&amp;amp;pKey=1013933389920297&amp;amp;focus=photo&amp;amp;x=0.43067964843782414&amp;amp;y=0.5044430521370181&amp;amp;zoom=0.035719417670065694" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.2249085982931&amp;amp;lng=4.660207628084095&amp;amp;z=15.185357379143971&amp;amp;pKey=1013933389920297&amp;amp;focus=photo&amp;amp;x=0.43067964843782414&amp;amp;y=0.5044430521370181&amp;amp;zoom=0.035719417670065694&lt;/a&gt; tonnage ; &lt;a href="https://www.mapillary.com/app/?lat=51.2250875&amp;amp;lng=4.664758600000027&amp;amp;z=15.185357379143971&amp;amp;pKey=991626905776332&amp;amp;focus=photo&amp;amp;x=0.6136051102392374&amp;amp;y=0.5025324222458055&amp;amp;zoom=1.026010679805988" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.2250875&amp;amp;lng=4.664758600000027&amp;amp;z=15.185357379143971&amp;amp;pKey=991626905776332&amp;amp;focus=photo&amp;amp;x=0.6136051102392374&amp;amp;y=0.5025324222458055&amp;amp;zoom=1.026010679805988&lt;/a&gt; tonnage links + zone50 rechts , aanvang 50 achter mij staat op kaart ; &lt;a href="https://www.mapillary.com/app/?lat=51.227728799999994&amp;amp;lng=4.6622621999999865&amp;amp;z=15.185357379143971&amp;amp;pKey=412555357872672&amp;amp;focus=photo&amp;amp;x=0.7659785126075412&amp;amp;y=0.4871831605338442&amp;amp;zoom=2.992041475615971" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.227728799999994&amp;amp;lng=4.6622621999999865&amp;amp;z=15.185357379143971&amp;amp;pKey=412555357872672&amp;amp;focus=photo&amp;amp;x=0.7659785126075412&amp;amp;y=0.4871831605338442&amp;amp;zoom=2.992041475615971&lt;/a&gt; ditto tonnage links ; en dan : hoe ver strekken die zones zich uit? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

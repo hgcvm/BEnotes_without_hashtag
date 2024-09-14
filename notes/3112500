@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6945176" lat="51.0524690">
+  <id>3112500</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3112500</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3112500/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3112500/close</close_url>
+  <date_created>2022-03-30 14:11:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-03-30 14:11:54 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Hier wordt binnenkort een nieuw circulatieplan uitgerold, op te volgen</text>
+      <html>&lt;p&gt;Hier wordt binnenkort een nieuw circulatieplan uitgerold, op te volgen&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-14 10:59:14 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>https://stad.gent/nl/plannen-en-projecten/project-oud-strijderslaan-en-omgeving
+Nog in planning</text>
+      <html>&lt;p&gt;&lt;a href="https://stad.gent/nl/plannen-en-projecten/project-oud-strijderslaan-en-omgeving" rel="nofollow noopener noreferrer"&gt;https://stad.gent/nl/plannen-en-projecten/project-oud-strijderslaan-en-omgeving&lt;/a&gt;
+&lt;br /&gt;Nog in planning&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

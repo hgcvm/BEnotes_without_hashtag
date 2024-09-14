@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4566925" lat="51.2004184">
+  <id>3161877</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3161877</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3161877/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3161877/close</close_url>
+  <date_created>2022-05-02 08:25:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-05-02 08:25:25 UTC</date>
+      <uid>357576</uid>
+      <user>Jens V</user>
+      <user_url>https://api.openstreetmap.org/user/Jens%20V</user_url>
+      <action>opened</action>
+      <text>onduidelijk waarom deze weg andere kleur heeft dan gelijkaardige wegen in dit park</text>
+      <html>&lt;p&gt;onduidelijk waarom deze weg andere kleur heeft dan gelijkaardige wegen in dit park&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-05-02 11:24:22 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Komt bij, dat parken C3 uitgezonderd fietsen : lijkt dan dat alle paden geen fietspad zouden mogen zijn? </text>
+      <html>&lt;p&gt;Komt bij, dat parken C3 uitgezonderd fietsen : lijkt dan dat alle paden geen fietspad zouden mogen zijn? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-04 21:44:28 UTC</date>
+      <uid>357576</uid>
+      <user>Jens V</user>
+      <user_url>https://api.openstreetmap.org/user/Jens%20V</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-09 15:31:33 UTC</date>
+      <uid>357576</uid>
+      <user>Jens V</user>
+      <user_url>https://api.openstreetmap.org/user/Jens%20V</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-09 15:32:07 UTC</date>
+      <uid>357576</uid>
+      <user>Jens V</user>
+      <user_url>https://api.openstreetmap.org/user/Jens%20V</user_url>
+      <action>commented</action>
+      <text>In de Antwerpse parken zijn alle normaal toegankelijke paden ook voor fietsers toegankelijk.</text>
+      <html>&lt;p&gt;In de Antwerpse parken zijn alle normaal toegankelijke paden ook voor fietsers toegankelijk.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-09 16:07:29 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>... en in bepaalde gevallen ook voor speed-pedelecs; parken zijn C3 + onderbord, gelijk de jaagpaden worden zij dan niet als fietspad getagd; 
+
+op de nieuwste parkborden treft u ook een camionnetje, zie b.v. https://www.mapillary.com/app/?pKey=561070082334587 
+
+Zodat bicycle=yes + foot=yes + highway=path + horse=no + motor_vehicle=service correct lijkt, 
+
+alleen 'vehicle=no' voor routeerfouten kan zorgen : fietser is immers ook bestuurder van een voertuig.</text>
+      <html>&lt;p&gt;... en in bepaalde gevallen ook voor speed-pedelecs; parken zijn C3 + onderbord, gelijk de jaagpaden worden zij dan niet als fietspad getagd; &lt;/p&gt;
+
+&lt;p&gt;op de nieuwste parkborden treft u ook een camionnetje, zie b.v. &lt;a href="https://www.mapillary.com/app/?pKey=561070082334587" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=561070082334587&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Zodat bicycle=yes + foot=yes + highway=path + horse=no + motor_vehicle=service correct lijkt, &lt;/p&gt;
+
+&lt;p&gt;alleen 'vehicle=no' voor routeerfouten kan zorgen : fietser is immers ook bestuurder van een voertuig.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2646963" lat="50.9154839">
+  <id>2386374</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2386374</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2386374/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2386374/close</close_url>
+  <date_created>2020-10-15 12:49:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-10-15 12:49:19 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Lysbrug wordt midden november 2020 afgesloten en vervangen: https://www.vlaamsewaterweg.be/nieuws/plannen-voor-vervanging-van-de-lysbrug-ingelmunster-worden-concreet</text>
+      <html>&lt;p&gt;Lysbrug wordt midden november 2020 afgesloten en vervangen: &lt;a href="https://www.vlaamsewaterweg.be/nieuws/plannen-voor-vervanging-van-de-lysbrug-ingelmunster-worden-concreet" rel="nofollow noopener noreferrer"&gt;https://www.vlaamsewaterweg.be/nieuws/plannen-voor-vervanging-van-de-lysbrug-ingelmunster-worden-concreet&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-11-17 09:53:35 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>op access no gezet.... tot afbraak ... wanneer ....</text>
+      <html>&lt;p&gt;op access no gezet.... tot afbraak ... wanneer ....&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-03 13:40:52 UTC</date>
+      <uid>10874177</uid>
+      <user>DaftPunk</user>
+      <user_url>https://api.openstreetmap.org/user/DaftPunk</user_url>
+      <action>commented</action>
+      <text>Ik heb vandaag gekeken. Er is tot nu toe nog altijd geen vervanging voor deze brug.</text>
+      <html>&lt;p&gt;Ik heb vandaag gekeken. Er is tot nu toe nog altijd geen vervanging voor deze brug.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-12 15:50:52 UTC</date>
+      <uid>7246683</uid>
+      <user>Tim Couwelier</user>
+      <user_url>https://api.openstreetmap.org/user/Tim%20Couwelier</user_url>
+      <action>commented</action>
+      <text>Er is alvast een beetje nieuws:
+https://www.linkedin.com/feed/update/urn:li:activity:7044428077975691264/</text>
+      <html>&lt;p&gt;Er is alvast een beetje nieuws:
+&lt;br /&gt;&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7044428077975691264/" rel="nofollow noopener noreferrer"&gt;https://www.linkedin.com/feed/update/urn:li:activity:7044428077975691264/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 20:03:40 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Nog updates hierover?</text>
+      <html>&lt;p&gt;Nog updates hierover?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-26 15:57:15 UTC</date>
+      <uid>5846458</uid>
+      <user>Thibault Rommel</user>
+      <user_url>https://api.openstreetmap.org/user/Thibault%20Rommel</user_url>
+      <action>commented</action>
+      <text>Na de zomer starten de werken, klaar tegen midden 2026 https://www.ingelmunster.be/nieuws?nb=3417</text>
+      <html>&lt;p&gt;Na de zomer starten de werken, klaar tegen midden 2026 &lt;a href="https://www.ingelmunster.be/nieuws?nb=3417" rel="nofollow noopener noreferrer"&gt;https://www.ingelmunster.be/nieuws?nb=3417&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-02 11:23:55 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp in 2026</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp in 2026&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

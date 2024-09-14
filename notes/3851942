@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3810558" lat="51.1482899">
+  <id>3851942</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3851942</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3851942/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3851942/close</close_url>
+  <date_created>2023-08-24 22:14:18 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-24 22:14:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Merkwaardig : zie in iD alleen de A12 trunk in zuidelijke richting, niet die in noordelijke; toch wordt die laatste in gewone bezoekers view wél getoond : zie ik iets over 't hoofd? </text>
+      <html>&lt;p&gt;Merkwaardig : zie in iD alleen de A12 trunk in zuidelijke richting, niet die in noordelijke; toch wordt die laatste in gewone bezoekers view wél getoond : zie ik iets over 't hoofd? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-24 22:18:58 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>... dat is aardig : zodra men in iD voldoende naar 't zuiden 'wandelt' floept de rijbaan naar noorden plots in beeld : is dat een eigenaardigheid, waarbij bijvoorbeeld een of beide eindpunten in beeld moeten zijn alvorens ... 
+
+... nee, want eindpunten way A12 naar zuiden vielen ook buiten beeld.  werd wel getoond. 
+
+Bug? Hoe te rapporteren zonder in Github of zo een push request of wat ook ??</text>
+      <html>&lt;p&gt;... dat is aardig : zodra men in iD voldoende naar 't zuiden 'wandelt' floept de rijbaan naar noorden plots in beeld : is dat een eigenaardigheid, waarbij bijvoorbeeld een of beide eindpunten in beeld moeten zijn alvorens ... &lt;/p&gt;
+
+&lt;p&gt;... nee, want eindpunten way A12 naar zuiden vielen ook buiten beeld.  werd wel getoond. &lt;/p&gt;
+
+&lt;p&gt;Bug? Hoe te rapporteren zonder in Github of zo een push request of wat ook ??&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 12:46:49 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Deze note is ondertussen meer dan een jaar oud, is deze bug er nog steeds? Indien ja, zal ik eens navragen hoe dit te melden.</text>
+      <html>&lt;p&gt;Deze note is ondertussen meer dan een jaar oud, is deze bug er nog steeds? Indien ja, zal ik eens navragen hoe dit te melden.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

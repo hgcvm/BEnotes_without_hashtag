@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2229719" lat="51.2068061">
+  <id>3501763</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3501763</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3501763/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3501763/close</close_url>
+  <date_created>2023-01-02 16:29:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-01-02 16:29:56 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Wordt binnenkort gerenoveerd
+
+https://www.brugge.be/project-voor-renovatie-en-uitbating-van-drie-nieuwe-horecazaken-rond-centrale-binnentuin-op-simon-stevinplein</text>
+      <html>&lt;p&gt;Wordt binnenkort gerenoveerd&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.brugge.be/project-voor-renovatie-en-uitbating-van-drie-nieuwe-horecazaken-rond-centrale-binnentuin-op-simon-stevinplein" rel="nofollow noopener noreferrer"&gt;https://www.brugge.be/project-voor-renovatie-en-uitbating-van-drie-nieuwe-horecazaken-rond-centrale-binnentuin-op-simon-stevinplein&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-31 12:03:17 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #FollowUp in 2025</text>
+      <html>&lt;p&gt;#OsmBE #FollowUp in 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

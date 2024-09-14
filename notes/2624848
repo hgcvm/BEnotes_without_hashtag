@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4724333" lat="51.3311881">
+  <id>2624848</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2624848</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2624848/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2624848/close</close_url>
+  <date_created>2021-04-16 06:58:27 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-04-16 06:58:27 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Befietst 2021-04-14 , prentje https://www.mapillary.com/app/?pKey=DBq9LorP1L99i1qnK8MD25&amp;focus=photo&amp;lat=51.33130555555559&amp;lng=4.472336111111076&amp;z=17 : FKP 38-73 en GR lopen hier naar noord-oosten over weg welke verboden toegang en geen wandelaars is : https://www.mapillary.com/app/?pKey=RnpoGdOl92Dy8wrA6c6Pen&amp;focus=photo&amp;lat=51.33130833333334&amp;lng=4.472361111111111&amp;z=17 </text>
+      <html>&lt;p&gt;Befietst 2021-04-14 , prentje &lt;a href="https://www.mapillary.com/app/?pKey=DBq9LorP1L99i1qnK8MD25&amp;amp;focus=photo&amp;amp;lat=51.33130555555559&amp;amp;lng=4.472336111111076&amp;amp;z=17" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=DBq9LorP1L99i1qnK8MD25&amp;amp;focus=photo&amp;amp;lat=51.33130555555559&amp;amp;lng=4.472336111111076&amp;amp;z=17&lt;/a&gt; : FKP 38-73 en GR lopen hier naar noord-oosten over weg welke verboden toegang en geen wandelaars is : &lt;a href="https://www.mapillary.com/app/?pKey=RnpoGdOl92Dy8wrA6c6Pen&amp;amp;focus=photo&amp;amp;lat=51.33130833333334&amp;amp;lng=4.472361111111111&amp;amp;z=17" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=RnpoGdOl92Dy8wrA6c6Pen&amp;amp;focus=photo&amp;amp;lat=51.33130833333334&amp;amp;lng=4.472361111111111&amp;amp;z=17&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-16 07:35:24 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>in osm zie ik ze hier staan ? nog steeds fout ?
+http://ra.osmsurround.org/analyzeMap?relationId=8932</text>
+      <html>&lt;p&gt;in osm zie ik ze hier staan ? nog steeds fout ?
+&lt;br /&gt;&lt;a href="http://ra.osmsurround.org/analyzeMap?relationId=8932" rel="nofollow noopener noreferrer"&gt;http://ra.osmsurround.org/analyzeMap?relationId=8932&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-16 07:38:27 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://hiking.waymarkedtrails.org/#routelist?map=17!51.331!4.4743</text>
+      <html>&lt;p&gt;&lt;a href="https://hiking.waymarkedtrails.org/#routelist?map=17!51.331!4.4743" rel="nofollow noopener noreferrer"&gt;https://hiking.waymarkedtrails.org/#routelist?map=17!51.331!4.4743&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-16 08:11:32 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dank, vroeg me juist af hoe terugweg te plannen, hier ook een : https://www.mapillary.com/app/?pKey=nbUMnUsveKNVuRb7y0Ibmw&amp;focus=photo&amp;lat=51.33349999999999&amp;lng=4.470772222222308&amp;z=17</text>
+      <html>&lt;p&gt;Dank, vroeg me juist af hoe terugweg te plannen, hier ook een : &lt;a href="https://www.mapillary.com/app/?pKey=nbUMnUsveKNVuRb7y0Ibmw&amp;amp;focus=photo&amp;amp;lat=51.33349999999999&amp;amp;lng=4.470772222222308&amp;amp;z=17" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=nbUMnUsveKNVuRb7y0Ibmw&amp;amp;focus=photo&amp;amp;lat=51.33349999999999&amp;amp;lng=4.470772222222308&amp;amp;z=17&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-17 11:35:47 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Befietst 2021-04-16 : prentjes onderweg : FKP bordjes beide richtingen leiden langs de 'bruine' weg langs noordrand ; barriers log en lift-gate bleken verwijderd ; wel bordjes Verboden aan paden welke aftakken ; terrein kennelijk aangekocht Vlaamse overheid; wie weet welk agentschap over (natuur) ontwikkeling en toegang gaat? Daarbij de opmerking dat FKP 38-73 zoals op OSM mij aantrekkelijker voorkomt dan die welke de bordjes volgt - maar dat is een persoonlijke mening. Ook op te volgen : deel meadow omgeploegd, met info borden : te documenteren</text>
+      <html>&lt;p&gt;Befietst 2021-04-16 : prentjes onderweg : FKP bordjes beide richtingen leiden langs de 'bruine' weg langs noordrand ; barriers log en lift-gate bleken verwijderd ; wel bordjes Verboden aan paden welke aftakken ; terrein kennelijk aangekocht Vlaamse overheid; wie weet welk agentschap over (natuur) ontwikkeling en toegang gaat? Daarbij de opmerking dat FKP 38-73 zoals op OSM mij aantrekkelijker voorkomt dan die welke de bordjes volgt - maar dat is een persoonlijke mening. Ook op te volgen : deel meadow omgeploegd, met info borden : te documenteren&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 16:59:34 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dient er hier nog iets gemapt te worden?</text>
+      <html>&lt;p&gt;dient er hier nog iets gemapt te worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-13 07:39:41 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Besproken met beheersmedewerker, regelmatige regen afgelopen 14mnd nodigden niet uit dit gebied opnieuw vast te leggen</text>
+      <html>&lt;p&gt;Besproken met beheersmedewerker, regelmatige regen afgelopen 14mnd nodigden niet uit dit gebied opnieuw vast te leggen&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

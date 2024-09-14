@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4440300" lat="50.8420600">
+  <id>3899966</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3899966</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3899966/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3899966/close</close_url>
+  <date_created>2023-09-21 03:15:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-21 03:15:51 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>According to https://fr.woluwe1200.be/wp-content/uploads/2022/02/Notesexplicativespubliques-15.02.2022.pdf (p 20/21) somewhere here should be a legal vtt parcours.
+
+Survey needed </text>
+      <html>&lt;p&gt;According to &lt;a href="https://fr.woluwe1200.be/wp-content/uploads/2022/02/Notesexplicativespubliques-15.02.2022.pdf" rel="nofollow noopener noreferrer"&gt;https://fr.woluwe1200.be/wp-content/uploads/2022/02/Notesexplicativespubliques-15.02.2022.pdf&lt;/a&gt; (p 20/21) somewhere here should be a legal vtt parcours.&lt;/p&gt;
+
+&lt;p&gt;Survey needed &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-28 06:05:58 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>closed</action>
+      <text>not found, closing</text>
+      <html>&lt;p&gt;not found, closing&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 07:49:31 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 07:51:09 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>beetween https://www.mapillary.com/app/?pKey=318009504624595 
+
+https://www.mapillary.com/app/?pKey=376961541873382
+
+correct outline need more survey.</text>
+      <html>&lt;p&gt;beetween &lt;a href="https://www.mapillary.com/app/?pKey=318009504624595" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=318009504624595&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=376961541873382" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=376961541873382&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;correct outline need more survey.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

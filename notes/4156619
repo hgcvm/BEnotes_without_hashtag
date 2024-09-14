@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2156494" lat="51.1276401">
+  <id>4156619</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4156619</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4156619/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4156619/close</close_url>
+  <date_created>2024-03-17 09:53:05 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-17 09:53:05 UTC</date>
+      <action>opened</action>
+      <text>U treft duidelijke omschrijving op : https://www.temse.be/werken-kouterstraat </text>
+      <html>&lt;p&gt;U treft duidelijke omschrijving op : &lt;a href="https://www.temse.be/werken-kouterstraat" rel="nofollow noopener noreferrer"&gt;https://www.temse.be/werken-kouterstraat&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-11 14:44:14 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>befietst 11 aug'24 : Kouterstraat goeddeels heraangelegd, plantbedden in midden, nog niet gereed; komt volgens impressie op temse.be twee fietsstraat, twéé buswegen, een met wagens &gt; westen, 
+verder naar westen Pastoor Boelstraat nu opengegraven.</text>
+      <html>&lt;p&gt;befietst 11 aug'24 : Kouterstraat goeddeels heraangelegd, plantbedden in midden, nog niet gereed; komt volgens impressie op temse.be twee fietsstraat, twéé buswegen, een met wagens &amp;gt; westen, 
+&lt;br /&gt;verder naar westen Pastoor Boelstraat nu opengegraven.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 03:53:35 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>zijn er foto's gemaakt en geüpload op 11 aug'24?</text>
+      <html>&lt;p&gt;zijn er foto's gemaakt en geüpload op 11 aug'24?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 07:36:06 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Daar idd gepasseerd 11 aug, zie prentjes niet op Mpy - zal eens kijken</text>
+      <html>&lt;p&gt;Daar idd gepasseerd 11 aug, zie prentjes niet op Mpy - zal eens kijken&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

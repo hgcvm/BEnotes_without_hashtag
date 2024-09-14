@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.7476791" lat="51.1376556">
+  <id>4080530</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4080530</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4080530/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4080530/close</close_url>
+  <date_created>2024-01-21 19:35:11 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-21 19:35:11 UTC</date>
+      <uid>10752</uid>
+      <user>Filip</user>
+      <user_url>https://api.openstreetmap.org/user/Filip</user_url>
+      <action>opened</action>
+      <text>Laadstation</text>
+      <html>&lt;p&gt;Laadstation&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-19 19:53:09 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Welk merk, type output, openingsuren etc.? Zie ook https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcharging_station.</text>
+      <html>&lt;p&gt;Welk merk, type output, openingsuren etc.? Zie ook &lt;a href="https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcharging_station" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcharging_station&lt;/a&gt;.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

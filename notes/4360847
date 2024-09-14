@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3377140" lat="51.1263389">
+  <id>4360847</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4360847</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4360847/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4360847/close</close_url>
+  <date_created>2024-07-31 21:11:09 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-31 21:11:09 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>bezocht, hoe Sint Lutgardis School Schelle en GO! basis De Klim op elkaar aansluiten niet duidelijk, prentjes 31 jul'24 gaan u niet meer vertellen, wel staat mij bij dat bij wandelingen inkom Peperstraat en Prov. Steenweg zonder duidelijke obstakels verbonden waren. </text>
+      <html>&lt;p&gt;bezocht, hoe Sint Lutgardis School Schelle en GO! basis De Klim op elkaar aansluiten niet duidelijk, prentjes 31 jul'24 gaan u niet meer vertellen, wel staat mij bij dat bij wandelingen inkom Peperstraat en Prov. Steenweg zonder duidelijke obstakels verbonden waren. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

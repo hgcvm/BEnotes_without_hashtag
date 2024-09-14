@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7578580" lat="51.1992133">
+  <id>2714696</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2714696</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2714696/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2714696/close</close_url>
+  <date_created>2021-06-15 14:55:18 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-06-15 14:55:18 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Kruispunt te vervangen door brug 2021-2022
+https://www.wegenenverkeer.be/werken/nieuwe-brug-over-e34-assenede-project-stoepestraat
+https://web.archive.org/web/20200928213520/https://wegenenverkeer.be/werken/nieuwe-brug-over-e34-assenede-project-stoepestraat</text>
+      <html>&lt;p&gt;Kruispunt te vervangen door brug 2021-2022
+&lt;br /&gt;&lt;a href="https://www.wegenenverkeer.be/werken/nieuwe-brug-over-e34-assenede-project-stoepestraat" rel="nofollow noopener noreferrer"&gt;https://www.wegenenverkeer.be/werken/nieuwe-brug-over-e34-assenede-project-stoepestraat&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://web.archive.org/web/20200928213520/https://wegenenverkeer.be/werken/nieuwe-brug-over-e34-assenede-project-stoepestraat" rel="nofollow noopener noreferrer"&gt;https://web.archive.org/web/20200928213520/https://wegenenverkeer.be/werken/nieuwe-brug-over-e34-assenede-project-stoepestraat&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-28 13:34:47 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>Brug opengesteld, fietsinfra nog te bekijken (is er een rechtstreekse verbinding tussen rotonde en Meelstraat?). (Niet door mij.)</text>
+      <html>&lt;p&gt;Brug opengesteld, fietsinfra nog te bekijken (is er een rechtstreekse verbinding tussen rotonde en Meelstraat?). (Niet door mij.)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 13:25:29 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 13:37:04 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>En oneway te controleren op de fietspaden</text>
+      <html>&lt;p&gt;En oneway te controleren op de fietspaden&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

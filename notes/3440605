@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0656573" lat="50.4968344">
+  <id>3440605</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3440605</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3440605/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3440605/close</close_url>
+  <date_created>2022-11-13 15:22:23 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-11-13 15:22:23 UTC</date>
+      <uid>16563993</uid>
+      <user>la_re</user>
+      <user_url>https://api.openstreetmap.org/user/la_re</user_url>
+      <action>opened</action>
+      <text>crosses "La Wanze" 2x
+path is a few meters off
+
+via StreetComplete 49.1</text>
+      <html>&lt;p&gt;crosses "La Wanze" 2x
+&lt;br /&gt;path is a few meters off&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 49.1&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-11-13 15:38:16 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>la ou votre pin ce trouve il faut marcher dans l'eau 2 fois ? ou il y pont ou "wanze" sous sole </text>
+      <html>&lt;p&gt;la ou votre pin ce trouve il faut marcher dans l'eau 2 fois ? ou il y pont ou "wanze" sous sole &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-11-13 16:17:24 UTC</date>
+      <uid>16563993</uid>
+      <user>la_re</user>
+      <user_url>https://api.openstreetmap.org/user/la_re</user_url>
+      <action>commented</action>
+      <text>il y a 2 pont (=bridge)
+
+survey+aerial imagery: https://www.openstreetmap.org/changeset/128853980</text>
+      <html>&lt;p&gt;il y a 2 pont (=bridge)&lt;/p&gt;
+
+&lt;p&gt;survey+aerial imagery: &lt;a href="https://www.openstreetmap.org/changeset/128853980" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/128853980&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

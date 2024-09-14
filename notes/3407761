@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7419149" lat="51.1388295">
+  <id>3407761</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3407761</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3407761/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3407761/close</close_url>
+  <date_created>2022-10-21 11:20:38 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-10-21 11:20:38 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Wat zou de betekenis zijn van de tag "type=minor"? op delen van de De Merodestraat? Zie 'm niet op https://wiki.openstreetmap.org/wiki/Key:highway ; 
+daarnaast komen OSM huisnummers niet overeen met GRB : hernummerd? Zou kunnen, gezien nieuwbouw aan noordelijk einde ... </text>
+      <html>&lt;p&gt;Wat zou de betekenis zijn van de tag "type=minor"? op delen van de De Merodestraat? Zie 'm niet op &lt;a href="https://wiki.openstreetmap.org/wiki/Key:highway" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Key:highway&lt;/a&gt; ; 
+&lt;br /&gt;daarnaast komen OSM huisnummers niet overeen met GRB : hernummerd? Zou kunnen, gezien nieuwbouw aan noordelijk einde ... &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-21 12:01:50 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>In 2017 zouden deze hernummerd zijn. GRB lijkt dus OK om over te nemen</text>
+      <html>&lt;p&gt;In 2017 zouden deze hernummerd zijn. GRB lijkt dus OK om over te nemen&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-06 09:47:01 UTC</date>
+      <uid>3259862</uid>
+      <user>MikiDi</user>
+      <user_url>https://api.openstreetmap.org/user/MikiDi</user_url>
+      <action>commented</action>
+      <text>"minor" idd weinig zeggend. "residential" is prima. Aangepast in https://www.openstreetmap.org/changeset/145949850
+GRB import todo</text>
+      <html>&lt;p&gt;"minor" idd weinig zeggend. "residential" is prima. Aangepast in &lt;a href="https://www.openstreetmap.org/changeset/145949850" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/145949850&lt;/a&gt;
+&lt;br /&gt;GRB import todo&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 16:32:07 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>nog iets aan te passen?</text>
+      <html>&lt;p&gt;nog iets aan te passen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 19:55:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Wat mij betreft 1½jr geleden voorbij gewandeld / gefietst, vermoed dat gebouw hoek De Merodestraat × Nijlense Steenweg zowel NijlSteen 137 als Merode 1 is: zie https://www.mapillary.com/app/?pKey=829796618475797 ; 
+
+OSM Merode 3 is GRB Merode 11: dat was mijn oorspronkelijke vraag, doch niet meer in die buurt geweest. 
+
+Zodat antwoord 'Ja' luidt, de huisnummering lijkt nog niet in orde. </text>
+      <html>&lt;p&gt;Wat mij betreft 1½jr geleden voorbij gewandeld / gefietst, vermoed dat gebouw hoek De Merodestraat × Nijlense Steenweg zowel NijlSteen 137 als Merode 1 is: zie &lt;a href="https://www.mapillary.com/app/?pKey=829796618475797" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=829796618475797&lt;/a&gt; ; &lt;/p&gt;
+
+&lt;p&gt;OSM Merode 3 is GRB Merode 11: dat was mijn oorspronkelijke vraag, doch niet meer in die buurt geweest. &lt;/p&gt;
+
+&lt;p&gt;Zodat antwoord 'Ja' luidt, de huisnummering lijkt nog niet in orde. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-09 08:48:22 UTC</date>
+      <uid>4198737</uid>
+      <user>dentonny</user>
+      <user_url>https://api.openstreetmap.org/user/dentonny</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/changeset/155011551
+
+huisnummers aangepast</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/changeset/155011551" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/155011551&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;huisnummers aangepast&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

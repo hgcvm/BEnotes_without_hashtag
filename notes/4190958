@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.5144257" lat="50.6168673">
+  <id>4190958</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4190958</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4190958/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4190958/close</close_url>
+  <date_created>2024-04-10 02:55:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-10 02:55:25 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>opened</action>
+      <text>memorial=stele
+Emplacment supposé
+https://www.seraing.be/massacre-seraing/
+https://www.seraing.be/wp-content/uploads/2024/04/Site_massacre-2048x1390.png</text>
+      <html>&lt;p&gt;memorial=stele
+&lt;br /&gt;Emplacment supposé
+&lt;br /&gt;&lt;a href="https://www.seraing.be/massacre-seraing/" rel="nofollow noopener noreferrer"&gt;https://www.seraing.be/massacre-seraing/&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.seraing.be/wp-content/uploads/2024/04/Site_massacre-2048x1390.png" rel="nofollow noopener noreferrer"&gt;https://www.seraing.be/wp-content/uploads/2024/04/Site_massacre-2048x1390.png&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

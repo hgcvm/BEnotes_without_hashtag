@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1970751" lat="50.9102888">
+  <id>4380185</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4380185</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4380185/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4380185/close</close_url>
+  <date_created>2024-08-12 15:23:35 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-12 15:23:35 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>from president local cyclists federation:
+"Oh ja, als OSM melding maakt van een e-bike laadpunt op de Markt, die is altijd kapot. En de gemeente weet het, het is tot vervelens toe gemeld. 
+En dan nog enkele fietsherstelpunten, die zijn nuttig als je wel bandenplak spullen mee hebt maar geen pomp. Toch wel een bijzondere situatie, heel waarschijnlijk ook."</text>
+      <html>&lt;p&gt;from president local cyclists federation:
+&lt;br /&gt;"Oh ja, als OSM melding maakt van een e-bike laadpunt op de Markt, die is altijd kapot. En de gemeente weet het, het is tot vervelens toe gemeld. 
+&lt;br /&gt;En dan nog enkele fietsherstelpunten, die zijn nuttig als je wel bandenplak spullen mee hebt maar geen pomp. Toch wel een bijzondere situatie, heel waarschijnlijk ook."&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

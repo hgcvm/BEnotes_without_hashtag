@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8298618" lat="51.1820046">
+  <id>3763104</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3763104</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3763104/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3763104/close</close_url>
+  <date_created>2023-07-03 11:00:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-03 11:00:17 UTC</date>
+      <action>opened</action>
+      <text>Einde zone 'Verboden toegang, in beide richtingen, voor iedere bestuurder.' + einde zone max.3t5 uitgez laden/lossen. 
+
+Zones in de woonwijk , begin niet opgemerkt</text>
+      <html>&lt;p&gt;Einde zone 'Verboden toegang, in beide richtingen, voor iedere bestuurder.' + einde zone max.3t5 uitgez laden/lossen. &lt;/p&gt;
+
+&lt;p&gt;Zones in de woonwijk , begin niet opgemerkt&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 07:50:35 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>niet duidelijk wat er dient gemapt te worden. Graag nieuwe note met concrete info.</text>
+      <html>&lt;p&gt;niet duidelijk wat er dient gemapt te worden. Graag nieuwe note met concrete info.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 10:05:19 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 10:05:54 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Deze note blijft open tot u prentjes hebt bekeken en diverse verkeersmaatregelen correct gemapt zijn. </text>
+      <html>&lt;p&gt;Deze note blijft open tot u prentjes hebt bekeken en diverse verkeersmaatregelen correct gemapt zijn. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 10:12:01 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>Dag H! Nogmaals, gelieve aannte geven WAT er juist dient gemapt te worden. Het is NIET de bedoeling dat iemand anders op foto's iets moet gaan uitzoeken. 
+Foto's dienen ter ondersteuning van een note met concrete info.
+</text>
+      <html>&lt;p&gt;Dag H! Nogmaals, gelieve aannte geven WAT er juist dient gemapt te worden. Het is NIET de bedoeling dat iemand anders op foto's iets moet gaan uitzoeken. 
+&lt;br /&gt;Foto's dienen ter ondersteuning van een note met concrete info.
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-29 10:01:17 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Een link naar een specifieke foto zou alleszins handig zijn. Ik zag eerst alleen een tijdelijke C3+uitzondering plaatselijk verkeer in de ingaande richting. Pas daarna zag ik dat dat bord er al meer dan een jaar "tijdelijk" staat, en dat er in de andere richting een einde-zone bord staat.
+Als je hier wat verder rondkijkt, lijkt het erop dat er vanalles in flux is. Bijvoorbeeld hier https://www.mapillary.com/app/?lat=51.1801567&amp;lng=4.8133963&amp;z=19.9&amp;focus=photo&amp;pKey=781684157496043&amp;mapStyle=OpenStreetMap&amp;trafficSign=all&amp;x=0.5431283964762755&amp;y=0.5354618914129929&amp;zoom=2.216142270861833 schijnt men een fietsstraat te plannen.</text>
+      <html>&lt;p&gt;Een link naar een specifieke foto zou alleszins handig zijn. Ik zag eerst alleen een tijdelijke C3+uitzondering plaatselijk verkeer in de ingaande richting. Pas daarna zag ik dat dat bord er al meer dan een jaar "tijdelijk" staat, en dat er in de andere richting een einde-zone bord staat.
+&lt;br /&gt;Als je hier wat verder rondkijkt, lijkt het erop dat er vanalles in flux is. Bijvoorbeeld hier &lt;a href="https://www.mapillary.com/app/?lat=51.1801567&amp;amp;lng=4.8133963&amp;amp;z=19.9&amp;amp;focus=photo&amp;amp;pKey=781684157496043&amp;amp;mapStyle=OpenStreetMap&amp;amp;trafficSign=all&amp;amp;x=0.5431283964762755&amp;amp;y=0.5354618914129929&amp;amp;zoom=2.216142270861833" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.1801567&amp;amp;lng=4.8133963&amp;amp;z=19.9&amp;amp;focus=photo&amp;amp;pKey=781684157496043&amp;amp;mapStyle=OpenStreetMap&amp;amp;trafficSign=all&amp;amp;x=0.5431283964762755&amp;amp;y=0.5354618914129929&amp;amp;zoom=2.216142270861833&lt;/a&gt; schijnt men een fietsstraat te plannen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-30 16:38:48 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Waarde Joost, https://www.mapillary.com/app/?pKey=8348973195130507 toont idd zone 30 en plaatselijk, beide ontbreken op De Zaat; ingezoomd toont https://www.mapillary.com/app/?pKey=1031337501660012 iets dat op 'e' eindigt, fietszone lijkt; merk ook achteromkijkend geen aanvang / einde fistszone - tot bij Parein https://www.mapillary.com/app/?pKey=778327571051642 andere eind zone 30, en beperking 3½T. Gezien werken Vossenberg tunnel van 9 jun tot 'zomer'24' - kom hier nog wel eens. </text>
+      <html>&lt;p&gt;Waarde Joost, &lt;a href="https://www.mapillary.com/app/?pKey=8348973195130507" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=8348973195130507&lt;/a&gt; toont idd zone 30 en plaatselijk, beide ontbreken op De Zaat; ingezoomd toont &lt;a href="https://www.mapillary.com/app/?pKey=1031337501660012" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1031337501660012&lt;/a&gt; iets dat op 'e' eindigt, fietszone lijkt; merk ook achteromkijkend geen aanvang / einde fistszone - tot bij Parein &lt;a href="https://www.mapillary.com/app/?pKey=778327571051642" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=778327571051642&lt;/a&gt; andere eind zone 30, en beperking 3½T. Gezien werken Vossenberg tunnel van 9 jun tot 'zomer'24' - kom hier nog wel eens. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-30 18:13:32 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Kaartje zones fiets en 30 per 1 juli 2024 https://www.herentals.be/fietszone ...</text>
+      <html>&lt;p&gt;Kaartje zones fiets en 30 per 1 juli 2024 &lt;a href="https://www.herentals.be/fietszone" rel="nofollow noopener noreferrer"&gt;https://www.herentals.be/fietszone&lt;/a&gt; ...&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

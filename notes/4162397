@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4718279" lat="51.1799190">
+  <id>4162397</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4162397</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4162397/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4162397/close</close_url>
+  <date_created>2024-03-21 19:34:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-21 19:34:06 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Info van de mobiliteitsambtenaar van Mortsel: "De gemeente heeft enkele aanpassingen gedaan aan het woonwagenterrein Gasthuishoeven. De rode wegen op het bijgevoegd kaartje zijn voor gemengd verkeer (auto's toegelaten) zijn (dus highway=residential of highway=unclassified) en de paarse routes enkel nog voor fietsers (in principe worden deze ways dan highway=cycleway)"
+
+ #MapComplete #notes</text>
+      <html>&lt;p&gt;Info van de mobiliteitsambtenaar van Mortsel: "De gemeente heeft enkele aanpassingen gedaan aan het woonwagenterrein Gasthuishoeven. De rode wegen op het bijgevoegd kaartje zijn voor gemengd verkeer (auto's toegelaten) zijn (dus highway=residential of highway=unclassified) en de paarse routes enkel nog voor fietsers (in principe worden deze ways dan highway=cycleway)"&lt;/p&gt;
+
+&lt;p&gt; #MapComplete #notes&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-21 19:34:11 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/GC9VgqY.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/GC9VgqY.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/GC9VgqY.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 07:55:29 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>dan klopt de info niet met note links ervan ? Die is paars gekleurd geen auto's dus ook niet voor bewoners !!!!
+https://www.openstreetmap.org/note/4165477</text>
+      <html>&lt;p&gt;dan klopt de info niet met note links ervan ? Die is paars gekleurd geen auto's dus ook niet voor bewoners !!!!
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/note/4165477" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/4165477&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 07:57:04 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Ter info voor osm het is niet dat er geen auto mogen komen dat die een echt fietspad is borden D7? of verbod auto's paaltjes ? Wat staat er echt ter plaatse ?</text>
+      <html>&lt;p&gt;Ter info voor osm het is niet dat er geen auto mogen komen dat die een echt fietspad is borden D7? of verbod auto's paaltjes ? Wat staat er echt ter plaatse ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 20:11:47 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Als ik er aan denk, zal ik morgen surveyen.</text>
+      <html>&lt;p&gt;Als ik er aan denk, zal ik morgen surveyen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-25 09:12:42 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Er zijn bolprentjes w/e 23mrt'24</text>
+      <html>&lt;p&gt;Er zijn bolprentjes w/e 23mrt'24&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-27 00:01:13 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Bedankt voor de prentjes, H4N5. Gisteren toch survey uitgevoerd, en inderdaad gewoon C3+uitgezonderd bewoners Gasthuishoeven.
+
+Ik weet niet hoe H4N5 het heeft ervaren, maar in het 'pad-gedeeltje' (deze weg net na de splitsing naar de oude landingsbaan links) is in mijn ogen onbefietsbaar. Men heeft twee 'lanes' aan grind gestort waarin men met de fiets volledig inzakt. Ik zou zelfs 'bicycle=dismount' ofzo toevoegen.
+
+Ten derde is de huidige situatie (vermoedelijk na changeset 149103392) niet echt correct weergegeven. Het 'pad-gedeeltje' loopt dichter bij de geasfalteerde Gasthuishoevenwegen. Er liggen grote stenen die voorkomen dat auto's doorsteken, maar voor wandelaars is het wel degelijk mogelijk om hier door te steken. 
+
+Ik zal  wachten tot de foto's van de 360 camera om verder aan te passen.  
+</text>
+      <html>&lt;p&gt;Bedankt voor de prentjes, H4N5. Gisteren toch survey uitgevoerd, en inderdaad gewoon C3+uitgezonderd bewoners Gasthuishoeven.&lt;/p&gt;
+
+&lt;p&gt;Ik weet niet hoe H4N5 het heeft ervaren, maar in het 'pad-gedeeltje' (deze weg net na de splitsing naar de oude landingsbaan links) is in mijn ogen onbefietsbaar. Men heeft twee 'lanes' aan grind gestort waarin men met de fiets volledig inzakt. Ik zou zelfs 'bicycle=dismount' ofzo toevoegen.&lt;/p&gt;
+
+&lt;p&gt;Ten derde is de huidige situatie (vermoedelijk na changeset 149103392) niet echt correct weergegeven. Het 'pad-gedeeltje' loopt dichter bij de geasfalteerde Gasthuishoevenwegen. Er liggen grote stenen die voorkomen dat auto's doorsteken, maar voor wandelaars is het wel degelijk mogelijk om hier door te steken. &lt;/p&gt;
+
+&lt;p&gt;Ik zal  wachten tot de foto's van de 360 camera om verder aan te passen.  
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-27 09:21:17 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Stukje 'path' ingetekend op basis mijn GPS, wandelend; heb stukje track bij einde taxibaan 'robust wheels' gemaakt.
+
+Ongetwijfeld verschijnen binnenkort bolfotos?  
+
+Mocht bij MobMortsel onder de aandacht brengen dat de los gestortte (avi-)slak niet geschikt is als fietspad - geïndiceerd op schetsje van MobMortsl; dat bord C3+'bewoners' nog vervangen mag; en dat de bocht in asfaltweg bij Padel / Baseball grondig kapot gereden is; en dat naast Canticrode VZW aan Krijgsbaan bordje fietspad ontbreekt. 
+
+Blijft vraag hoe compost toilet te taggen : is geen flush, noch pit? </text>
+      <html>&lt;p&gt;Stukje 'path' ingetekend op basis mijn GPS, wandelend; heb stukje track bij einde taxibaan 'robust wheels' gemaakt.&lt;/p&gt;
+
+&lt;p&gt;Ongetwijfeld verschijnen binnenkort bolfotos?  &lt;/p&gt;
+
+&lt;p&gt;Mocht bij MobMortsel onder de aandacht brengen dat de los gestortte (avi-)slak niet geschikt is als fietspad - geïndiceerd op schetsje van MobMortsl; dat bord C3+'bewoners' nog vervangen mag; en dat de bocht in asfaltweg bij Padel / Baseball grondig kapot gereden is; en dat naast Canticrode VZW aan Krijgsbaan bordje fietspad ontbreekt. &lt;/p&gt;
+
+&lt;p&gt;Blijft vraag hoe compost toilet te taggen : is geen flush, noch pit? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-27 09:32:54 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>toilets:disposal=pitlatrine - waste falls into a lined or unlined pit. If pitlatrine is composting composting=yes.
+https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtoilets</text>
+      <html>&lt;p&gt;toilets:disposal=pitlatrine - waste falls into a lined or unlined pit. If pitlatrine is composting composting=yes.
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtoilets" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtoilets&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-27 19:39:03 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Vandaag nogmaals langs gegaan om de toilet langs binnen te kunnen bekijken teneinde volledig correct te taggen. Was helaas reeds bezet. </text>
+      <html>&lt;p&gt;Vandaag nogmaals langs gegaan om de toilet langs binnen te kunnen bekijken teneinde volledig correct te taggen. Was helaas reeds bezet. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

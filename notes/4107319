@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4075039" lat="51.1992276">
+  <id>4107319</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4107319</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4107319/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4107319/close</close_url>
+  <date_created>2024-02-10 16:44:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-10 16:44:59 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>Did is een Cvo campus?
+
+via StreetComplete 56.1
+
+Attached photo(s):
+https://westnordost.de/p/195821.jpg</text>
+      <html>&lt;p&gt;Did is een Cvo campus?&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 56.1&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/195821.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/195821.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-16 16:13:25 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=3530259927286652 en https://www.mapillary.com/app/?pKey=343974875065273 tonen dat dit CVO Vitant Campus Lozana is; handig, trouwens, die bolfotos</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=3530259927286652" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=3530259927286652&lt;/a&gt; en &lt;a href="https://www.mapillary.com/app/?pKey=343974875065273" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=343974875065273&lt;/a&gt; tonen dat dit CVO Vitant Campus Lozana is; handig, trouwens, die bolfotos&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

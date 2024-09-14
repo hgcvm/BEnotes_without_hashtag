@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5880580" lat="50.6558682">
+  <id>3411390</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3411390</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3411390/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3411390/close</close_url>
+  <date_created>2022-10-24 09:01:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-10-24 09:01:49 UTC</date>
+      <action>opened</action>
+      <text>ce tronçon de la rue du Morimont est inaccessible au calcul d'itinéraires (depuis le Bois des Rêves, en bas, jusqu'à la rue des Bruyères, en haut). </text>
+      <html>&lt;p&gt;ce tronçon de la rue du Morimont est inaccessible au calcul d'itinéraires (depuis le Bois des Rêves, en bas, jusqu'à la rue des Bruyères, en haut). &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-24 10:04:34 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>codage "private" ? pas correcte ?
+https://www.openstreetmap.org/way/354325412</text>
+      <html>&lt;p&gt;codage "private" ? pas correcte ?
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/354325412" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/354325412&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-09 17:32:08 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>@Jakka: looking at the history of this way, the `access=private` was added by someone who lives there, and they look quite inexperienced. The part of the street to the north is tagged with `access=destination`. Ideally, this would need to be surveyed.</text>
+      <html>&lt;p&gt;@Jakka: looking at the history of this way, the `access=private` was added by someone who lives there, and they look quite inexperienced. The part of the street to the north is tagged with `access=destination`. Ideally, this would need to be surveyed.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

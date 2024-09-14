@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6151500" lat="51.4139900">
+  <id>4123643</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4123643</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4123643/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4123643/close</close_url>
+  <date_created>2024-02-22 15:21:40 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-22 15:21:40 UTC</date>
+      <uid>3574538</uid>
+      <user>Koen_VdE</user>
+      <user_url>https://api.openstreetmap.org/user/Koen_VdE</user_url>
+      <action>opened</action>
+      <text>Volgens de gemeentelijke website hangt aan dit gebouw een publiek AED toestel</text>
+      <html>&lt;p&gt;Volgens de gemeentelijke website hangt aan dit gebouw een publiek AED toestel&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-30 13:56:48 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>AED mapillary
+Kapel Braken, Bredabaan 124 (Braken)</text>
+      <html>&lt;p&gt;AED mapillary
+&lt;br /&gt;Kapel Braken, Bredabaan 124 (Braken)&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

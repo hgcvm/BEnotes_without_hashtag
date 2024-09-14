@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7087324" lat="51.0602371">
+  <id>4248834</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4248834</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4248834/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4248834/close</close_url>
+  <date_created>2024-05-16 13:14:46 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-16 13:14:47 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Cleanup KUL campus, ugly outline</text>
+      <html>&lt;p&gt;Cleanup KUL campus, ugly outline&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 12:05:27 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #ComplexMapping</text>
+      <html>&lt;p&gt;#OSMBE #ComplexMapping&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

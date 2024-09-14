@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8167594" lat="50.7142011">
+  <id>4373260</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4373260</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4373260/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4373260/close</close_url>
+  <date_created>2024-08-08 16:54:27 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-08 16:54:27 UTC</date>
+      <uid>9450507</uid>
+      <user>karlmichaelw</user>
+      <user_url>https://api.openstreetmap.org/user/karlmichaelw</user_url>
+      <action>opened</action>
+      <text>New building - Colruyt
+Chaussée de Renaix 164
+
+via StreetComplete 58.2
+
+Attached photo(s):
+https://westnordost.de/p/230820.jpg
+https://westnordost.de/p/230821.jpg
+https://westnordost.de/p/230822.jpg</text>
+      <html>&lt;p&gt;New building - Colruyt
+&lt;br /&gt;Chaussée de Renaix 164&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 58.2&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/230820.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/230820.jpg&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/230821.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/230821.jpg&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/230822.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/230822.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

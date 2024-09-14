@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3812735" lat="51.0906596">
+  <id>4252838</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4252838</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4252838/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4252838/close</close_url>
+  <date_created>2024-05-18 18:00:31 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-18 18:00:31 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>opened</action>
+      <text>Deze omgeving is veranderd (werken nog bezig?)  Er worden trappen voorzien om een soort theater te verkrijgen.  Vijvers is iets verkleind en verhardingen en reliëf aangepast.</text>
+      <html>&lt;p&gt;Deze omgeving is veranderd (werken nog bezig?)  Er worden trappen voorzien om een soort theater te verkrijgen.  Vijvers is iets verkleind en verhardingen en reliëf aangepast.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 05:29:57 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>fotos toegevoegd aan mapilary</text>
+      <html>&lt;p&gt;fotos toegevoegd aan mapilary&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:08:08 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>kunt u dit zelf mappen of hulp nodig?</text>
+      <html>&lt;p&gt;kunt u dit zelf mappen of hulp nodig?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-13 07:15:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>&lt;iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;image_key=444109338656654&amp;x=0.34241965833175975&amp;y=0.4861106465496789&amp;style=split" frameborder="0"&gt;&lt;/iframe&gt; en &lt;iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;image_key=508868198457653&amp;x=0.6654430846693391&amp;y=0.46724495730013615&amp;style=split" frameborder="0"&gt;&lt;/iframe&gt; : te mappen of zal dit ... ?</text>
+      <html>&lt;p&gt;&amp;lt;iframe width="640" height="320" src="&lt;a href="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=444109338656654&amp;amp;x=0.34241965833175975&amp;amp;y=0.4861106465496789&amp;amp;style=split" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=444109338656654&amp;amp;x=0.34241965833175975&amp;amp;y=0.4861106465496789&amp;amp;style=split&lt;/a&gt;" frameborder="0"&amp;gt;&amp;lt;/iframe&amp;gt; en &amp;lt;iframe width="640" height="320" src="&lt;a href="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=508868198457653&amp;amp;x=0.6654430846693391&amp;amp;y=0.46724495730013615&amp;amp;style=split" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=508868198457653&amp;amp;x=0.6654430846693391&amp;amp;y=0.46724495730013615&amp;amp;style=split&lt;/a&gt;" frameborder="0"&amp;gt;&amp;lt;/iframe&amp;gt; : te mappen of zal dit ... ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

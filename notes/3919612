@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0679150" lat="51.1100799">
+  <id>3919612</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3919612</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3919612/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3919612/close</close_url>
+  <date_created>2023-10-02 12:54:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-02 12:54:22 UTC</date>
+      <uid>1722488</uid>
+      <user>Mateusz Konieczny</user>
+      <user_url>https://api.openstreetmap.org/user/Mateusz%20Konieczny</user_url>
+      <action>opened</action>
+      <text>name=Rentopia
+https://www.openstreetmap.org/node/3994166776
+
+shop=Machines ? What kind of machines? Industrial machines? Washing machines? Computers? (see https://wiki.openstreetmap.org/wiki/Key:shop for possible values - though maybe new one is needed)</text>
+      <html>&lt;p&gt;name=Rentopia
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/node/3994166776" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/3994166776&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;shop=Machines ? What kind of machines? Industrial machines? Washing machines? Computers? (see &lt;a href="https://wiki.openstreetmap.org/wiki/Key:shop" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Key:shop&lt;/a&gt; for possible values - though maybe new one is needed)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-02 14:17:06 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dear Mateusz, please view https://rentopia.be/verhuur/ for an illustrated listing of their lines of construction equipment ; both rental and sales ; clearly aiming at professional use ; 
+
+Looking at the neighbours : seems Fitness Experts weren't all that fit on my last visit : unless they elevated 'pumping iron' to a new level? 
+see : https://www.openstreetmap.org/node/3994166773 
+
+https://www.fitnessexperts.be/ gives a different address ; which in turn could imply that work on part of the construction site https://www.openstreetmap.org/way/1007819164 has been completed, looks like terraced housing (or perhaps apartments shaped to look like that) on the most recent aerial imagery ... ; 
+
+Fitness experts might then be at https://www.openstreetmap.org/way/1007819154 ? 
+
+Best to check before getting carried away. </text>
+      <html>&lt;p&gt;Dear Mateusz, please view &lt;a href="https://rentopia.be/verhuur/" rel="nofollow noopener noreferrer"&gt;https://rentopia.be/verhuur/&lt;/a&gt; for an illustrated listing of their lines of construction equipment ; both rental and sales ; clearly aiming at professional use ; &lt;/p&gt;
+
+&lt;p&gt;Looking at the neighbours : seems Fitness Experts weren't all that fit on my last visit : unless they elevated 'pumping iron' to a new level? 
+&lt;br /&gt;see : &lt;a href="https://www.openstreetmap.org/node/3994166773" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/3994166773&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.fitnessexperts.be/" rel="nofollow noopener noreferrer"&gt;https://www.fitnessexperts.be/&lt;/a&gt; gives a different address ; which in turn could imply that work on part of the construction site &lt;a href="https://www.openstreetmap.org/way/1007819164" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1007819164&lt;/a&gt; has been completed, looks like terraced housing (or perhaps apartments shaped to look like that) on the most recent aerial imagery ... ; &lt;/p&gt;
+
+&lt;p&gt;Fitness experts might then be at &lt;a href="https://www.openstreetmap.org/way/1007819154" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1007819154&lt;/a&gt; ? &lt;/p&gt;
+
+&lt;p&gt;Best to check before getting carried away. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

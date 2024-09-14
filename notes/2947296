@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8144499" lat="51.1446941">
+  <id>2947296</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2947296</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2947296/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2947296/close</close_url>
+  <date_created>2021-11-24 09:20:52 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-11-24 09:20:52 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Vervanging door nieuwe brug met een rijstrook + verkeerslichten; fietspaden in 2022
+
+https://www.vlaamsewaterweg.be/gent-spanjeveerbrug</text>
+      <html>&lt;p&gt;Vervanging door nieuwe brug met een rijstrook + verkeerslichten; fietspaden in 2022&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.vlaamsewaterweg.be/gent-spanjeveerbrug" rel="nofollow noopener noreferrer"&gt;https://www.vlaamsewaterweg.be/gent-spanjeveerbrug&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-29 09:57:50 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>"De eigenlijke werken aan de brug (met uitdienststelling brug) is voorzien in 2023."</text>
+      <html>&lt;p&gt;"De eigenlijke werken aan de brug (met uitdienststelling brug) is voorzien in 2023."&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-22 16:08:32 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>"De uitvoering van de werken is voorzien vanaf eind 2023 en neemt ongeveer een jaar in beslag. Vanaf begin 2024 wordt de bestaande brug afgesloten. Voor voetgangers en fietsers wordt een tijdelijke veerdienst voorzien. Als alles verloopt zoals gepland wordt de nieuwe brug tegen eind 2024 opengesteld”</text>
+      <html>&lt;p&gt;"De uitvoering van de werken is voorzien vanaf eind 2023 en neemt ongeveer een jaar in beslag. Vanaf begin 2024 wordt de bestaande brug afgesloten. Voor voetgangers en fietsers wordt een tijdelijke veerdienst voorzien. Als alles verloopt zoals gepland wordt de nieuwe brug tegen eind 2024 opengesteld”&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-02 11:54:03 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp eind 2024</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp eind 2024&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

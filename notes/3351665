@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8565121" lat="50.5898781">
+  <id>3351665</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3351665</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3351665/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3351665/close</close_url>
+  <date_created>2022-09-09 06:24:44 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-09 06:24:44 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Der gesamte Kreuzungsbereich am Parc du Theatre/Conciergerie du parc de l'Harmonie/Statur Guillaume Lekeu muß neu gestaltet werden.
+Das ist mir im Moment zu kompliziert.
+-
+Der gesamte Bereich an der Rückseite des Theaters wird komplett umgestaltet und bekommt in ungewisser Zukunft (man munkelt ab Januar 2023) einen Anbau an das Theater (vermutlich Gastro).
+-- - - - - - -
+
+Il s'agit d'une nouvelle rue à sens unique . Rue du Théâtre -Rue Xhavée . Certains tronçons de rue n'existent plus .
+-
+Tout le carrefour Parc du Théâtre/Conciergerie du parc de l'Harmonie/Stature Guillaume Lekeu doit être réaménagé.
+C'est trop compliqué pour le moment .
+-
+Toute la zone derrière le théâtre doit être complètement réaménagée et recevoir une extension du théâtre (probablement gastro) dans un avenir incertain (on murmure à partir de janvier 2023).
+-
+Traduit avec www.DeepL.com/Translator (version gratuite)</text>
+      <html>&lt;p&gt;Der gesamte Kreuzungsbereich am Parc du Theatre/Conciergerie du parc de l'Harmonie/Statur Guillaume Lekeu muß neu gestaltet werden.
+&lt;br /&gt;Das ist mir im Moment zu kompliziert.
+&lt;br /&gt;-
+&lt;br /&gt;Der gesamte Bereich an der Rückseite des Theaters wird komplett umgestaltet und bekommt in ungewisser Zukunft (man munkelt ab Januar 2023) einen Anbau an das Theater (vermutlich Gastro).
+&lt;br /&gt;-- - - - - - -&lt;/p&gt;
+
+&lt;p&gt;Il s'agit d'une nouvelle rue à sens unique . Rue du Théâtre -Rue Xhavée . Certains tronçons de rue n'existent plus .
+&lt;br /&gt;-
+&lt;br /&gt;Tout le carrefour Parc du Théâtre/Conciergerie du parc de l'Harmonie/Stature Guillaume Lekeu doit être réaménagé.
+&lt;br /&gt;C'est trop compliqué pour le moment .
+&lt;br /&gt;-
+&lt;br /&gt;Toute la zone derrière le théâtre doit être complètement réaménagée et recevoir une extension du théâtre (probablement gastro) dans un avenir incertain (on murmure à partir de janvier 2023).
+&lt;br /&gt;-
+&lt;br /&gt;Traduit avec &lt;a href="http://www.DeepL.com/Translator" rel="nofollow noopener noreferrer"&gt;www.DeepL.com/Translator&lt;/a&gt; (version gratuite)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-10 20:19:01 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://siena.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2022/03/06/node_916964/3049701/public/2022/03/06/B9730173028Z.1_20220306150608_000+G4UK1JDIO.1-0.jpg?itok=Y6zg8kaE1646575576</text>
+      <html>&lt;p&gt;&lt;a href="https://siena.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2022/03/06/node_916964/3049701/public/2022/03/06/B9730173028Z.1_20220306150608_000+G4UK1JDIO.1-0.jpg?itok=Y6zg8kaE1646575576" rel="nofollow noopener noreferrer"&gt;https://siena.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2022/03/06/node_916964/3049701/public/2022/03/06/B9730173028Z.1_20220306150608_000+G4UK1JDIO.1-0.jpg?itok=Y6zg8kaE1646575576&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-17 18:40:29 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>So soll das mal aussehen dort:
+-
+https://www.rtbf.be/article/verviers-permis-signe-pour-la-restauration-du-grand-theatre-10756655
+-
+https://ds.static.rtbf.be/article/image/1920x1080/0/e/7/19ca14e7ea6328a42e0eb13d585e4c22-1620325411.jpg
+-
+</text>
+      <html>&lt;p&gt;So soll das mal aussehen dort:
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://www.rtbf.be/article/verviers-permis-signe-pour-la-restauration-du-grand-theatre-10756655" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/verviers-permis-signe-pour-la-restauration-du-grand-theatre-10756655&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://ds.static.rtbf.be/article/image/1920x1080/0/e/7/19ca14e7ea6328a42e0eb13d585e4c22-1620325411.jpg" rel="nofollow noopener noreferrer"&gt;https://ds.static.rtbf.be/article/image/1920x1080/0/e/7/19ca14e7ea6328a42e0eb13d585e4c22-1620325411.jpg&lt;/a&gt;
+&lt;br /&gt;-
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-17 18:44:06 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://www.rtbf.be/article/renovation-du-grand-theatre-de-verviers-le-certificat-de-patrimoine-est-arrive-10656217
+-
+https://ds.static.rtbf.be/article/image/1248x702/2/3/c/1e771564bce4263b108fcb1bac599e35-1608223886.jpg</text>
+      <html>&lt;p&gt;&lt;a href="https://www.rtbf.be/article/renovation-du-grand-theatre-de-verviers-le-certificat-de-patrimoine-est-arrive-10656217" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/renovation-du-grand-theatre-de-verviers-le-certificat-de-patrimoine-est-arrive-10656217&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;&lt;a href="https://ds.static.rtbf.be/article/image/1248x702/2/3/c/1e771564bce4263b108fcb1bac599e35-1608223886.jpg" rel="nofollow noopener noreferrer"&gt;https://ds.static.rtbf.be/article/image/1248x702/2/3/c/1e771564bce4263b108fcb1bac599e35-1608223886.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-26 22:45:42 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Ich bin gespannt.
+-
+Je suis impatient.
+-
+Rénovation énergétique du Grand Théâtre | 
+Début des travaux : 2023
+Fin des travaux : 2026
+
+
+https://www.verviers.be/ma-ville/grands-projets/projets-en-developpement/grand-theatre-1/renovation-energetique-du-grand-theatre</text>
+      <html>&lt;p&gt;Ich bin gespannt.
+&lt;br /&gt;-
+&lt;br /&gt;Je suis impatient.
+&lt;br /&gt;-
+&lt;br /&gt;Rénovation énergétique du Grand Théâtre | 
+&lt;br /&gt;Début des travaux : 2023
+&lt;br /&gt;Fin des travaux : 2026&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.verviers.be/ma-ville/grands-projets/projets-en-developpement/grand-theatre-1/renovation-energetique-du-grand-theatre" rel="nofollow noopener noreferrer"&gt;https://www.verviers.be/ma-ville/grands-projets/projets-en-developpement/grand-theatre-1/renovation-energetique-du-grand-theatre&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-02 11:50:18 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>See also https://www.openstreetmap.org/note/3351665</text>
+      <html>&lt;p&gt;See also &lt;a href="https://www.openstreetmap.org/note/3351665" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/3351665&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-02-02 11:50:30 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>I mean https://www.openstreetmap.org/note/3351648</text>
+      <html>&lt;p&gt;I mean &lt;a href="https://www.openstreetmap.org/note/3351648" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/3351648&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-08 12:46:29 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Haben hier die Arbeiten begonnen?
+
+"Die Stadt Verviers genehmigt weitere Investitionen in die Renovierung des Grand-Théâtre. So soll das Bühnenbild für mehr als sieben Millionen Euro erneuert werden."
+
+https://brf.be/regional/1708434/
+
+Les travaux ont-ils commencé ici ?
+
+"La Ville de Verviers approuve de nouveaux investissements dans la rénovation du Grand-Théâtre. Ainsi, le décor de scène sera renouvelé pour plus de sept millions d'euros."</text>
+      <html>&lt;p&gt;Haben hier die Arbeiten begonnen?&lt;/p&gt;
+
+&lt;p&gt;"Die Stadt Verviers genehmigt weitere Investitionen in die Renovierung des Grand-Théâtre. So soll das Bühnenbild für mehr als sieben Millionen Euro erneuert werden."&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://brf.be/regional/1708434/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1708434/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Les travaux ont-ils commencé ici ?&lt;/p&gt;
+
+&lt;p&gt;"La Ville de Verviers approuve de nouveaux investissements dans la rénovation du Grand-Théâtre. Ainsi, le décor de scène sera renouvelé pour plus de sept millions d'euros."&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-08 13:55:26 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>Not yet, the administrative part ends this month, with final decision expected after it, so it most likely won't begin before May or later.
+See https://www.sudinfo.be/id646571/article/2023-04-06/le-dernier-lot-est-attribue-pour-la-renovation-du-grand-theatre-de-verviers-une</text>
+      <html>&lt;p&gt;Not yet, the administrative part ends this month, with final decision expected after it, so it most likely won't begin before May or later.
+&lt;br /&gt;See &lt;a href="https://www.sudinfo.be/id646571/article/2023-04-06/le-dernier-lot-est-attribue-pour-la-renovation-du-grand-theatre-de-verviers-une" rel="nofollow noopener noreferrer"&gt;https://www.sudinfo.be/id646571/article/2023-04-06/le-dernier-lot-est-attribue-pour-la-renovation-du-grand-theatre-de-verviers-une&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 15:48:54 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>Jean-François Chefneux : "Nous attendons encore une autorisation (la région wallonne), puis nous pourrons planifier les travaux. On devrait donc voir les entreprises sur chantier d’ici la fin d’année 2023 ou début 2024. Bien à vous"</text>
+      <html>&lt;p&gt;Jean-François Chefneux : "Nous attendons encore une autorisation (la région wallonne), puis nous pourrons planifier les travaux. On devrait donc voir les entreprises sur chantier d’ici la fin d’année 2023 ou début 2024. Bien à vous"&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 16:12:10 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Merci pour l'information.
+-
+
+Jean-François Chefneux: "Wir warten noch auf eine Genehmigung (der wallonischen Region), dann können wir die Arbeiten planen. Wir sollten also Ende 2023 oder Anfang 2024 die Unternehmen auf der Baustelle sehen. Mit freundlichen Grüßen"</text>
+      <html>&lt;p&gt;Merci pour l'information.
+&lt;br /&gt;-&lt;/p&gt;
+
+&lt;p&gt;Jean-François Chefneux: "Wir warten noch auf eine Genehmigung (der wallonischen Region), dann können wir die Arbeiten planen. Wir sollten also Ende 2023 oder Anfang 2024 die Unternehmen auf der Baustelle sehen. Mit freundlichen Grüßen"&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-14 19:16:51 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Das wird auch langsam mal Zeit!
+
+C'est pas trop tôt!
+
+https://up.picr.de/46477725ec.jpg
+
+Je ne montrerai pas ici les images les plus terribles de l'intérieur.</text>
+      <html>&lt;p&gt;Das wird auch langsam mal Zeit!&lt;/p&gt;
+
+&lt;p&gt;C'est pas trop tôt!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/46477725ec.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/46477725ec.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Je ne montrerai pas ici les images les plus terribles de l'intérieur.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 13:23:51 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://brf.be/regional/1793451/
+
+Haben die tatsächlich angefangen mit der Sanierung?
+
+"Die Arbeiten werden voraussichtlich nicht vor 2028 abgeschlossen sein."
+- - - - 
+Ont-ils réellement commencé les travaux de rénovation ?
+
+"Les travaux ne devraient pas être terminés avant 2028".
+</text>
+      <html>&lt;p&gt;&lt;a href="https://brf.be/regional/1793451/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1793451/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Haben die tatsächlich angefangen mit der Sanierung?&lt;/p&gt;
+
+&lt;p&gt;"Die Arbeiten werden voraussichtlich nicht vor 2028 abgeschlossen sein."
+&lt;br /&gt;- - - - 
+&lt;br /&gt;Ont-ils réellement commencé les travaux de rénovation ?&lt;/p&gt;
+
+&lt;p&gt;"Les travaux ne devraient pas être terminés avant 2028".
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 13:27:18 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://www.rtbf.be/article/a-verviers-les-travaux-de-renovation-du-grand-theatre-commenceront-le-22-fevrier-11314086</text>
+      <html>&lt;p&gt;&lt;a href="https://www.rtbf.be/article/a-verviers-les-travaux-de-renovation-du-grand-theatre-commenceront-le-22-fevrier-11314086" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/a-verviers-les-travaux-de-renovation-du-grand-theatre-commenceront-le-22-fevrier-11314086&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 13:33:23 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>Oui, je suis passé il y a quelques jours, il y avait des barrières panneaux et aussi un portillon d'accès pleine hauteur (full-height turnstile) à priori en attente d'installation.</text>
+      <html>&lt;p&gt;Oui, je suis passé il y a quelques jours, il y avait des barrières panneaux et aussi un portillon d'accès pleine hauteur (full-height turnstile) à priori en attente d'installation.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-25 16:04:43 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Ich bin heute Vormittag dort gewesen. Viel Aktivitäten konnte ich von der Rue de la Concorde aus nicht erkennen.
+
+Ist eigentlich eines der vielen hässlichen Urinal in Verviers an dieser Stelle noch in Nutzung?
+
+Kaum zu glauben,, wie das ausgesehen hat bis vor Kurzem.
+- - - - - 
+
+Je m'y suis rendu ce matin. Je n'ai pas pu voir beaucoup d'activités depuis la rue de la Concorde.
+
+L'un des nombreux urinoirs laids de Verviers est-il encore en service à cet endroit ?
+
+Difficile de croire à quoi il ressemblait il y a encore peu de temps.</text>
+      <html>&lt;p&gt;Ich bin heute Vormittag dort gewesen. Viel Aktivitäten konnte ich von der Rue de la Concorde aus nicht erkennen.&lt;/p&gt;
+
+&lt;p&gt;Ist eigentlich eines der vielen hässlichen Urinal in Verviers an dieser Stelle noch in Nutzung?&lt;/p&gt;
+
+&lt;p&gt;Kaum zu glauben,, wie das ausgesehen hat bis vor Kurzem.
+&lt;br /&gt;- - - - - &lt;/p&gt;
+
+&lt;p&gt;Je m'y suis rendu ce matin. Je n'ai pas pu voir beaucoup d'activités depuis la rue de la Concorde.&lt;/p&gt;
+
+&lt;p&gt;L'un des nombreux urinoirs laids de Verviers est-il encore en service à cet endroit ?&lt;/p&gt;
+
+&lt;p&gt;Difficile de croire à quoi il ressemblait il y a encore peu de temps.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-18 05:48:59 UTC</date>
+      <uid>23835</uid>
+      <user>The RedBurn</user>
+      <user_url>https://api.openstreetmap.org/user/The%20RedBurn</user_url>
+      <action>commented</action>
+      <text>Hier, j'ai vu que le toit était en cours de démontage.</text>
+      <html>&lt;p&gt;Hier, j'ai vu que le toit était en cours de démontage.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-26 17:57:04 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Oh, wie schön! Die Arbeiten haben begonnen. Hab schnell aus dem Busfenster heraus photographiert.
+
+https://up.picr.de/47498371mk.jpg
+
+Alles ist umzäunt und es wird fleißig gearbeitet.
+---
+Oh, que c'est beau ! Les travaux ont commencé.
+
+J'ai rapidement pris des photos par la fenêtre du bus.
+
+Tout est clôturé et les travaux vont bon train. 
+
+</text>
+      <html>&lt;p&gt;Oh, wie schön! Die Arbeiten haben begonnen. Hab schnell aus dem Busfenster heraus photographiert.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/47498371mk.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/47498371mk.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Alles ist umzäunt und es wird fleißig gearbeitet.
+&lt;br /&gt;---
+&lt;br /&gt;Oh, que c'est beau ! Les travaux ont commencé.&lt;/p&gt;
+
+&lt;p&gt;J'ai rapidement pris des photos par la fenêtre du bus.&lt;/p&gt;
+
+&lt;p&gt;Tout est clôturé et les travaux vont bon train. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-27 06:39:51 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://www.rtbf.be/article/le-grand-theatre-de-verviers-renove-ouverture-en-2026-sera-un-carrefour-des-musiques-10918072</text>
+      <html>&lt;p&gt;&lt;a href="https://www.rtbf.be/article/le-grand-theatre-de-verviers-renove-ouverture-en-2026-sera-un-carrefour-des-musiques-10918072" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/le-grand-theatre-de-verviers-renove-ouverture-en-2026-sera-un-carrefour-des-musiques-10918072&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-26 13:42:46 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Aktuelle Bilder vom 25. Juli 2024
+
+Images actuelles du 25 juillet 2024
+
+https://up.picr.de/48440003lf.jpg
+
+https://up.picr.de/48440005bd.jpg
+
+https://up.picr.de/48440006xn.jpg
+</text>
+      <html>&lt;p&gt;Aktuelle Bilder vom 25. Juli 2024&lt;/p&gt;
+
+&lt;p&gt;Images actuelles du 25 juillet 2024&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48440003lf.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48440003lf.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48440005bd.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48440005bd.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48440006xn.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48440006xn.jpg&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-09 17:56:05 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Aujourd'hui 9 août 2024, j'ai pu y jeter un coup d'œil et prendre des photos. Désolé pour la mauvaise qualité.
+---
+Ich durfte heute 9.8. 2024 mal kurz rein schauen und Bilder machen. Pardon für die schlechte Qualität.
+----
+https://up.picr.de/48514955tn.jpg
+
+https://up.picr.de/48514956pq.jpg
+
+https://up.picr.de/48514960wg.jpg
+
+https://up.picr.de/48514962qm.jpg
+
+https://up.picr.de/48514966ko.jpg
+
+</text>
+      <html>&lt;p&gt;Aujourd'hui 9 août 2024, j'ai pu y jeter un coup d'œil et prendre des photos. Désolé pour la mauvaise qualité.
+&lt;br /&gt;---
+&lt;br /&gt;Ich durfte heute 9.8. 2024 mal kurz rein schauen und Bilder machen. Pardon für die schlechte Qualität.
+&lt;br /&gt;----
+&lt;br /&gt;&lt;a href="https://up.picr.de/48514955tn.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48514955tn.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48514956pq.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48514956pq.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48514960wg.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48514960wg.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48514962qm.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48514962qm.jpg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://up.picr.de/48514966ko.jpg" rel="nofollow noopener noreferrer"&gt;https://up.picr.de/48514966ko.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

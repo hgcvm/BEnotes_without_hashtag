@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3875253" lat="51.1344133">
+  <id>4145306</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4145306</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4145306/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4145306/close</close_url>
+  <date_created>2024-03-09 08:45:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-09 08:45:53 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>andere eind van de markt, en bijvoorbeeld de foren in vakanties.</text>
+      <html>&lt;p&gt;andere eind van de markt, en bijvoorbeeld de foren in vakanties.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

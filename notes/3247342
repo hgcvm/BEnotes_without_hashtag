@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2524064" lat="51.3359625">
+  <id>3247342</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3247342</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3247342/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3247342/close</close_url>
+  <date_created>2022-07-01 10:04:11 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-01 10:04:11 UTC</date>
+      <action>opened</action>
+      <text>Deze plaats bevindt er zich een defibrillator.</text>
+      <html>&lt;p&gt;Deze plaats bevindt er zich een defibrillator.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 10:39:20 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dublicaat note:
+https://www.openstreetmap.org/note/2014234</text>
+      <html>&lt;p&gt;dublicaat note:
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/note/2014234" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/2014234&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

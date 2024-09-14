@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4729600" lat="51.0324100">
+  <id>3934489</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3934489</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3934489/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3934489/close</close_url>
+  <date_created>2023-10-11 02:27:28 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-11 02:27:28 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>opened</action>
+      <text>living street and not oneway : https://www.mapillary.com/app/?pKey=677686574247554</text>
+      <html>&lt;p&gt;living street and not oneway : &lt;a href="https://www.mapillary.com/app/?pKey=677686574247554" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=677686574247554&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 10:28:22 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>added living_street. Thanks for the note!
+https://www.openstreetmap.org/changeset/151138206</text>
+      <html>&lt;p&gt;added living_street. Thanks for the note!
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/changeset/151138206" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/151138206&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 20:09:05 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 20:12:39 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>ontbreekt er nog iets?</text>
+      <html>&lt;p&gt;ontbreekt er nog iets?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 20:12:57 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>duizenden 'sorries' voor een note te heropenen in noot sluit week, zie geen rode streep door Zone Fietsstraat bord onder Woonerf bord op https://www.mapillary.com/app/?pKey=677686574247554 ? En geen cyclestreet=yes bij de Living-Street? 
+
+Wordt tijd eens grondig met de bol-camera door Mechelen te trekken.</text>
+      <html>&lt;p&gt;duizenden 'sorries' voor een note te heropenen in noot sluit week, zie geen rode streep door Zone Fietsstraat bord onder Woonerf bord op &lt;a href="https://www.mapillary.com/app/?pKey=677686574247554" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=677686574247554&lt;/a&gt; ? En geen cyclestreet=yes bij de Living-Street? &lt;/p&gt;
+
+&lt;p&gt;Wordt tijd eens grondig met de bol-camera door Mechelen te trekken.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 20:18:20 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>ik zie inderdaad het fietszone-bord + het woonerf-bord ... voor mij heeft hier het woonerf-bord prioriteit bij het mappen, omdat het strikter is ... wat moet er nog aangepast worden volgens u?</text>
+      <html>&lt;p&gt;ik zie inderdaad het fietszone-bord + het woonerf-bord ... voor mij heeft hier het woonerf-bord prioriteit bij het mappen, omdat het strikter is ... wat moet er nog aangepast worden volgens u?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-10 21:31:08 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Waarneemgebied uitbreiden van IJzerenleen via Nonnenstraat tot rond Caputsteen; binnen de Vesten pogen althans elk kruispunt op de bolfoto te zetten om zo Begijnenstraat en soortgelijke op te sporen lijkt een aardig beginpunt?</text>
+      <html>&lt;p&gt;Waarneemgebied uitbreiden van IJzerenleen via Nonnenstraat tot rond Caputsteen; binnen de Vesten pogen althans elk kruispunt op de bolfoto te zetten om zo Begijnenstraat en soortgelijke op te sporen lijkt een aardig beginpunt?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-07 07:46:08 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Ik ben de hele ronde van binnenstad aan het maken. Het is overal fietszone, ik ben nog geen einde fietszone borden tegengekomen. De zone maxweight+maxlength heeft twee straten met een lek, maar het lijkt me bedoeld dat de hele binnenstad in de zone valt (zie ook de stedelijke website over zwaar vervoer). Grootste fout lijkt me deze: https://www.openstreetmap.org/way/22796367
+Bij de andere uitzonderingen vind ik gewoon geen einde zone bord bij straten die de zone verlaten.
+Daarnaast ben ik ook alle living streets &amp; pedestrian streets aan het nakijken. Ik hou ze enkel over indien aangeduid. voor pedestrian maak ik wel nog een uitzondering voor straten als deze https://www.openstreetmap.org/way/1290070142 waar je effectief niet kan geraken met een wagen; het alternatief zou hier path zijn, maar dat lijkt nogal vreemd.
+Ik ben hier nog wel even bezig met alles controleren, en een extra nazicht achteraf zou niet slecht zijn</text>
+      <html>&lt;p&gt;Ik ben de hele ronde van binnenstad aan het maken. Het is overal fietszone, ik ben nog geen einde fietszone borden tegengekomen. De zone maxweight+maxlength heeft twee straten met een lek, maar het lijkt me bedoeld dat de hele binnenstad in de zone valt (zie ook de stedelijke website over zwaar vervoer). Grootste fout lijkt me deze: &lt;a href="https://www.openstreetmap.org/way/22796367" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/22796367&lt;/a&gt;
+&lt;br /&gt;Bij de andere uitzonderingen vind ik gewoon geen einde zone bord bij straten die de zone verlaten.
+&lt;br /&gt;Daarnaast ben ik ook alle living streets &amp;amp; pedestrian streets aan het nakijken. Ik hou ze enkel over indien aangeduid. voor pedestrian maak ik wel nog een uitzondering voor straten als deze &lt;a href="https://www.openstreetmap.org/way/1290070142" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1290070142&lt;/a&gt; waar je effectief niet kan geraken met een wagen; het alternatief zou hier path zijn, maar dat lijkt nogal vreemd.
+&lt;br /&gt;Ik ben hier nog wel even bezig met alles controleren, en een extra nazicht achteraf zou niet slecht zijn&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-07 12:39:51 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>einde fiets zone fietsstraat  https://www.mapillary.com/app/?pKey=855195876383258 , : https://www.mapillary.com/app/?pKey=1923461794755093 , dit lijkt evident? , einde zone fietsstraat https://www.mapillary.com/app/?pKey=1126961621307589 , dit is een oude https://www.mapillary.com/app/?pKey=1388572451931286 , en nog een https://www.mapillary.com/app/?pKey=956409496275814 </text>
+      <html>&lt;p&gt;einde fiets zone fietsstraat  &lt;a href="https://www.mapillary.com/app/?pKey=855195876383258" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=855195876383258&lt;/a&gt; , : &lt;a href="https://www.mapillary.com/app/?pKey=1923461794755093" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1923461794755093&lt;/a&gt; , dit lijkt evident? , einde zone fietsstraat &lt;a href="https://www.mapillary.com/app/?pKey=1126961621307589" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1126961621307589&lt;/a&gt; , dit is een oude &lt;a href="https://www.mapillary.com/app/?pKey=1388572451931286" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1388572451931286&lt;/a&gt; , en nog een &lt;a href="https://www.mapillary.com/app/?pKey=956409496275814" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=956409496275814&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-07 15:15:27 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Ik bedoel dat ik BINNEN het centrum van Mechelen geen einde borden ben tegengekomen :)</text>
+      <html>&lt;p&gt;Ik bedoel dat ik BINNEN het centrum van Mechelen geen einde borden ben tegengekomen :)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-07 19:31:49 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Ergens staat een gesloten note waarin het oorspronkelijke bericht (meen VRT?) wordt aangehaald; even goochelen levert alvast : https://www.vrt.be/vrtnws/nl/2019/09/20/revolutie-in-mechelen-hele-binnenstad-wordt-fietszone/ : 
+
+"Vanaf november (2019) wordt de volledige Mechelse binnenstad één aaneengesloten fietszone. 179 straten in de binnenstad, goed voor zo’n 30 km openbare weg, worden zo fietsstraten waarin het verboden is om fietsers in te halen."</text>
+      <html>&lt;p&gt;Ergens staat een gesloten note waarin het oorspronkelijke bericht (meen VRT?) wordt aangehaald; even goochelen levert alvast : &lt;a href="https://www.vrt.be/vrtnws/nl/2019/09/20/revolutie-in-mechelen-hele-binnenstad-wordt-fietszone/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/2019/09/20/revolutie-in-mechelen-hele-binnenstad-wordt-fietszone/&lt;/a&gt; : &lt;/p&gt;
+
+&lt;p&gt;"Vanaf november (2019) wordt de volledige Mechelse binnenstad één aaneengesloten fietszone. 179 straten in de binnenstad, goed voor zo’n 30 km openbare weg, worden zo fietsstraten waarin het verboden is om fietsers in te halen."&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-08 06:35:31 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Eem andere bron : https://www.mechelen.be/fietsers/fietszone </text>
+      <html>&lt;p&gt;Eem andere bron : &lt;a href="https://www.mechelen.be/fietsers/fietszone" rel="nofollow noopener noreferrer"&gt;https://www.mechelen.be/fietsers/fietszone&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-10 12:22:42 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>OK, nu is:
+- overal de living streets weggewerkt die niet met een borden aangeduid stonden
+- de zone maxweight helemaal ingevoerd
+- alle straten die geen living street zijn aangeduid als cyclestreet
+Momenteel zijn er enkele living_street wél en enkele niét als cyclestreet aangeduid. Ik begrijp dat dat eigenlijk niet mag gecombineerd worden, maar wat doen we als de bevoegde overheid dat toch doet? Voer voor het forum, niet voor hier.
+Wat wel nog gedubbelchecked zou kunnen worden, er zijn twee "lekken" in de zone maxweight:
+https://www.openstreetmap.org/way/22796367 en https://www.openstreetmap.org/way/32195364
+Ben je inmiddels al gaan kijken H4N5? Anders sein ik dit gewoon bij de gemeente in.</text>
+      <html>&lt;p&gt;OK, nu is:
+&lt;br /&gt;- overal de living streets weggewerkt die niet met een borden aangeduid stonden
+&lt;br /&gt;- de zone maxweight helemaal ingevoerd
+&lt;br /&gt;- alle straten die geen living street zijn aangeduid als cyclestreet
+&lt;br /&gt;Momenteel zijn er enkele living_street wél en enkele niét als cyclestreet aangeduid. Ik begrijp dat dat eigenlijk niet mag gecombineerd worden, maar wat doen we als de bevoegde overheid dat toch doet? Voer voor het forum, niet voor hier.
+&lt;br /&gt;Wat wel nog gedubbelchecked zou kunnen worden, er zijn twee "lekken" in de zone maxweight:
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/22796367" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/22796367&lt;/a&gt; en &lt;a href="https://www.openstreetmap.org/way/32195364" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/32195364&lt;/a&gt;
+&lt;br /&gt;Ben je inmiddels al gaan kijken H4N5? Anders sein ik dit gewoon bij de gemeente in.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-10 12:56:50 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Waarde @Joost, 
+
+juist gedaan met doorzoeken prentjes laatste jaar ongeveer, kom op 't volgende : toegang tot Hanswijkstraat : 
+
+Vesten met klok mee : 
+van Zandportvest 
+https://www.mapillary.com/app/?pKey=7872263079529414&amp;focus=photo : bus taxi etc.
+https://www.mapillary.com/app/?pKey=780032910731272&amp;focus=photo : niet rechtsaf
+https://www.mapillary.com/app/?pKey=792425595543379&amp;focus=photo : bus taxi etc. 
+
+van Leuvensesteenweg : 
+https://www.mapillary.com/app/?pKey=6903765746309820&amp;focus=photo : 'centrum' zonder beperking 
+https://www.mapillary.com/app/?pKey=150290224814456&amp;focus=photo : einde stad Mechelen, einde voorrangsweg, voorsorteren twee stroken rechtdoor+ afslaan ; even later ook einde zone 30
+hier raakt de fietser het zicht op de onderdoorgang Tangent / spoor kwijt
+
+van Speecqvest : 
+https://www.mapillary.com/app/?pKey=1527161091406054&amp;focus=photo : geen beperking 
+https://www.mapillary.com/app/?pKey=763951018493843&amp;focus=photo : geen beperking 
+en hier, op Consciencestraat, wordt u voor Centrum naar rechts gestuurd : dat is richting Hanswijk : https://www.mapillary.com/app/?pKey=760460959049482&amp;focus=photo
+
+Lijkt er op, dat grotere / zwaardere camions -bijvoorbeeld bevoorrading grote magazijnen langs Bruul, maar ook theater producties en werfkranen- langs Hanswijkstraat centrum binnen mogen?  
+
+Lijkt zeker vraagje aan Stad@mechelen waardig? , daarbij ook vreemde oriëntatie bord einde bebouwde kom langs Leuvensesteenweg ?
+
+Prentjes zon 9 jun'24 aan 't voorbereiden, met overigens vriendelijke groet, Hans </text>
+      <html>&lt;p&gt;Waarde @Joost, &lt;/p&gt;
+
+&lt;p&gt;juist gedaan met doorzoeken prentjes laatste jaar ongeveer, kom op 't volgende : toegang tot Hanswijkstraat : &lt;/p&gt;
+
+&lt;p&gt;Vesten met klok mee : 
+&lt;br /&gt;van Zandportvest 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=7872263079529414&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=7872263079529414&amp;amp;focus=photo&lt;/a&gt; : bus taxi etc.
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=780032910731272&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=780032910731272&amp;amp;focus=photo&lt;/a&gt; : niet rechtsaf
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=792425595543379&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=792425595543379&amp;amp;focus=photo&lt;/a&gt; : bus taxi etc. &lt;/p&gt;
+
+&lt;p&gt;van Leuvensesteenweg : 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=6903765746309820&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=6903765746309820&amp;amp;focus=photo&lt;/a&gt; : 'centrum' zonder beperking 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=150290224814456&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=150290224814456&amp;amp;focus=photo&lt;/a&gt; : einde stad Mechelen, einde voorrangsweg, voorsorteren twee stroken rechtdoor+ afslaan ; even later ook einde zone 30
+&lt;br /&gt;hier raakt de fietser het zicht op de onderdoorgang Tangent / spoor kwijt&lt;/p&gt;
+
+&lt;p&gt;van Speecqvest : 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=1527161091406054&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1527161091406054&amp;amp;focus=photo&lt;/a&gt; : geen beperking 
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=763951018493843&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=763951018493843&amp;amp;focus=photo&lt;/a&gt; : geen beperking 
+&lt;br /&gt;en hier, op Consciencestraat, wordt u voor Centrum naar rechts gestuurd : dat is richting Hanswijk : &lt;a href="https://www.mapillary.com/app/?pKey=760460959049482&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=760460959049482&amp;amp;focus=photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lijkt er op, dat grotere / zwaardere camions -bijvoorbeeld bevoorrading grote magazijnen langs Bruul, maar ook theater producties en werfkranen- langs Hanswijkstraat centrum binnen mogen?  &lt;/p&gt;
+
+&lt;p&gt;Lijkt zeker vraagje aan Stad@mechelen waardig? , daarbij ook vreemde oriëntatie bord einde bebouwde kom langs Leuvensesteenweg ?&lt;/p&gt;
+
+&lt;p&gt;Prentjes zon 9 jun'24 aan 't voorbereiden, met overigens vriendelijke groet, Hans &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

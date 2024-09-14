@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0720224" lat="51.2417962">
+  <id>3685167</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3685167</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3685167/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3685167/close</close_url>
+  <date_created>2023-05-12 08:53:09 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-05-12 08:53:09 UTC</date>
+      <action>opened</action>
+      <text>Tijdens wandeling opgemerkt dat diverse paden nu verboden zijn voor fietsers, andere verboden voor honden; ook ontbreken vlonderpaden en stukken broekbos / zompig grasland. </text>
+      <html>&lt;p&gt;Tijdens wandeling opgemerkt dat diverse paden nu verboden zijn voor fietsers, andere verboden voor honden; ook ontbreken vlonderpaden en stukken broekbos / zompig grasland. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-12 11:11:43 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Graag voor elk pad de juiste info.
+Nu kunnen we niets aanpassen thx</text>
+      <html>&lt;p&gt;Graag voor elk pad de juiste info.
+&lt;br /&gt;Nu kunnen we niets aanpassen thx&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-12 15:07:57 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Onderdeel 'pijltjes wandeling' op don. 230511, mijn prentjes onderweg, reeds diverse paden aangepast, agree with OP that full area of Stropersbos needs to be re-surveyed for access, bicycle, dog and to indicate quite extensive wetland areas - from the corner of my eye would say 'tientallen hectare'. </text>
+      <html>&lt;p&gt;Onderdeel 'pijltjes wandeling' op don. 230511, mijn prentjes onderweg, reeds diverse paden aangepast, agree with OP that full area of Stropersbos needs to be re-surveyed for access, bicycle, dog and to indicate quite extensive wetland areas - from the corner of my eye would say 'tientallen hectare'. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

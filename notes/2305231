@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4219649" lat="51.1923689">
+  <id>2305231</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2305231</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2305231/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2305231/close</close_url>
+  <date_created>2020-08-12 18:19:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-08-12 18:19:57 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Om op te volgen , voorzien 'eind 2020' , opvolgend aan voltooien Plantin-Moretuslei : anleg voet- fietspaden langs Grote Steenweg × Binnensingel en Elizabethlaan , opvolgend aan voltooiing Plantin-Moretuslei  https://wegenenverkeer.be/werken/herinrichting-grotesteenweg-ter-hoogte-van-kruispunten-met-binnensingel-en-elisabethlaan</text>
+      <html>&lt;p&gt;Om op te volgen , voorzien 'eind 2020' , opvolgend aan voltooien Plantin-Moretuslei : anleg voet- fietspaden langs Grote Steenweg × Binnensingel en Elizabethlaan , opvolgend aan voltooiing Plantin-Moretuslei  &lt;a href="https://wegenenverkeer.be/werken/herinrichting-grotesteenweg-ter-hoogte-van-kruispunten-met-binnensingel-en-elisabethlaan" rel="nofollow noopener noreferrer"&gt;https://wegenenverkeer.be/werken/herinrichting-grotesteenweg-ter-hoogte-van-kruispunten-met-binnensingel-en-elisabethlaan&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-14 22:27:02 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Werken aangevangen mid-april'23, eerste fase verleggen tramrails, daardoor 'enige tijd' doorsteken op- afritten R1 onderbroken tussen tramrails ; daarnaast FKP en fietsroute bordjes verhangen, kennelijk voor geruime tijd : vijf barriers toegevoegd : zien of dat voldoende is</text>
+      <html>&lt;p&gt;Werken aangevangen mid-april'23, eerste fase verleggen tramrails, daardoor 'enige tijd' doorsteken op- afritten R1 onderbroken tussen tramrails ; daarnaast FKP en fietsroute bordjes verhangen, kennelijk voor geruime tijd : vijf barriers toegevoegd : zien of dat voldoende is&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-02 20:53:44 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Werken zijn van start, gedurende juli en augustus op- en afrit Berchem gesloten, ook geen wagens naar stad over N1 Mechelsebrug : barrier=block met access=no op de betreffende wegen geplaatst, gezien merendeel na werken (zij het aangepast) 'weer zoals was'. </text>
+      <html>&lt;p&gt;Werken zijn van start, gedurende juli en augustus op- en afrit Berchem gesloten, ook geen wagens naar stad over N1 Mechelsebrug : barrier=block met access=no op de betreffende wegen geplaatst, gezien merendeel na werken (zij het aangepast) 'weer zoals was'. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-09-05 13:41:42 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Sep'23 : werken richting Stad gedaan, nu fietsoversteken thv Koninklijkelaan; prentjes van deze morgen opgeladen.</text>
+      <html>&lt;p&gt;Sep'23 : werken richting Stad gedaan, nu fietsoversteken thv Koninklijkelaan; prentjes van deze morgen opgeladen.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

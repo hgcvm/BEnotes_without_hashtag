@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.5834243" lat="51.0900399">
+  <id>2631608</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2631608</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2631608/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2631608/close</close_url>
+  <date_created>2021-04-20 19:22:21 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-04-20 19:22:21 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>It looks like there is a bridleway running parallel to the path:
+https://www.mapillary.com/map/im/Neyzl5UpzmV4uiwJ8HzWgw
+
+Is it possible to map it based on the "Digitaal Hoogtemodel Vlaanderen"?</text>
+      <html>&lt;p&gt;It looks like there is a bridleway running parallel to the path:
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/map/im/Neyzl5UpzmV4uiwJ8HzWgw" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/Neyzl5UpzmV4uiwJ8HzWgw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Is it possible to map it based on the "Digitaal Hoogtemodel Vlaanderen"?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 22:38:28 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dat lijkt deze te zijn &gt; https://www.openstreetmap.org/way/681358181</text>
+      <html>&lt;p&gt;dat lijkt deze te zijn &amp;gt; &lt;a href="https://www.openstreetmap.org/way/681358181" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/681358181&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

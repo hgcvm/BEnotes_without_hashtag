@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.1133391" lat="51.0684031">
+  <id>4306012</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4306012</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4306012/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4306012/close</close_url>
+  <date_created>2024-06-24 12:49:32 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-24 12:49:32 UTC</date>
+      <uid>4198737</uid>
+      <user>dentonny</user>
+      <user_url>https://api.openstreetmap.org/user/dentonny</user_url>
+      <action>opened</action>
+      <text>Nieuwe rotonde in aanleg
+
+https://www.mapillary.com/app/?lat=51.0686541&amp;lng=5.1141359&amp;z=17.133853992220775&amp;focus=photo&amp;panos=true&amp;pKey=1490658108241563&amp;x=0.5103617756165499&amp;y=0.4898363096993481&amp;zoom=1.4059206722491815</text>
+      <html>&lt;p&gt;Nieuwe rotonde in aanleg&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?lat=51.0686541&amp;amp;lng=5.1141359&amp;amp;z=17.133853992220775&amp;amp;focus=photo&amp;amp;panos=true&amp;amp;pKey=1490658108241563&amp;amp;x=0.5103617756165499&amp;amp;y=0.4898363096993481&amp;amp;zoom=1.4059206722491815" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=51.0686541&amp;amp;lng=5.1141359&amp;amp;z=17.133853992220775&amp;amp;focus=photo&amp;amp;panos=true&amp;amp;pKey=1490658108241563&amp;amp;x=0.5103617756165499&amp;amp;y=0.4898363096993481&amp;amp;zoom=1.4059206722491815&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-24 22:36:01 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>ter info: toekomstige fietssnelweg F77
+https://www.openstreetmap.org/relation/11180895#map=17/51.06819/5.11278&amp;layers=C</text>
+      <html>&lt;p&gt;ter info: toekomstige fietssnelweg F77
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/relation/11180895#map=17/51.06819/5.11278&amp;amp;layers=C" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/11180895#map=17/51.06819/5.11278&amp;amp;layers=C&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

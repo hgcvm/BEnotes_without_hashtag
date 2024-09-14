@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4959540" lat="50.8410843">
+  <id>4366054</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4366054</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4366054/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4366054/close</close_url>
+  <date_created>2024-08-04 07:17:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-04 07:17:54 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>opened</action>
+      <text>EV chargers not yet active
+
+ #MapComplete #notes</text>
+      <html>&lt;p&gt;EV chargers not yet active&lt;/p&gt;
+
+&lt;p&gt; #MapComplete #notes&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-04 07:18:27 UTC</date>
+      <uid>2916921</uid>
+      <user>Thibaultmol</user>
+      <user_url>https://api.openstreetmap.org/user/Thibaultmol</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/SgOQwwb.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/SgOQwwb.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/SgOQwwb.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

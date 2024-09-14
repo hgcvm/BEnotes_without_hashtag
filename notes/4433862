@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.0087250" lat="50.5119940">
+  <id>4433862</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4433862</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4433862/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4433862/close</close_url>
+  <date_created>2024-09-14 06:27:38 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-14 06:27:38 UTC</date>
+      <uid>21952175</uid>
+      <user>RadioCamino</user>
+      <user_url>https://api.openstreetmap.org/user/RadioCamino</user_url>
+      <action>opened</action>
+      <text>Certains itinéraires pédestres mentionnent un passage par ici mais c'est un champ. Il n'y a pas ou plus de sentier ! </text>
+      <html>&lt;p&gt;Certains itinéraires pédestres mentionnent un passage par ici mais c'est un champ. Il n'y a pas ou plus de sentier ! &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 09:40:23 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>This path is referenced as "sentier 26". It is visible only a few months a year due to the cultures. Please do not remove, see discussion on Belgian mailing list for such cases. (Search fgerin in mailing's archive.)
+https://www.openstreetmap.org/way/764616226</text>
+      <html>&lt;p&gt;This path is referenced as "sentier 26". It is visible only a few months a year due to the cultures. Please do not remove, see discussion on Belgian mailing list for such cases. (Search fgerin in mailing's archive.)
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/764616226" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/764616226&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

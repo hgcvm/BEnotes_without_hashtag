@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7228200" lat="51.0510600">
+  <id>3867703</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3867703</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3867703/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3867703/close</close_url>
+  <date_created>2023-09-02 18:23:00 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-02 18:23:00 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>opened</action>
+      <text>Woongebied markering, maar geen gebouwen ingetekend hier</text>
+      <html>&lt;p&gt;Woongebied markering, maar geen gebouwen ingetekend hier&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-11 19:30:47 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>commented</action>
+      <text>Meeste gebouwen intussen ingetekend, maar de hoek is nog niet volledig volgens GRB.</text>
+      <html>&lt;p&gt;Meeste gebouwen intussen ingetekend, maar de hoek is nog niet volledig volgens GRB.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-20 17:20:32 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>closed</action>
+      <text>Gebouw op de hoek ondertussen toegevoegd: https://www.openstreetmap.org/way/1207384585.</text>
+      <html>&lt;p&gt;Gebouw op de hoek ondertussen toegevoegd: &lt;a href="https://www.openstreetmap.org/way/1207384585" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1207384585&lt;/a&gt;.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-20 22:06:17 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-20 22:07:03 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>commented</action>
+      <text>Ik had deze nog open gelaten omdat de hoek om in de Universiteitsstraat de gebouwen nog niet 100% zijn (stuk ontbreekt). Ook de woongebied markering is nogal vreemd, over stukken van de huizen heen.</text>
+      <html>&lt;p&gt;Ik had deze nog open gelaten omdat de hoek om in de Universiteitsstraat de gebouwen nog niet 100% zijn (stuk ontbreekt). Ook de woongebied markering is nogal vreemd, over stukken van de huizen heen.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7863698" lat="51.0196395">
+  <id>4034439</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4034439</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4034439/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4034439/close</close_url>
+  <date_created>2023-12-19 22:19:19 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-19 22:19:19 UTC</date>
+      <action>opened</action>
+      <text>komend jaar : https://www.vrt.be/vrtnws/nl/2023/12/19/begijnendijk-schaft-voorrang-van-rechts-af-verwarrend-en-gevaar/ - dan ook in Betekom ?
+
+https://www.vrt.be/vrtnws/nl/2023/12/19/veiliger-fietspaden-op-baalsesteenweg-in-begijnendijk/ 
+
+https://www.begijnendijk.be/publiekelaadpalen2023</text>
+      <html>&lt;p&gt;komend jaar : &lt;a href="https://www.vrt.be/vrtnws/nl/2023/12/19/begijnendijk-schaft-voorrang-van-rechts-af-verwarrend-en-gevaar/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/2023/12/19/begijnendijk-schaft-voorrang-van-rechts-af-verwarrend-en-gevaar/&lt;/a&gt; - dan ook in Betekom ?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.vrt.be/vrtnws/nl/2023/12/19/veiliger-fietspaden-op-baalsesteenweg-in-begijnendijk/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/2023/12/19/veiliger-fietspaden-op-baalsesteenweg-in-begijnendijk/&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.begijnendijk.be/publiekelaadpalen2023" rel="nofollow noopener noreferrer"&gt;https://www.begijnendijk.be/publiekelaadpalen2023&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

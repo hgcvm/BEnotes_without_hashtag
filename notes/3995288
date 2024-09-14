@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.9266763" lat="51.2276556">
+  <id>3995288</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3995288</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3995288/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3995288/close</close_url>
+  <date_created>2023-11-20 13:02:48 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-20 13:02:48 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>Blind  Ik heb het station van Oostende en omgeving gefotografeerd met aandacht voor de relieftegels.  Er moet toch iets beter bestaan dan tactile=yes
+https://www.mapillary.com/app/user/filipc?lat=51.2274764&amp;lng=2.9270208&amp;z=17&amp;mapStyle=OpenStreetMap&amp;focus=photo&amp;fbclid=IwAR0-wNahXWKr2jnTG7uUHcnQyTIIr6uE4ARPY4U4ym8yJd5e0NpQtv3O8Qc&amp;pKey=1052318405906495&amp;x=0.5085908526662357&amp;y=0.5256352743391104&amp;zoom=0&amp;dateFrom=2023-11-19</text>
+      <html>&lt;p&gt;Blind  Ik heb het station van Oostende en omgeving gefotografeerd met aandacht voor de relieftegels.  Er moet toch iets beter bestaan dan tactile=yes
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/user/filipc?lat=51.2274764&amp;amp;lng=2.9270208&amp;amp;z=17&amp;amp;mapStyle=OpenStreetMap&amp;amp;focus=photo&amp;amp;fbclid=IwAR0-wNahXWKr2jnTG7uUHcnQyTIIr6uE4ARPY4U4ym8yJd5e0NpQtv3O8Qc&amp;amp;pKey=1052318405906495&amp;amp;x=0.5085908526662357&amp;amp;y=0.5256352743391104&amp;amp;zoom=0&amp;amp;dateFrom=2023-11-19" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/user/filipc?lat=51.2274764&amp;amp;lng=2.9270208&amp;amp;z=17&amp;amp;mapStyle=OpenStreetMap&amp;amp;focus=photo&amp;amp;fbclid=IwAR0-wNahXWKr2jnTG7uUHcnQyTIIr6uE4ARPY4U4ym8yJd5e0NpQtv3O8Qc&amp;amp;pKey=1052318405906495&amp;amp;x=0.5085908526662357&amp;amp;y=0.5256352743391104&amp;amp;zoom=0&amp;amp;dateFrom=2023-11-19&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-12-13 17:04:50 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>https://www.vrt.be/vrtnws/nl/kijk/2023/12/12/laat-repo-saskia-de-schutter-blinden-slechtzienden-stroken-arvat/</text>
+      <html>&lt;p&gt;&lt;a href="https://www.vrt.be/vrtnws/nl/kijk/2023/12/12/laat-repo-saskia-de-schutter-blinden-slechtzienden-stroken-arvat/" rel="nofollow noopener noreferrer"&gt;https://www.vrt.be/vrtnws/nl/kijk/2023/12/12/laat-repo-saskia-de-schutter-blinden-slechtzienden-stroken-arvat/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

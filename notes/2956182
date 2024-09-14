@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.1727924" lat="51.2085460">
+  <id>2956182</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2956182</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2956182/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2956182/close</close_url>
+  <date_created>2021-12-01 17:59:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-12-01 17:59:56 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>https://www.brugge.be/infrabel-en-stad-brugge-bouwen-tunnel-ter-vervanging-van-twee-overwegen-in-sint-andries
+
+overweg zal op termijn afgesloten worden, ten vroegste half 2022</text>
+      <html>&lt;p&gt;&lt;a href="https://www.brugge.be/infrabel-en-stad-brugge-bouwen-tunnel-ter-vervanging-van-twee-overwegen-in-sint-andries" rel="nofollow noopener noreferrer"&gt;https://www.brugge.be/infrabel-en-stad-brugge-bouwen-tunnel-ter-vervanging-van-twee-overwegen-in-sint-andries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;overweg zal op termijn afgesloten worden, ten vroegste half 2022&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 19:40:40 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Enig idee of deze overweg ondertussen afgesloten is?</text>
+      <html>&lt;p&gt;Enig idee of deze overweg ondertussen afgesloten is?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

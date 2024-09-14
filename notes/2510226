@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4256556" lat="51.1732524">
+  <id>2510226</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2510226</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2510226/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2510226/close</close_url>
+  <date_created>2021-01-24 11:58:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-01-24 11:58:54 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Vóóraankondiging : hier gaat men 't een en ander veranderen, zo in 2022 : https://wegenenverkeer.be/studies/herinrichting-kruispunt-frans-van-dunlaan-prins-boudewijnlaan-wilrijk</text>
+      <html>&lt;p&gt;Vóóraankondiging : hier gaat men 't een en ander veranderen, zo in 2022 : &lt;a href="https://wegenenverkeer.be/studies/herinrichting-kruispunt-frans-van-dunlaan-prins-boudewijnlaan-wilrijk" rel="nofollow noopener noreferrer"&gt;https://wegenenverkeer.be/studies/herinrichting-kruispunt-frans-van-dunlaan-prins-boudewijnlaan-wilrijk&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-20 10:55:19 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Zijn daar ondertussen werken uitgevoerd?</text>
+      <html>&lt;p&gt;Zijn daar ondertussen werken uitgevoerd?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-20 12:09:52 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Nog altijd in voorbereiding, af en toe bericht op lokale TV dat wéér een hindernis opdook.</text>
+      <html>&lt;p&gt;Nog altijd in voorbereiding, af en toe bericht op lokale TV dat wéér een hindernis opdook.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

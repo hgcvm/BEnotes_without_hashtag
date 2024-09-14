@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7355822" lat="51.0630700">
+  <id>2832602</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2832602</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2832602/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2832602/close</close_url>
+  <date_created>2021-09-02 13:28:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-09-02 13:28:26 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Handelsdokkaai inmiddels heraangelegd in beton?</text>
+      <html>&lt;p&gt;Handelsdokkaai inmiddels heraangelegd in beton?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-16 10:01:26 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>commented</action>
+      <text>Ja, je kan daar nu mooi fietsen, ik heb het opengesteld.
+
+Ik ben er wel nog maar één keer gewoon gepasseerd sindsdien en kan het nog niet in detail mappen. Als ik het me goed herinner, is er een middenstrook Als iemand plaatsbezoek doet, gaarne de kaart aanvullen. :)</text>
+      <html>&lt;p&gt;Ja, je kan daar nu mooi fietsen, ik heb het opengesteld.&lt;/p&gt;
+
+&lt;p&gt;Ik ben er wel nog maar één keer gewoon gepasseerd sindsdien en kan het nog niet in detail mappen. Als ik het me goed herinner, is er een middenstrook Als iemand plaatsbezoek doet, gaarne de kaart aanvullen. :)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-16 10:02:10 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>commented</action>
+      <text>*een middenstrook in kasseien uitgevoerd. (surface:middle=sett)</text>
+      <html>&lt;p&gt;*een middenstrook in kasseien uitgevoerd. (surface:middle=sett)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-10-16 10:16:31 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>commented</action>
+      <text>Vooral de aansluiting Handelsdokkaai×Dok-Zuid is waarschijnlijk te herzien, en controleer ook of de parkings nog kloppen.</text>
+      <html>&lt;p&gt;Vooral de aansluiting Handelsdokkaai×Dok-Zuid is waarschijnlijk te herzien, en controleer ook of de parkings nog kloppen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-11-17 04:30:13 UTC</date>
+      <uid>12320205</uid>
+      <user>kurt d</user>
+      <user_url>https://api.openstreetmap.org/user/kurt%20d</user_url>
+      <action>commented</action>
+      <text>Parkeren op de Handelsdokkaai kan niet meer. Betonnen fietspad loopt verder zuidwaarts tot aan pompgebouw.</text>
+      <html>&lt;p&gt;Parkeren op de Handelsdokkaai kan niet meer. Betonnen fietspad loopt verder zuidwaarts tot aan pompgebouw.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:47:28 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/way/876885795
+dient er hier nog iets gemapt te worden?</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/876885795" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/876885795&lt;/a&gt;
+&lt;br /&gt;dient er hier nog iets gemapt te worden?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

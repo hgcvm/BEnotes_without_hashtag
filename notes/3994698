@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7384619" lat="50.6564505">
+  <id>3994698</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3994698</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3994698/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3994698/close</close_url>
+  <date_created>2023-11-19 22:35:36 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-19 22:35:36 UTC</date>
+      <uid>98569</uid>
+      <user>vbombaerts</user>
+      <user_url>https://api.openstreetmap.org/user/vbombaerts</user_url>
+      <action>opened</action>
+      <text>Bientôt un rond-point ici. Voir https://www.walhain.be/ma-commune/administration-communale/travaux/routes-fermees-a-la-circulation/creation-d2019un-giratoire-n243a</text>
+      <html>&lt;p&gt;Bientôt un rond-point ici. Voir &lt;a href="https://www.walhain.be/ma-commune/administration-communale/travaux/routes-fermees-a-la-circulation/creation-d2019un-giratoire-n243a" rel="nofollow noopener noreferrer"&gt;https://www.walhain.be/ma-commune/administration-communale/travaux/routes-fermees-a-la-circulation/creation-d2019un-giratoire-n243a&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-05 22:09:10 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Selon cette page web, la construction du giratoire sera achevée vers la fin du mois de juin.
+
+#OSMBE #FollowUp</text>
+      <html>&lt;p&gt;Selon cette page web, la construction du giratoire sera achevée vers la fin du mois de juin.&lt;/p&gt;
+
+&lt;p&gt;#OSMBE #FollowUp&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-25 19:08:18 UTC</date>
+      <uid>812669</uid>
+      <user>juminet</user>
+      <user_url>https://api.openstreetmap.org/user/juminet</user_url>
+      <action>commented</action>
+      <text>La construction est bien terminée (passage fin aout 24). Mais sans imagerie, difficile de l'ajouter.</text>
+      <html>&lt;p&gt;La construction est bien terminée (passage fin aout 24). Mais sans imagerie, difficile de l'ajouter.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-04 19:30:28 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Attendons la mise à jour de l'imagerie aérienne alors.</text>
+      <html>&lt;p&gt;Attendons la mise à jour de l'imagerie aérienne alors.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

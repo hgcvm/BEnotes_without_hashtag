@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3989521" lat="51.1717720">
+  <id>3367110</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3367110</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3367110/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3367110/close</close_url>
+  <date_created>2022-09-20 19:16:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-20 19:16:49 UTC</date>
+      <uid>803526</uid>
+      <user>dejakke</user>
+      <user_url>https://api.openstreetmap.org/user/dejakke</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What kind of building is this?" for https://osm.org/way/531699775 via StreetComplete 46.1:
+
+Gebouw met vergaderzalen voor verenigingen</text>
+      <html>&lt;p&gt;Unable to answer "What kind of building is this?" for &lt;a href="https://osm.org/way/531699775" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/531699775&lt;/a&gt; via StreetComplete 46.1:&lt;/p&gt;
+
+&lt;p&gt;Gebouw met vergaderzalen voor verenigingen&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-21 15:50:38 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Blijkens gevelsteen ooit gebouwd als Parochiecentrum; nu Huis van het Kind, met mogelijkheid ongebruikte ruimtes te gebruiken voor andere activiteiten - bijvoorbeeld vergadering van wandelvereniging. 
+
+Rondkijkend als bezoeker is Huis v/h Kind echter hoofdzaak. </text>
+      <html>&lt;p&gt;Blijkens gevelsteen ooit gebouwd als Parochiecentrum; nu Huis van het Kind, met mogelijkheid ongebruikte ruimtes te gebruiken voor andere activiteiten - bijvoorbeeld vergadering van wandelvereniging. &lt;/p&gt;
+
+&lt;p&gt;Rondkijkend als bezoeker is Huis v/h Kind echter hoofdzaak. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-01 21:20:46 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Parish Hall lijkt dan lading het best te dekken? </text>
+      <html>&lt;p&gt;Parish Hall lijkt dan lading het best te dekken? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-20 12:49:45 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Op de wiki wordt geen tag zoals `building=parish_hall` beschreven. Het beste dat ik kan bedenken is `building=civic` of `building=public`. Andere ideeën?</text>
+      <html>&lt;p&gt;Op de wiki wordt geen tag zoals `building=parish_hall` beschreven. Het beste dat ik kan bedenken is `building=civic` of `building=public`. Andere ideeën?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-21 19:50:42 UTC</date>
+      <uid>803526</uid>
+      <user>dejakke</user>
+      <user_url>https://api.openstreetmap.org/user/dejakke</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-21 19:51:00 UTC</date>
+      <uid>803526</uid>
+      <user>dejakke</user>
+      <user_url>https://api.openstreetmap.org/user/dejakke</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

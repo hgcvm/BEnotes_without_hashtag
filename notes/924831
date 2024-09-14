@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5765379" lat="51.0817873">
+  <id>924831</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/924831</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/924831/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/924831/close</close_url>
+  <date_created>2017-03-12 23:34:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2017-03-12 23:34:53 UTC</date>
+      <uid>2029979</uid>
+      <user>koninklijke</user>
+      <user_url>https://api.openstreetmap.org/user/koninklijke</user_url>
+      <action>opened</action>
+      <text>Tijdens wandeling mid-maart zonder blad aan de bomen grote verschillen (afwijking op plaatsen 50 of 70 meter) opgemerkt tussen Garmin Oregon 600 op GPS+EGNOS en aangegeven paden in dit bosgebied ; op de plek van deze note geplaatst een bruggetje over stroompje, en naar schatting 25m van hoek bouwland : op kaart ook ; op zo'n 100m ten zuid-oosten van deze note liggen twee stukken track in elkaars verlengde, en 't echte pad liep daar door ; aan zuidkant bosgebied geringe afwijking tussen getekend en gemeten pad ; lopend langs Donderheide (soortgelijke ombossing) en rond fort (beneden rand van talud en soortgelijke iets dunnere bomen) ziet men een afwijking in de orde van zes meter : de precieze ligging van de paden is mogelijk van weinig belang, doch zo iemand met nauwkeurige 'bos GPS' neigt tot een laat-winter wandeling ... dan zou dit een interessant gebied kunnen blijken. Merk ook op dat andere track fragmenten dichter bij 't mijne liggen, of in 't verlengde. </text>
+      <html>&lt;p&gt;Tijdens wandeling mid-maart zonder blad aan de bomen grote verschillen (afwijking op plaatsen 50 of 70 meter) opgemerkt tussen Garmin Oregon 600 op GPS+EGNOS en aangegeven paden in dit bosgebied ; op de plek van deze note geplaatst een bruggetje over stroompje, en naar schatting 25m van hoek bouwland : op kaart ook ; op zo'n 100m ten zuid-oosten van deze note liggen twee stukken track in elkaars verlengde, en 't echte pad liep daar door ; aan zuidkant bosgebied geringe afwijking tussen getekend en gemeten pad ; lopend langs Donderheide (soortgelijke ombossing) en rond fort (beneden rand van talud en soortgelijke iets dunnere bomen) ziet men een afwijking in de orde van zes meter : de precieze ligging van de paden is mogelijk van weinig belang, doch zo iemand met nauwkeurige 'bos GPS' neigt tot een laat-winter wandeling ... dan zou dit een interessant gebied kunnen blijken. Merk ook op dat andere track fragmenten dichter bij 't mijne liggen, of in 't verlengde. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2017-08-16 23:28:21 UTC</date>
+      <uid>2029979</uid>
+      <user>koninklijke</user>
+      <user_url>https://api.openstreetmap.org/user/koninklijke</user_url>
+      <action>commented</action>
+      <text>1/ Aantal paden ook bij herhaalde bezoeken niet aangetroffen, een gebiedje waar paden anders lopen. 
+2/ Nieuwe bareels lijken bedoeld betreden met paard of fiets op z'n minst te ontmoedigen - toch staan vele paden als fiets en paard = yes. . </text>
+      <html>&lt;p&gt;1/ Aantal paden ook bij herhaalde bezoeken niet aangetroffen, een gebiedje waar paden anders lopen. 
+&lt;br /&gt;2/ Nieuwe bareels lijken bedoeld betreden met paard of fiets op z'n minst te ontmoedigen - toch staan vele paden als fiets en paard = yes. . &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-05-14 08:12:52 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>Het is wel handig als een pad een mapillary heeft.</text>
+      <html>&lt;p&gt;Het is wel handig als een pad een mapillary heeft.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-26 08:57:40 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-26 19:28:11 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-26 19:31:34 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Hoe hebt u de toegang van wegen en paden aangepast voor fietsers en ruiters? Hebt u acht geslagen op paden welke niet in het toegankelijkheidsreglement zijn opgenomen? 
+Vriend Google weet ongetwijfeld een toepasselijk artikeltje op te vissen ... </text>
+      <html>&lt;p&gt;Hoe hebt u de toegang van wegen en paden aangepast voor fietsers en ruiters? Hebt u acht geslagen op paden welke niet in het toegankelijkheidsreglement zijn opgenomen? 
+&lt;br /&gt;Vriend Google weet ongetwijfeld een toepasselijk artikeltje op te vissen ... &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:43:09 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dient er hier nog iets gemapt te worden?</text>
+      <html>&lt;p&gt;dient er hier nog iets gemapt te worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-13 06:55:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Goede suggestie, daar weer eens te wandelen. </text>
+      <html>&lt;p&gt;Goede suggestie, daar weer eens te wandelen. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5687997" lat="50.6515426">
+  <id>4415100</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4415100</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4415100/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4415100/close</close_url>
+  <date_created>2024-09-02 07:11:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-02 07:11:51 UTC</date>
+      <uid>11096472</uid>
+      <user>Geovelo_Notes</user>
+      <user_url>https://api.openstreetmap.org/user/Geovelo_Notes</user_url>
+      <action>opened</action>
+      <text>La rampe vélo qui enjambe la voie ferrée est trop étroite pour les vélos cargo. Impossible de passer sans soulever le vélo cargo. Pas évident en montée avec 2 enfants. (This note has been created from Geovelo: https://amenagements-cyclables.fr/fr/contributions/77766)</text>
+      <html>&lt;p&gt;La rampe vélo qui enjambe la voie ferrée est trop étroite pour les vélos cargo. Impossible de passer sans soulever le vélo cargo. Pas évident en montée avec 2 enfants. (This note has been created from Geovelo: &lt;a href="https://amenagements-cyclables.fr/fr/contributions/77766" rel="nofollow noopener noreferrer"&gt;https://amenagements-cyclables.fr/fr/contributions/77766&lt;/a&gt;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-03 09:36:53 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>Si possible, veuillez "mesurer" la largeur de la rampe. Comme ça on peut enregistrer les largeurs sur les rampes avec l'attribut -&gt; width=*</text>
+      <html>&lt;p&gt;Si possible, veuillez "mesurer" la largeur de la rampe. Comme ça on peut enregistrer les largeurs sur les rampes avec l'attribut -&amp;gt; width=*&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.9680200" lat="51.2411000">
+  <id>3254097</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3254097</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3254097/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3254097/close</close_url>
+  <date_created>2022-07-06 06:34:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-06 06:34:26 UTC</date>
+      <action>opened</action>
+      <text>Openbaar toilet</text>
+      <html>&lt;p&gt;Openbaar toilet&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-06 09:52:44 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>graag meer detail zoals locatie toegang via binnen/buiten, toegangsuren, andersvaliden enz 
+https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtoilets</text>
+      <html>&lt;p&gt;graag meer detail zoals locatie toegang via binnen/buiten, toegangsuren, andersvaliden enz 
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtoilets" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtoilets&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-08-08 22:41:07 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>befietst 2022.08.07, geen gratis plaspunt sticker, noch op toerisme noch op gemeentehuis. </text>
+      <html>&lt;p&gt;befietst 2022.08.07, geen gratis plaspunt sticker, noch op toerisme noch op gemeentehuis. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-14 06:05:06 UTC</date>
+      <uid>4198737</uid>
+      <user>dentonny</user>
+      <user_url>https://api.openstreetmap.org/user/dentonny</user_url>
+      <action>commented</action>
+      <text>Bij veel gemeenten zijn de toiletten in de gemeentehuizen getagged of als note toegevoegd als openbare toiletten. Dus waarschijnlijk wordt hier ook het gemeentehuis bedoelt? Ook al is er geen sticker aanwezig</text>
+      <html>&lt;p&gt;Bij veel gemeenten zijn de toiletten in de gemeentehuizen getagged of als note toegevoegd als openbare toiletten. Dus waarschijnlijk wordt hier ook het gemeentehuis bedoelt? Ook al is er geen sticker aanwezig&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

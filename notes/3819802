@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.0707103" lat="50.0680708">
+  <id>3819802</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3819802</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3819802/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3819802/close</close_url>
+  <date_created>2023-08-06 16:08:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-06 16:08:56 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>opened</action>
+      <text>should have a charging station for bicycle https://www.ardennebelge.be/fr/outils/bornes-velos-electriques.php</text>
+      <html>&lt;p&gt;should have a charging station for bicycle &lt;a href="https://www.ardennebelge.be/fr/outils/bornes-velos-electriques.php" rel="nofollow noopener noreferrer"&gt;https://www.ardennebelge.be/fr/outils/bornes-velos-electriques.php&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-01 08:44:19 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded
+(see https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Resolving_notes#Methodology for explanation of the hashtags)</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded
+&lt;br /&gt;(see &lt;a href="https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Resolving_notes#Methodology" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Resolving_notes#Methodology&lt;/a&gt; for explanation of the hashtags)&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

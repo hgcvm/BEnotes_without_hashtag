@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7426605" lat="51.2850847">
+  <id>2639981</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2639981</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2639981/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2639981/close</close_url>
+  <date_created>2021-04-27 07:59:01 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-04-27 07:59:01 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Befietst 2021-04-26 , prentjes : de drie track delen Salphensebaan verschillen niet duidelijk van elkaar, toch verschillend weergegeven op kaart ; daarnaast een fiets/wandelpad ; track en pad compacted : heeft het zin, twee lijnen naast elkaar te tekenen - bij 'Het Blak' ten noorden Rijkevorsel wél wegens verschillende surface, maar hier? blijft vraag waarom verschil in track. </text>
+      <html>&lt;p&gt;Befietst 2021-04-26 , prentjes : de drie track delen Salphensebaan verschillen niet duidelijk van elkaar, toch verschillend weergegeven op kaart ; daarnaast een fiets/wandelpad ; track en pad compacted : heeft het zin, twee lijnen naast elkaar te tekenen - bij 'Het Blak' ten noorden Rijkevorsel wél wegens verschillende surface, maar hier? blijft vraag waarom verschil in track. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-27 09:39:52 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>volgens ik waarneem in tagging is dat midden stuk geen tag tracktype meekreeg. Waar staan twee lijnen naast elkaar ?</text>
+      <html>&lt;p&gt;volgens ik waarneem in tagging is dat midden stuk geen tag tracktype meekreeg. Waar staan twee lijnen naast elkaar ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-04-27 10:28:45 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Bij notes #2312460 en #2348164 staan m.i. terecht twee lijnen wegens de ene compacted + pad, de andere los zand + aardeweg ; hier beiden compacted maar wel pad en aardeweg naast elkaar. </text>
+      <html>&lt;p&gt;Bij notes #2312460 en #2348164 staan m.i. terecht twee lijnen wegens de ene compacted + pad, de andere los zand + aardeweg ; hier beiden compacted maar wel pad en aardeweg naast elkaar. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 17:03:51 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>dient hier nog iets gemapt te worden?</text>
+      <html>&lt;p&gt;dient hier nog iets gemapt te worden?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4073200" lat="51.2239131">
+  <id>4407898</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4407898</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4407898/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4407898/close</close_url>
+  <date_created>2024-08-28 20:31:41 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-28 20:31:41 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Werken Lange Bril en Hoornstraat gedaan doch nu 'Stadswaag' onderhanden zodat geen doorgaand verkeer - afgezien van voetgangers en afgestapte fietsers - dat 'access=no' mag weg - gedaan, zit dan met tijdelijke tweerichting op de tijdelijk doodlopende stukken en stadswaag tijdelijk (= werken) C3 ; staan veel meer rijen bomen dan op OSM - zie evt. prentjes 28 aug'24 avond</text>
+      <html>&lt;p&gt;Werken Lange Bril en Hoornstraat gedaan doch nu 'Stadswaag' onderhanden zodat geen doorgaand verkeer - afgezien van voetgangers en afgestapte fietsers - dat 'access=no' mag weg - gedaan, zit dan met tijdelijke tweerichting op de tijdelijk doodlopende stukken en stadswaag tijdelijk (= werken) C3 ; staan veel meer rijen bomen dan op OSM - zie evt. prentjes 28 aug'24 avond&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 06:38:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Uitendelijk wegen op construction gezet met foot=yes en fiets=afstappen.</text>
+      <html>&lt;p&gt;Uitendelijk wegen op construction gezet met foot=yes en fiets=afstappen.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

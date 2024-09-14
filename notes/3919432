@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.6199800" lat="50.9839500">
+  <id>3919432</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3919432</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3919432/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3919432/close</close_url>
+  <date_created>2023-10-02 10:29:21 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-02 10:29:21 UTC</date>
+      <action>opened</action>
+      <text>volgens Geopunt is ook dit segment Leiseledorp</text>
+      <html>&lt;p&gt;volgens Geopunt is ook dit segment Leiseledorp&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-02 11:46:02 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Navraag ingediend bij gis Alveringem</text>
+      <html>&lt;p&gt;Navraag ingediend bij gis Alveringem&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 17:21:51 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>is hier nog een antwoorp op gekomen?</text>
+      <html>&lt;p&gt;is hier nog een antwoorp op gekomen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 17:45:16 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Is nog steeds in onderzoek....</text>
+      <html>&lt;p&gt;Is nog steeds in onderzoek....&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-14 21:18:18 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Nog steeds in onderzoek?</text>
+      <html>&lt;p&gt;Nog steeds in onderzoek?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

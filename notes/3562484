@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4480065" lat="51.1822097">
+  <id>3562484</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3562484</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3562484/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3562484/close</close_url>
+  <date_created>2023-02-17 04:07:04 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-02-17 04:07:04 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Hier (naast de gewone fietsen stalling ook een 'kudde' Donkey Republic deelfietsen aangetroffen ; kom die regelmatig tegen ; Velo werd in stad Antwerpen gemapt, Blue-bike bij NMBS-stations ; 
+
+wat Donkey (https://www.donkey.bike/nl/) betreft de volgende info van https://www.brasschaat.be/mobiliteit/deelfietsen geplukt : 
+
+Lantis, initiatiefnemer en bouwheer van de Oosterweelverbinding, plaatst vanaf augustus (2022?) in totaal 1.650 elektrische fietsen van Donkey Republic in 32 gemeenten in de regios Antwerpen en Waasland. Zo wil de beheersmaatschappij zoveel mogelijk mensen instant motiveren om de fiets te nemen voor, tijdens en na de Oosterweelwerken. 
+
+Daarnaast vult het gemeente bestuur in Brasschaat de 37 e-bikes aan met 20 e-bikes en 50 gewone deelfietsen.  
+
+In Mortsel staan 10 Donkey locaties op https://stratenplan.mortsel.be/?laagid=4132 (en 1 Blue-bike)
+
+Die Mortselse kaart toont ook 10 AEDs en 9 openbare toiletten ... </text>
+      <html>&lt;p&gt;Hier (naast de gewone fietsen stalling ook een 'kudde' Donkey Republic deelfietsen aangetroffen ; kom die regelmatig tegen ; Velo werd in stad Antwerpen gemapt, Blue-bike bij NMBS-stations ; &lt;/p&gt;
+
+&lt;p&gt;wat Donkey (&lt;a href="https://www.donkey.bike/nl/" rel="nofollow noopener noreferrer"&gt;https://www.donkey.bike/nl/&lt;/a&gt;) betreft de volgende info van &lt;a href="https://www.brasschaat.be/mobiliteit/deelfietsen" rel="nofollow noopener noreferrer"&gt;https://www.brasschaat.be/mobiliteit/deelfietsen&lt;/a&gt; geplukt : &lt;/p&gt;
+
+&lt;p&gt;Lantis, initiatiefnemer en bouwheer van de Oosterweelverbinding, plaatst vanaf augustus (2022?) in totaal 1.650 elektrische fietsen van Donkey Republic in 32 gemeenten in de regios Antwerpen en Waasland. Zo wil de beheersmaatschappij zoveel mogelijk mensen instant motiveren om de fiets te nemen voor, tijdens en na de Oosterweelwerken. &lt;/p&gt;
+
+&lt;p&gt;Daarnaast vult het gemeente bestuur in Brasschaat de 37 e-bikes aan met 20 e-bikes en 50 gewone deelfietsen.  &lt;/p&gt;
+
+&lt;p&gt;In Mortsel staan 10 Donkey locaties op &lt;a href="https://stratenplan.mortsel.be/?laagid=4132" rel="nofollow noopener noreferrer"&gt;https://stratenplan.mortsel.be/?laagid=4132&lt;/a&gt; (en 1 Blue-bike)&lt;/p&gt;
+
+&lt;p&gt;Die Mortselse kaart toont ook 10 AEDs en 9 openbare toiletten ... &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

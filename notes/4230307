@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6123695" lat="50.9940678">
+  <id>4230307</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4230307</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4230307/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4230307/close</close_url>
+  <date_created>2024-05-04 21:55:15 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-04 21:55:15 UTC</date>
+      <uid>21420395</uid>
+      <user>DeeCeeee</user>
+      <user_url>https://api.openstreetmap.org/user/DeeCeeee</user_url>
+      <action>opened</action>
+      <text>Path is removed and marked as Private Property </text>
+      <html>&lt;p&gt;Path is removed and marked as Private Property &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-05 07:30:45 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>can you add a picture/source that proofs your statement? Thanks</text>
+      <html>&lt;p&gt;can you add a picture/source that proofs your statement? Thanks&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 09:29:51 UTC</date>
+      <uid>21420395</uid>
+      <user>DeeCeeee</user>
+      <user_url>https://api.openstreetmap.org/user/DeeCeeee</user_url>
+      <action>commented</action>
+      <text>Will do as fast as possible!</text>
+      <html>&lt;p&gt;Will do as fast as possible!&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 10:54:20 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>@DeeCeeee: can you add those pictures, please?</text>
+      <html>&lt;p&gt;@DeeCeeee: can you add those pictures, please?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

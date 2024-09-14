@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6631143" lat="51.1763499">
+  <id>4277047</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4277047</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4277047/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4277047/close</close_url>
+  <date_created>2024-06-03 11:26:32 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-03 11:26:32 UTC</date>
+      <action>opened</action>
+      <text>Hier loopt ook een pad naar het noorden, maar het is onduidelijk of dit ergens aan het veld stopt, of doorloopt tot de Ledestraat. Op de luchtbeelden op Geopunt zie je wel een perceelsgrens lopen tot de volgende straat, maar dit is niet per se een openbaar pad.</text>
+      <html>&lt;p&gt;Hier loopt ook een pad naar het noorden, maar het is onduidelijk of dit ergens aan het veld stopt, of doorloopt tot de Ledestraat. Op de luchtbeelden op Geopunt zie je wel een perceelsgrens lopen tot de volgende straat, maar dit is niet per se een openbaar pad.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-05 12:05:34 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

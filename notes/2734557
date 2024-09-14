@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1401988" lat="51.1643892">
+  <id>2734557</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2734557</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2734557/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2734557/close</close_url>
+  <date_created>2021-06-30 07:12:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-06-30 07:12:12 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>opened</action>
+      <text>Heraanleg gepland http://www.sint-niklaas.be/grotemarkt
+
+De voorbereidende nutswerken zijn gepland voor het najaar 2022. De eigenlijke heraanleg vindt plaats in 2023-2024.</text>
+      <html>&lt;p&gt;Heraanleg gepland &lt;a href="http://www.sint-niklaas.be/grotemarkt" rel="nofollow noopener noreferrer"&gt;http://www.sint-niklaas.be/grotemarkt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;De voorbereidende nutswerken zijn gepland voor het najaar 2022. De eigenlijke heraanleg vindt plaats in 2023-2024.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-21 21:09:04 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>note is al van tijdje geleden. Moet hier nog iets gemapt worden?</text>
+      <html>&lt;p&gt;note is al van tijdje geleden. Moet hier nog iets gemapt worden?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-21 21:28:05 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>Nieuwe timing: 13 mei 2024 - zomer 2025
+https://www.sint-niklaas.be/actueel/een-jaar-naar-een-nieuwe-grote-markt-stad-en-aannemer-gaan-voor-snelle-efficiente-en-prijsbewuste</text>
+      <html>&lt;p&gt;Nieuwe timing: 13 mei 2024 - zomer 2025
+&lt;br /&gt;&lt;a href="https://www.sint-niklaas.be/actueel/een-jaar-naar-een-nieuwe-grote-markt-stad-en-aannemer-gaan-voor-snelle-efficiente-en-prijsbewuste" rel="nofollow noopener noreferrer"&gt;https://www.sint-niklaas.be/actueel/een-jaar-naar-een-nieuwe-grote-markt-stad-en-aannemer-gaan-voor-snelle-efficiente-en-prijsbewuste&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-25 20:59:02 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Volgens die informatie was het einde van de werken voorzien voor juni 2024.</text>
+      <html>&lt;p&gt;Volgens die informatie was het einde van de werken voorzien voor juni 2024.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-26 05:42:02 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Ook op https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/projecten/vernieuwing-grote-markt kan men hierover lezen: 
+
+"De vernieuwing van de Grote Markt verloopt in drie fasen, en staat gepland van mei 2024 tot juni 2025." 
+
+Mijn gedacht: 'Dan is de planning kennelijk veranderd?'</text>
+      <html>&lt;p&gt;Ook op &lt;a href="https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/projecten/vernieuwing-grote-markt" rel="nofollow noopener noreferrer"&gt;https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/projecten/vernieuwing-grote-markt&lt;/a&gt; kan men hierover lezen: &lt;/p&gt;
+
+&lt;p&gt;"De vernieuwing van de Grote Markt verloopt in drie fasen, en staat gepland van mei 2024 tot juni 2025." &lt;/p&gt;
+
+&lt;p&gt;Mijn gedacht: 'Dan is de planning kennelijk veranderd?'&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

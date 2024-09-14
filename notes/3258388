@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8897646" lat="51.3820007">
+  <id>3258388</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3258388</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3258388/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3258388/close</close_url>
+  <date_created>2022-07-09 12:19:15 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-09 12:19:15 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>opened</action>
+      <text>route 71-79 is verkeerd</text>
+      <html>&lt;p&gt;route 71-79 is verkeerd&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-16 23:35:55 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>nog steeds verkeerd?</text>
+      <html>&lt;p&gt;nog steeds verkeerd?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-17 11:02:53 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>commented</action>
+      <text>ja, de route moet lopen zoals bij wandelknooppunt.be , vanaf 71 eerst ten westen van dat hulpcentrum, daarna ten noorden.</text>
+      <html>&lt;p&gt;ja, de route moet lopen zoals bij wandelknooppunt.be , vanaf 71 eerst ten westen van dat hulpcentrum, daarna ten noorden.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

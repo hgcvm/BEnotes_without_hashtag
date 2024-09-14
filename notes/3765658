@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5885462" lat="51.2878643">
+  <id>3765658</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3765658</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3765658/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3765658/close</close_url>
+  <date_created>2023-07-04 22:37:54 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-04 22:37:54 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>AED mapillary
+Waterland Kerkstraat tegenover de kerk&lt;</text>
+      <html>&lt;p&gt;AED mapillary
+&lt;br /&gt;Waterland Kerkstraat tegenover de kerk&amp;lt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-07 21:59:13 UTC</date>
+      <uid>483075</uid>
+      <user>lyctkel</user>
+      <user_url>https://api.openstreetmap.org/user/lyctkel</user_url>
+      <action>commented</action>
+      <text>Er is hier een AED (https://www.openstreetmap.org/node/10973868618). Is dit wat er bedoeld wordt en wat moet er hier nog meer gebeuren?</text>
+      <html>&lt;p&gt;Er is hier een AED (&lt;a href="https://www.openstreetmap.org/node/10973868618" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/10973868618&lt;/a&gt;). Is dit wat er bedoeld wordt en wat moet er hier nog meer gebeuren?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-07 22:12:01 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>https://community.openstreetmap.org/t/defibrillators-met-foto/86237</text>
+      <html>&lt;p&gt;&lt;a href="https://community.openstreetmap.org/t/defibrillators-met-foto/86237" rel="nofollow noopener noreferrer"&gt;https://community.openstreetmap.org/t/defibrillators-met-foto/86237&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-08 10:19:06 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/user/filipc?lat=51.28780179999998&amp;lng=3.588492599999995&amp;z=18.036854929125095&amp;pKey=268915052961148&amp;mapStyle=Mapillary+streets&amp;focus=photo
+
+Begrijpt u het nu ?
+In Vlaanderen zijn zelfs officiële instanties niet te vertrouwen.  Na het zien van een foto moet ik de meeste AEDs nog  verbeteren.
+
+Ik veronderstel dat de AED er na de verbouwing toch komt.  In de buurgemeentes zijn nog enkele fixme s.</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/user/filipc?lat=51.28780179999998&amp;amp;lng=3.588492599999995&amp;amp;z=18.036854929125095&amp;amp;pKey=268915052961148&amp;amp;mapStyle=Mapillary+streets&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/user/filipc?lat=51.28780179999998&amp;amp;lng=3.588492599999995&amp;amp;z=18.036854929125095&amp;amp;pKey=268915052961148&amp;amp;mapStyle=Mapillary+streets&amp;amp;focus=photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Begrijpt u het nu ?
+&lt;br /&gt;In Vlaanderen zijn zelfs officiële instanties niet te vertrouwen.  Na het zien van een foto moet ik de meeste AEDs nog  verbeteren.&lt;/p&gt;
+
+&lt;p&gt;Ik veronderstel dat de AED er na de verbouwing toch komt.  In de buurgemeentes zijn nog enkele fixme s.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-08 11:41:34 UTC</date>
+      <uid>483075</uid>
+      <user>lyctkel</user>
+      <user_url>https://api.openstreetmap.org/user/lyctkel</user_url>
+      <action>commented</action>
+      <text>Hoi philippec ,
+Ik ben een beetje verbaasd over de toon van je antwoord.
+5 maanden geleden vroeg ik je of je verwees naar een defibrillator die je hier zelf had ingevoerd en die ik had gevonden op OSM.
+Je antwoord was een link naar een forum met ongeveer 200 discussieberichten. 
+Ik heb nog niet de tijd gevonden om alle berichten te lezen en te begrijpen wat je bedoelt.
+Een simpel ja of nee was voldoende geweest als antwoord. 
+Een hint naar welke discussiepost je precies verwijst zou mijn antwoord ook hebben versneld.
+Aangezien je het knooppunt zojuist hebt verwijderd, hoef je mijn vraag niet langer te beantwoorden.
+Groet
+lyctkel</text>
+      <html>&lt;p&gt;Hoi philippec ,
+&lt;br /&gt;Ik ben een beetje verbaasd over de toon van je antwoord.
+&lt;br /&gt;5 maanden geleden vroeg ik je of je verwees naar een defibrillator die je hier zelf had ingevoerd en die ik had gevonden op OSM.
+&lt;br /&gt;Je antwoord was een link naar een forum met ongeveer 200 discussieberichten. 
+&lt;br /&gt;Ik heb nog niet de tijd gevonden om alle berichten te lezen en te begrijpen wat je bedoelt.
+&lt;br /&gt;Een simpel ja of nee was voldoende geweest als antwoord. 
+&lt;br /&gt;Een hint naar welke discussiepost je precies verwijst zou mijn antwoord ook hebben versneld.
+&lt;br /&gt;Aangezien je het knooppunt zojuist hebt verwijderd, hoef je mijn vraag niet langer te beantwoorden.
+&lt;br /&gt;Groet
+&lt;br /&gt;lyctkel&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-02 09:22:34 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>Ik heb de sportdienst gebeld, ze hangt er nog niet.  2 augustus 2024</text>
+      <html>&lt;p&gt;Ik heb de sportdienst gebeld, ze hangt er nog niet.  2 augustus 2024&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

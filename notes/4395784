@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3964200" lat="51.2271050">
+  <id>4395784</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4395784</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4395784/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4395784/close</close_url>
+  <date_created>2024-08-21 18:22:39 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-21 18:22:39 UTC</date>
+      <uid>11678919</uid>
+      <user>Roeckx</user>
+      <user_url>https://api.openstreetmap.org/user/Roeckx</user_url>
+      <action>opened</action>
+      <text>Vanaf 23/09/2024 enkel nog toegelaten voor lokaal verkeer van en naar Linkeroever. https://www.gva.be/cnt/dmf20240821_95798964</text>
+      <html>&lt;p&gt;Vanaf 23/09/2024 enkel nog toegelaten voor lokaal verkeer van en naar Linkeroever. &lt;a href="https://www.gva.be/cnt/dmf20240821_95798964" rel="nofollow noopener noreferrer"&gt;https://www.gva.be/cnt/dmf20240821_95798964&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

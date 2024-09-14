@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1904688" lat="50.0557336">
+  <id>3968269</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3968269</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3968269/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3968269/close</close_url>
+  <date_created>2023-11-01 15:10:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-01 15:10:59 UTC</date>
+      <action>opened</action>
+      <text>Chem. Vert</text>
+      <html>&lt;p&gt;Chem. Vert&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-01 18:23:07 UTC</date>
+      <uid>1198089</uid>
+      <user>GeorgeKaplan</user>
+      <user_url>https://api.openstreetmap.org/user/GeorgeKaplan</user_url>
+      <action>commented</action>
+      <text>Qu’est-ce que c’est ?</text>
+      <html>&lt;p&gt;Qu’est-ce que c’est ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

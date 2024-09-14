@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3911839" lat="51.2198881">
+  <id>4162636</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4162636</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4162636/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4162636/close</close_url>
+  <date_created>2024-03-22 04:08:28 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-22 04:08:28 UTC</date>
+      <action>opened</action>
+      <text>Nieuwe pelgrimsroute : "Via Tenera" via Sint-Annatunnel zie https://wandel.be/wandelinspiratie/nieuwe-belgische-pelgrimsweg-via-tenera-officieel-geopend/</text>
+      <html>&lt;p&gt;Nieuwe pelgrimsroute : "Via Tenera" via Sint-Annatunnel zie &lt;a href="https://wandel.be/wandelinspiratie/nieuwe-belgische-pelgrimsweg-via-tenera-officieel-geopend/" rel="nofollow noopener noreferrer"&gt;https://wandel.be/wandelinspiratie/nieuwe-belgische-pelgrimsweg-via-tenera-officieel-geopend/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-22 08:34:33 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Zie discussie hier: https://community.openstreetmap.org/t/vias-routes-naar-compostela-in-belgie-moeten-worden-aangepast/107523</text>
+      <html>&lt;p&gt;Zie discussie hier: &lt;a href="https://community.openstreetmap.org/t/vias-routes-naar-compostela-in-belgie-moeten-worden-aangepast/107523" rel="nofollow noopener noreferrer"&gt;https://community.openstreetmap.org/t/vias-routes-naar-compostela-in-belgie-moeten-worden-aangepast/107523&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

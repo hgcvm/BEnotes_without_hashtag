@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4447154" lat="51.2298861">
+  <id>3589122</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3589122</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3589122/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3589122/close</close_url>
+  <date_created>2023-03-07 19:25:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-03-07 19:25:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Tot eind'23 : https://www.oosterweelverbinding.be/nieuws/middenberm-kruispunt-ten-eekhovelei-bisschoppenhoflaan-afgesloten </text>
+      <html>&lt;p&gt;Tot eind'23 : &lt;a href="https://www.oosterweelverbinding.be/nieuws/middenberm-kruispunt-ten-eekhovelei-bisschoppenhoflaan-afgesloten" rel="nofollow noopener noreferrer"&gt;https://www.oosterweelverbinding.be/nieuws/middenberm-kruispunt-ten-eekhovelei-bisschoppenhoflaan-afgesloten&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-16 17:08:32 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>stukje Eekhovelei tussen Bisschoppenhoflaan plus aantal stukjes onbereikbaar fietspad op was:highway gezet, deze note pro memorie</text>
+      <html>&lt;p&gt;stukje Eekhovelei tussen Bisschoppenhoflaan plus aantal stukjes onbereikbaar fietspad op was:highway gezet, deze note pro memorie&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

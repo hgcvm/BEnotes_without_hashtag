@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2514355" lat="51.2140668">
+  <id>1821957</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1821957</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1821957/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1821957/close</close_url>
+  <date_created>2019-06-23 00:19:00 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2019-06-23 00:19:00 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Exacte entrances en adressen?</text>
+      <html>&lt;p&gt;Exacte entrances en adressen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-02 15:08:56 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

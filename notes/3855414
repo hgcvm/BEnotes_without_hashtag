@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.9391500" lat="51.3057100">
+  <id>3855414</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3855414</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3855414/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3855414/close</close_url>
+  <date_created>2023-08-26 19:24:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-08-26 19:24:53 UTC</date>
+      <action>opened</action>
+      <text>Dit ziet er geen kerk uit (geen toren of kruis aan de buitenkant). </text>
+      <html>&lt;p&gt;Dit ziet er geen kerk uit (geen toren of kruis aan de buitenkant). &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-08-27 06:35:11 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Gezien 'kerknet' is hier geen parochie meer : https://www.kerknet.be/zoeken/adresboek/lijst?f%5B0%5D=field_organisation_taxonomy%253Aparents_all%3A2683&amp;f%5B1%5D=field_organisation_taxonomy%253Aparents_all%3A2685&amp;f%5B2%5D=field_organisation_taxonomy%253Aparents_all%3A2686&amp;f%5B3%5D=field_organisation_taxonomy%253Aparents_all%3A2687&amp;f%5B4%5D=field_organisation_taxonomy%253Aparents_all%3A2810#resultaten ? 
+
+Prentje https://www.provincieantwerpen.be/lokale-besturen/nieuws/dese/van-kerk-tot-kleuterschool--concertzaal--bib.html toont echter een gebouw dat qua aanzicht past binnen de 'nederige' kerk welke (in mijn herinnering) in de jaren '60 en '70 opgang maakte; 
+
+uit dat stukje : "De kerk in de Turnhoutse Parkwijk wordt opnieuw het kloppend hart van de buurt, maar dan niet langer als gebedshuis. Wel als kleuterschool met speelzone. Er zijn ook lokalen voorzien voor buurtactiviteiten. "
+
+Dan lijkt mij correct als volgt te taggen : building=church (zij het een niet traditioneel aanzicht) met functie zoals op provincie site genoemd? 
+
+</text>
+      <html>&lt;p&gt;Gezien 'kerknet' is hier geen parochie meer : &lt;a href="https://www.kerknet.be/zoeken/adresboek/lijst?f%5B0%5D=field_organisation_taxonomy%253Aparents_all%3A2683&amp;amp;f%5B1%5D=field_organisation_taxonomy%253Aparents_all%3A2685&amp;amp;f%5B2%5D=field_organisation_taxonomy%253Aparents_all%3A2686&amp;amp;f%5B3%5D=field_organisation_taxonomy%253Aparents_all%3A2687&amp;amp;f%5B4%5D=field_organisation_taxonomy%253Aparents_all%3A2810#resultaten" rel="nofollow noopener noreferrer"&gt;https://www.kerknet.be/zoeken/adresboek/lijst?f%5B0%5D=field_organisation_taxonomy%253Aparents_all%3A2683&amp;amp;f%5B1%5D=field_organisation_taxonomy%253Aparents_all%3A2685&amp;amp;f%5B2%5D=field_organisation_taxonomy%253Aparents_all%3A2686&amp;amp;f%5B3%5D=field_organisation_taxonomy%253Aparents_all%3A2687&amp;amp;f%5B4%5D=field_organisation_taxonomy%253Aparents_all%3A2810#resultaten&lt;/a&gt; ? &lt;/p&gt;
+
+&lt;p&gt;Prentje &lt;a href="https://www.provincieantwerpen.be/lokale-besturen/nieuws/dese/van-kerk-tot-kleuterschool--concertzaal--bib.html" rel="nofollow noopener noreferrer"&gt;https://www.provincieantwerpen.be/lokale-besturen/nieuws/dese/van-kerk-tot-kleuterschool--concertzaal--bib.html&lt;/a&gt; toont echter een gebouw dat qua aanzicht past binnen de 'nederige' kerk welke (in mijn herinnering) in de jaren '60 en '70 opgang maakte; &lt;/p&gt;
+
+&lt;p&gt;uit dat stukje : "De kerk in de Turnhoutse Parkwijk wordt opnieuw het kloppend hart van de buurt, maar dan niet langer als gebedshuis. Wel als kleuterschool met speelzone. Er zijn ook lokalen voorzien voor buurtactiviteiten. "&lt;/p&gt;
+
+&lt;p&gt;Dan lijkt mij correct als volgt te taggen : building=church (zij het een niet traditioneel aanzicht) met functie zoals op provincie site genoemd? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

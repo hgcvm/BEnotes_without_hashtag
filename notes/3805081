@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2081338" lat="50.9065138">
+  <id>3805081</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3805081</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3805081/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3805081/close</close_url>
+  <date_created>2023-07-29 10:43:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-29 10:43:08 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>opened</action>
+      <text>Hier zou volgens een mapper een fietspunt zijn. https://www.groepintro.be/nl/contact/fietspunt-asse/
+
+De exacte locatie is niet duidelijk, dus kan iemand dit met lokale kennis of na plaatsbezoek toevoegen?</text>
+      <html>&lt;p&gt;Hier zou volgens een mapper een fietspunt zijn. &lt;a href="https://www.groepintro.be/nl/contact/fietspunt-asse/" rel="nofollow noopener noreferrer"&gt;https://www.groepintro.be/nl/contact/fietspunt-asse/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;De exacte locatie is niet duidelijk, dus kan iemand dit met lokale kennis of na plaatsbezoek toevoegen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-29 10:43:45 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>commented</action>
+      <text>(De mapper in kwestie had de informatie over het fietspunt toegevoegd op de Blue-bikeparking, wat niet de bedoeling is.)</text>
+      <html>&lt;p&gt;(De mapper in kwestie had de informatie over het fietspunt toegevoegd op de Blue-bikeparking, wat niet de bedoeling is.)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-02 11:56:38 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-11 03:25:36 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>Inside https://www.openstreetmap.org/way/145035554 
+
+https://www.mapillary.com/app/?pKey=3381804292128926</text>
+      <html>&lt;p&gt;Inside &lt;a href="https://www.openstreetmap.org/way/145035554" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/145035554&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=3381804292128926" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=3381804292128926&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:21:51 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>message from the president of the local 'Fietsersbond'-section:
+"Hier de foto's van de Blue-bike faciliteit aan het station van Asse.
+
+    Ben vergeten om te controleren of dat scherm het inmiddels doet, dat is lange tijd niet het geval geweest. Wat we natuurlijk gemeld hebben
+
+Er is ook nog een Fietspunt in de voormalige stationshal: 
+
+    Helaas zijn de openingsuren bijzonder ongunstig, gesloten tijdens de vele schoolvakanties (15 weken per jaar!). Werknemers in de privé hebben typisch 4 tot 5 weken verlof per jaar, wat tijdens die 10 overige weken, dan zijn de dieven ook met verlof?
+    Tijdens die 37 weken slechts open tussen 7u-10u en 16u-19u. Wat als je in shiften werkt (typische shiftwisselingen zijn om 6u-14u-22u) of slechts een halve dag moet werken? 
+    Geen rekken in het gebouw om je fietsslot rond kader te gebruiken
+    Lang niet alle fietsen hebben een standaard (MTB, koersvelo), dan maar tegen de muur, lekker plaats efficiënt
+    Voor velen is faciliteit dus onbruikbaar, ik heb enkel negatieve dingen gehoord over het fietspunt, nog nooit iets positiefs. Daarmee wordt het amper gebruikt
+    Management is meestal onbereikbaar in het geval van vragen en/of opmerkingen
+
+Dan zijn er nog enkele fietskluizen, station van Asse is immers een Hoppin punt, maar waar buitenmaatse fietsen niet in kunnen (zoals longtails, bakfietsen, etc). 
+
+Wat ze met die Hoppin punten ook nog niet bedacht hadden, is laad infrastructuur voor auto's. Volgens de projectleider van dit Hoppin punt, zou de ondergrondse bekabeling wel geplaatst zijn. Maar toen het nog openlag ben ik verschillende malen wezen kijken, die bekabeling ligt er niet. Het is nochtans een logische en vanzelfsprekende toepassing anno 2024. Laden overdag (zeker niet 's avonds, 's nachts is ook een goed moment), als je wagen op de parking staat en je met de trein naar je werk bent, liefst nog wat zonnepalen erbij. Ook ideaal voor Assenaren die niet kunnen parkeren voor de deur.</text>
+      <html>&lt;p&gt;message from the president of the local 'Fietsersbond'-section:
+&lt;br /&gt;"Hier de foto's van de Blue-bike faciliteit aan het station van Asse.&lt;/p&gt;
+
+&lt;p&gt;    Ben vergeten om te controleren of dat scherm het inmiddels doet, dat is lange tijd niet het geval geweest. Wat we natuurlijk gemeld hebben&lt;/p&gt;
+
+&lt;p&gt;Er is ook nog een Fietspunt in de voormalige stationshal: &lt;/p&gt;
+
+&lt;p&gt;    Helaas zijn de openingsuren bijzonder ongunstig, gesloten tijdens de vele schoolvakanties (15 weken per jaar!). Werknemers in de privé hebben typisch 4 tot 5 weken verlof per jaar, wat tijdens die 10 overige weken, dan zijn de dieven ook met verlof?
+&lt;br /&gt;    Tijdens die 37 weken slechts open tussen 7u-10u en 16u-19u. Wat als je in shiften werkt (typische shiftwisselingen zijn om 6u-14u-22u) of slechts een halve dag moet werken? 
+&lt;br /&gt;    Geen rekken in het gebouw om je fietsslot rond kader te gebruiken
+&lt;br /&gt;    Lang niet alle fietsen hebben een standaard (MTB, koersvelo), dan maar tegen de muur, lekker plaats efficiënt
+&lt;br /&gt;    Voor velen is faciliteit dus onbruikbaar, ik heb enkel negatieve dingen gehoord over het fietspunt, nog nooit iets positiefs. Daarmee wordt het amper gebruikt
+&lt;br /&gt;    Management is meestal onbereikbaar in het geval van vragen en/of opmerkingen&lt;/p&gt;
+
+&lt;p&gt;Dan zijn er nog enkele fietskluizen, station van Asse is immers een Hoppin punt, maar waar buitenmaatse fietsen niet in kunnen (zoals longtails, bakfietsen, etc). &lt;/p&gt;
+
+&lt;p&gt;Wat ze met die Hoppin punten ook nog niet bedacht hadden, is laad infrastructuur voor auto's. Volgens de projectleider van dit Hoppin punt, zou de ondergrondse bekabeling wel geplaatst zijn. Maar toen het nog openlag ben ik verschillende malen wezen kijken, die bekabeling ligt er niet. Het is nochtans een logische en vanzelfsprekende toepassing anno 2024. Laden overdag (zeker niet 's avonds, 's nachts is ook een goed moment), als je wagen op de parking staat en je met de trein naar je werk bent, liefst nog wat zonnepalen erbij. Ook ideaal voor Assenaren die niet kunnen parkeren voor de deur.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:44:24 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/NGgma1U.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/NGgma1U.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/NGgma1U.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:44:25 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/EfzukZm.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/EfzukZm.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/EfzukZm.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:44:25 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/R1oqExJ.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/R1oqExJ.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/R1oqExJ.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:44:25 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/iMTHKG5.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/iMTHKG5.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/iMTHKG5.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:44:25 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/sFipmsV.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/sFipmsV.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/sFipmsV.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-12 15:44:25 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://i.imgur.com/LG4dO36.jpeg</text>
+      <html>&lt;p&gt;&lt;a href="https://i.imgur.com/LG4dO36.jpeg" rel="nofollow noopener noreferrer"&gt;https://i.imgur.com/LG4dO36.jpeg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

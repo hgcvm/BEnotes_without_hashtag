@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.7481366" lat="51.1211759">
+  <id>2719429</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2719429</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/2719429/reopen</reopen_url>
+  <date_created>2021-06-19 08:38:58 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-02-18 18:19:26 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2021-06-19 08:38:58 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>opened</action>
+      <text>Graag bevestiging of hier het wandelknooppunt 96 staat voorlopig met niets verboden. Een node uit het verleden ?
+opendata Vlaanderen staat deze 96 hier https://www.openstreetmap.org/node/495375218 </text>
+      <html>&lt;p&gt;Graag bevestiging of hier het wandelknooppunt 96 staat voorlopig met niets verboden. Een node uit het verleden ?
+&lt;br /&gt;opendata Vlaanderen staat deze 96 hier &lt;a href="https://www.openstreetmap.org/node/495375218" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/495375218&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-04-18 13:22:31 UTC</date>
+      <uid>621428</uid>
+      <user>tomdevinck</user>
+      <user_url>https://api.openstreetmap.org/user/tomdevinck</user_url>
+      <action>commented</action>
+      <text>96 staat op het kruispunt frontzate x pieter deswartelaan</text>
+      <html>&lt;p&gt;96 staat op het kruispunt frontzate x pieter deswartelaan&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-18 18:19:26 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>closed</action>
+      <text>knooppunt werd al een tijdje geleden verwijderd</text>
+      <html>&lt;p&gt;knooppunt werd al een tijdje geleden verwijderd&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-18 18:19:26 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>knooppunt werd al een tijdje geleden verwijderd</text>
+      <html>&lt;p&gt;knooppunt werd al een tijdje geleden verwijderd&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

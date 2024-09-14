@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4047663" lat="51.2359792">
+  <id>4144877</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4144877</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4144877/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4144877/close</close_url>
+  <date_created>2024-03-08 21:43:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-08 21:43:17 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Links van deze note lichtschip West-hinder, oost stoomvlotkraan no 9, beiden drijvend.</text>
+      <html>&lt;p&gt;Links van deze note lichtschip West-hinder, oost stoomvlotkraan no 9, beiden drijvend.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-07 00:10:11 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>worden boten/schepen in OSM gemapt?</text>
+      <html>&lt;p&gt;worden boten/schepen in OSM gemapt?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-07 06:29:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>De beelden in de tuin van het Middelheim museum worden gemapt, ook deze schepen zijn onderdeel van de zorgvuldig samengestelde collectie, in dit geval historische vaartuigen. 
+
+In London is HMS Belfast op de kaart gezet (om een of andere reden beroemd groot oorlogsschip), en in Greenwich de Cutty Sark - ligt in droog droogdok.
+
+In het Amsterdamse Oosterdok zijn niet alleen het replica van de Batavia, doch ook andere schepen in de Museumhaven gemapt. 
+
+Zie dan geen reden - oh, en in Antwerpen het kerkschip Sint Jozef bij de Mexicobruggen, en die vlotkraan is nu gemapt in het Bonapartedok. 
+</text>
+      <html>&lt;p&gt;De beelden in de tuin van het Middelheim museum worden gemapt, ook deze schepen zijn onderdeel van de zorgvuldig samengestelde collectie, in dit geval historische vaartuigen. &lt;/p&gt;
+
+&lt;p&gt;In London is HMS Belfast op de kaart gezet (om een of andere reden beroemd groot oorlogsschip), en in Greenwich de Cutty Sark - ligt in droog droogdok.&lt;/p&gt;
+
+&lt;p&gt;In het Amsterdamse Oosterdok zijn niet alleen het replica van de Batavia, doch ook andere schepen in de Museumhaven gemapt. &lt;/p&gt;
+
+&lt;p&gt;Zie dan geen reden - oh, en in Antwerpen het kerkschip Sint Jozef bij de Mexicobruggen, en die vlotkraan is nu gemapt in het Bonapartedok. 
+&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

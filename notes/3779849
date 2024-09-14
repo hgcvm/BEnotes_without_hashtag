@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3923900" lat="51.2156600">
+  <id>3779849</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3779849</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3779849/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3779849/close</close_url>
+  <date_created>2023-07-14 13:34:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-14 13:34:08 UTC</date>
+      <uid>15006174</uid>
+      <user>PVA25</user>
+      <user_url>https://api.openstreetmap.org/user/PVA25</user_url>
+      <action>opened</action>
+      <text>Nieuw stuk heraangelegde kaaien is open tot Sint-Michielsstraat:
+
+https://www.gva.be/cnt/dmf20230714_94679904</text>
+      <html>&lt;p&gt;Nieuw stuk heraangelegde kaaien is open tot Sint-Michielsstraat:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.gva.be/cnt/dmf20230714_94679904" rel="nofollow noopener noreferrer"&gt;https://www.gva.be/cnt/dmf20230714_94679904&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-14 16:12:21 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>deel opengezet als pedestrian gebied .Welke borden staan daar voor toegang regeling. Ook detail van de activiteiten banken moeten er nog opkomen thx</text>
+      <html>&lt;p&gt;deel opengezet als pedestrian gebied .Welke borden staan daar voor toegang regeling. Ook detail van de activiteiten banken moeten er nog opkomen thx&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-14 20:49:23 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>plannetje 1:500 via https://www.antwerpenmorgen.be/files/download/7e034b74-82ff-454d-9245-613609dc207a , en binnenkort prentjes vanaf fietspad op de gekende plek.</text>
+      <html>&lt;p&gt;plannetje 1:500 via &lt;a href="https://www.antwerpenmorgen.be/files/download/7e034b74-82ff-454d-9245-613609dc207a" rel="nofollow noopener noreferrer"&gt;https://www.antwerpenmorgen.be/files/download/7e034b74-82ff-454d-9245-613609dc207a&lt;/a&gt; , en binnenkort prentjes vanaf fietspad op de gekende plek.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

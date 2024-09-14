@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6036605" lat="50.8445076">
+  <id>3860912</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3860912</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/3860912/reopen</reopen_url>
+  <date_created>2023-08-29 19:55:31 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-04-24 08:32:04 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2023-08-29 19:55:31 UTC</date>
+      <action>opened</action>
+      <text>kledingwinkel die stopt?</text>
+      <html>&lt;p&gt;kledingwinkel die stopt?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-09-22 07:08:46 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Is deze al gestopt ?</text>
+      <html>&lt;p&gt;Is deze al gestopt ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-24 08:32:04 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>closed</action>
+      <text>Inmiddels al iets nieuws hier gemapped</text>
+      <html>&lt;p&gt;Inmiddels al iets nieuws hier gemapped&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-24 08:32:04 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Inmiddels al iets nieuws hier gemapped</text>
+      <html>&lt;p&gt;Inmiddels al iets nieuws hier gemapped&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

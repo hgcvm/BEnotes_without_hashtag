@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5614639" lat="51.1357581">
+  <id>3805246</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3805246</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3805246/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3805246/close</close_url>
+  <date_created>2023-07-29 12:33:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-29 12:33:13 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>opened</action>
+      <text>De Blue-bikes hier zijn gemapt met fee=no, maar op https://www.blue-bike.be/location-details/station-lier/ staat dat ze €1,50 kosten.
+
+Zijn de Blue-bikes tegenwoordig betalend?</text>
+      <html>&lt;p&gt;De Blue-bikes hier zijn gemapt met fee=no, maar op &lt;a href="https://www.blue-bike.be/location-details/station-lier/" rel="nofollow noopener noreferrer"&gt;https://www.blue-bike.be/location-details/station-lier/&lt;/a&gt; staat dat ze €1,50 kosten.&lt;/p&gt;
+
+&lt;p&gt;Zijn de Blue-bikes tegenwoordig betalend?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-29 12:34:11 UTC</date>
+      <uid>763799</uid>
+      <user>M!dgard</user>
+      <user_url>https://api.openstreetmap.org/user/M!dgard</user_url>
+      <action>commented</action>
+      <text>(De Blue-bikes *hier*, bedoel ik. Sommige overheden sponsoren ze zodat de fietsen daar gratis te ontlenen zijn als je een lidmaatschap hebt.)</text>
+      <html>&lt;p&gt;(De Blue-bikes *hier*, bedoel ik. Sommige overheden sponsoren ze zodat de fietsen daar gratis te ontlenen zijn als je een lidmaatschap hebt.)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-26 12:50:15 UTC</date>
+      <uid>5353776</uid>
+      <user>Erik_Vloeberghs</user>
+      <user_url>https://api.openstreetmap.org/user/Erik_Vloeberghs</user_url>
+      <action>commented</action>
+      <text>De Blue Bikes zijn inderdaad betalend, maar in Deinze, Landegem en Ninove fiets je de eerste 24 uur volledig gratis (omdat die gemeenten financieel tussenbeide komen). Maar echt gratis is het ook daar niet, want om fietsen te kunnen ontlenen, moet je lid zijn en een lidmaatschap kost 12 euro per jaar (in 2024).</text>
+      <html>&lt;p&gt;De Blue Bikes zijn inderdaad betalend, maar in Deinze, Landegem en Ninove fiets je de eerste 24 uur volledig gratis (omdat die gemeenten financieel tussenbeide komen). Maar echt gratis is het ook daar niet, want om fietsen te kunnen ontlenen, moet je lid zijn en een lidmaatschap kost 12 euro per jaar (in 2024).&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.2386198" lat="51.1831092">
+  <id>4378091</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4378091</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4378091/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4378091/close</close_url>
+  <date_created>2024-08-11 14:37:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-11 14:37:13 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>@Joost : waardoor staat hier geen campus op de kaart? https://data-onderwijs.vlaanderen.be/onderwijsaanbod/instelling?sn=11361 ; geen aandacht aan gegeven, lijken diverse gebouwen;
+
+doch KV De Nachtvlinders in één gebouwtje : https://www.uitinvlaanderen.be/agenda/l/feestzaal-de-nachtvlinders/deb34dd2-6e62-4700-9272-8861656f235d , met uit de ooghoek een AED</text>
+      <html>&lt;p&gt;@Joost : waardoor staat hier geen campus op de kaart? &lt;a href="https://data-onderwijs.vlaanderen.be/onderwijsaanbod/instelling?sn=11361" rel="nofollow noopener noreferrer"&gt;https://data-onderwijs.vlaanderen.be/onderwijsaanbod/instelling?sn=11361&lt;/a&gt; ; geen aandacht aan gegeven, lijken diverse gebouwen;&lt;/p&gt;
+
+&lt;p&gt;doch KV De Nachtvlinders in één gebouwtje : &lt;a href="https://www.uitinvlaanderen.be/agenda/l/feestzaal-de-nachtvlinders/deb34dd2-6e62-4700-9272-8861656f235d" rel="nofollow noopener noreferrer"&gt;https://www.uitinvlaanderen.be/agenda/l/feestzaal-de-nachtvlinders/deb34dd2-6e62-4700-9272-8861656f235d&lt;/a&gt; , met uit de ooghoek een AED&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

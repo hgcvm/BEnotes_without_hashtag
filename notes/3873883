@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.8013000" lat="50.8005000">
+  <id>3873883</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3873883</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3873883/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3873883/close</close_url>
+  <date_created>2023-09-06 10:09:39 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-06 10:09:39 UTC</date>
+      <action>opened</action>
+      <text>De Klijte is geen deelgemeente van Heuvelland (omdat het nooit een zelfstandige gemeente was - het is van Reningelst geknipt). Het dorp staat dus op administratief niveau 10. 
+Op deze kaart is te zien dat De Klijte nu bij deelgemeente Loker hoort: https://www.kaartenenatlassen.nl/wandkaarten/provinciekaarten/administratieve-kaart-west-vlaanderen-1510</text>
+      <html>&lt;p&gt;De Klijte is geen deelgemeente van Heuvelland (omdat het nooit een zelfstandige gemeente was - het is van Reningelst geknipt). Het dorp staat dus op administratief niveau 10. 
+&lt;br /&gt;Op deze kaart is te zien dat De Klijte nu bij deelgemeente Loker hoort: &lt;a href="https://www.kaartenenatlassen.nl/wandkaarten/provinciekaarten/administratieve-kaart-west-vlaanderen-1510" rel="nofollow noopener noreferrer"&gt;https://www.kaartenenatlassen.nl/wandkaarten/provinciekaarten/administratieve-kaart-west-vlaanderen-1510&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

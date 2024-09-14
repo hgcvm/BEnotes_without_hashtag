@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1921800" lat="50.4844100">
+  <id>4250617</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4250617</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4250617/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4250617/close</close_url>
+  <date_created>2024-05-17 12:28:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-17 12:28:57 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>opened</action>
+      <text>réparation de vélos (uniquement sur rdv</text>
+      <html>&lt;p&gt;réparation de vélos (uniquement sur rdv&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-17 19:18:18 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-17 19:18:22 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-17 19:18:28 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>commented</action>
+      <text>mettre les tags appropriés</text>
+      <html>&lt;p&gt;mettre les tags appropriés&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

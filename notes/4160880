@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.0128781" lat="50.8977371">
+  <id>4160880</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4160880</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4160880/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4160880/close</close_url>
+  <date_created>2024-03-20 16:15:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-20 16:15:20 UTC</date>
+      <uid>1722488</uid>
+      <user>Mateusz Konieczny</user>
+      <user_url>https://api.openstreetmap.org/user/Mateusz%20Konieczny</user_url>
+      <action>opened</action>
+      <text>https://www.openstreetmap.org/node/5859225625
+
+why we have amenity=storage here?
+
+Is it intended to express that this visitor's book has own box or similar protection?</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/node/5859225625" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/5859225625&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;why we have amenity=storage here?&lt;/p&gt;
+
+&lt;p&gt;Is it intended to express that this visitor's book has own box or similar protection?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

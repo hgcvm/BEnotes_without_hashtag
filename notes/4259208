@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0291607" lat="50.7148778">
+  <id>4259208</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4259208</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4259208/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4259208/close</close_url>
+  <date_created>2024-05-22 09:13:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-22 09:13:56 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>Bestaat hier echt een pad van Hoogbaan naar Edingsesteenweg? Niet echt zichtbaar op luchtfoto, geen sporen van gebruik op Strava</text>
+      <html>&lt;p&gt;Bestaat hier echt een pad van Hoogbaan naar Edingsesteenweg? Niet echt zichtbaar op luchtfoto, geen sporen van gebruik op Strava&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-22 15:29:06 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>cs-comment plaatsen bij de mapper die het pad heeft gemaakt?
+https://www.openstreetmap.org/way/135586219/history</text>
+      <html>&lt;p&gt;cs-comment plaatsen bij de mapper die het pad heeft gemaakt?
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/135586219/history" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/135586219/history&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-22 17:34:01 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Eerste versie is al elf jaar oud, dus zelfs als het toen bestond, kan het goed zijn dat die er nu niet meer is</text>
+      <html>&lt;p&gt;Eerste versie is al elf jaar oud, dus zelfs als het toen bestond, kan het goed zijn dat die er nu niet meer is&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-07 11:12:46 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

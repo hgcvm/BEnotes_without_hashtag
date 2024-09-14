@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3415926" lat="50.6199476">
+  <id>3876062</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3876062</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3876062/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3876062/close</close_url>
+  <date_created>2023-09-07 14:13:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-09-07 14:13:22 UTC</date>
+      <action>opened</action>
+      <text>éolienne bientot mis en production quelque part sur cet aire d'autoroute
+https://www.rtbf.be/article/une-premiere-eolienne-operationnelle-sur-une-aire-de-repos-dautoroute-wallonne-des-annees-apres-le-lancement-du-projet-11250875
+</text>
+      <html>&lt;p&gt;éolienne bientot mis en production quelque part sur cet aire d'autoroute
+&lt;br /&gt;&lt;a href="https://www.rtbf.be/article/une-premiere-eolienne-operationnelle-sur-une-aire-de-repos-dautoroute-wallonne-des-annees-apres-le-lancement-du-projet-11250875" rel="nofollow noopener noreferrer"&gt;https://www.rtbf.be/article/une-premiere-eolienne-operationnelle-sur-une-aire-de-repos-dautoroute-wallonne-des-annees-apres-le-lancement-du-projet-11250875&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-31 11:36:42 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #FollowUp in 2025</text>
+      <html>&lt;p&gt;#OsmBE #FollowUp in 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3021882" lat="50.8060907">
+  <id>4035757</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4035757</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4035757/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4035757/close</close_url>
+  <date_created>2023-12-21 10:02:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-21 10:02:12 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>I added a building_passage here based on input of someone who knows it's there, but I'm not sure if this is the exact correct location. Can someone who knows the exact location move it there of necessary?</text>
+      <html>&lt;p&gt;I added a building_passage here based on input of someone who knows it's there, but I'm not sure if this is the exact correct location. Can someone who knows the exact location move it there of necessary?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 20:10:24 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

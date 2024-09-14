@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.9676039" lat="50.4449684">
+  <id>3354747</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3354747</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3354747/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3354747/close</close_url>
+  <date_created>2022-09-11 08:13:34 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-11 08:13:34 UTC</date>
+      <uid>154968</uid>
+      <user>PiefkeKarlFriedrich</user>
+      <user_url>https://api.openstreetmap.org/user/PiefkeKarlFriedrich</user_url>
+      <action>opened</action>
+      <text>Race Course/ Grandstands got a total new reconstruction. a lot of forest removed and hillside removed backwards. new Grandstands / new roads / fence lines. I'm not experienced enough for that huge change in the map</text>
+      <html>&lt;p&gt;Race Course/ Grandstands got a total new reconstruction. a lot of forest removed and hillside removed backwards. new Grandstands / new roads / fence lines. I'm not experienced enough for that huge change in the map&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-25 14:23:24 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Réponse responsable:
+"Il y aura encore de très nombreux travaux entre mi-novembre et +/- avril sur le Circuit"</text>
+      <html>&lt;p&gt;Réponse responsable:
+&lt;br /&gt;"Il y aura encore de très nombreux travaux entre mi-novembre et +/- avril sur le Circuit"&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

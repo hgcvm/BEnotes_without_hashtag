@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4319002" lat="51.1915483">
+  <id>4144883</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4144883</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4144883/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4144883/close</close_url>
+  <date_created>2024-03-08 21:55:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-08 21:55:17 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>En verder voortgaand op Unresolved note #4144881 : Kanunnik Peetersstraat krijgt nieuwe indeling met infiltratiestenen en groene zones, soortgelijk Auburtinlaan en Bauduinstraat. 
+
+En de paden in de naastgelegen Brilschans zijn veranderd, randfietspad al ingetekend, nieuw vlonderpad over vijver, pingpongtafel weg ... </text>
+      <html>&lt;p&gt;En verder voortgaand op Unresolved note #4144881 : Kanunnik Peetersstraat krijgt nieuwe indeling met infiltratiestenen en groene zones, soortgelijk Auburtinlaan en Bauduinstraat. &lt;/p&gt;
+
+&lt;p&gt;En de paden in de naastgelegen Brilschans zijn veranderd, randfietspad al ingetekend, nieuw vlonderpad over vijver, pingpongtafel weg ... &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

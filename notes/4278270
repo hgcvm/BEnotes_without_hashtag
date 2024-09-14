@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.6565188" lat="51.0738183">
+  <id>4278270</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4278270</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4278270/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4278270/close</close_url>
+  <date_created>2024-06-04 10:34:52 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-04 10:34:52 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Heel wat nieuwe elementen te zien op luchtfoto's (o.a. picknickbanken?). Zonder survey of Mapillary moeilijk uit te maken wat ze precies zijn.</text>
+      <html>&lt;p&gt;Heel wat nieuwe elementen te zien op luchtfoto's (o.a. picknickbanken?). Zonder survey of Mapillary moeilijk uit te maken wat ze precies zijn.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-14 21:19:29 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

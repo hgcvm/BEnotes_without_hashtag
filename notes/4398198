@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7033219" lat="50.3012014">
+  <id>4398198</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4398198</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4398198/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4398198/close</close_url>
+  <date_created>2024-08-23 11:23:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-23 11:23:57 UTC</date>
+      <uid>12806289</uid>
+      <user>T4om</user>
+      <user_url>https://api.openstreetmap.org/user/T4om</user_url>
+      <action>opened</action>
+      <text>temporary closed, construction work.
+
+#OsmAnd</text>
+      <html>&lt;p&gt;temporary closed, construction work.&lt;/p&gt;
+
+&lt;p&gt;#OsmAnd&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-23 11:50:20 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>"temporary closed" Is there a time table for it.
+Are there deviation panels for bicycle node route 33-44 ...</text>
+      <html>&lt;p&gt;"temporary closed" Is there a time table for it.
+&lt;br /&gt;Are there deviation panels for bicycle node route 33-44 ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-24 15:57:43 UTC</date>
+      <uid>12806289</uid>
+      <user>T4om</user>
+      <user_url>https://api.openstreetmap.org/user/T4om</user_url>
+      <action>commented</action>
+      <text>sorry i don't know, otherwise i hade told you. the road is gone only loos grevel probly still from the old railroad. and ther are woodworking since that block you from taking the road. som info on a big sine but i can't read it.</text>
+      <html>&lt;p&gt;sorry i don't know, otherwise i hade told you. the road is gone only loos grevel probly still from the old railroad. and ther are woodworking since that block you from taking the road. som info on a big sine but i can't read it.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-24 15:58:41 UTC</date>
+      <uid>12806289</uid>
+      <user>T4om</user>
+      <user_url>https://api.openstreetmap.org/user/T4om</user_url>
+      <action>commented</action>
+      <text>if i see how it looks like now it will be many weeks before they finish </text>
+      <html>&lt;p&gt;if i see how it looks like now it will be many weeks before they finish &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-24 16:06:43 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>I set a barrier on it.
+https://www.openstreetmap.org/node/12134129601</text>
+      <html>&lt;p&gt;I set a barrier on it.
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/node/12134129601" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/12134129601&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

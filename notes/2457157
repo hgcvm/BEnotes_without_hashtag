@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4731198" lat="51.3728251">
+  <id>2457157</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2457157</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2457157/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2457157/close</close_url>
+  <date_created>2020-12-09 13:57:14 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-12-09 13:57:14 UTC</date>
+      <action>opened</action>
+      <text>Hele straat is zone 30</text>
+      <html>&lt;p&gt;Hele straat is zone 30&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-12-09 14:08:39 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>wat bedoel je met hele straat.... best altijd twee pinnen zetten begin en einde zodat wat er tussen zit niet voor verwaaring kan zorgen ;)</text>
+      <html>&lt;p&gt;wat bedoel je met hele straat.... best altijd twee pinnen zetten begin en einde zodat wat er tussen zit niet voor verwaaring kan zorgen ;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-12-09 14:11:06 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>eerste deel zone 30 to X
+https://www.openstreetmap.org/way/27172472</text>
+      <html>&lt;p&gt;eerste deel zone 30 to X
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/27172472" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/27172472&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-12-09 23:19:59 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/map/im/hF8R_dx66tfODkas8fZ5nA , helaas niet zichtbaar aan Gomans og Kapellensteenweg
+
+https://www.mapillary.com/map/im/14wQGlLHNPUZ6zaTZj7zow toont zo te zien verderop een pad (voorheen track?)</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/map/im/hF8R_dx66tfODkas8fZ5nA" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/hF8R_dx66tfODkas8fZ5nA&lt;/a&gt; , helaas niet zichtbaar aan Gomans og Kapellensteenweg&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.mapillary.com/map/im/14wQGlLHNPUZ6zaTZj7zow" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/map/im/14wQGlLHNPUZ6zaTZj7zow&lt;/a&gt; toont zo te zien verderop een pad (voorheen track?)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-22 07:30:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Om op te volgen, en uitgebreide omgeving te documenteren. 
+
+Hier treft men meer dan één zone_30 straat, kijkend naar dwarsstraten zijn er nog méér dan befietst; 
+
+Gewenst : een simpele manier om binnen iD de Bareelstraat, de Thillostraat, de Paridantlei, en diverse zijstraten waar geen bordje aangeeft dat zij niet-30 zijn, volledig correct te taggen - dat is inclusief hoe de beperking is aangegeven. 
+Noot : Gomarus van Geel ligt buiten de 30-zone.
+
+Terzijde : alhoewel ik graag fiets en wandel/hike, daarbij OSM als onderlegger gebruik, en in 't voorbijgaan veel opmerk, is achter de computer zitten niet mijn hobby, nieuwsgroepen en mailing-lists volgen al helemaal niet : indien google de info kan vinden met 'osm wiki zon-30' gebruik ik dat, maar  rondneuzen, ontdekken, zich verwonderen ... leuke termen voor het peuteronderwijs, niet voor hen, die het grootste deel van hun tijd op aarde achter zich hebben - al hoop ik, in 2050 te zien hoe effectief .... 
+</text>
+      <html>&lt;p&gt;Om op te volgen, en uitgebreide omgeving te documenteren. &lt;/p&gt;
+
+&lt;p&gt;Hier treft men meer dan één zone_30 straat, kijkend naar dwarsstraten zijn er nog méér dan befietst; &lt;/p&gt;
+
+&lt;p&gt;Gewenst : een simpele manier om binnen iD de Bareelstraat, de Thillostraat, de Paridantlei, en diverse zijstraten waar geen bordje aangeeft dat zij niet-30 zijn, volledig correct te taggen - dat is inclusief hoe de beperking is aangegeven. 
+&lt;br /&gt;Noot : Gomarus van Geel ligt buiten de 30-zone.&lt;/p&gt;
+
+&lt;p&gt;Terzijde : alhoewel ik graag fiets en wandel/hike, daarbij OSM als onderlegger gebruik, en in 't voorbijgaan veel opmerk, is achter de computer zitten niet mijn hobby, nieuwsgroepen en mailing-lists volgen al helemaal niet : indien google de info kan vinden met 'osm wiki zon-30' gebruik ik dat, maar  rondneuzen, ontdekken, zich verwonderen ... leuke termen voor het peuteronderwijs, niet voor hen, die het grootste deel van hun tijd op aarde achter zich hebben - al hoop ik, in 2050 te zien hoe effectief .... 
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-26 12:48:28 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Ondertussen prentjes opzij Leopoldstraat en Bareelstraat plus gebied ten noorden daarvan opgeladen; gebied van hier tot Beauvoislaan lijkt compleet - ook daarvan prentjes. 
+
+Vraag : is het nodig, elke way met 30 apart te bekijken, of kan men dergelijke duidelijke woonwijken 'en bloc' op 30 zetten? Heeft nadeel dat  men eventuele 'rat runs' niet zal vinden : dat is dan spijtig? </text>
+      <html>&lt;p&gt;Ondertussen prentjes opzij Leopoldstraat en Bareelstraat plus gebied ten noorden daarvan opgeladen; gebied van hier tot Beauvoislaan lijkt compleet - ook daarvan prentjes. &lt;/p&gt;
+
+&lt;p&gt;Vraag : is het nodig, elke way met 30 apart te bekijken, of kan men dergelijke duidelijke woonwijken 'en bloc' op 30 zetten? Heeft nadeel dat  men eventuele 'rat runs' niet zal vinden : dat is dan spijtig? &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

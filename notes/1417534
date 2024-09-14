@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6830053" lat="50.8523721">
+  <id>1417534</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1417534</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1417534/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1417534/close</close_url>
+  <date_created>2018-06-06 07:14:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2018-06-06 07:14:26 UTC</date>
+      <uid>436365</uid>
+      <user>escada</user>
+      <user_url>https://api.openstreetmap.org/user/escada</user_url>
+      <action>opened</action>
+      <text>vernieuwd fit-o-meter parcours: https://twitter.com/Boswachter_Marc/status/1004254425396011008</text>
+      <html>&lt;p&gt;vernieuwd fit-o-meter parcours: &lt;a href="https://twitter.com/Boswachter_Marc/status/1004254425396011008" rel="nofollow noopener noreferrer"&gt;https://twitter.com/Boswachter_Marc/status/1004254425396011008&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-29 15:01:12 UTC</date>
+      <uid>6219025</uid>
+      <user>T6IAUAI6BJS2TS7ILG6Q</user>
+      <user_url>https://api.openstreetmap.org/user/T6IAUAI6BJS2TS7ILG6Q</user_url>
+      <action>commented</action>
+      <text>ik heb de exacte locaties + nummering/volgorde opgeschreven, maar de infoborden over wat welk ding was, waren weggehaald (wss omwille van de pandemie). zet ik de punten er dan zo in, of wacht ik beter, of hoe zit het?</text>
+      <html>&lt;p&gt;ik heb de exacte locaties + nummering/volgorde opgeschreven, maar de infoborden over wat welk ding was, waren weggehaald (wss omwille van de pandemie). zet ik de punten er dan zo in, of wacht ik beter, of hoe zit het?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-29 15:14:06 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>is dit het oude fitometer parcours in relatie vorm.
+Ik zou deze al aanpassen en invoeren. 
+https://www.openstreetmap.org/relation/971636</text>
+      <html>&lt;p&gt;is dit het oude fitometer parcours in relatie vorm.
+&lt;br /&gt;Ik zou deze al aanpassen en invoeren. 
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/relation/971636" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/relation/971636&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-29 15:16:03 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>info hier ?
+https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dfitness_station</text>
+      <html>&lt;p&gt;info hier ?
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dfitness_station" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dfitness_station&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-06-30 21:06:06 UTC</date>
+      <uid>6219025</uid>
+      <user>T6IAUAI6BJS2TS7ILG6Q</user>
+      <user_url>https://api.openstreetmap.org/user/T6IAUAI6BJS2TS7ILG6Q</user_url>
+      <action>commented</action>
+      <text>thanks, heb het parcours aangepast, maar de locaties van de oefentuigdingen er nog niet ingezet</text>
+      <html>&lt;p&gt;thanks, heb het parcours aangepast, maar de locaties van de oefentuigdingen er nog niet ingezet&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-07-01 06:13:45 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Dit prg toont via het relatie ID nummer je aanpassing ;)
+http://ra.osmsurround.org/analyzeMap?relationId=971636</text>
+      <html>&lt;p&gt;Dit prg toont via het relatie ID nummer je aanpassing ;)
+&lt;br /&gt;&lt;a href="http://ra.osmsurround.org/analyzeMap?relationId=971636" rel="nofollow noopener noreferrer"&gt;http://ra.osmsurround.org/analyzeMap?relationId=971636&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-07-01 06:15:03 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>De start eventueel nr 1 bepaald door volgorde in de relatie... dacht ik</text>
+      <html>&lt;p&gt;De start eventueel nr 1 bepaald door volgorde in de relatie... dacht ik&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-07-04 00:51:17 UTC</date>
+      <uid>6219025</uid>
+      <user>T6IAUAI6BJS2TS7ILG6Q</user>
+      <user_url>https://api.openstreetmap.org/user/T6IAUAI6BJS2TS7ILG6Q</user_url>
+      <action>commented</action>
+      <text>heb de volgorde aangepast, duurt het even eer ra.osmsurround.org dit doorheeft?</text>
+      <html>&lt;p&gt;heb de volgorde aangepast, duurt het even eer ra.osmsurround.org dit doorheeft?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-11-24 10:45:29 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>zijn dat de nummering van toestellen ?
+https://www.openstreetmap.org/note/2947370#map=17/50.84709/4.68851&amp;layers=N</text>
+      <html>&lt;p&gt;zijn dat de nummering van toestellen ?
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/note/2947370#map=17/50.84709/4.68851&amp;amp;layers=N" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/2947370#map=17/50.84709/4.68851&amp;amp;layers=N&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-30 09:20:36 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>De toestellen staan op dit moment niet meer op OSM. Ik ben daar gisteren gepasseerd, zal de toestellen later nog toevoegen.</text>
+      <html>&lt;p&gt;De toestellen staan op dit moment niet meer op OSM. Ik ben daar gisteren gepasseerd, zal de toestellen later nog toevoegen.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

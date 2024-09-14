@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4743350" lat="51.1287469">
+  <id>4078922</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4078922</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4078922/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4078922/close</close_url>
+  <date_created>2024-01-20 17:52:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-20 17:52:10 UTC</date>
+      <uid>10752</uid>
+      <user>Filip</user>
+      <user_url>https://api.openstreetmap.org/user/Filip</user_url>
+      <action>opened</action>
+      <text>Kan iemand nakijken of deze zaak nog bestaat?
+https://bazarkekonkaz.be/ </text>
+      <html>&lt;p&gt;Kan iemand nakijken of deze zaak nog bestaat?
+&lt;br /&gt;&lt;a href="https://bazarkekonkaz.be/" rel="nofollow noopener noreferrer"&gt;https://bazarkekonkaz.be/&lt;/a&gt; &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 01:47:18 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Wanneer zou deze gesloten moeten zijn? Is nog zichtbaar op Mapillary van eind september 2023.</text>
+      <html>&lt;p&gt;Wanneer zou deze gesloten moeten zijn? Is nog zichtbaar op Mapillary van eind september 2023.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 01:51:53 UTC</date>
+      <uid>12066190</uid>
+      <user>pi11</user>
+      <user_url>https://api.openstreetmap.org/user/pi11</user_url>
+      <action>commented</action>
+      <text>Aha, nu zie ik het ook op de site. Winkel dicht maar gevelreclame gewoon gelaten? </text>
+      <html>&lt;p&gt;Aha, nu zie ik het ook op de site. Winkel dicht maar gevelreclame gewoon gelaten? &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-26 21:42:16 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>op https://www.bazarkekonkaz.be/ : "HET BAZARKE BLIJFT BESTAAN MAAR ONS WINKELTJE ZAL SPIJTIG GENOEG DICHTGAAN (vanaf 01/04/23)" ; toch op 9 feb'24 zo te zien nog drietal werkende automaten https://www.mapillary.com/app/?pKey=1162474718528827&amp;focus=photo</text>
+      <html>&lt;p&gt;op &lt;a href="https://www.bazarkekonkaz.be/" rel="nofollow noopener noreferrer"&gt;https://www.bazarkekonkaz.be/&lt;/a&gt; : "HET BAZARKE BLIJFT BESTAAN MAAR ONS WINKELTJE ZAL SPIJTIG GENOEG DICHTGAAN (vanaf 01/04/23)" ; toch op 9 feb'24 zo te zien nog drietal werkende automaten &lt;a href="https://www.mapillary.com/app/?pKey=1162474718528827&amp;amp;focus=photo" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1162474718528827&amp;amp;focus=photo&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4005217" lat="50.3420602">
+  <id>4165749</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4165749</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4165749/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4165749/close</close_url>
+  <date_created>2024-03-24 10:41:20 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-24 10:41:20 UTC</date>
+      <uid>8642829</uid>
+      <user>François Bronchart</user>
+      <user_url>https://api.openstreetmap.org/user/Fran%C3%A7ois%20Bronchart</user_url>
+      <action>opened</action>
+      <text>Ce sentier n'est plus un GR mais une propriété privée (WTF)
+
+via StreetComplete 57.1</text>
+      <html>&lt;p&gt;Ce sentier n'est plus un GR mais une propriété privée (WTF)&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 57.1&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-24 17:24:01 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>Bonjour, 
+Qq questions:
+1) l'avez-vous constaté sur place ?
+2) y a-t-il une source en ligne qui prouve votre observation?
+3) le GR passe par quels sentiers?
+Merci d'avance de votre réponse</text>
+      <html>&lt;p&gt;Bonjour, 
+&lt;br /&gt;Qq questions:
+&lt;br /&gt;1) l'avez-vous constaté sur place ?
+&lt;br /&gt;2) y a-t-il une source en ligne qui prouve votre observation?
+&lt;br /&gt;3) le GR passe par quels sentiers?
+&lt;br /&gt;Merci d'avance de votre réponse&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-26 09:34:37 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>commented</action>
+      <text>Le site du GR publie des update en pdf qui précise lorsque le parcours change</text>
+      <html>&lt;p&gt;Le site du GR publie des update en pdf qui précise lorsque le parcours change&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-26 12:25:07 UTC</date>
+      <uid>8642829</uid>
+      <user>François Bronchart</user>
+      <user_url>https://api.openstreetmap.org/user/Fran%C3%A7ois%20Bronchart</user_url>
+      <action>commented</action>
+      <text>Bonjour!
+1) Oui constaté sur place. Je suivais ce GR et je n'ai pas pu continuer car des barrières bloquaient le passage et le balisage a été déplacé.
+2) Je n'ai pas trouvé de source en ligne sur le site du GR (la modification est sans doute trop ancienne) mais dans la presse locale qui décrit un conflit entre les riverains et le propriétaire de la zone. https://www.telesambre.be/info/jamioulx-le-sentier-du-laury-de-la-gloire-la-discorde/43416
+3) J'ai dû retrouver le GR plus loin sans passer par l'intinéraire modifié donc je ne sais pas exactement par où il passe</text>
+      <html>&lt;p&gt;Bonjour!
+&lt;br /&gt;1) Oui constaté sur place. Je suivais ce GR et je n'ai pas pu continuer car des barrières bloquaient le passage et le balisage a été déplacé.
+&lt;br /&gt;2) Je n'ai pas trouvé de source en ligne sur le site du GR (la modification est sans doute trop ancienne) mais dans la presse locale qui décrit un conflit entre les riverains et le propriétaire de la zone. &lt;a href="https://www.telesambre.be/info/jamioulx-le-sentier-du-laury-de-la-gloire-la-discorde/43416" rel="nofollow noopener noreferrer"&gt;https://www.telesambre.be/info/jamioulx-le-sentier-du-laury-de-la-gloire-la-discorde/43416&lt;/a&gt;
+&lt;br /&gt;3) J'ai dû retrouver le GR plus loin sans passer par l'intinéraire modifié donc je ne sais pas exactement par où il passe&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

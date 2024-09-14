@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2917437" lat="51.1200965">
+  <id>4197206</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4197206</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4197206/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4197206/close</close_url>
+  <date_created>2024-04-14 08:26:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-14 08:26:47 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>opened</action>
+      <text>Redesign parking. Op luchtbeelden (nog) niets te zien. Sommige stukjes weg zijn verdwenen. Best survey te plaatse doen.</text>
+      <html>&lt;p&gt;Redesign parking. Op luchtbeelden (nog) niets te zien. Sommige stukjes weg zijn verdwenen. Best survey te plaatse doen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-03 09:57:17 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>Op de nieuwe (voorlopige) luchtfoto's is de nieuwe layout al te zien.</text>
+      <html>&lt;p&gt;Op de nieuwe (voorlopige) luchtfoto's is de nieuwe layout al te zien.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-03 11:48:16 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>Ik heb de update gedaan. Momenteel zijn de eerste drie parkeerstroken heraangelegd (of dat is toch wat te zien is op de beelden). Weet je toevallig als ze de volledige parking heraanleggen?</text>
+      <html>&lt;p&gt;Ik heb de update gedaan. Momenteel zijn de eerste drie parkeerstroken heraangelegd (of dat is toch wat te zien is op de beelden). Weet je toevallig als ze de volledige parking heraanleggen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-17 15:27:20 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>Ze zijn nog bezig met de heraanleg van de andere parkeervakken. Ook de bruggetjes zien er nieuw uit, dus locatie best ook opnieuw bekijk</text>
+      <html>&lt;p&gt;Ze zijn nog bezig met de heraanleg van de andere parkeervakken. Ook de bruggetjes zien er nieuw uit, dus locatie best ook opnieuw bekijk&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.1951869" lat="51.2066245">
+  <id>3042720</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3042720</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3042720/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3042720/close</close_url>
+  <date_created>2022-02-08 23:52:00 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-02-08 23:52:00 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Wordt verkaveld.
+
+https://besluitvorming.brugge.be/zittingen/21.0930.2563.6375/agendapunten/21.1203.2267.9955
+
+Straatnaam wordt: Andrée Algrainstraat. Deze Belgische kunstschilderes is geboren in Brugge, (25 maart 1905) en overleden te Brussel, (17 juli 1999). Ze woonde heel lang in de Niklaas Desparsstraat en stichtte in 1946 de kunstenaarsvereniging “Kring 46” met samenkomsten in Café Vlissinghe.
+
+Straatnaambord: Andrée Algrainstraat Kunstschilderes (1905 – 1999).
+
+name:etymology:wikidata=Q21637026</text>
+      <html>&lt;p&gt;Wordt verkaveld.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://besluitvorming.brugge.be/zittingen/21.0930.2563.6375/agendapunten/21.1203.2267.9955" rel="nofollow noopener noreferrer"&gt;https://besluitvorming.brugge.be/zittingen/21.0930.2563.6375/agendapunten/21.1203.2267.9955&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Straatnaam wordt: Andrée Algrainstraat. Deze Belgische kunstschilderes is geboren in Brugge, (25 maart 1905) en overleden te Brussel, (17 juli 1999). Ze woonde heel lang in de Niklaas Desparsstraat en stichtte in 1946 de kunstenaarsvereniging “Kring 46” met samenkomsten in Café Vlissinghe.&lt;/p&gt;
+
+&lt;p&gt;Straatnaambord: Andrée Algrainstraat Kunstschilderes (1905 – 1999).&lt;/p&gt;
+
+&lt;p&gt;name:etymology:wikidata=Q21637026&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-12 20:21:16 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>hoe staat het ondertussen met de verkaveling hier?</text>
+      <html>&lt;p&gt;hoe staat het ondertussen met de verkaveling hier?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

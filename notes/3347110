@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.5614719" lat="50.2685665">
+  <id>3347110</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3347110</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3347110/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3347110/close</close_url>
+  <date_created>2022-09-05 15:24:24 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-05 15:24:24 UTC</date>
+      <uid>2337040</uid>
+      <user>IIVQ</user>
+      <user_url>https://api.openstreetmap.org/user/IIVQ</user_url>
+      <action>opened</action>
+      <text>Futur Centre d'Interpretation du Tramway Vicinal, batiment avec 3 voies interieur</text>
+      <html>&lt;p&gt;Futur Centre d'Interpretation du Tramway Vicinal, batiment avec 3 voies interieur&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

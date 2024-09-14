@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7645600" lat="51.0169600">
+  <id>4372021</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4372021</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4372021/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4372021/close</close_url>
+  <date_created>2024-08-07 19:56:23 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-07 19:56:23 UTC</date>
+      <action>opened</action>
+      <text>fietsrek met 5 plaatsen</text>
+      <html>&lt;p&gt;fietsrek met 5 plaatsen&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

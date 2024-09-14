@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1963069" lat="50.9095287">
+  <id>2782803</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2782803</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2782803/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2782803/close</close_url>
+  <date_created>2021-08-02 14:33:34 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-08-02 14:33:34 UTC</date>
+      <action>opened</action>
+      <text>Hofveld doodlopende straat richting Bloklaan. Muurveld doodlopende straat richting rondpunt.</text>
+      <html>&lt;p&gt;Hofveld doodlopende straat richting Bloklaan. Muurveld doodlopende straat richting rondpunt.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-09-22 07:41:02 UTC</date>
+      <uid>279266</uid>
+      <user>Thorum</user>
+      <user_url>https://api.openstreetmap.org/user/Thorum</user_url>
+      <action>commented</action>
+      <text>tijdelijke situatie werken, na werken (eind 2022 +-) te hertekenen : Muurveld enkelrichting Nieuwstraat &gt; Boekfos, Bloklaan enkelrichting Boekfos &gt; Nieuwstraat, rondpunt verdwijnt
+https://www.asse.be/herinrichting-muurveld--hofveld--bloklaan</text>
+      <html>&lt;p&gt;tijdelijke situatie werken, na werken (eind 2022 +-) te hertekenen : Muurveld enkelrichting Nieuwstraat &amp;gt; Boekfos, Bloklaan enkelrichting Boekfos &amp;gt; Nieuwstraat, rondpunt verdwijnt
+&lt;br /&gt;&lt;a href="https://www.asse.be/herinrichting-muurveld--hofveld--bloklaan" rel="nofollow noopener noreferrer"&gt;https://www.asse.be/herinrichting-muurveld--hofveld--bloklaan&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-04-03 12:52:58 UTC</date>
+      <uid>2676725</uid>
+      <user>Ruben Van de Velde</user>
+      <user_url>https://api.openstreetmap.org/user/Ruben%20Van%20de%20Velde</user_url>
+      <action>commented</action>
+      <text>Nieuwe einddatum juli 2023</text>
+      <html>&lt;p&gt;Nieuwe einddatum juli 2023&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-12 17:00:31 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Zijn die werken intussen afgelopen?</text>
+      <html>&lt;p&gt;Zijn die werken intussen afgelopen?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-17 04:05:41 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>Works are finished ; theres also new modal filters, cyclestreets , oneway etc 
+Begin of the sequence : https://www.mapillary.com/app/?pKey=1076441026993304</text>
+      <html>&lt;p&gt;Works are finished ; theres also new modal filters, cyclestreets , oneway etc 
+&lt;br /&gt;Begin of the sequence : &lt;a href="https://www.mapillary.com/app/?pKey=1076441026993304" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1076441026993304&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-21 09:38:35 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>befietst 240520, rondpunt nu rechtgetrokken met groot rood fietsvlak; aan Hofveld bij Muurveld idd doodlopend bordje - prentjes 20 mei'24 zijn onderweg</text>
+      <html>&lt;p&gt;befietst 240520, rondpunt nu rechtgetrokken met groot rood fietsvlak; aan Hofveld bij Muurveld idd doodlopend bordje - prentjes 20 mei'24 zijn onderweg&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

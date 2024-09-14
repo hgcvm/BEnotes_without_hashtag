@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4925177" lat="51.1698385">
+  <id>3043948</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3043948</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3043948/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3043948/close</close_url>
+  <date_created>2022-02-09 19:40:50 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-02-09 19:40:50 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>'er komen ANPR cameras langs de Borsbeeksesteenweg van Boechout richting Borsbeek ; vermoedelijk binnen enkele maanden in werking', 'zal starten aan tramterminal Kapenberg in Boechout tot aan de Corluylei in Borsbeek' , burgemeester T'Seijen vertelt : 'we zijn al tijdje bezig -over de hele zone Minos- ANPR-cameras te installeren, in eerste plaats in functie criminaliteit bestrijding, maar vragen ook in te zetten op snelheidscontroles ; op de Borsbeeksesteenweg mag maar 50 worden gereden ; en we bekijken of we ook kunnen controleren op tonnage verbod' </text>
+      <html>&lt;p&gt;'er komen ANPR cameras langs de Borsbeeksesteenweg van Boechout richting Borsbeek ; vermoedelijk binnen enkele maanden in werking', 'zal starten aan tramterminal Kapenberg in Boechout tot aan de Corluylei in Borsbeek' , burgemeester T'Seijen vertelt : 'we zijn al tijdje bezig -over de hele zone Minos- ANPR-cameras te installeren, in eerste plaats in functie criminaliteit bestrijding, maar vragen ook in te zetten op snelheidscontroles ; op de Borsbeeksesteenweg mag maar 50 worden gereden ; en we bekijken of we ook kunnen controleren op tonnage verbod' &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-02-09 19:47:10 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>'Om op te volgen': bij nader bekijken https://www.mapillary.com/app/?pKey=469984787628767 is 5,5t pas na 300m, terwijl eerste deel op OSM op 3,5 staat : even langs te springen, maar dat is niet voor vandaag</text>
+      <html>&lt;p&gt;'Om op te volgen': bij nader bekijken &lt;a href="https://www.mapillary.com/app/?pKey=469984787628767" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=469984787628767&lt;/a&gt; is 5,5t pas na 300m, terwijl eerste deel op OSM op 3,5 staat : even langs te springen, maar dat is niet voor vandaag&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-02-10 23:02:17 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Bezocht, 3,5t vanaf aanvang Borsbeek. </text>
+      <html>&lt;p&gt;Bezocht, 3,5t vanaf aanvang Borsbeek. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 11:24:46 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>kan je anpr cameras mappen? of hulp nodig?</text>
+      <html>&lt;p&gt;kan je anpr cameras mappen? of hulp nodig?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

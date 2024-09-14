@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5608711" lat="51.4135035">
+  <id>2927479</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2927479</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2927479/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2927479/close</close_url>
+  <date_created>2021-11-08 08:39:08 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-11-08 08:39:08 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>Deze bos-omgeving kan wat survey-werk gebruiken! Ik heb een aantal paden kunnen toevoegen met wegenregister, lidar en strava, maar er zijn er wellicht nog. Het lijkt er ook op dat er een hoop oude boswegen toegegroeid zijn. Die kunnen misschien best gemapped worden als man_made=cutline om expliciet te maken dat de weg niet meer bestaat</text>
+      <html>&lt;p&gt;Deze bos-omgeving kan wat survey-werk gebruiken! Ik heb een aantal paden kunnen toevoegen met wegenregister, lidar en strava, maar er zijn er wellicht nog. Het lijkt er ook op dat er een hoop oude boswegen toegegroeid zijn. Die kunnen misschien best gemapped worden als man_made=cutline om expliciet te maken dat de weg niet meer bestaat&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-03 19:07:44 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Zondag 3 juli omwandeld, prentjes zijpaden geven beeld geen toegang , en mate van overgroeidheid. </text>
+      <html>&lt;p&gt;Zondag 3 juli omwandeld, prentjes zijpaden geven beeld geen toegang , en mate van overgroeidheid. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

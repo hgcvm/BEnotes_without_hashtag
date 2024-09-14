@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6554486" lat="50.6937562">
+  <id>3078043</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3078043</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3078043/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3078043/close</close_url>
+  <date_created>2022-03-07 13:07:04 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-03-07 13:07:04 UTC</date>
+      <action>opened</action>
+      <text>Cette piste n'existe plus et doit être supprimé</text>
+      <html>&lt;p&gt;Cette piste n'existe plus et doit être supprimé&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-03-17 13:01:34 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Several tracks near here were deleted. You can still see them at http://overpass-turbo.eu/s/1swJ
+Because some of these do seem to be edge cases (visible on lidar and strava), it would be useful to do a local survey here. </text>
+      <html>&lt;p&gt;Several tracks near here were deleted. You can still see them at &lt;a href="http://overpass-turbo.eu/s/1swJ" rel="nofollow noopener noreferrer"&gt;http://overpass-turbo.eu/s/1swJ&lt;/a&gt;
+&lt;br /&gt;Because some of these do seem to be edge cases (visible on lidar and strava), it would be useful to do a local survey here. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 20:12:16 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

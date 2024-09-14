@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7569299" lat="50.7499792">
+  <id>3797854</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3797854</url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/3797854/reopen</reopen_url>
+  <date_created>2023-07-25 07:52:23 UTC</date_created>
+  <status>closed</status>
+  <date_closed>2024-04-22 13:02:35 UTC</date_closed>
+  <comments>
+    <comment>
+      <date>2023-07-25 07:52:23 UTC</date>
+      <action>opened</action>
+      <text>Tournibois</text>
+      <html>&lt;p&gt;Tournibois&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-22 13:02:35 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>closed</action>
+      <text>fixed</text>
+      <html>&lt;p&gt;fixed&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-22 13:02:35 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>fixed</text>
+      <html>&lt;p&gt;fixed&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3883667" lat="51.2100002">
+  <id>4283687</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4283687</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4283687/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4283687/close</close_url>
+  <date_created>2024-06-08 13:17:59 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-08 13:17:59 UTC</date>
+      <uid>13383776</uid>
+      <user>ThVerhulst</user>
+      <user_url>https://api.openstreetmap.org/user/ThVerhulst</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Is this still here?" – Hof van Beroep (Courthouse) – https://osm.org/way/47361032 via StreetComplete 58.0:
+
+Net webg hier...
+
+Attached photo(s):
+https://westnordost.de/p/217132.jpg</text>
+      <html>&lt;p&gt;Unable to answer "Is this still here?" – Hof van Beroep (Courthouse) – &lt;a href="https://osm.org/way/47361032" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/47361032&lt;/a&gt; via StreetComplete 58.0:&lt;/p&gt;
+
+&lt;p&gt;Net webg hier...&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/217132.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/217132.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

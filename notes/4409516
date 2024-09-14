@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1758937" lat="50.4754819">
+  <id>4409516</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4409516</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4409516/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4409516/close</close_url>
+  <date_created>2024-08-29 18:49:39 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-29 18:49:39 UTC</date>
+      <uid>21900556</uid>
+      <user>Purplewolf10</user>
+      <user_url>https://api.openstreetmap.org/user/Purplewolf10</user_url>
+      <action>opened</action>
+      <text>Placette avec des places de parkings,uniquement carrossable depuis la rue Rose Anne Meuter.</text>
+      <html>&lt;p&gt;Placette avec des places de parkings,uniquement carrossable depuis la rue Rose Anne Meuter.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-02 11:15:29 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>pouvez-vous ajouter des images? avez-vous déjà entendu parler de Mapillary?
+https://www.mapillary.com/app/?lat=50.475226388889&amp;lng=4.1810530555556&amp;z=15.728139603379276&amp;focus=photo&amp;pKey=2299753153489935</text>
+      <html>&lt;p&gt;pouvez-vous ajouter des images? avez-vous déjà entendu parler de Mapillary?
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?lat=50.475226388889&amp;amp;lng=4.1810530555556&amp;amp;z=15.728139603379276&amp;amp;focus=photo&amp;amp;pKey=2299753153489935" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?lat=50.475226388889&amp;amp;lng=4.1810530555556&amp;amp;z=15.728139603379276&amp;amp;focus=photo&amp;amp;pKey=2299753153489935&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-02 14:21:39 UTC</date>
+      <uid>21900556</uid>
+      <user>Purplewolf10</user>
+      <user_url>https://api.openstreetmap.org/user/Purplewolf10</user_url>
+      <action>commented</action>
+      <text>https://www.google.be/maps/@50.4754888,4.1762642,3a,75y,252.02h,68.59t/data=!3m6!1e1!3m4!1sULy48hW-gFGHzeJVld-zPQ!2e0!7i16384!8i8192?coh=205409&amp;entry=ttu&amp;g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D Non jamais entendu parler et je sais pas accéder à votre lien.</text>
+      <html>&lt;p&gt;&lt;a href="https://www.google.be/maps/@50.4754888,4.1762642,3a,75y,252.02h,68.59t/data=!3m6!1e1!3m4!1sULy48hW-gFGHzeJVld-zPQ!2e0!7i16384!8i8192?coh=205409&amp;amp;entry=ttu&amp;amp;g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D" rel="nofollow noopener noreferrer"&gt;https://www.google.be/maps/@50.4754888,4.1762642,3a,75y,252.02h,68.59t/data=!3m6!1e1!3m4!1sULy48hW-gFGHzeJVld-zPQ!2e0!7i16384!8i8192?coh=205409&amp;amp;entry=ttu&amp;amp;g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D&lt;/a&gt; Non jamais entendu parler et je sais pas accéder à votre lien.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-02 19:55:19 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>on ne peut pas utiliser les liens ou les images de Google (copyright)</text>
+      <html>&lt;p&gt;on ne peut pas utiliser les liens ou les images de Google (copyright)&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

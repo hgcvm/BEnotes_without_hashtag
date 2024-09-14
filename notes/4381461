@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.7731400" lat="50.8545000">
+  <id>4381461</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4381461</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4381461/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4381461/close</close_url>
+  <date_created>2024-08-13 10:14:18 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-08-13 10:14:18 UTC</date>
+      <action>opened</action>
+      <text>als we de logica van de weg ten zuiden van de spoorweg volgen, heeft ook deze straat aan kant Poperinge de naam Lindegoedstraat. Er is echter geen naambordje dat dit bevestigt (aangezien er geen huizen staan)</text>
+      <html>&lt;p&gt;als we de logica van de weg ten zuiden van de spoorweg volgen, heeft ook deze straat aan kant Poperinge de naam Lindegoedstraat. Er is echter geen naambordje dat dit bevestigt (aangezien er geen huizen staan)&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3403706" lat="50.8157014">
+  <id>3801692</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3801692</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3801692/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3801692/close</close_url>
+  <date_created>2023-07-27 09:36:22 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-27 09:36:22 UTC</date>
+      <uid>18573699</uid>
+      <user>Alcatraz🤘</user>
+      <user_url>https://api.openstreetmap.org/user/Alcatraz%F0%9F%A4%98</user_url>
+      <action>opened</action>
+      <text>Overgang klinkers (richting nr 45) en asfalt
+
+via StreetComplete 53.3
+
+Attached photo(s):
+https://westnordost.de/p/163553.jpg</text>
+      <html>&lt;p&gt;Overgang klinkers (richting nr 45) en asfalt&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 53.3&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/163553.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/163553.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-27 10:42:26 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Op foto niet te achterhalen waar die scheiding gelegen is.   </text>
+      <html>&lt;p&gt;Op foto niet te achterhalen waar die scheiding gelegen is.   &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

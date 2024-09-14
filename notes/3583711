@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4547844" lat="51.2204458">
+  <id>3583711</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3583711</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3583711/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3583711/close</close_url>
+  <date_created>2023-03-04 09:05:02 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-03-04 09:05:02 UTC</date>
+      <action>opened</action>
+      <text>Werken aanstaande : https://www.antwerpenmorgen.be/nl/projecten/lakborslei/over</text>
+      <html>&lt;p&gt;Werken aanstaande : &lt;a href="https://www.antwerpenmorgen.be/nl/projecten/lakborslei/over" rel="nofollow noopener noreferrer"&gt;https://www.antwerpenmorgen.be/nl/projecten/lakborslei/over&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-05 09:04:11 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>graag nieuwe note maken met de concrete vraag wat er juist dient aangepast te worden</text>
+      <html>&lt;p&gt;graag nieuwe note maken met de concrete vraag wat er juist dient aangepast te worden&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 11:23:55 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 11:40:12 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Waarde Thierry, 
+Hier verschillen wij van inzicht: het betreft de volle lengte en breedte van de Lakborslei: uw opwekking 'aparte notes' lijkt een uitnodiging elk afzonderlijk element in nootje te vatten - dat is in tegenspraak met plan notes op te lossen?
+
+op https://www.antwerpenmorgen.be/nl/projecten/lakborslei/doe-mee/lakborslei-voorstellen-def-ontwerp-20220329 treft u onderaan detail plannen: nieuwe vrijliggende fietspaden, zebrapaden en verkeerslichten; daarboven middeneilanden en verkeerskussens, verkeerslichten, herinrichting Rodekruisplein , 5m brede ecologische groenzone - en nog zo 't een en ander gemarkeerd; 
+
+wel lijkt die PDF in eerste instantie handreiking aan rondfietsende Mapillarianen wáár op te letten ; 
+
+Werken zijn -waren althans recent- nog niet gestart. </text>
+      <html>&lt;p&gt;Waarde Thierry, 
+&lt;br /&gt;Hier verschillen wij van inzicht: het betreft de volle lengte en breedte van de Lakborslei: uw opwekking 'aparte notes' lijkt een uitnodiging elk afzonderlijk element in nootje te vatten - dat is in tegenspraak met plan notes op te lossen?&lt;/p&gt;
+
+&lt;p&gt;op &lt;a href="https://www.antwerpenmorgen.be/nl/projecten/lakborslei/doe-mee/lakborslei-voorstellen-def-ontwerp-20220329" rel="nofollow noopener noreferrer"&gt;https://www.antwerpenmorgen.be/nl/projecten/lakborslei/doe-mee/lakborslei-voorstellen-def-ontwerp-20220329&lt;/a&gt; treft u onderaan detail plannen: nieuwe vrijliggende fietspaden, zebrapaden en verkeerslichten; daarboven middeneilanden en verkeerskussens, verkeerslichten, herinrichting Rodekruisplein , 5m brede ecologische groenzone - en nog zo 't een en ander gemarkeerd; &lt;/p&gt;
+
+&lt;p&gt;wel lijkt die PDF in eerste instantie handreiking aan rondfietsende Mapillarianen wáár op te letten ; &lt;/p&gt;
+
+&lt;p&gt;Werken zijn -waren althans recent- nog niet gestart. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-13 07:48:54 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>de werken zijn gestart, nu kan een note gemaakt worden</text>
+      <html>&lt;p&gt;de werken zijn gestart, nu kan een note gemaakt worden&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

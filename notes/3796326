@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.6638600" lat="50.8597500">
+  <id>3796326</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3796326</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3796326/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3796326/close</close_url>
+  <date_created>2023-07-24 11:22:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-07-24 11:22:12 UTC</date>
+      <action>opened</action>
+      <text>Volgens Wikipedia is de spelling van deze plaatsnaam de volgende: Sint-Jan-ter-Biezen.
+Op het bebouwdekombord op de Watouseweg staat Ter met hoofdletter T, maar eveneens met 3 - streepjes</text>
+      <html>&lt;p&gt;Volgens Wikipedia is de spelling van deze plaatsnaam de volgende: Sint-Jan-ter-Biezen.
+&lt;br /&gt;Op het bebouwdekombord op de Watouseweg staat Ter met hoofdletter T, maar eveneens met 3 - streepjes&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-07-24 12:15:31 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Kan je de link naar dat bord eventueel doorsturen ?
+oficiele adressen huizen tonen:
+Sint-Jan-ter-Biezen
+Stad Poperinge vertoont ook:
+https://www.poperinge.be/bewonersplatform-sint-jan-ter_biezen</text>
+      <html>&lt;p&gt;Kan je de link naar dat bord eventueel doorsturen ?
+&lt;br /&gt;oficiele adressen huizen tonen:
+&lt;br /&gt;Sint-Jan-ter-Biezen
+&lt;br /&gt;Stad Poperinge vertoont ook:
+&lt;br /&gt;&lt;a href="https://www.poperinge.be/bewonersplatform-sint-jan-ter_biezen" rel="nofollow noopener noreferrer"&gt;https://www.poperinge.be/bewonersplatform-sint-jan-ter_biezen&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

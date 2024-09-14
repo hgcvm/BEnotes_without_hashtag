@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.6983362" lat="51.1424353">
+  <id>4353568</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4353568</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4353568/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4353568/close</close_url>
+  <date_created>2024-07-27 11:08:24 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-27 11:08:24 UTC</date>
+      <uid>20578352</uid>
+      <user>olecky</user>
+      <user_url>https://api.openstreetmap.org/user/olecky</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What’s the surface here?" – Path – https://osm.org/way/1185270826 via StreetComplete 58.2:
+
+Rubber mats</text>
+      <html>&lt;p&gt;Unable to answer "What’s the surface here?" – Path – &lt;a href="https://osm.org/way/1185270826" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/1185270826&lt;/a&gt; via StreetComplete 58.2:&lt;/p&gt;
+
+&lt;p&gt;Rubber mats&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-27 12:59:04 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>mm blijven die die gans het jaar liggen ?</text>
+      <html>&lt;p&gt;mm blijven die die gans het jaar liggen ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-27 18:26:28 UTC</date>
+      <uid>20578352</uid>
+      <user>olecky</user>
+      <user_url>https://api.openstreetmap.org/user/olecky</user_url>
+      <action>commented</action>
+      <text>dat weet ik niet. Maar ik zie ze ook op foto's van 2023: https://www.mapillary.com/app/?pKey=999446141188434</text>
+      <html>&lt;p&gt;dat weet ik niet. Maar ik zie ze ook op foto's van 2023: &lt;a href="https://www.mapillary.com/app/?pKey=999446141188434" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=999446141188434&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3721080" lat="51.1962081">
+  <id>2190235</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2190235</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2190235/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2190235/close</close_url>
+  <date_created>2020-05-12 12:15:16 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-05-12 12:15:16 UTC</date>
+      <action>opened</action>
+      <text>De Groothandelsmarkt is grondig veranderd, aantal zijwegen, nieuwe gebouwen, vrijliggende stukje fietspad dat nergens op aansluit. Survey gewenst.Note ter herinnering tot werken voltooid?</text>
+      <html>&lt;p&gt;De Groothandelsmarkt is grondig veranderd, aantal zijwegen, nieuwe gebouwen, vrijliggende stukje fietspad dat nergens op aansluit. Survey gewenst.Note ter herinnering tot werken voltooid?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-09-28 15:55:52 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Outline GH-gebouw aangepast aan AIV lucht, een nieuw gebouw al ingetekend, rest afwachten</text>
+      <html>&lt;p&gt;Outline GH-gebouw aangepast aan AIV lucht, een nieuw gebouw al ingetekend, rest afwachten&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-10-06 10:35:59 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Werken voltooid, gezien preliminary en most recent AIC lucht : in hoofdzaak gemapt. </text>
+      <html>&lt;p&gt;Werken voltooid, gezien preliminary en most recent AIC lucht : in hoofdzaak gemapt. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

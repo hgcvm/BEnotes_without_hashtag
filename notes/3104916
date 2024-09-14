@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7332399" lat="51.0435716">
+  <id>3104916</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3104916</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3104916/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3104916/close</close_url>
+  <date_created>2022-03-26 17:06:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-03-26 17:06:25 UTC</date>
+      <uid>13105061</uid>
+      <user>Foxie Boi</user>
+      <user_url>https://api.openstreetmap.org/user/Foxie%20Boi</user_url>
+      <action>opened</action>
+      <text>Parking hier is kiss en ride parking. Dus geen blijvend parkeren mogelijk
+
+via StreetComplete 41.2</text>
+      <html>&lt;p&gt;Parking hier is kiss en ride parking. Dus geen blijvend parkeren mogelijk&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 41.2&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-03-26 19:43:15 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Kiss en Ride benaming is niet voldoende (zou niet bestaan in wegcode) https://adoc.pub/een-kiss-and-ride-strook-in-de-omgeving-van-openbare-gebouwe.html</text>
+      <html>&lt;p&gt;Kiss en Ride benaming is niet voldoende (zou niet bestaan in wegcode) &lt;a href="https://adoc.pub/een-kiss-and-ride-strook-in-de-omgeving-van-openbare-gebouwe.html" rel="nofollow noopener noreferrer"&gt;https://adoc.pub/een-kiss-and-ride-strook-in-de-omgeving-van-openbare-gebouwe.html&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-03-26 20:04:26 UTC</date>
+      <uid>13105061</uid>
+      <user>Foxie Boi</user>
+      <user_url>https://api.openstreetmap.org/user/Foxie%20Boi</user_url>
+      <action>commented</action>
+      <text>Er staat ook een niet-parkeren bord (E1). Kan dat dan aangeduid worden?
+Het is dus "officieel" enkel voor laden en lossen.</text>
+      <html>&lt;p&gt;Er staat ook een niet-parkeren bord (E1). Kan dat dan aangeduid worden?
+&lt;br /&gt;Het is dus "officieel" enkel voor laden en lossen.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-03-27 06:34:14 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Ik zou alvast verkeersbord omzetten in code Maar als daar "Kiss &amp; Ride" onderstaat behouden.
+https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/E_Parking_signs#E1</text>
+      <html>&lt;p&gt;Ik zou alvast verkeersbord omzetten in code Maar als daar "Kiss &amp;amp; Ride" onderstaat behouden.
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/E_Parking_signs#E1" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Road_signs_in_Belgium/E_Parking_signs#E1&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-03-27 09:17:51 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Missing ook parking_space gebruiken ipv parking ?</text>
+      <html>&lt;p&gt;Missing ook parking_space gebruiken ipv parking ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-22 14:34:15 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Ik zou inderdaad de situatie opgelegd door het bord E1 mappen. Daarnaast hebben “kiss &amp; ride”-zones typisch een limiet op hoe lang je er kan parkeren, wat natuurlijk wél gemapt kan worden. Enig idee of dat hier het geval is?</text>
+      <html>&lt;p&gt;Ik zou inderdaad de situatie opgelegd door het bord E1 mappen. Daarnaast hebben “kiss &amp;amp; ride”-zones typisch een limiet op hoe lang je er kan parkeren, wat natuurlijk wél gemapt kan worden. Enig idee of dat hier het geval is?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

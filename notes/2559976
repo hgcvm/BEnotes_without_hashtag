@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4930300" lat="51.2010906">
+  <id>2559976</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2559976</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2559976/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2559976/close</close_url>
+  <date_created>2021-02-28 20:03:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-02-28 20:03:06 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Hier is de rijweg onderbroken, middels afrastering en poort; het betreft gemeentewerf, en is wegens afgesloten poort niet beschikbaar als pedestrian area. </text>
+      <html>&lt;p&gt;Hier is de rijweg onderbroken, middels afrastering en poort; het betreft gemeentewerf, en is wegens afgesloten poort niet beschikbaar als pedestrian area. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-01 08:07:31 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>tijdelijk afrastering ...voor hoelang ... welk deel ontoegankelijk...Kan men dan van de andere kant er nog naat toe ...</text>
+      <html>&lt;p&gt;tijdelijk afrastering ...voor hoelang ... welk deel ontoegankelijk...Kan men dan van de andere kant er nog naat toe ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-01 09:36:35 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Afgelopen 2wkn diverse forten bekeken, prentjes zijn opgeladen dochzoals gebruikelijk nog niet zichtbaar op Mapillary. 
+
+Prentjes evenmin zichtbaar op de Mapillary laag in iD editor. 
+
+Hek ziet er permanent uit, aantal dagen wachten tot ... </text>
+      <html>&lt;p&gt;Afgelopen 2wkn diverse forten bekeken, prentjes zijn opgeladen dochzoals gebruikelijk nog niet zichtbaar op Mapillary. &lt;/p&gt;
+
+&lt;p&gt;Prentjes evenmin zichtbaar op de Mapillary laag in iD editor. &lt;/p&gt;
+
+&lt;p&gt;Hek ziet er permanent uit, aantal dagen wachten tot ... &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 16:19:01 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>hoe zit het hier ondertussen er nog mee?</text>
+      <html>&lt;p&gt;hoe zit het hier ondertussen er nog mee?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-11 22:13:56 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Dit 'voetgangersgebied' was mogelijk ooit eens open tijdens een zomerfestival, treft men sindsdien altijd achter scheermesjesdraad en rasters, zie https://www.mapillary.com/app/?pKey=573505637912380</text>
+      <html>&lt;p&gt;Dit 'voetgangersgebied' was mogelijk ooit eens open tijdens een zomerfestival, treft men sindsdien altijd achter scheermesjesdraad en rasters, zie &lt;a href="https://www.mapillary.com/app/?pKey=573505637912380" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=573505637912380&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

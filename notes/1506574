@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.7993946" lat="51.0970457">
+  <id>1506574</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1506574</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1506574/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1506574/close</close_url>
+  <date_created>2018-08-29 09:56:04 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2018-08-29 09:56:04 UTC</date>
+      <uid>2029979</uid>
+      <user>koninklijke</user>
+      <user_url>https://api.openstreetmap.org/user/koninklijke</user_url>
+      <action>opened</action>
+      <text>wandelroute van wkp 37 naar nieuwe locatie wkp 70 in kaart brengen</text>
+      <html>&lt;p&gt;wandelroute van wkp 37 naar nieuwe locatie wkp 70 in kaart brengen&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-09-24 17:09:09 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Ook hier prentjes bezoek voor enkele weken van de gekende namen op de gekende plaats.</text>
+      <html>&lt;p&gt;Ook hier prentjes bezoek voor enkele weken van de gekende namen op de gekende plaats.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

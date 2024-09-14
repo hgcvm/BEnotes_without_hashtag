@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2631639" lat="50.7683285">
+  <id>3156579</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3156579</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3156579/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3156579/close</close_url>
+  <date_created>2022-04-28 15:57:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-04-28 15:57:10 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Hier staat er waarschijnlijk een picknicktafel. Als je in de buurt bent, kan je dan controleren of de picknicktafel bestaat of niet? Kan je indien nodig de positie nauwkeuriger mappen?
+
+Original data from Westtoer
+More information about this import can be found at https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Imports/Toerisme_Vlaanderen
+
+Add this point easily with MapComplete:
+https://mapcomplete.osm.be/toerisme_vlaanderen.html?z=18&amp;lat=50.76832849141&amp;lon=3.26316385102#import
+leisure=picnic_table</text>
+      <html>&lt;p&gt;Hier staat er waarschijnlijk een picknicktafel. Als je in de buurt bent, kan je dan controleren of de picknicktafel bestaat of niet? Kan je indien nodig de positie nauwkeuriger mappen?&lt;/p&gt;
+
+&lt;p&gt;Original data from Westtoer
+&lt;br /&gt;More information about this import can be found at &lt;a href="https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Imports/Toerisme_Vlaanderen" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Imports/Toerisme_Vlaanderen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Add this point easily with MapComplete:
+&lt;br /&gt;&lt;a href="https://mapcomplete.osm.be/toerisme_vlaanderen.html?z=18&amp;amp;lat=50.76832849141&amp;amp;lon=3.26316385102#import" rel="nofollow noopener noreferrer"&gt;https://mapcomplete.osm.be/toerisme_vlaanderen.html?z=18&amp;amp;lat=50.76832849141&amp;amp;lon=3.26316385102#import&lt;/a&gt;
+&lt;br /&gt;leisure=picnic_table&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-05-18 07:33:59 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>Afgaand op luchtfoto's en straatbeelden lijkt deze bank af en toe eens van positie te veranderen. Hoe mappen we deze dan?</text>
+      <html>&lt;p&gt;Afgaand op luchtfoto's en straatbeelden lijkt deze bank af en toe eens van positie te veranderen. Hoe mappen we deze dan?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

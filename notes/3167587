@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.7413220" lat="51.1455270">
+  <id>3167587</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3167587</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3167587/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3167587/close</close_url>
+  <date_created>2022-05-06 10:31:44 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-05-06 10:31:44 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Kinderknooppuntennetwerk (veilige fietsrotues voor kinderen) in een aantal kernen van de gemeente Kinrooi bewegwijzerd https://www.kinrooi.be/KKPN</text>
+      <html>&lt;p&gt;Kinderknooppuntennetwerk (veilige fietsrotues voor kinderen) in een aantal kernen van de gemeente Kinrooi bewegwijzerd &lt;a href="https://www.kinrooi.be/KKPN" rel="nofollow noopener noreferrer"&gt;https://www.kinrooi.be/KKPN&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-24 11:40:16 UTC</date>
+      <uid>21882020</uid>
+      <user>LimmeV</user>
+      <user_url>https://api.openstreetmap.org/user/LimmeV</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-24 17:41:33 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

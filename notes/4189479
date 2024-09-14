@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3683075" lat="51.0866078">
+  <id>4189479</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4189479</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4189479/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4189479/close</close_url>
+  <date_created>2024-04-08 17:52:24 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-08 17:52:24 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>opened</action>
+      <text>Hier ergens in de straat zijn gebouwen afgebroken...</text>
+      <html>&lt;p&gt;Hier ergens in de straat zijn gebouwen afgebroken...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-04 21:14:40 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>gelieve een foto/bron toe te voegen om uw stelling te onderbouwen ...</text>
+      <html>&lt;p&gt;gelieve een foto/bron toe te voegen om uw stelling te onderbouwen ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-05 06:08:25 UTC</date>
+      <uid>2769604</uid>
+      <user>koenstr</user>
+      <user_url>https://api.openstreetmap.org/user/koenstr</user_url>
+      <action>commented</action>
+      <text>Ik heb het zelf gezien bij het passeren.  Een stelling heb ik niet gezien, dat zal er pas staan bij een eventuele heropbouw vermoed ik.</text>
+      <html>&lt;p&gt;Ik heb het zelf gezien bij het passeren.  Een stelling heb ik niet gezien, dat zal er pas staan bij een eventuele heropbouw vermoed ik.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-08 17:32:01 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Komen er aan, ook die andere werf. </text>
+      <html>&lt;p&gt;Komen er aan, ook die andere werf. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-13 07:18:51 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Merkwaardig, dit is de tweede plek waar prentjes niet te vinden zijn - andere is 11 aug'24 in Temse</text>
+      <html>&lt;p&gt;Merkwaardig, dit is de tweede plek waar prentjes niet te vinden zijn - andere is 11 aug'24 in Temse&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

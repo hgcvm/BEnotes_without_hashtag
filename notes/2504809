@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.0662799" lat="51.1693474">
+  <id>2504809</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2504809</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2504809/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2504809/close</close_url>
+  <date_created>2021-01-20 08:29:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-01-20 08:29:25 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>opened</action>
+      <text>Hier komen nieuwe woningen en nieuwe straten (Ter Weiden) https://www.jabbeke.be/Details.aspx?detail=28732
+Voorlopig nog niet te zien op luchtbeelden.</text>
+      <html>&lt;p&gt;Hier komen nieuwe woningen en nieuwe straten (Ter Weiden) &lt;a href="https://www.jabbeke.be/Details.aspx?detail=28732" rel="nofollow noopener noreferrer"&gt;https://www.jabbeke.be/Details.aspx?detail=28732&lt;/a&gt;
+&lt;br /&gt;Voorlopig nog niet te zien op luchtbeelden.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-02-21 10:54:48 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>survey 21/02/2022: momenteel nog weiland</text>
+      <html>&lt;p&gt;survey 21/02/2022: momenteel nog weiland&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-05-20 23:25:02 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>commented</action>
+      <text>survey 20/05/2023: nog steeds weiland</text>
+      <html>&lt;p&gt;survey 20/05/2023: nog steeds weiland&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-05 12:27:34 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>Na 3 jaar nog steeds niets te zien, maar recent was er een nieuwe omgevingsvergunning. Project zal er uiteindelijk dus wel misschien nog komen https://w.jabbeke.be/Details.aspx?detail=32265</text>
+      <html>&lt;p&gt;Na 3 jaar nog steeds niets te zien, maar recent was er een nieuwe omgevingsvergunning. Project zal er uiteindelijk dus wel misschien nog komen &lt;a href="https://w.jabbeke.be/Details.aspx?detail=32265" rel="nofollow noopener noreferrer"&gt;https://w.jabbeke.be/Details.aspx?detail=32265&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 19:52:49 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #FollowUp</text>
+      <html>&lt;p&gt;#OSMBE #FollowUp&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.5260700" lat="50.9853600">
+  <id>4023583</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4023583</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4023583/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4023583/close</close_url>
+  <date_created>2023-12-11 13:12:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-11 13:12:13 UTC</date>
+      <action>opened</action>
+      <text>volgens de definitie van een mini_roundabout is dit er één van. Er staat niets in het midden, en er zijn geen verkeersborden die wijzen op het tegenwijzerszin rijden.
+https://wiki.openstreetmap.org/wiki/Tag:highway%3Dmini_roundabout#Possible_misinterpretations</text>
+      <html>&lt;p&gt;volgens de definitie van een mini_roundabout is dit er één van. Er staat niets in het midden, en er zijn geen verkeersborden die wijzen op het tegenwijzerszin rijden.
+&lt;br /&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:highway%3Dmini_roundabout#Possible_misinterpretations" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:highway%3Dmini_roundabout#Possible_misinterpretations&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-12-11 14:24:11 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Volgens recenste beelden is dit een verhoging met boord steentje volgens jouw mag men er altijd los overrijden ? De voorstelling op osm krt zou dan een T kruispunt zin met als snijpunt highway=mini_roundabout want deze kan maar gezet worden op node</text>
+      <html>&lt;p&gt;Volgens recenste beelden is dit een verhoging met boord steentje volgens jouw mag men er altijd los overrijden ? De voorstelling op osm krt zou dan een T kruispunt zin met als snijpunt highway=mini_roundabout want deze kan maar gezet worden op node&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-09 11:41:29 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>commented</action>
+      <text>Volgens de Wiki heeft een mini-roundabout voorrang: er is geen enkel verkeersteken dat daarvoor zorgt. Er is zelfs geen reden om te veronderstellen dat je niet gewoon over de kasseitjes in het midden mag rijden, en mensen doen dat ook. Dat maakt dat het eigenlijk area=yes moet zijn, met surface=sett;concrete .
+
+
+
+
+</text>
+      <html>&lt;p&gt;Volgens de Wiki heeft een mini-roundabout voorrang: er is geen enkel verkeersteken dat daarvoor zorgt. Er is zelfs geen reden om te veronderstellen dat je niet gewoon over de kasseitjes in het midden mag rijden, en mensen doen dat ook. Dat maakt dat het eigenlijk area=yes moet zijn, met surface=sett;concrete .&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-07 09:30:40 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Mini roundabouts zijn een concept uit het VK, waar ze aparte wegmarkeringen hebben en aparte regels in de Highway Code (bijv. richting aanwijzen bij het verlaten is niet nodig). In België is er geen overeenkomstig wettelijk concept. In het beste geval laat de tag hier toe om erg kleine rotondes als node te mappen.
+
+Ik ben akkoord met jullie redenering en zou dit mappen als kruispunt.</text>
+      <html>&lt;p&gt;Mini roundabouts zijn een concept uit het VK, waar ze aparte wegmarkeringen hebben en aparte regels in de Highway Code (bijv. richting aanwijzen bij het verlaten is niet nodig). In België is er geen overeenkomstig wettelijk concept. In het beste geval laat de tag hier toe om erg kleine rotondes als node te mappen.&lt;/p&gt;
+
+&lt;p&gt;Ik ben akkoord met jullie redenering en zou dit mappen als kruispunt.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

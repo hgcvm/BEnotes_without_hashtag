@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.4083700" lat="50.6139800">
+  <id>4002105</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4002105</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4002105/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4002105/close</close_url>
+  <date_created>2023-11-25 05:22:21 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-25 05:22:21 UTC</date>
+      <action>opened</action>
+      <text>Ce n'est pas la bonne adresse , elle était correcte dans la version précédente : https://pewu.github.io/osm-history/#/way/212030708 + ça a été agrandi</text>
+      <html>&lt;p&gt;Ce n'est pas la bonne adresse , elle était correcte dans la version précédente : &lt;a href="https://pewu.github.io/osm-history/#/way/212030708" rel="nofollow noopener noreferrer"&gt;https://pewu.github.io/osm-history/#/way/212030708&lt;/a&gt; + ça a été agrandi&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-11-25 10:22:15 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>agrandit OK mais nr ? Changer depuis ....
+voir:
+https://geoportail.wallonie.be/walonmap#SHARE=0AF86F0310A6061BE063D5AFA49D904E</text>
+      <html>&lt;p&gt;agrandit OK mais nr ? Changer depuis ....
+&lt;br /&gt;voir:
+&lt;br /&gt;&lt;a href="https://geoportail.wallonie.be/walonmap#SHARE=0AF86F0310A6061BE063D5AFA49D904E" rel="nofollow noopener noreferrer"&gt;https://geoportail.wallonie.be/walonmap#SHARE=0AF86F0310A6061BE063D5AFA49D904E&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4148728" lat="51.2068714">
+  <id>4178341</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4178341</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4178341/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4178341/close</close_url>
+  <date_created>2024-04-01 22:04:12 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-04-01 22:04:12 UTC</date>
+      <uid>19411509</uid>
+      <user>decmap</user>
+      <user_url>https://api.openstreetmap.org/user/decmap</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Does this street have a sidewalk?" for https://osm.org/way/4446099 via StreetComplete 56.0:
+
+I'm really not sure this should be a separate way - it's really just a crossing to the pavement on Isabellalei, across Sint-Vincentius Straat, and then back across to Lange Leemstraat</text>
+      <html>&lt;p&gt;Unable to answer "Does this street have a sidewalk?" for &lt;a href="https://osm.org/way/4446099" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/4446099&lt;/a&gt; via StreetComplete 56.0:&lt;/p&gt;
+
+&lt;p&gt;I'm really not sure this should be a separate way - it's really just a crossing to the pavement on Isabellalei, across Sint-Vincentius Straat, and then back across to Lange Leemstraat&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-01 23:04:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=922158699694650 ?</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=922158699694650" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=922158699694650&lt;/a&gt; ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

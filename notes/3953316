@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4149160" lat="50.4639243">
+  <id>3953316</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3953316</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3953316/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3953316/close</close_url>
+  <date_created>2023-10-22 16:04:36 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-22 16:04:36 UTC</date>
+      <action>opened</action>
+      <text>Construction d'un nouveau site industriel Plastic Wauters</text>
+      <html>&lt;p&gt;Construction d'un nouveau site industriel Plastic Wauters&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-31 11:26:42 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #FollowUp in 2025</text>
+      <html>&lt;p&gt;#OsmBE #FollowUp in 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

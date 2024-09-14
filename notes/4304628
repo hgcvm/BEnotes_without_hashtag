@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8549181" lat="50.6537825">
+  <id>4304628</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4304628</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4304628/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4304628/close</close_url>
+  <date_created>2024-06-23 14:00:42 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-23 14:00:42 UTC</date>
+      <uid>9450507</uid>
+      <user>karlmichaelw</user>
+      <user_url>https://api.openstreetmap.org/user/karlmichaelw</user_url>
+      <action>opened</action>
+      <text>See picture
+
+via StreetComplete 58.0
+
+Attached photo(s):
+https://westnordost.de/p/220065.jpg</text>
+      <html>&lt;p&gt;See picture&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 58.0&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/220065.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/220065.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

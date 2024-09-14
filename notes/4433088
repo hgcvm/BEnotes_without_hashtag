@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.5232558" lat="50.5721380">
+  <id>4433088</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4433088</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4433088/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4433088/close</close_url>
+  <date_created>2024-09-13 13:27:57 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-13 13:27:57 UTC</date>
+      <uid>52697</uid>
+      <user>Luc Moreau</user>
+      <user_url>https://api.openstreetmap.org/user/Luc%20Moreau</user_url>
+      <action>opened</action>
+      <text>Cette portion du bois est moins étendue.  Il y a une prairie à l'endroit de ma note, qui s'étend jusqu'au pont sur la Thyle plus à l'Ouest.</text>
+      <html>&lt;p&gt;Cette portion du bois est moins étendue.  Il y a une prairie à l'endroit de ma note, qui s'étend jusqu'au pont sur la Thyle plus à l'Ouest.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6643025" lat="51.1187648">
+  <id>4031300</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4031300</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4031300/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4031300/close</close_url>
+  <date_created>2023-12-17 11:36:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-17 11:36:13 UTC</date>
+      <uid>11308911</uid>
+      <user>StijnDP</user>
+      <user_url>https://api.openstreetmap.org/user/StijnDP</user_url>
+      <action>opened</action>
+      <text>Recent aangelegde parking van de Zusters van Berlaar. Toegang voor voetgangers via het paadje achter de Mariagrot. Toegang auto's via pastorijstraat.
+https://www.nieuwsblad.be/cnt/dmf20230610_95447214</text>
+      <html>&lt;p&gt;Recent aangelegde parking van de Zusters van Berlaar. Toegang voor voetgangers via het paadje achter de Mariagrot. Toegang auto's via pastorijstraat.
+&lt;br /&gt;&lt;a href="https://www.nieuwsblad.be/cnt/dmf20230610_95447214" rel="nofollow noopener noreferrer"&gt;https://www.nieuwsblad.be/cnt/dmf20230610_95447214&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-06 14:40:34 UTC</date>
+      <uid>3259862</uid>
+      <user>MikiDi</user>
+      <user_url>https://api.openstreetmap.org/user/MikiDi</user_url>
+      <action>commented</action>
+      <text>Vermoedelijk verkeerdelijk gelinkt artikel. Kleine geometrie-aanpassingen gemaakt. Parking nog niet ingetekend</text>
+      <html>&lt;p&gt;Vermoedelijk verkeerdelijk gelinkt artikel. Kleine geometrie-aanpassingen gemaakt. Parking nog niet ingetekend&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-06 14:40:40 UTC</date>
+      <uid>3259862</uid>
+      <user>MikiDi</user>
+      <user_url>https://api.openstreetmap.org/user/MikiDi</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/changeset/145959641</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/changeset/145959641" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/145959641&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-20 21:08:12 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>ongeveer hier toegang / exit nieuw aangelegde parking, semi-privaat. </text>
+      <html>&lt;p&gt;ongeveer hier toegang / exit nieuw aangelegde parking, semi-privaat. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-29 15:09:42 UTC</date>
+      <uid>3259862</uid>
+      <user>MikiDi</user>
+      <user_url>https://api.openstreetmap.org/user/MikiDi</user_url>
+      <action>commented</action>
+      <text>parking adhv luchtbeelden ingetekend. https://www.openstreetmap.org/changeset/155933662
+Het padje tussen parking en grot laat ik aan iemand met terreinkennis.</text>
+      <html>&lt;p&gt;parking adhv luchtbeelden ingetekend. &lt;a href="https://www.openstreetmap.org/changeset/155933662" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/155933662&lt;/a&gt;
+&lt;br /&gt;Het padje tussen parking en grot laat ik aan iemand met terreinkennis.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

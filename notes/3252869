@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4359660" lat="51.2041039">
+  <id>3252869</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3252869</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3252869/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3252869/close</close_url>
+  <date_created>2022-07-05 12:23:23 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-07-05 12:23:23 UTC</date>
+      <action>opened</action>
+      <text>Pretoriastraat fietsstraat vanaf hier tot Draak / Tram plaats</text>
+      <html>&lt;p&gt;Pretoriastraat fietsstraat vanaf hier tot Draak / Tram plaats&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-05 13:15:28 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Wat is er met het fietspad gebeurt ?
+Bestaat het nog ?</text>
+      <html>&lt;p&gt;Wat is er met het fietspad gebeurt ?
+&lt;br /&gt;Bestaat het nog ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-07-06 08:26:51 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Bijgewerkt, zij het dat er vaardigere mappers bestaan.</text>
+      <html>&lt;p&gt;Bijgewerkt, zij het dat er vaardigere mappers bestaan.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-07 15:37:06 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=1083007189723858 : fietsstraat stadwaarts eindigt hier, fietsstraat 'stad uit' begint hier : https://www.mapillary.com/app/?pKey=1028023871813898, daar ook midden busstrook , 
+en dan is er de korte bus rechtdoor 'sluis'https://www.mapillary.com/app/?pKey=3178706699103824
+</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=1083007189723858" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1083007189723858&lt;/a&gt; : fietsstraat stadwaarts eindigt hier, fietsstraat 'stad uit' begint hier : &lt;a href="https://www.mapillary.com/app/?pKey=1028023871813898" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1028023871813898&lt;/a&gt;, daar ook midden busstrook , 
+&lt;br /&gt;en dan is er de korte bus rechtdoor 'sluis'&lt;a href="https://www.mapillary.com/app/?pKey=3178706699103824" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=3178706699103824&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

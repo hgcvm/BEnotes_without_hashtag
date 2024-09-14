@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="6.0827344" lat="50.6757049">
+  <id>4038025</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4038025</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4038025/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4038025/close</close_url>
+  <date_created>2023-12-23 12:23:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-12-23 12:23:06 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Hier baut NMC was Neues. Details später.
+
+https://brf.be/regional/1752367/
+
+https://nmc.eu/de/
+
+"Konkret wird das derzeit 8,5 Hektar große NMC-Gelände um weitere 1,6 Hektar erweitert."
+
+Die Baustelle für die neue Produktionshalle befindet sich im unmittelbaren Nahbereich des Wasserturm Eynatten.
+
+https://www.openstreetmap.org/way/184990323#map=17/50.67603/6.08158
+</text>
+      <html>&lt;p&gt;Hier baut NMC was Neues. Details später.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://brf.be/regional/1752367/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1752367/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://nmc.eu/de/" rel="nofollow noopener noreferrer"&gt;https://nmc.eu/de/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;"Konkret wird das derzeit 8,5 Hektar große NMC-Gelände um weitere 1,6 Hektar erweitert."&lt;/p&gt;
+
+&lt;p&gt;Die Baustelle für die neue Produktionshalle befindet sich im unmittelbaren Nahbereich des Wasserturm Eynatten.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/184990323#map=17/50.67603/6.08158" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/184990323#map=17/50.67603/6.08158&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

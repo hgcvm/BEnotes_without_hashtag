@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4012207" lat="51.1401521">
+  <id>2561834</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2561834</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2561834/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2561834/close</close_url>
+  <date_created>2021-03-01 19:31:35 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2021-03-01 19:31:35 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Deze site is heraangelegd - een reeks mapillary-afbeeldingen zou wel leuk zijn</text>
+      <html>&lt;p&gt;Deze site is heraangelegd - een reeks mapillary-afbeeldingen zou wel leuk zijn&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-02 16:45:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Helaas, achter afrastering; wat ik kon befietsen komt op de gebruikelijke plek,</text>
+      <html>&lt;p&gt;Helaas, achter afrastering; wat ik kon befietsen komt op de gebruikelijke plek,&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-03-16 09:43:33 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>commented</action>
+      <text>Geen probleem, alvast bedankt voor je service!</text>
+      <html>&lt;p&gt;Geen probleem, alvast bedankt voor je service!&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-12-06 20:48:28 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Als dat met die nieuwe camera succesvol is wordt u t.z.t. op uw wenken bediend ... 
+
+ontbreekt drietal poorten tussen (en bij) dit gebouw en de atletiekbaan;
+
+doch nu eerst een kosteloze HEVC codec opzoeken - merkwaardig dat noch computer noch camera leverancier zoiets (samen met hun software die men bij camera nodig heeft) installeert </text>
+      <html>&lt;p&gt;Als dat met die nieuwe camera succesvol is wordt u t.z.t. op uw wenken bediend ... &lt;/p&gt;
+
+&lt;p&gt;ontbreekt drietal poorten tussen (en bij) dit gebouw en de atletiekbaan;&lt;/p&gt;
+
+&lt;p&gt;doch nu eerst een kosteloze HEVC codec opzoeken - merkwaardig dat noch computer noch camera leverancier zoiets (samen met hun software die men bij camera nodig heeft) installeert &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

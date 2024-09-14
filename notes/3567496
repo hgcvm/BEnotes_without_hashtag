@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3994900" lat="50.4563100">
+  <id>3567496</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3567496</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3567496/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3567496/close</close_url>
+  <date_created>2023-02-20 16:51:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-02-20 16:51:53 UTC</date>
+      <uid>12535929</uid>
+      <user>alpha_ace</user>
+      <user_url>https://api.openstreetmap.org/user/alpha_ace</user_url>
+      <action>opened</action>
+      <text>Pourrait-on vérifier qu'il s'agisse bien d'un parking ? En vue satellite, cela semble juste être vide. Je suis passé par là en voiture, mais impossible de distinguer quoique ce soit à cause de la végétation présente en abondance.</text>
+      <html>&lt;p&gt;Pourrait-on vérifier qu'il s'agisse bien d'un parking ? En vue satellite, cela semble juste être vide. Je suis passé par là en voiture, mais impossible de distinguer quoique ce soit à cause de la végétation présente en abondance.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-29 22:16:13 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

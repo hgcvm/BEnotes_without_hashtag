@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6775736" lat="50.4792942">
+  <id>4149109</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4149109</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4149109/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4149109/close</close_url>
+  <date_created>2024-03-11 16:31:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-11 16:31:10 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>opened</action>
+      <text>spw shaded relief imagery show a track starting here to the tophill. Can you survey?</text>
+      <html>&lt;p&gt;spw shaded relief imagery show a track starting here to the tophill. Can you survey?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-13 01:27:14 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>are you asking this question to somebody in particular? I don't think it's very likely that somebody else will pass by here soon to survey. How did you solve the other notes in the surroundings?</text>
+      <html>&lt;p&gt;are you asking this question to somebody in particular? I don't think it's very likely that somebody else will pass by here soon to survey. How did you solve the other notes in the surroundings?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-13 06:36:40 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>commented</action>
+      <text>This is a touristic wood with cave and fitness trail as you can see. 
+By surveying. I don't live far from there</text>
+      <html>&lt;p&gt;This is a touristic wood with cave and fitness trail as you can see. 
+&lt;br /&gt;By surveying. I don't live far from there&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-22 11:46:33 UTC</date>
+      <uid>2109841</uid>
+      <user>Macumba Macaca</user>
+      <user_url>https://api.openstreetmap.org/user/Macumba%20Macaca</user_url>
+      <action>commented</action>
+      <text>Strava heat map doesn't show a track, so it is not very probably. If you (or someone) checks, please check the paths in the north-east of the forest too. They are private, which is strange.</text>
+      <html>&lt;p&gt;Strava heat map doesn't show a track, so it is not very probably. If you (or someone) checks, please check the paths in the north-east of the forest too. They are private, which is strange.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 12:49:01 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-16 15:37:36 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>commented</action>
+      <text>I ll try this weekend </text>
+      <html>&lt;p&gt;I ll try this weekend &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

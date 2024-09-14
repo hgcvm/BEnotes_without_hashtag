@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3674114" lat="50.8673879">
+  <id>4277007</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4277007</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4277007/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4277007/close</close_url>
+  <date_created>2024-06-03 10:53:11 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-03 10:53:11 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Vanderlindenstraat 44D
+OverKop Schaarbeek
+https://www.overkop.be/huizen</text>
+      <html>&lt;p&gt;Vanderlindenstraat 44D
+&lt;br /&gt;OverKop Schaarbeek
+&lt;br /&gt;&lt;a href="https://www.overkop.be/huizen" rel="nofollow noopener noreferrer"&gt;https://www.overkop.be/huizen&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-15 20:16:28 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>What's the preferred tagging for this sort of facility?</text>
+      <html>&lt;p&gt;What's the preferred tagging for this sort of facility?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-15 20:49:43 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>social_facility idd ja ... maar dewelke is niet zo duidelijk op de site ... ik zal één dezer dagen eens proberen langs te gaan</text>
+      <html>&lt;p&gt;social_facility idd ja ... maar dewelke is niet zo duidelijk op de site ... ik zal één dezer dagen eens proberen langs te gaan&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-03 09:42:02 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Ook:
+
+`operator:type=government` (Vlaamse overheid)
+`social_facility:for=juvenile`
+
+Maar ik zou ook niet weten welke `social_facility=*` hierop te zetten.</text>
+      <html>&lt;p&gt;Ook:&lt;/p&gt;
+
+&lt;p&gt;`operator:type=government` (Vlaamse overheid)
+&lt;br /&gt;`social_facility:for=juvenile`&lt;/p&gt;
+
+&lt;p&gt;Maar ik zou ook niet weten welke `social_facility=*` hierop te zetten.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

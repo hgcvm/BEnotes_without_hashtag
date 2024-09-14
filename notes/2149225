@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.6928197" lat="50.9811835">
+  <id>2149225</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2149225</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2149225/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2149225/close</close_url>
+  <date_created>2020-04-05 21:02:27 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-04-05 21:02:27 UTC</date>
+      <action>opened</action>
+      <text>Vandaag willen doorwandelen naar de Laak maar weg was afgesloten...privé-weg?</text>
+      <html>&lt;p&gt;Vandaag willen doorwandelen naar de Laak maar weg was afgesloten...privé-weg?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-04-06 07:43:06 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Volgens deze kaarten van geopunt is dit openbare weg tot de laak ....
+Een aangifte doen bij Rotselaar of deze weg afgesloten mag zijn ...
+https://www.geopunt.be/kaart?viewer_url=https%3A%2F%2Fmaps.geopunt.be%2Fresources%2Fapps%2FGeopunt-kaart_app%2Findex.html%3Fid%3D8ab252ae713bbf8f01714e6eff240037</text>
+      <html>&lt;p&gt;Volgens deze kaarten van geopunt is dit openbare weg tot de laak ....
+&lt;br /&gt;Een aangifte doen bij Rotselaar of deze weg afgesloten mag zijn ...
+&lt;br /&gt;&lt;a href="https://www.geopunt.be/kaart?viewer_url=https%3A%2F%2Fmaps.geopunt.be%2Fresources%2Fapps%2FGeopunt-kaart_app%2Findex.html%3Fid%3D8ab252ae713bbf8f01714e6eff240037" rel="nofollow noopener noreferrer"&gt;https://www.geopunt.be/kaart?viewer_url=https%3A%2F%2Fmaps.geopunt.be%2Fresources%2Fapps%2FGeopunt-kaart_app%2Findex.html%3Fid%3D8ab252ae713bbf8f01714e6eff240037&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-04-06 17:21:32 UTC</date>
+      <uid>428001</uid>
+      <user>wegspotter</user>
+      <user_url>https://api.openstreetmap.org/user/wegspotter</user_url>
+      <action>closed</action>
+      <text>Inderdaad, deze weg hoort openbaar te zijn. Ligt ook al minstens sinds 1939 op deze plaats &gt; https://qgiscloud.com/tragewegen/buurtwegopzoeken_qgiscloud/?bl=mapnik&amp;l=Trage_wegen%2CWijzigingen%20Antwerpen!%2CWijzigingen%20Limburg%20(punten)!%2CWijzigingen%20Limburg%20(lijnen)!%2CWijzigingen%20Oost-Vlaanderen!%2CWijzigingen%20Vlaams-Brabant%2CPerimeters%20ruilverkaveling!%2CAtlas%20der%20Buurtwegen!%2CNGI%20Basemap%201904!%2CNGI%20Basemap%201873!%2CNGI%20Basemap%201939%2CNGI%20Basemap%201969!%2CNGI%20Basemap%201981!%2CNGI%20basemap%201989!%2CGRB-basiskaart!%2CCartoWeb-TOPO!&amp;t=buurtwegopzoeken_qgiscloud&amp;e=520775%2C6617210%2C524026%2C6618797&amp;st=werchter</text>
+      <html>&lt;p&gt;Inderdaad, deze weg hoort openbaar te zijn. Ligt ook al minstens sinds 1939 op deze plaats &amp;gt; &lt;a href="https://qgiscloud.com/tragewegen/buurtwegopzoeken_qgiscloud/?bl=mapnik&amp;amp;l=Trage_wegen%2CWijzigingen%20Antwerpen!%2CWijzigingen%20Limburg%20(punten)!%2CWijzigingen%20Limburg%20(lijnen)!%2CWijzigingen%20Oost-Vlaanderen!%2CWijzigingen%20Vlaams-Brabant%2CPerimeters%20ruilverkaveling!%2CAtlas%20der%20Buurtwegen!%2CNGI%20Basemap%201904!%2CNGI%20Basemap%201873!%2CNGI%20Basemap%201939%2CNGI%20Basemap%201969!%2CNGI%20Basemap%201981!%2CNGI%20basemap%201989!%2CGRB-basiskaart!%2CCartoWeb-TOPO!&amp;amp;t=buurtwegopzoeken_qgiscloud&amp;amp;e=520775%2C6617210%2C524026%2C6618797&amp;amp;st=werchter" rel="nofollow noopener noreferrer"&gt;https://qgiscloud.com/tragewegen/buurtwegopzoeken_qgiscloud/?bl=mapnik&amp;amp;l=Trage_wegen%2CWijzigingen%20Antwerpen!%2CWijzigingen%20Limburg%20(punten)!%2CWijzigingen%20Limburg%20(lijnen)!%2CWijzigingen%20Oost-Vlaanderen!%2CWijzigingen%20Vlaams-Brabant%2CPerimeters%20ruilverkaveling!%2CAtlas%20der%20Buurtwegen!%2CNGI%20Basemap%201904!%2CNGI%20Basemap%201873!%2CNGI%20Basemap%201939%2CNGI%20Basemap%201969!%2CNGI%20Basemap%201981!%2CNGI%20basemap%201989!%2CGRB-basiskaart!%2CCartoWeb-TOPO!&amp;amp;t=buurtwegopzoeken_qgiscloud&amp;amp;e=520775%2C6617210%2C524026%2C6618797&amp;amp;st=werchter&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2020-04-06 17:21:50 UTC</date>
+      <uid>428001</uid>
+      <user>wegspotter</user>
+      <user_url>https://api.openstreetmap.org/user/wegspotter</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-05-30 11:14:36 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Bezocht 220529 : staat deze note idd op de juiste way? Opgemerkt dat waar Beverlaak overgaat op Voetweg 58 surface overgaat op amper bereden dolomiet met lavendel berm etc, lijkt privaat domein : kunt u bron geven dat daar public right of way bestaat?</text>
+      <html>&lt;p&gt;Bezocht 220529 : staat deze note idd op de juiste way? Opgemerkt dat waar Beverlaak overgaat op Voetweg 58 surface overgaat op amper bereden dolomiet met lavendel berm etc, lijkt privaat domein : kunt u bron geven dat daar public right of way bestaat?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

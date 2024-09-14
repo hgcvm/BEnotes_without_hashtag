@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.9791214" lat="50.7596378">
+  <id>4121717</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4121717</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4121717/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4121717/close</close_url>
+  <date_created>2024-02-21 08:48:27 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-21 08:48:27 UTC</date>
+      <uid>2999637</uid>
+      <user>Lennardderudder</user>
+      <user_url>https://api.openstreetmap.org/user/Lennardderudder</user_url>
+      <action>opened</action>
+      <text>Does this path still exist? A RouteYou user claims it doesn't, but I'm not sure if they're correct.</text>
+      <html>&lt;p&gt;Does this path still exist? A RouteYou user claims it doesn't, but I'm not sure if they're correct.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-04-02 12:19:10 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>commented</action>
+      <text>Gegeven dat het een buurtweg is en dat het intensief in gebuik is (zie Strava), lijkt me dat sterk. Maar een deel gaat los over een akker, dus als het net geploegd is, dan zal het inderdaad wel lijken dat er geen pad is. bicycle=yes lijkt me hier niet ideaal.</text>
+      <html>&lt;p&gt;Gegeven dat het een buurtweg is en dat het intensief in gebuik is (zie Strava), lijkt me dat sterk. Maar een deel gaat los over een akker, dus als het net geploegd is, dan zal het inderdaad wel lijken dat er geen pad is. bicycle=yes lijkt me hier niet ideaal.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-19 18:57:15 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>`bicycle=*` is geeft een wettelijke beperking aan, geen fysieke. Het lijkt me beter te zorgen voor gedetailleerde waarden voor `surface=*`, `smoothness=*` etc. Maar dat is misschien moeilijk af te leiden van luchtbeelden.</text>
+      <html>&lt;p&gt;`bicycle=*` is geeft een wettelijke beperking aan, geen fysieke. Het lijkt me beter te zorgen voor gedetailleerde waarden voor `surface=*`, `smoothness=*` etc. Maar dat is misschien moeilijk af te leiden van luchtbeelden.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

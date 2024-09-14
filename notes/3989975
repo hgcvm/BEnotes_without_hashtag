@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.0395248" lat="51.0684503">
+  <id>3989975</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3989975</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3989975/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3989975/close</close_url>
+  <date_created>2023-11-16 14:25:44 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-11-16 14:25:44 UTC</date>
+      <uid>648095</uid>
+      <user>nielsdg</user>
+      <user_url>https://api.openstreetmap.org/user/nielsdg</user_url>
+      <action>opened</action>
+      <text>There's a lot of construction work happening in several phases for the new main square.
+
+Source: https://www.zele.be/heraanleg-markt</text>
+      <html>&lt;p&gt;There's a lot of construction work happening in several phases for the new main square.&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href="https://www.zele.be/heraanleg-markt" rel="nofollow noopener noreferrer"&gt;https://www.zele.be/heraanleg-markt&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-03 17:22:18 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>befietst 1 jul'24 : serie prentjes, diverse fietsstraten, woonerf : slechts deels bekeken, gezien werken t.z.t. ruim gebied op te nemen. </text>
+      <html>&lt;p&gt;befietst 1 jul'24 : serie prentjes, diverse fietsstraten, woonerf : slechts deels bekeken, gezien werken t.z.t. ruim gebied op te nemen. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

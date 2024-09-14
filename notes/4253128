@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.0877856" lat="50.9203929">
+  <id>4253128</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4253128</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4253128/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4253128/close</close_url>
+  <date_created>2024-05-18 21:31:16 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-18 21:31:16 UTC</date>
+      <uid>19937632</uid>
+      <user>jan_s_85</user>
+      <user_url>https://api.openstreetmap.org/user/jan_s_85</user_url>
+      <action>opened</action>
+      <text>beek + hek</text>
+      <html>&lt;p&gt;beek + hek&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-18 22:06:52 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>hek toegevoegd &gt; https://www.openstreetmap.org/node/11916758188
+Graag meer info over de beek:
+start, einde, verloop, een foto, een bron (website), etc ...</text>
+      <html>&lt;p&gt;hek toegevoegd &amp;gt; &lt;a href="https://www.openstreetmap.org/node/11916758188" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/11916758188&lt;/a&gt;
+&lt;br /&gt;Graag meer info over de beek:
+&lt;br /&gt;start, einde, verloop, een foto, een bron (website), etc ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-08 21:13:10 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>...</text>
+      <html>&lt;p&gt;...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-12 12:25:15 UTC</date>
+      <uid>19937632</uid>
+      <user>jan_s_85</user>
+      <user_url>https://api.openstreetmap.org/user/jan_s_85</user_url>
+      <action>commented</action>
+      <text>maps.google.be -&gt; verloop
+geopunt.be -&gt; naamgeving: "Lommelsebeek" en stroomafwaarts "bijloop Velpe"</text>
+      <html>&lt;p&gt;maps.google.be -&amp;gt; verloop
+&lt;br /&gt;geopunt.be -&amp;gt; naamgeving: "Lommelsebeek" en stroomafwaarts "bijloop Velpe"&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-24 07:54:07 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Google Maps is geen bruikbare bron voor OSM-data. Mogelijks is de beek wel zichtbaar op luchtbeelden?</text>
+      <html>&lt;p&gt;Google Maps is geen bruikbare bron voor OSM-data. Mogelijks is de beek wel zichtbaar op luchtbeelden?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

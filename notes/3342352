@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.3504477" lat="50.6372965">
+  <id>3342352</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3342352</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3342352/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3342352/close</close_url>
+  <date_created>2022-09-02 09:42:42 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-02 09:42:42 UTC</date>
+      <uid>9450507</uid>
+      <user>karlmichaelw</user>
+      <user_url>https://api.openstreetmap.org/user/karlmichaelw</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What are the opening hours here?" for https://osm.org/way/814900865 via StreetComplete 45.2:
+
+See picture
+
+Attached photo(s):
+https://westnordost.de/p/110856.jpg</text>
+      <html>&lt;p&gt;Unable to answer "What are the opening hours here?" for &lt;a href="https://osm.org/way/814900865" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/814900865&lt;/a&gt; via StreetComplete 45.2:&lt;/p&gt;
+
+&lt;p&gt;See picture&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/110856.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/110856.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3350720" lat="51.2761725">
+  <id>2456474</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/2456474</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/2456474/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/2456474/close</close_url>
+  <date_created>2020-12-08 18:20:41 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2020-12-08 18:20:41 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>Boudewijnbrug vier mnd gesloten  ,https://www.slimnaarantwerpen.be/nl/wegenwerken/boudewijnbrug-afgesloten : markeert men zoiets - gezien voet- fiets en personen wagen over sluisdeur kunnen rijden, alleen camions uurtje moeten wachten indien Meestoofbrug 'open' ?</text>
+      <html>&lt;p&gt;Boudewijnbrug vier mnd gesloten  ,&lt;a href="https://www.slimnaarantwerpen.be/nl/wegenwerken/boudewijnbrug-afgesloten" rel="nofollow noopener noreferrer"&gt;https://www.slimnaarantwerpen.be/nl/wegenwerken/boudewijnbrug-afgesloten&lt;/a&gt; : markeert men zoiets - gezien voet- fiets en personen wagen over sluisdeur kunnen rijden, alleen camions uurtje moeten wachten indien Meestoofbrug 'open' ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-24 12:58:46 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>closed</action>
+      <text>Werken zijn blijkbaar gedaan.</text>
+      <html>&lt;p&gt;Werken zijn blijkbaar gedaan.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-24 19:48:44 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-24 19:53:46 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Kunt u aangeven hoe u vaststelde dat de werken voltooid zijn? 
+Zie ten eerste bijgaande Nautical Message van de Port of Antwerp betreffende stremming tot 30 november 2021, daarnaast prentje https://www.mapillary.com/app/?pKey=1216354858793984 d.d. 8 juni 2021, waar nog geen spoor van nieuwe brug . 
+Op https://www.slimnaarantwerpen.be/en/works-events staat daarentegen dat de brug voor wegverkeer tot 1 januari 2022 gesloten zal zijn. 
+Met vriendelijke groet, </text>
+      <html>&lt;p&gt;Kunt u aangeven hoe u vaststelde dat de werken voltooid zijn? 
+&lt;br /&gt;Zie ten eerste bijgaande Nautical Message van de Port of Antwerp betreffende stremming tot 30 november 2021, daarnaast prentje &lt;a href="https://www.mapillary.com/app/?pKey=1216354858793984" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1216354858793984&lt;/a&gt; d.d. 8 juni 2021, waar nog geen spoor van nieuwe brug . 
+&lt;br /&gt;Op &lt;a href="https://www.slimnaarantwerpen.be/en/works-events" rel="nofollow noopener noreferrer"&gt;https://www.slimnaarantwerpen.be/en/works-events&lt;/a&gt; staat daarentegen dat de brug voor wegverkeer tot 1 januari 2022 gesloten zal zijn. 
+&lt;br /&gt;Met vriendelijke groet, &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-28 19:02:59 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>closed</action>
+      <text>De note dateert van 8 maand geleden en vermeldt een duur van de werken van 4 maand. Bovendien is de pagina waar ze naar wijst weg, wat meestal gebeurt bij het eind van de werken. Nu goed, blijkbaar zijn de werken niet gedaan.
+
+Heeft het eigenlijk zin om de note open te houden als de afsluiting toch niet gemapt wordt?</text>
+      <html>&lt;p&gt;De note dateert van 8 maand geleden en vermeldt een duur van de werken van 4 maand. Bovendien is de pagina waar ze naar wijst weg, wat meestal gebeurt bij het eind van de werken. Nu goed, blijkbaar zijn de werken niet gedaan.&lt;/p&gt;
+
+&lt;p&gt;Heeft het eigenlijk zin om de note open te houden als de afsluiting toch niet gemapt wordt?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-28 19:03:12 UTC</date>
+      <uid>672253</uid>
+      <user>JanFi</user>
+      <user_url>https://api.openstreetmap.org/user/JanFi</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-03-05 16:34:27 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Zijn deze werken intussen afgelopen?
+
+De tijdelijke situatie is trouwens wel degelijk gemapt op OSM in dit geval: weg staat bijvoorbeeld op `highway=construction`.</text>
+      <html>&lt;p&gt;Zijn deze werken intussen afgelopen?&lt;/p&gt;
+
+&lt;p&gt;De tijdelijke situatie is trouwens wel degelijk gemapt op OSM in dit geval: weg staat bijvoorbeeld op `highway=construction`.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

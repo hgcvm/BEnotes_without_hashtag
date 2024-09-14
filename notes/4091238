@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6895072" lat="51.0300426">
+  <id>4091238</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4091238</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4091238/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4091238/close</close_url>
+  <date_created>2024-01-28 23:11:37 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-28 23:11:37 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>opened</action>
+      <text>Upoffiz gebouwen in afwerkingsfase. Eerste huurders zitten erin. Gebouwen beschikbaar in GRB.</text>
+      <html>&lt;p&gt;Upoffiz gebouwen in afwerkingsfase. Eerste huurders zitten erin. Gebouwen beschikbaar in GRB.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-29 21:11:48 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>reeds hoofdvorm GRB lijkt niet op wat hun site toont ?</text>
+      <html>&lt;p&gt;reeds hoofdvorm GRB lijkt niet op wat hun site toont ?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-29 22:58:38 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>commented</action>
+      <text>Het grote gebouw zijn inderdaad drie torens, maar er tussenin lijkt een enkele ondergrondse verdieping te zitten. GRB tekent ook dat in als gebouw (daar waar de website een tuin erbovenop toont).</text>
+      <html>&lt;p&gt;Het grote gebouw zijn inderdaad drie torens, maar er tussenin lijkt een enkele ondergrondse verdieping te zitten. GRB tekent ook dat in als gebouw (daar waar de website een tuin erbovenop toont).&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

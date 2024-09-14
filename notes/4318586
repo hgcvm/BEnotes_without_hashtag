@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.0807600" lat="51.2970100">
+  <id>4318586</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4318586</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4318586/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4318586/close</close_url>
+  <date_created>2024-07-04 07:02:21 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-04 07:02:21 UTC</date>
+      <uid>139026</uid>
+      <user>Bigon</user>
+      <user_url>https://api.openstreetmap.org/user/Bigon</user_url>
+      <action>opened</action>
+      <text>I think that this road is reopened, to be double checked</text>
+      <html>&lt;p&gt;I think that this road is reopened, to be double checked&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-04 21:47:14 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>Bron?</text>
+      <html>&lt;p&gt;Bron?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-05 08:32:59 UTC</date>
+      <uid>139026</uid>
+      <user>Bigon</user>
+      <user_url>https://api.openstreetmap.org/user/Bigon</user_url>
+      <action>commented</action>
+      <text>My own eyes 😀</text>
+      <html>&lt;p&gt;My own eyes 😀&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-07-05 09:26:41 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>why do you ask then for double check? can you map it yourself?</text>
+      <html>&lt;p&gt;why do you ask then for double check? can you map it yourself?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

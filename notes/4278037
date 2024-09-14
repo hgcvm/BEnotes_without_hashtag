@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2881495" lat="50.9499448">
+  <id>4278037</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4278037</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4278037/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4278037/close</close_url>
+  <date_created>2024-06-04 08:17:58 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-04 08:17:58 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Heraangelegd, zie nieuwe luchtfoto's</text>
+      <html>&lt;p&gt;Heraangelegd, zie nieuwe luchtfoto's&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

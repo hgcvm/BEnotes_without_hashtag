@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8607851" lat="50.5933586">
+  <id>4352136</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4352136</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4352136/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4352136/close</close_url>
+  <date_created>2024-07-26 13:20:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-26 13:20:47 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Ich mach einen neuen Hinweis auf und verlinke zur Historie des alten Hinweises.
+
+Je vais ouvrir une nouvelle note et faire un lien vers l'historique de l'ancienne note.
+
+https://www.openstreetmap.org/note/3270280</text>
+      <html>&lt;p&gt;Ich mach einen neuen Hinweis auf und verlinke zur Historie des alten Hinweises.&lt;/p&gt;
+
+&lt;p&gt;Je vais ouvrir une nouvelle note et faire un lien vers l'historique de l'ancienne note.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/note/3270280" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/note/3270280&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-13 12:48:15 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>https://www.dhnet.be/regions/liege/verviers/2024/02/24/reouverture-du-rond-point-place-du-martyr-a-verviers-SW5Y6L3NLJHTZHBSSKC3DD3DD4/
+-
+Publié le 05 Juillet 2024  (très bonne vidéo sur les drones).
+
+https://www.vedia.be/info/place-du-martyr-suite-et-presque-fin-des-travaux/203079
+---
+Das Ende der Arbeiten wird für März 2025 angekündigt.</text>
+      <html>&lt;p&gt;&lt;a href="https://www.dhnet.be/regions/liege/verviers/2024/02/24/reouverture-du-rond-point-place-du-martyr-a-verviers-SW5Y6L3NLJHTZHBSSKC3DD3DD4/" rel="nofollow noopener noreferrer"&gt;https://www.dhnet.be/regions/liege/verviers/2024/02/24/reouverture-du-rond-point-place-du-martyr-a-verviers-SW5Y6L3NLJHTZHBSSKC3DD3DD4/&lt;/a&gt;
+&lt;br /&gt;-
+&lt;br /&gt;Publié le 05 Juillet 2024  (très bonne vidéo sur les drones).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.vedia.be/info/place-du-martyr-suite-et-presque-fin-des-travaux/203079" rel="nofollow noopener noreferrer"&gt;https://www.vedia.be/info/place-du-martyr-suite-et-presque-fin-des-travaux/203079&lt;/a&gt;
+&lt;br /&gt;---
+&lt;br /&gt;Das Ende der Arbeiten wird für März 2025 angekündigt.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-04 11:41:39 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Je pense que ce sera très beau quand tout sera terminé.
+---
+Ich finde, es wird sehr schön aussehen wenn alles fertig ist.</text>
+      <html>&lt;p&gt;Je pense que ce sera très beau quand tout sera terminé.
+&lt;br /&gt;---
+&lt;br /&gt;Ich finde, es wird sehr schön aussehen wenn alles fertig ist.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

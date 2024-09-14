@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="6.1327288" lat="50.2591636">
+  <id>4049482</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4049482</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4049482/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4049482/close</close_url>
+  <date_created>2024-01-01 22:28:53 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-01 22:28:53 UTC</date>
+      <uid>3136580</uid>
+      <user>Plav</user>
+      <user_url>https://api.openstreetmap.org/user/Plav</user_url>
+      <action>opened</action>
+      <text>This path (coming from south-west) is a private road to a house and marked with no-entrance, no through-traffic. The other side of the path (close to the highway) is not very clear. Can someone with local knowledge check whether this path really exists and is open to the public? My guess would be to delete this path.</text>
+      <html>&lt;p&gt;This path (coming from south-west) is a private road to a house and marked with no-entrance, no through-traffic. The other side of the path (close to the highway) is not very clear. Can someone with local knowledge check whether this path really exists and is open to the public? My guess would be to delete this path.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-02 09:43:20 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>https://wiki.openstreetmap.org/wiki/Why_we_won%27t_delete_roads_on_private_property</text>
+      <html>&lt;p&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Why_we_won%27t_delete_roads_on_private_property" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Why_we_won%27t_delete_roads_on_private_property&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-02 10:09:28 UTC</date>
+      <uid>3136580</uid>
+      <user>Plav</user>
+      <user_url>https://api.openstreetmap.org/user/Plav</user_url>
+      <action>commented</action>
+      <text>Thanks for your response Jakka. I already marked the path as private. Question remains whether this is indeed a through path. As I could not walk this, I do not know whether the path continues behind the house. From the Steinkelt road north of the path, no good visibility on the actual situation.</text>
+      <html>&lt;p&gt;Thanks for your response Jakka. I already marked the path as private. Question remains whether this is indeed a through path. As I could not walk this, I do not know whether the path continues behind the house. From the Steinkelt road north of the path, no good visibility on the actual situation.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-14 12:03:49 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

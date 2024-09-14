@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7141473" lat="51.0560617">
+  <id>4141400</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4141400</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4141400/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4141400/close</close_url>
+  <date_created>2024-03-06 09:21:32 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-03-06 09:21:32 UTC</date>
+      <uid>10247359</uid>
+      <user>alexander duytschaever</user>
+      <user_url>https://api.openstreetmap.org/user/alexander%20duytschaever</user_url>
+      <action>opened</action>
+      <text>cafe might be closed, b&amp;b still open
+
+(https://peper.be/the-end/)</text>
+      <html>&lt;p&gt;cafe might be closed, b&amp;amp;b still open&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href="https://peper.be/the-end/" rel="nofollow noopener noreferrer"&gt;https://peper.be/the-end/&lt;/a&gt;)&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-08-22 14:43:50 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

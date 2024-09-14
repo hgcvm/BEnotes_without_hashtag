@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6373195" lat="51.0064963">
+  <id>3965268</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3965268</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3965268/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3965268/close</close_url>
+  <date_created>2023-10-30 18:21:55 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-30 18:21:55 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>opened</action>
+      <text>Aanleg nieuwe onthaalzone Moeistraat voor het Parkbos. Betreft nieuwe paden, vlonderpad, poel, brug, banken, ...
+
+https://www.sint-martens-latem.be/parkbos-aanleg-onthaalzone-moeistraat</text>
+      <html>&lt;p&gt;Aanleg nieuwe onthaalzone Moeistraat voor het Parkbos. Betreft nieuwe paden, vlonderpad, poel, brug, banken, ...&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.sint-martens-latem.be/parkbos-aanleg-onthaalzone-moeistraat" rel="nofollow noopener noreferrer"&gt;https://www.sint-martens-latem.be/parkbos-aanleg-onthaalzone-moeistraat&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 12:39:40 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Nog niet zichtbaar op luchtbeelden, tenzij het gewoon een lege grasvlakte is.</text>
+      <html>&lt;p&gt;Nog niet zichtbaar op luchtbeelden, tenzij het gewoon een lege grasvlakte is.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 12:39:47 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-08 10:12:41 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>commented</action>
+      <text>Er is inderdaad nog niets zichtbaar op de huidige luchtbeelden. Ik ben aan het wachten op de nieuwe.</text>
+      <html>&lt;p&gt;Er is inderdaad nog niets zichtbaar op de huidige luchtbeelden. Ik ben aan het wachten op de nieuwe.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

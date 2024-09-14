@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3493548" lat="50.7648277">
+  <id>4432410</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4432410</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4432410/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4432410/close</close_url>
+  <date_created>2024-09-12 20:54:26 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-12 20:54:26 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Boesdaal 6
+Cycle Farm
+coopérative à finalité sociale fondée en 2015 
+https://www.cyclefarm.be
+https://www.mapillary.com/app/?pKey=286939664065972</text>
+      <html>&lt;p&gt;Boesdaal 6
+&lt;br /&gt;Cycle Farm
+&lt;br /&gt;coopérative à finalité sociale fondée en 2015 
+&lt;br /&gt;&lt;a href="https://www.cyclefarm.be" rel="nofollow noopener noreferrer"&gt;https://www.cyclefarm.be&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.mapillary.com/app/?pKey=286939664065972" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=286939664065972&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

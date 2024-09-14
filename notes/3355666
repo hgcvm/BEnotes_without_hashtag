@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.4590133" lat="50.5651912">
+  <id>3355666</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3355666</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3355666/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3355666/close</close_url>
+  <date_created>2022-09-11 19:25:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-09-11 19:25:56 UTC</date>
+      <uid>3051783</uid>
+      <user>JuliusOne</user>
+      <user_url>https://api.openstreetmap.org/user/JuliusOne</user_url>
+      <action>opened</action>
+      <text>Resurvey address.  Utilisation des adresses fournies par PICC sauf pour les bâtiments où une adresse était déjà fournie.  Les adresses pour la rue de Zell et rue de Plonsk semblent parfois incohérentes d'après les données de PICC et les données existante dans OSM.
+Un tag fixme a été ajouté aux bâtiments concernés.</text>
+      <html>&lt;p&gt;Resurvey address.  Utilisation des adresses fournies par PICC sauf pour les bâtiments où une adresse était déjà fournie.  Les adresses pour la rue de Zell et rue de Plonsk semblent parfois incohérentes d'après les données de PICC et les données existante dans OSM.
+&lt;br /&gt;Un tag fixme a été ajouté aux bâtiments concernés.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-19 17:57:42 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8838547" lat="49.6350528">
+  <id>4064817</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4064817</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4064817/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4064817/close</close_url>
+  <date_created>2024-01-13 10:35:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-13 10:35:56 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>opened</action>
+      <text>Ends here.
+
+via StreetComplete 56.0
+
+Attached photo(s):
+https://westnordost.de/p/192580.jpg</text>
+      <html>&lt;p&gt;Ends here.&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 56.0&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/192580.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/192580.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-13 16:41:05 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text>Shortened it.</text>
+      <html>&lt;p&gt;Shortened it.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 12:24:38 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 12:28:41 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>The way clearly continues, yet you delete a portion. It just has a fallen tree over it, which can be expressed with barrier=log defined in the Wiki since years. People seeing such way might be curious to know where it leads but since your edit the information is inexistent. This is another example of bad contribution not respecting what is on the ground.</text>
+      <html>&lt;p&gt;The way clearly continues, yet you delete a portion. It just has a fallen tree over it, which can be expressed with barrier=log defined in the Wiki since years. People seeing such way might be curious to know where it leads but since your edit the information is inexistent. This is another example of bad contribution not respecting what is on the ground.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:55:12 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 20:56:52 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:41:23 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>closed</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-21 22:43:07 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 09:42:55 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>My 2 cents , hoping can help to find a consensus here : 
+
+- We can guess the former path but the trail visibility is realy bad : https://www.mapillary.com/app/?pKey=2098420617205802
+
+- We are in a municpal wood/forest so no doubt that the forest code apply here : https://www.mapillary.com/app/?pKey=829740442521422 ; That's mean if the path/track is not indicated as such or maintained as such (as the fine gravel before) the path is illegal.
+
+I suggest to partialy revert changeset 146220678 and re-add the path and tag it like this : 
+
+disused:highway=path
+access=no
+note= path blocked by felling trees, not an official path.
+
+That's was made for the Sonian Wood after a community consensus some years ago and imho in that case here that can resolve the divergence. 
+
+What do you both think ? (and also other mappers of course) 
+</text>
+      <html>&lt;p&gt;My 2 cents , hoping can help to find a consensus here : &lt;/p&gt;
+
+&lt;p&gt;- We can guess the former path but the trail visibility is realy bad : &lt;a href="https://www.mapillary.com/app/?pKey=2098420617205802" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=2098420617205802&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;- We are in a municpal wood/forest so no doubt that the forest code apply here : &lt;a href="https://www.mapillary.com/app/?pKey=829740442521422" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=829740442521422&lt;/a&gt; ; That's mean if the path/track is not indicated as such or maintained as such (as the fine gravel before) the path is illegal.&lt;/p&gt;
+
+&lt;p&gt;I suggest to partialy revert changeset 146220678 and re-add the path and tag it like this : &lt;/p&gt;
+
+&lt;p&gt;disused:highway=path
+&lt;br /&gt;access=no
+&lt;br /&gt;note= path blocked by felling trees, not an official path.&lt;/p&gt;
+
+&lt;p&gt;That's was made for the Sonian Wood after a community consensus some years ago and imho in that case here that can resolve the divergence. &lt;/p&gt;
+
+&lt;p&gt;What do you both think ? (and also other mappers of course) 
+&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-06 11:41:06 UTC</date>
+      <uid>20637388</uid>
+      <user>Kugelbaum</user>
+      <user_url>https://api.openstreetmap.org/user/Kugelbaum</user_url>
+      <action>commented</action>
+      <text>Hi Raphael,
+Totally agree with you. From my side you can go ahead.</text>
+      <html>&lt;p&gt;Hi Raphael,
+&lt;br /&gt;Totally agree with you. From my side you can go ahead.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-07 13:32:59 UTC</date>
+      <uid>1808015</uid>
+      <user>SHARCRASH</user>
+      <user_url>https://api.openstreetmap.org/user/SHARCRASH</user_url>
+      <action>commented</action>
+      <text>Hi again Raphael,
+
+Tag wise, you could follow the way, so IMO it should stay visible on the map too even if the trail visibility is very bad, that's the job of the tag trail_visibility=*. In general, horse riders use often these natural soft surfaced ways when their horse are not shod or curious hikers. They may be tempted to check since there is a difference with the mp but be deceived that there is no exit. Equally if a log is on the way, simply add a barrier=log. As for the maintenance, it's a hint, not a rule, grades 3 to 5 are mostly natural and very likely so in purpose to keep the soil healthy. Some official hiking trails are unmaintained, example this way https://www.openstreetmap.org/way/965940302 was literally like this https://drive.google.com/file/d/1529GMjtcvhRQ5j4TMa7Y1G4SiwIvYdFW
+
+Kugelbaum didn't care to add the log, neither noexit=yes. We should stay objective otherwise we don't consider other kind of users or utilities. 
+
+There are countless examples of useful trails that Kugelbaum AKA tomolobla KA Capslock_Cleaner AKA Digital-circle AKA ltwo AKA grauwutayette AKA eyasonu AKA Arepa has deleted and even restored himself (with mistakes even though I've shown him with clear photos and videos) because I've put him in front of facts.</text>
+      <html>&lt;p&gt;Hi again Raphael,&lt;/p&gt;
+
+&lt;p&gt;Tag wise, you could follow the way, so IMO it should stay visible on the map too even if the trail visibility is very bad, that's the job of the tag trail_visibility=*. In general, horse riders use often these natural soft surfaced ways when their horse are not shod or curious hikers. They may be tempted to check since there is a difference with the mp but be deceived that there is no exit. Equally if a log is on the way, simply add a barrier=log. As for the maintenance, it's a hint, not a rule, grades 3 to 5 are mostly natural and very likely so in purpose to keep the soil healthy. Some official hiking trails are unmaintained, example this way &lt;a href="https://www.openstreetmap.org/way/965940302" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/965940302&lt;/a&gt; was literally like this &lt;a href="https://drive.google.com/file/d/1529GMjtcvhRQ5j4TMa7Y1G4SiwIvYdFW" rel="nofollow noopener noreferrer"&gt;https://drive.google.com/file/d/1529GMjtcvhRQ5j4TMa7Y1G4SiwIvYdFW&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kugelbaum didn't care to add the log, neither noexit=yes. We should stay objective otherwise we don't consider other kind of users or utilities. &lt;/p&gt;
+
+&lt;p&gt;There are countless examples of useful trails that Kugelbaum AKA tomolobla KA Capslock_Cleaner AKA Digital-circle AKA ltwo AKA grauwutayette AKA eyasonu AKA Arepa has deleted and even restored himself (with mistakes even though I've shown him with clear photos and videos) because I've put him in front of facts.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 19:47:51 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>I would definitely add surface/smoothness/trail visibility information and map the logs as barriers, but the important question here is whether or not the Forest Code applies here. There was a discussion on this topic in the OSM BE Matrix room as well a while ago. If that's the case, the consensus should be followed. Also keep in mind that what is “shown on the map” depends on the map (the renderer).</text>
+      <html>&lt;p&gt;I would definitely add surface/smoothness/trail visibility information and map the logs as barriers, but the important question here is whether or not the Forest Code applies here. There was a discussion on this topic in the OSM BE Matrix room as well a while ago. If that's the case, the consensus should be followed. Also keep in mind that what is “shown on the map” depends on the map (the renderer).&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

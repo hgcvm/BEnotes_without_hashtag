@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4445920" lat="51.2296610">
+  <id>4247276</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4247276</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4247276/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4247276/close</close_url>
+  <date_created>2024-05-15 12:17:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-15 12:17:49 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>De lijnen ingetekend, het is nu aan echte ervaren MAPPERS om de detals in te voeren - verkeerslichten, streepjes, verlegde ways. 
+Met groet van deze Contributor.</text>
+      <html>&lt;p&gt;De lijnen ingetekend, het is nu aan echte ervaren MAPPERS om de detals in te voeren - verkeerslichten, streepjes, verlegde ways. 
+&lt;br /&gt;Met groet van deze Contributor.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-15 12:18:38 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>en in geval u vraagt : prentjes 14 mei'23 worden nog opgeladen, zijn dardoor op dit moment nog niet beschikbaar.</text>
+      <html>&lt;p&gt;en in geval u vraagt : prentjes 14 mei'23 worden nog opgeladen, zijn dardoor op dit moment nog niet beschikbaar.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="6.0829735" lat="50.6917155">
+  <id>3934266</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3934266</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3934266/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3934266/close</close_url>
+  <date_created>2023-10-10 19:23:45 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-10-10 19:23:45 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>opened</action>
+      <text>Dieser alte Komplex wird komplett umgestaltet und  saniert.
+
+https://residenz-weissdorn.be
+
+https://residenz-weissdorn.be/wp-content/uploads/2023/04/rw_01-1600x818.jpg</text>
+      <html>&lt;p&gt;Dieser alte Komplex wird komplett umgestaltet und  saniert.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://residenz-weissdorn.be" rel="nofollow noopener noreferrer"&gt;https://residenz-weissdorn.be&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://residenz-weissdorn.be/wp-content/uploads/2023/04/rw_01-1600x818.jpg" rel="nofollow noopener noreferrer"&gt;https://residenz-weissdorn.be/wp-content/uploads/2023/04/rw_01-1600x818.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-10-19 15:34:50 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>"Vor Kurzem stand noch in der Nähe des Kreisverkehrs ein altes Gebäude aus Blaustein. Das ist nun weg."
+
+https://brf.be/regional/1767742/</text>
+      <html>&lt;p&gt;"Vor Kurzem stand noch in der Nähe des Kreisverkehrs ein altes Gebäude aus Blaustein. Das ist nun weg."&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://brf.be/regional/1767742/" rel="nofollow noopener noreferrer"&gt;https://brf.be/regional/1767742/&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-05 17:57:59 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Hier ist bislang so gut wie nichts an Baufortschritt zu erkennen.
+
+Nur eine Grube die mit Wasser vollläuft und jede Menge Steine und Geröll.
+
+Nicht mal ein Ansatz von Erd - oder Fundamentarbeiten.
+
+Hier von "building = construction" zu sprechen ist äußerst wagemutig.
+
+Ich nehme die "construction = residential" raus und setzte das provisorisch auf "disused".
+
+Damit bleiben die geplanten Grundrisse erhalten und können, wenn es dann soweit ist, wieder problemlos eingefügt werden.
+
+https://www.openstreetmap.org/way/111347369#map=19/50.69168/6.08319&amp;layers=D</text>
+      <html>&lt;p&gt;Hier ist bislang so gut wie nichts an Baufortschritt zu erkennen.&lt;/p&gt;
+
+&lt;p&gt;Nur eine Grube die mit Wasser vollläuft und jede Menge Steine und Geröll.&lt;/p&gt;
+
+&lt;p&gt;Nicht mal ein Ansatz von Erd - oder Fundamentarbeiten.&lt;/p&gt;
+
+&lt;p&gt;Hier von "building = construction" zu sprechen ist äußerst wagemutig.&lt;/p&gt;
+
+&lt;p&gt;Ich nehme die "construction = residential" raus und setzte das provisorisch auf "disused".&lt;/p&gt;
+
+&lt;p&gt;Damit bleiben die geplanten Grundrisse erhalten und können, wenn es dann soweit ist, wieder problemlos eingefügt werden.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/111347369#map=19/50.69168/6.08319&amp;amp;layers=D" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/111347369#map=19/50.69168/6.08319&amp;amp;layers=D&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-01-05 18:04:28 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Außerdem gab und gibt es Probleme bei den geplanten Ausschachtungsarbeiten.
+
+https://ostbelgiendirekt.be/drohende-absackung-368040
+
+Das wird also noch was dauern ...</text>
+      <html>&lt;p&gt;Außerdem gab und gibt es Probleme bei den geplanten Ausschachtungsarbeiten.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://ostbelgiendirekt.be/drohende-absackung-368040" rel="nofollow noopener noreferrer"&gt;https://ostbelgiendirekt.be/drohende-absackung-368040&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Das wird also noch was dauern ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-28 10:38:49 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Baugrube ist fertig ausgehoben. Aktuell wird das Fundament gegossen und einzelne Elemente sind errichtet.</text>
+      <html>&lt;p&gt;Baugrube ist fertig ausgehoben. Aktuell wird das Fundament gegossen und einzelne Elemente sind errichtet.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-17 14:44:06 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Die Wände im Untergeschoss sind gezogen ...</text>
+      <html>&lt;p&gt;Die Wände im Untergeschoss sind gezogen ...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-17 14:50:14 UTC</date>
+      <uid>1769550</uid>
+      <user>Peer van Daalen</user>
+      <user_url>https://api.openstreetmap.org/user/Peer%20van%20Daalen</user_url>
+      <action>commented</action>
+      <text>Alles alte ist verschwunden und das neue wird errichtet.
+
+https://www.openstreetmap.org/way/111347369/history</text>
+      <html>&lt;p&gt;Alles alte ist verschwunden und das neue wird errichtet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/111347369/history" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/111347369/history&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

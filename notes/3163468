@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.0499800" lat="49.9712600">
+  <id>3163468</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3163468</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3163468/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3163468/close</close_url>
+  <date_created>2022-05-03 12:10:13 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2022-05-03 12:10:13 UTC</date>
+      <action>opened</action>
+      <text>Dit is zeker een fietspad, het is recent aangelegd en er staan fietsroutebordjes (het nummer van de route ben ik vergeten). Een echt verkeersbord D7 staat er niet, in de praktijk dus wel.
+De route staat ook op deze site als 'gesuggereerde route' tussen Graide en Porcheresse: https://ravel.wallonie.be/nl/home/carte-interactive.html</text>
+      <html>&lt;p&gt;Dit is zeker een fietspad, het is recent aangelegd en er staan fietsroutebordjes (het nummer van de route ben ik vergeten). Een echt verkeersbord D7 staat er niet, in de praktijk dus wel.
+&lt;br /&gt;De route staat ook op deze site als 'gesuggereerde route' tussen Graide en Porcheresse: &lt;a href="https://ravel.wallonie.be/nl/home/carte-interactive.html" rel="nofollow noopener noreferrer"&gt;https://ravel.wallonie.be/nl/home/carte-interactive.html&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2022-05-03 14:18:35 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>Het is niet omdat er genummerde fietsroutes overgaan dat de definitie van de weg daardoor een fietspad wordt. Een fietspad heeft ook zijn beperkingen van gebruik....</text>
+      <html>&lt;p&gt;Het is niet omdat er genummerde fietsroutes overgaan dat de definitie van de weg daardoor een fietspad wordt. Een fietspad heeft ook zijn beperkingen van gebruik....&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

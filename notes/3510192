@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.8799334" lat="51.1505226">
+  <id>3510192</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3510192</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3510192/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3510192/close</close_url>
+  <date_created>2023-01-08 19:14:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-01-08 19:14:25 UTC</date>
+      <uid>654234</uid>
+      <user>L'imaginaire</user>
+      <user_url>https://api.openstreetmap.org/user/L'imaginaire</user_url>
+      <action>opened</action>
+      <text>Heel wat paden in het provinciaal domein zijn heraangelegd, surface tags zouden eens grondig gereviewd moeten worden.</text>
+      <html>&lt;p&gt;Heel wat paden in het provinciaal domein zijn heraangelegd, surface tags zouden eens grondig gereviewd moeten worden.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-21 19:22:51 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>#OSMBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

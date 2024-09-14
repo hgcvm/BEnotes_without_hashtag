@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4682705" lat="51.2011259">
+  <id>4122486</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4122486</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4122486/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4122486/close</close_url>
+  <date_created>2024-02-21 18:17:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-02-21 18:17:47 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>nog een kandidaat voor een fototripje, ook binnenblok op terrein noordelijk.
+
+Eén van de twee -op 81- wordt https://www.orpea.be/nl/locaties/woonzorgcentrum/boschart , de andere -gezien nummering en GRB- wordt Theo vd Bosch 21-27 doch google weet van niets - toch staat 'ie al op de kaart.</text>
+      <html>&lt;p&gt;nog een kandidaat voor een fototripje, ook binnenblok op terrein noordelijk.&lt;/p&gt;
+
+&lt;p&gt;Eén van de twee -op 81- wordt &lt;a href="https://www.orpea.be/nl/locaties/woonzorgcentrum/boschart" rel="nofollow noopener noreferrer"&gt;https://www.orpea.be/nl/locaties/woonzorgcentrum/boschart&lt;/a&gt; , de andere -gezien nummering en GRB- wordt Theo vd Bosch 21-27 doch google weet van niets - toch staat 'ie al op de kaart.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-02-21 20:03:41 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>zie geen ingang kant Theo Van den Boschstraat
+update gedaan. Wegenis achter ?</text>
+      <html>&lt;p&gt;zie geen ingang kant Theo Van den Boschstraat
+&lt;br /&gt;update gedaan. Wegenis achter ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

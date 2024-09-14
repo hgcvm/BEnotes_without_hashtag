@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.1710997" lat="50.6679404">
+  <id>4084749</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4084749</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4084749/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4084749/close</close_url>
+  <date_created>2024-01-24 14:32:51 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-01-24 14:32:51 UTC</date>
+      <uid>67832</uid>
+      <user>joost schouppe</user>
+      <user_url>https://api.openstreetmap.org/user/joost%20schouppe</user_url>
+      <action>opened</action>
+      <text>This was mapped as a school, but it probably closed. Maybe it's the CPAS now? Or still some child care facility?</text>
+      <html>&lt;p&gt;This was mapped as a school, but it probably closed. Maybe it's the CPAS now? Or still some child care facility?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-29 20:27:56 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

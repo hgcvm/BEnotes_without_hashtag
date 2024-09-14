@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8813066" lat="50.4926058">
+  <id>4274495</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4274495</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4274495/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4274495/close</close_url>
+  <date_created>2024-06-01 13:52:44 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-01 13:52:44 UTC</date>
+      <uid>3051783</uid>
+      <user>JuliusOne</user>
+      <user_url>https://api.openstreetmap.org/user/JuliusOne</user_url>
+      <action>opened</action>
+      <text>Maison en construction ici
+
+via StreetComplete 57.4</text>
+      <html>&lt;p&gt;Maison en construction ici&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 57.4&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-01 14:33:54 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #FollowUp in 2025</text>
+      <html>&lt;p&gt;#OsmBE #FollowUp in 2025&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

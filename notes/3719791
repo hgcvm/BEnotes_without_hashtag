@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.8498000" lat="50.8173000">
+  <id>3719791</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3719791</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3719791/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3719791/close</close_url>
+  <date_created>2023-06-04 13:41:34 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-06-04 13:41:34 UTC</date>
+      <action>opened</action>
+      <text>Volgens de kaart op Wiki is dit stukje land ten oosten van de Dikkebusvijver deel van Vlamertinge: https://nl.wikipedia.org/wiki/Vlamertinge
+Ook volgens een kaart verschenen in De Tijd met deelgemeentengrenzen is dit stukje deel van Vlamertinge.
+
+Wat is de huidige bron?</text>
+      <html>&lt;p&gt;Volgens de kaart op Wiki is dit stukje land ten oosten van de Dikkebusvijver deel van Vlamertinge: &lt;a href="https://nl.wikipedia.org/wiki/Vlamertinge" rel="nofollow noopener noreferrer"&gt;https://nl.wikipedia.org/wiki/Vlamertinge&lt;/a&gt;
+&lt;br /&gt;Ook volgens een kaart verschenen in De Tijd met deelgemeentengrenzen is dit stukje deel van Vlamertinge.&lt;/p&gt;
+
+&lt;p&gt;Wat is de huidige bron?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-06-04 16:10:55 UTC</date>
+      <uid>2403313</uid>
+      <user>Jakka</user>
+      <user_url>https://api.openstreetmap.org/user/Jakka</user_url>
+      <action>commented</action>
+      <text>De officiele geopunt toepassing toont geen grens meer Vlamertinge. Mogelijk na fusie met Ieper ?
+https://www.geopunt.be/shared/620cd4eb-ea07-4777-be2e-276413329b7c
+</text>
+      <html>&lt;p&gt;De officiele geopunt toepassing toont geen grens meer Vlamertinge. Mogelijk na fusie met Ieper ?
+&lt;br /&gt;&lt;a href="https://www.geopunt.be/shared/620cd4eb-ea07-4777-be2e-276413329b7c" rel="nofollow noopener noreferrer"&gt;https://www.geopunt.be/shared/620cd4eb-ea07-4777-be2e-276413329b7c&lt;/a&gt;
+&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.8683800" lat="49.6671300">
+  <id>4304473</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4304473</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4304473/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4304473/close</close_url>
+  <date_created>2024-06-23 13:01:25 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-06-23 13:01:25 UTC</date>
+      <action>opened</action>
+      <text>Durbach</text>
+      <html>&lt;p&gt;Durbach&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-06-24 01:54:34 UTC</date>
+      <uid>7421884</uid>
+      <user>RaphaelPasloin</user>
+      <user_url>https://api.openstreetmap.org/user/RaphaelPasloin</user_url>
+      <action>commented</action>
+      <text>It's already set on alt_name and the 2 names are used ; so if it's signed like that on ground we can invert but in that state we have no enough to make the change. Any locals mappers to doublce check ?</text>
+      <html>&lt;p&gt;It's already set on alt_name and the 2 names are used ; so if it's signed like that on ground we can invert but in that state we have no enough to make the change. Any locals mappers to doublce check ?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

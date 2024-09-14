@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3521309" lat="51.1370186">
+  <id>4360845</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4360845</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4360845/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4360845/close</close_url>
+  <date_created>2024-07-31 21:05:30 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-07-31 21:05:30 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>opened</action>
+      <text>afbraak en herbouw school , zo te zien gereed voor schooljaar 24-25, prentjes ingangen tonen niet veel. </text>
+      <html>&lt;p&gt;afbraak en herbouw school , zo te zien gereed voor schooljaar 24-25, prentjes ingangen tonen niet veel. &lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.1799390" lat="50.4771648">
+  <id>4250522</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4250522</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4250522/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4250522/close</close_url>
+  <date_created>2024-05-17 11:38:31 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-05-17 11:38:31 UTC</date>
+      <uid>18023081</uid>
+      <user>Le_Sharkoïste</user>
+      <user_url>https://api.openstreetmap.org/user/Le_Sharko%C3%AFste</user_url>
+      <action>opened</action>
+      <text>Unable to answer "What’s the height limit below the bridge?" – Rue Sylvain Guyaux [N535] (Primary Road) – https://osm.org/way/180830285 via StreetComplete 57.3:
+
+vérifier hauteur max sous le pont</text>
+      <html>&lt;p&gt;Unable to answer "What’s the height limit below the bridge?" – Rue Sylvain Guyaux [N535] (Primary Road) – &lt;a href="https://osm.org/way/180830285" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/180830285&lt;/a&gt; via StreetComplete 57.3:&lt;/p&gt;
+
+&lt;p&gt;vérifier hauteur max sous le pont&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

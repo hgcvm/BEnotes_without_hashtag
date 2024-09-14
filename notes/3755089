@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8373400" lat="50.4269300">
+  <id>3755089</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/3755089</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3755089/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/3755089/close</close_url>
+  <date_created>2023-06-28 07:48:47 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2023-06-28 07:48:47 UTC</date>
+      <uid>116840</uid>
+      <user>Jean-Louis Stanus</user>
+      <user_url>https://api.openstreetmap.org/user/Jean-Louis%20Stanus</user_url>
+      <action>opened</action>
+      <text>Conseil communal du 27/06/2023:
+https://www.namur.be/fr/ma-ville/vie-politique/conseil-communal/seances-du-conseil/27-06-2023/note-de-synthese-cc20230627-site-ville.pdf
+
+Vérifier quand ce sera appliqué
+
+Wépion, rue des Amandiers: limitation de circulation à la desserte locale - règlement
+complémentaire à la police de la circulation routière
+Adoption</text>
+      <html>&lt;p&gt;Conseil communal du 27/06/2023:
+&lt;br /&gt;&lt;a href="https://www.namur.be/fr/ma-ville/vie-politique/conseil-communal/seances-du-conseil/27-06-2023/note-de-synthese-cc20230627-site-ville.pdf" rel="nofollow noopener noreferrer"&gt;https://www.namur.be/fr/ma-ville/vie-politique/conseil-communal/seances-du-conseil/27-06-2023/note-de-synthese-cc20230627-site-ville.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vérifier quand ce sera appliqué&lt;/p&gt;
+
+&lt;p&gt;Wépion, rue des Amandiers: limitation de circulation à la desserte locale - règlement
+&lt;br /&gt;complémentaire à la police de la circulation routière
+&lt;br /&gt;Adoption&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

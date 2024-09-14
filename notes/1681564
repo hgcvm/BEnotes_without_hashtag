@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2348084" lat="51.1809975">
+  <id>1681564</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/1681564</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/1681564/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/1681564/close</close_url>
+  <date_created>2019-02-15 07:03:10 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2019-02-15 07:03:10 UTC</date>
+      <uid>14498</uid>
+      <user>Jan Westerhof</user>
+      <user_url>https://api.openstreetmap.org/user/Jan%20Westerhof</user_url>
+      <action>opened</action>
+      <text>Ter hoogte van deze rotonde komt een nieuwe fietsbrug. De planning is onbekend.
+Bron: http://www.standaard.be/cnt/dmf20190213_04174204</text>
+      <html>&lt;p&gt;Ter hoogte van deze rotonde komt een nieuwe fietsbrug. De planning is onbekend.
+&lt;br /&gt;Bron: &lt;a href="http://www.standaard.be/cnt/dmf20190213_04174204" rel="nofollow noopener noreferrer"&gt;http://www.standaard.be/cnt/dmf20190213_04174204&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2021-07-29 20:12:15 UTC</date>
+      <uid>11022240</uid>
+      <user>kaart_fietser</user>
+      <user_url>https://api.openstreetmap.org/user/kaart_fietser</user_url>
+      <action>commented</action>
+      <text>Start van de werken is nog niet bekend, het ontwerp al wel.
+Zo wordt de bocht rechtgetrokken en wordt de rotonde een kruispunt met verkeerslichten. Zie ook: https://www.oostkamp.be/werkendetail/42/steenbrugge--de-stadsvaart--nieuwe-brug-over-het-kanaal</text>
+      <html>&lt;p&gt;Start van de werken is nog niet bekend, het ontwerp al wel.
+&lt;br /&gt;Zo wordt de bocht rechtgetrokken en wordt de rotonde een kruispunt met verkeerslichten. Zie ook: &lt;a href="https://www.oostkamp.be/werkendetail/42/steenbrugge--de-stadsvaart--nieuwe-brug-over-het-kanaal" rel="nofollow noopener noreferrer"&gt;https://www.oostkamp.be/werkendetail/42/steenbrugge--de-stadsvaart--nieuwe-brug-over-het-kanaal&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2023-01-30 10:24:40 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>commented</action>
+      <text>Ondertussen heel wat concreter geworden: https://www.seineschelde.be/aanpassing/brugge-en-oostkamp-vernieuwen-steenbruggebrug
+
+Werken zouden eind 2023 bezig moeten zijn</text>
+      <html>&lt;p&gt;Ondertussen heel wat concreter geworden: &lt;a href="https://www.seineschelde.be/aanpassing/brugge-en-oostkamp-vernieuwen-steenbruggebrug" rel="nofollow noopener noreferrer"&gt;https://www.seineschelde.be/aanpassing/brugge-en-oostkamp-vernieuwen-steenbruggebrug&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Werken zouden eind 2023 bezig moeten zijn&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-05-31 12:08:50 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>
