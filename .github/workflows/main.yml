@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Install html2text
-      run: sudo apt-get install -y html2text
+      run: sudo apt-get install -y python3-html2text
 
     - name: Call the BEnotes_without_hashtag.sh script
       run: bash BEnotes_without_hashtag.sh
