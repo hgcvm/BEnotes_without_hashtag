@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="2.9338120" lat="51.2393427">
+  <id>4434118</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4434118</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4434118/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4434118/close</close_url>
+  <date_created>2024-09-14 09:40:48 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-14 09:40:48 UTC</date>
+      <uid>20578352</uid>
+      <user>olecky</user>
+      <user_url>https://api.openstreetmap.org/user/olecky</user_url>
+      <action>opened</action>
+      <text>In context of overlay "Surfaces" – Path – https://osm.org/way/148739051 via StreetComplete 58.2:
+
+Path fenced off from the eastern end
+
+Attached photo(s):
+https://westnordost.de/p/239624.jpg</text>
+      <html>&lt;p&gt;In context of overlay "Surfaces" – Path – &lt;a href="https://osm.org/way/148739051" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/148739051&lt;/a&gt; via StreetComplete 58.2:&lt;/p&gt;
+
+&lt;p&gt;Path fenced off from the eastern end&lt;/p&gt;
+
+&lt;p&gt;Attached photo(s):
+&lt;br /&gt;&lt;a href="https://westnordost.de/p/239624.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/239624.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 16:39:06 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>according to you, what needs to be mapped here?</text>
+      <html>&lt;p&gt;according to you, what needs to be mapped here?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 17:35:14 UTC</date>
+      <uid>20578352</uid>
+      <user>olecky</user>
+      <user_url>https://api.openstreetmap.org/user/olecky</user_url>
+      <action>commented</action>
+      <text>Not sure. 
+1. Set access=no?
+2. Add fence as a physical barrier?
+3. Remove the path altogether?
+4. Disconnect the path from https://www.openstreetmap.org/way/1231695485 and https://www.openstreetmap.org/way/1315482671?</text>
+      <html>&lt;p&gt;Not sure. 
+&lt;br /&gt;1. Set access=no?
+&lt;br /&gt;2. Add fence as a physical barrier?
+&lt;br /&gt;3. Remove the path altogether?
+&lt;br /&gt;4. Disconnect the path from &lt;a href="https://www.openstreetmap.org/way/1231695485" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1231695485&lt;/a&gt; and &lt;a href="https://www.openstreetmap.org/way/1315482671" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1315482671&lt;/a&gt;?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

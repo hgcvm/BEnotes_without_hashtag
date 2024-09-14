@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8631290" lat="51.3571290">
+  <id>4434642</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4434642</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4434642/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4434642/close</close_url>
+  <date_created>2024-09-14 14:34:02 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-14 14:34:02 UTC</date>
+      <uid>20392825</uid>
+      <user>Jipke2310</user>
+      <user_url>https://api.openstreetmap.org/user/Jipke2310</user_url>
+      <action>opened</action>
+      <text>Deze zijstraat is een éénrichtingsstraat richting Albertstraat.</text>
+      <html>&lt;p&gt;Deze zijstraat is een éénrichtingsstraat richting Albertstraat.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-14 16:32:43 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>is deze way dan juist gemapt? https://www.openstreetmap.org/way/361215349
+in dit geval kunnen hier geen auto's door ... klopt dit met de situatie ter plekke?</text>
+      <html>&lt;p&gt;is deze way dan juist gemapt? &lt;a href="https://www.openstreetmap.org/way/361215349" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/361215349&lt;/a&gt;
+&lt;br /&gt;in dit geval kunnen hier geen auto's door ... klopt dit met de situatie ter plekke?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>
