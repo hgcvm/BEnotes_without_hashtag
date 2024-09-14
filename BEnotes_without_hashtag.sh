@@ -4,10 +4,10 @@
 wget -O scraped.txt "https://resultmaps.neis-one.org/osm-notes-country-custom?c=Belgium&query=open"
 LISTOFNOTES=`html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])'`
 
-Via API alles notes downloaden
-while IFS= read -r line ; do 
-wget -O notes/$line https://api.openstreetmap.org/api/0.6/notes/$line
-done <<< "$LISTOFNOTES"
+#Via API alles notes downloaden
+#while IFS= read -r line ; do 
+#wget -O notes/$line https://api.openstreetmap.org/api/0.6/notes/$line
+#done <<< "$LISTOFNOTES"
 
 #In deze notes inverted zoeken naar ..., en hiervan een HTML maken
 rm index.html
