@@ -13,6 +13,7 @@ wget -O notes/$i https://api.openstreetmap.org/api/0.6/notes/$i
 done;
 
 #In deze notes inverted zoeken naar ..., en hiervan een HTML maken
+echo "creating HTML"
 rm index.html
 cd notes/
 FILTEREDLIST=`grep -L -i surveyneeded * | awk -F ":" '{ print $1}' | sort | uniq`
