@@ -1,4 +1,4 @@
-name: Refresh geojson
+name: Refresh notes
 
 on:
   workflow_dispatch:
