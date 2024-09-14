@@ -26,4 +26,3 @@ DATE=`date`
 sed -i "1s/^/<!DOCTYPE html><html><body>Last updated on $DATE<br>Total count is $COUNT<br>\n/" index.html
 sed -i '$ s_$_ </body></html>_' index.html
 
-rm scraped.txt

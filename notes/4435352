@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.2492682" lat="51.2143960">
+  <id>4435352</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4435352</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4435352/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4435352/close</close_url>
+  <date_created>2024-09-14 20:40:40 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-14 20:40:40 UTC</date>
+      <uid>3818858</uid>
+      <user>Pieter Vander Vennet</user>
+      <user_url>https://api.openstreetmap.org/user/Pieter%20Vander%20Vennet</user_url>
+      <action>opened</action>
+      <text>Bestaat dit politiekantoor nog?</text>
+      <html>&lt;p&gt;Bestaat dit politiekantoor nog?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>
