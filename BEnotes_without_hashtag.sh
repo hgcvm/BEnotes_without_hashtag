@@ -13,13 +13,14 @@ LISTOFNOTES=`html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?
 rm index.html
 cd notes/
 FILTEREDLIST=`grep -L -i surveyneeded * | awk -F ":" '{ print $1}' | sort | uniq`
+COUNT=`echo "$FILTEREDLIST" | wc -l`
 while IFS= read -r line ; do 
 echo '<a href="https://www.openstreetmap.org/note/'$line'">'$line'</a><br>' >> ../index.html
 done <<< "$FILTEREDLIST"
 cd ..
 
 DATE=`date`
-sed -i "1s/^/<!DOCTYPE html><html><body>Last updated on $DATE<br>\n/" index.html
+sed -i "1s/^/<!DOCTYPE html><html><body>Last updated on $DATE<br>Total count is $COUNT<br>\n/" index.html
 sed -i '$ s_$_ </body></html>_' index.html
 
 rm scraped.txt
