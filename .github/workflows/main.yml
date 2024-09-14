@@ -21,7 +21,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "none@empty.com"
-        git add data
-        git add html
-        git commit -m "Update geojson files (actions)"
+        git add .
+        git commit -m "Update notes files (actions)"
         git push
