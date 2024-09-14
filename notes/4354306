@@ -46,6 +46,21 @@ Lijkt me eleganter om die samen te voegen?</text>
       <text>zo goed? https://www.openstreetmap.org/way/1263427374</text>
       <html>&lt;p&gt;zo goed? &lt;a href="https://www.openstreetmap.org/way/1263427374" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/1263427374&lt;/a&gt;&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-14 21:01:22 UTC</date>
+      <uid>19397909</uid>
+      <user>ValidDistress</user>
+      <user_url>https://api.openstreetmap.org/user/ValidDistress</user_url>
+      <action>commented</action>
+      <text>Er zijn er nog wel een paar helaas, zoals https://www.openstreetmap.org/way/201918090
+https://www.openstreetmap.org/way/201918075
+https://www.openstreetmap.org/way/201918062
+Die allemaal aansluiten aan andere woonzones.</text>
+      <html>&lt;p&gt;Er zijn er nog wel een paar helaas, zoals &lt;a href="https://www.openstreetmap.org/way/201918090" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/201918090&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/201918075" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/201918075&lt;/a&gt;
+&lt;br /&gt;&lt;a href="https://www.openstreetmap.org/way/201918062" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/201918062&lt;/a&gt;
+&lt;br /&gt;Die allemaal aansluiten aan andere woonzones.&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>
