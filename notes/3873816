@@ -23,6 +23,15 @@ shop=matériaux_de_construction ? Is it https://wiki.openstreetmap.org/wiki/Tag:
 
 &lt;p&gt;shop=matériaux_de_construction ? Is it &lt;a href="https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddoityourself" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddoityourself&lt;/a&gt; or &lt;a href="https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade&lt;/a&gt; + &lt;a href="https://wiki.openstreetmap.org/wiki/Tag:trade%3Dbuilding_supplies" rel="nofollow noopener noreferrer"&gt;https://wiki.openstreetmap.org/wiki/Tag:trade%3Dbuilding_supplies&lt;/a&gt; ? If not, how it differs?&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-14 19:42:44 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>The French term « matériaux de construction » is a literal translation of “building materials”. IMO, it's safe to retag this to `shop=trade` + `trade=building_supplies`. What do you think?</text>
+      <html>&lt;p&gt;The French term «&amp;nbsp;matériaux de construction&amp;nbsp;» is a literal translation of “building materials”. IMO, it's safe to retag this to `shop=trade` + `trade=building_supplies`. What do you think?&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>

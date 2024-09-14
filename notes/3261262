@@ -35,6 +35,15 @@ operator=Stad Oostende</text>
 &lt;br /&gt;amenity=bench
 &lt;br /&gt;operator=Stad Oostende&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-14 19:12:36 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>#OsmBE #SurveyNeeded</text>
+      <html>&lt;p&gt;#OsmBE #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>
