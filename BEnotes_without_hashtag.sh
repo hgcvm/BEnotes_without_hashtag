@@ -2,15 +2,19 @@
 
 #Lijst met alle open notes in BE aanmaken
 wget -O scraped.txt "https://resultmaps.neis-one.org/osm-notes-country-custom?c=Belgium&query=open"
-html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])' > listofnotes.txt
+#html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])' > listofnotes.txt
+LISTOFNOTES=`html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])'`
+
+
+echo "$LISTOFNOTES"
 
 #Via API alle notes downloaden
-cat listofnotes.txt
-echo " "
-for i in `cat listofnotes.txt` ; do
-echo line "$i"
-wget -O notes/$i https://api.openstreetmap.org/api/0.6/notes/$i
-done;
+#cat listofnotes.txt
+#echo " "
+#for i in `cat listofnotes.txt` ; do
+#echo line "$i"
+#wget -O notes/$i https://api.openstreetmap.org/api/0.6/notes/$i
+#done;
 
 #In deze notes inverted zoeken naar ..., en hiervan een HTML maken
 echo "creating HTML"
