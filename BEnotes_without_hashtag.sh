@@ -7,6 +7,7 @@ html2text scraped.txt | grep -E "\[[0-9]" | grep -o -P '(?<=\[).*(?=\])' > listo
 #Via API alle notes downloaden
 while read line; do
 cd notes/
+echo line $line
 wget -O $line https://api.openstreetmap.org/api/0.6/notes/$line
 cd ..
 done <listofnotes.txt
