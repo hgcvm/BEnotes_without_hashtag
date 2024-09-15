@@ -8,7 +8,7 @@ LISTOFNOTES=`html2text --mark-code scraped.txt | grep -E "\[[0-9]" | grep -o -P 
 rm notes/*
 while IFS= read -r line; do
 wget -O notes/$line https://api.openstreetmap.org/api/0.6/notes/$line
-sleep 1
+sleep .3
 done <<< "$LISTOFNOTES"
 
 #In deze notes inverted zoeken naar ..., en hiervan een HTML maken
