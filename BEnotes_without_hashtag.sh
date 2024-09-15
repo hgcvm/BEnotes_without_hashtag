@@ -23,6 +23,6 @@ done <<< "$FILTEREDLIST"
 cd ..
 
 DATE=`date`
-sed -i "1s/^/<!DOCTYPE html><html><body>Last updated on $DATE<br>Total count is $COUNT<br>Currently filtered: #SurveyNeeded #FollowUp<br>\n/" index.html
+sed -i "1s/^/<!DOCTYPE html><html><body>Last updated on $DATE<p>Total count is $COUNT<p>Currently filtered: <br>#SurveyNeeded<br> #FollowUp<p>\n/" index.html
 sed -i '$ s_$_ </body></html>_' index.html
 rm scraped.txt

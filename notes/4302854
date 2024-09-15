@@ -3,10 +3,10 @@
 <note lon="4.1031954" lat="50.4675198">
   <id>4302854</id>
   <url>https://api.openstreetmap.org/api/0.6/notes/4302854</url>
-  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4302854/comment</comment_url>
-  <close_url>https://api.openstreetmap.org/api/0.6/notes/4302854/close</close_url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/4302854/reopen</reopen_url>
   <date_created>2024-06-22 12:40:22 UTC</date_created>
-  <status>open</status>
+  <status>closed</status>
+  <date_closed>2024-09-15 08:40:30 UTC</date_closed>
   <comments>
     <comment>
       <date>2024-06-22 12:40:22 UTC</date>
@@ -26,6 +26,15 @@ https://westnordost.de/p/219805.jpg</text>
 
 &lt;p&gt;Attached photo(s):
 &lt;br /&gt;&lt;a href="https://westnordost.de/p/219805.jpg" rel="nofollow noopener noreferrer"&gt;https://westnordost.de/p/219805.jpg&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 08:40:30 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>closed</action>
+      <text>Added: https://www.openstreetmap.org/node/12177930211.</text>
+      <html>&lt;p&gt;Added: &lt;a href="https://www.openstreetmap.org/node/12177930211" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/12177930211&lt;/a&gt;.&lt;/p&gt;</html>
     </comment>
   </comments>
 </note>

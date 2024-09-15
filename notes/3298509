@@ -3,10 +3,10 @@
 <note lon="4.3191900" lat="50.5867700">
   <id>3298509</id>
   <url>https://api.openstreetmap.org/api/0.6/notes/3298509</url>
-  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3298509/comment</comment_url>
-  <close_url>https://api.openstreetmap.org/api/0.6/notes/3298509/close</close_url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/3298509/reopen</reopen_url>
   <date_created>2022-08-04 08:51:45 UTC</date_created>
-  <status>open</status>
+  <status>closed</status>
+  <date_closed>2024-09-15 08:37:01 UTC</date_closed>
   <comments>
     <comment>
       <date>2022-08-04 08:51:45 UTC</date>
@@ -25,6 +25,15 @@
       <action>commented</action>
       <text>Savez-vous ce qu'il faut cartographier exactement?</text>
       <html>&lt;p&gt;Savez-vous ce qu'il faut cartographier exactement?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 08:37:01 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>closed</action>
+      <text>Je ne vois absolument pas ce qui doit être cartographié ici.</text>
+      <html>&lt;p&gt;Je ne vois absolument pas ce qui doit être cartographié ici.&lt;/p&gt;</html>
     </comment>
   </comments>
 </note>
