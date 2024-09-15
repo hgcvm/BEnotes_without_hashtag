@@ -3,10 +3,10 @@
 <note lon="4.4211441" lat="51.0743559">
   <id>3225964</id>
   <url>https://api.openstreetmap.org/api/0.6/notes/3225964</url>
-  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3225964/comment</comment_url>
-  <close_url>https://api.openstreetmap.org/api/0.6/notes/3225964/close</close_url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/3225964/reopen</reopen_url>
   <date_created>2022-06-15 14:28:14 UTC</date_created>
-  <status>open</status>
+  <status>closed</status>
+  <date_closed>2024-09-15 05:34:08 UTC</date_closed>
   <comments>
     <comment>
       <date>2022-06-15 14:28:14 UTC</date>
@@ -43,6 +43,15 @@
       <action>commented</action>
       <text>... whodunnits zijn een beetje navigeren via de achteruitspiegel, https://www.mapillary.com/app/?pKey=517678990101473 en consorten tonen huidige beeld. </text>
       <html>&lt;p&gt;... whodunnits zijn een beetje navigeren via de achteruitspiegel, &lt;a href="https://www.mapillary.com/app/?pKey=517678990101473" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=517678990101473&lt;/a&gt; en consorten tonen huidige beeld. &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 05:34:08 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>geen picnic tafel te zien op uw prentjes. Verwijderd in deze changeset &gt; https://www.openstreetmap.org/changeset/156634054</text>
+      <html>&lt;p&gt;geen picnic tafel te zien op uw prentjes. Verwijderd in deze changeset &amp;gt; &lt;a href="https://www.openstreetmap.org/changeset/156634054" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/156634054&lt;/a&gt;&lt;/p&gt;</html>
     </comment>
   </comments>
 </note>
