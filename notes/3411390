@@ -34,6 +34,15 @@ https://www.openstreetmap.org/way/354325412</text>
       <text>@Jakka: looking at the history of this way, the `access=private` was added by someone who lives there, and they look quite inexperienced. The part of the street to the north is tagged with `access=destination`. Ideally, this would need to be surveyed.</text>
       <html>&lt;p&gt;@Jakka: looking at the history of this way, the `access=private` was added by someone who lives there, and they look quite inexperienced. The part of the street to the north is tagged with `access=destination`. Ideally, this would need to be surveyed.&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 06:15:21 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>#OSMbe #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMbe #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>
