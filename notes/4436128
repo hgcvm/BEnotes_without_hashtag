@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.9981045" lat="51.1684789">
+  <id>4436128</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4436128</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4436128/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4436128/close</close_url>
+  <date_created>2024-09-15 08:40:58 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-15 08:40:58 UTC</date>
+      <uid>21957486</uid>
+      <user>Glmglm</user>
+      <user_url>https://api.openstreetmap.org/user/Glmglm</user_url>
+      <action>opened</action>
+      <text>Dit is geen pad maar akkerland.
+
+via StreetComplete 58.2</text>
+      <html>&lt;p&gt;Dit is geen pad maar akkerland.&lt;/p&gt;
+
+&lt;p&gt;via StreetComplete 58.2&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 12:49:11 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=1303304640559467</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=1303304640559467" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=1303304640559467&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 12:52:56 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.mapillary.com/app/?pKey=324263799217370</text>
+      <html>&lt;p&gt;&lt;a href="https://www.mapillary.com/app/?pKey=324263799217370" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/app/?pKey=324263799217370&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

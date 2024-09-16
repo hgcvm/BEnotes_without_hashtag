@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.7145900" lat="51.0467593">
+  <id>4436898</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4436898</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4436898/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4436898/close</close_url>
+  <date_created>2024-09-15 16:24:00 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-15 16:24:00 UTC</date>
+      <uid>10242101</uid>
+      <user>th1j5</user>
+      <user_url>https://api.openstreetmap.org/user/th1j5</user_url>
+      <action>opened</action>
+      <text>"Also sandwiches, wraps - vegan and vegetarian"
+OSM snapshot date: 2024-07-23T19:32:09Z
+POI name: Bij Harry en Rika
+POI types: building shop-butcher
+ #organicmaps ios</text>
+      <html>&lt;p&gt;"Also sandwiches, wraps - vegan and vegetarian"
+&lt;br /&gt;OSM snapshot date: 2024-07-23T19:32:09Z
+&lt;br /&gt;POI name: Bij Harry en Rika
+&lt;br /&gt;POI types: building shop-butcher
+&lt;br /&gt; #organicmaps ios&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

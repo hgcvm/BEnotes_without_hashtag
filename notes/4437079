@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.8169363" lat="50.4003282">
+  <id>4437079</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4437079</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4437079/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4437079/close</close_url>
+  <date_created>2024-09-15 18:33:32 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-15 18:33:32 UTC</date>
+      <uid>20133521</uid>
+      <user>Joinsen</user>
+      <user_url>https://api.openstreetmap.org/user/Joinsen</user_url>
+      <action>opened</action>
+      <text>Unable to answer "Do the trees here have needles or leaves?" – Managed Forest – https://osm.org/way/119489702 via StreetComplete 58.2:
+
+There is no forest, but a meadow here</text>
+      <html>&lt;p&gt;Unable to answer "Do the trees here have needles or leaves?" – Managed Forest – &lt;a href="https://osm.org/way/119489702" rel="nofollow noopener noreferrer"&gt;https://osm.org/way/119489702&lt;/a&gt; via StreetComplete 58.2:&lt;/p&gt;
+
+&lt;p&gt;There is no forest, but a meadow here&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

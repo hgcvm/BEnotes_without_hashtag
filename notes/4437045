@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.0509427" lat="50.9855519">
+  <id>4437045</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4437045</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4437045/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4437045/close</close_url>
+  <date_created>2024-09-15 17:56:17 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-15 17:56:17 UTC</date>
+      <action>opened</action>
+      <text>Hier bevindt zich een erfgoedobject, nl De Proosdij.
+
+https://inventaris.onroerenderfgoed.be/erfgoedobjecten/41695
+#osmreport #osmbe</text>
+      <html>&lt;p&gt;Hier bevindt zich een erfgoedobject, nl De Proosdij.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://inventaris.onroerenderfgoed.be/erfgoedobjecten/41695" rel="nofollow noopener noreferrer"&gt;https://inventaris.onroerenderfgoed.be/erfgoedobjecten/41695&lt;/a&gt;
+&lt;br /&gt;#osmreport #osmbe&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="5.5365575" lat="51.0129253">
+  <id>4436945</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4436945</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4436945/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4436945/close</close_url>
+  <date_created>2024-09-15 16:54:49 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-15 16:54:49 UTC</date>
+      <uid>3814025</uid>
+      <user>Geert Verbakel</user>
+      <user_url>https://api.openstreetmap.org/user/Geert%20Verbakel</user_url>
+      <action>opened</action>
+      <text>Pad aan 2 kanten afgesloten </text>
+      <html>&lt;p&gt;Pad aan 2 kanten afgesloten &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 18:29:04 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>van waar tot waar exact? staan er paaltjes, betonblokken? kunt u foto's toevoegen? dit kan gemakkelijk met MapComplete: https://mapcomplete.org/notes.html</text>
+      <html>&lt;p&gt;van waar tot waar exact? staan er paaltjes, betonblokken? kunt u foto's toevoegen? dit kan gemakkelijk met MapComplete: &lt;a href="https://mapcomplete.org/notes.html" rel="nofollow noopener noreferrer"&gt;https://mapcomplete.org/notes.html&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

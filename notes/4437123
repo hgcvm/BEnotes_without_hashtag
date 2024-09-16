@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3550491" lat="50.8533170">
+  <id>4437123</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4437123</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4437123/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4437123/close</close_url>
+  <date_created>2024-09-15 18:52:06 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-15 18:52:06 UTC</date>
+      <uid>21958838</uid>
+      <user>IspanFR</user>
+      <user_url>https://api.openstreetmap.org/user/IspanFR</user_url>
+      <action>opened</action>
+      <text>Institut Bischoffsheim</text>
+      <html>&lt;p&gt;Institut Bischoffsheim&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-15 20:04:30 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>https://www.openstreetmap.org/way/122777733
+l'Institut Bischoffsheim est situé dans la Rue de la Blanchisserie
+Y a-t-il un autre campus au Bd Adolphe Max?</text>
+      <html>&lt;p&gt;&lt;a href="https://www.openstreetmap.org/way/122777733" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/way/122777733&lt;/a&gt;
+&lt;br /&gt;l'Institut Bischoffsheim est situé dans la Rue de la Blanchisserie
+&lt;br /&gt;Y a-t-il un autre campus au Bd Adolphe Max?&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>
