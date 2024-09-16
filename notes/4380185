@@ -39,6 +39,15 @@ En dan nog enkele fietsherstelpunten, die zijn nuttig als je wel bandenplak spul
       <text>jawel, via MapComlete &gt; Cyclofix kan je dit normaal gezien aangeven. Ik ken de tag niet meer van buiten</text>
       <html>&lt;p&gt;jawel, via MapComlete &amp;gt; Cyclofix kan je dit normaal gezien aangeven. Ik ken de tag niet meer van buiten&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 08:28:03 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>Je hebt gelijk. Ze gebruiken daar operational_status=broken</text>
+      <html>&lt;p&gt;Je hebt gelijk. Ze gebruiken daar operational_status=broken&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>

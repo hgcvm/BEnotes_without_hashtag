@@ -3,10 +3,10 @@
 <note lon="5.0499800" lat="49.9712600">
   <id>3163468</id>
   <url>https://api.openstreetmap.org/api/0.6/notes/3163468</url>
-  <comment_url>https://api.openstreetmap.org/api/0.6/notes/3163468/comment</comment_url>
-  <close_url>https://api.openstreetmap.org/api/0.6/notes/3163468/close</close_url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/3163468/reopen</reopen_url>
   <date_created>2022-05-03 12:10:13 UTC</date_created>
-  <status>open</status>
+  <status>closed</status>
+  <date_closed>2024-09-16 09:01:52 UTC</date_closed>
   <comments>
     <comment>
       <date>2022-05-03 12:10:13 UTC</date>
@@ -24,6 +24,17 @@ De route staat ook op deze site als 'gesuggereerde route' tussen Graide en Porch
       <action>commented</action>
       <text>Het is niet omdat er genummerde fietsroutes overgaan dat de definitie van de weg daardoor een fietspad wordt. Een fietspad heeft ook zijn beperkingen van gebruik....</text>
       <html>&lt;p&gt;Het is niet omdat er genummerde fietsroutes overgaan dat de definitie van de weg daardoor een fietspad wordt. Een fietspad heeft ook zijn beperkingen van gebruik....&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 09:01:52 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>closed</action>
+      <text>Ik zou de note sluiten. highway=track is hier in principe niet verkeerd. Het is moeilijk om dit te veranderen naar highway=cycleway, zonder ter plaatse de access conditions na te kijken.
+Aan de andere kant is het misschien dan vreemd dat de weg ten noorden en ten zuiden wel op highway=cycleway blijft staan.</text>
+      <html>&lt;p&gt;Ik zou de note sluiten. highway=track is hier in principe niet verkeerd. Het is moeilijk om dit te veranderen naar highway=cycleway, zonder ter plaatse de access conditions na te kijken.
+&lt;br /&gt;Aan de andere kant is het misschien dan vreemd dat de weg ten noorden en ten zuiden wel op highway=cycleway blijft staan.&lt;/p&gt;</html>
     </comment>
   </comments>
 </note>
