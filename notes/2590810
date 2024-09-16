@@ -117,6 +117,19 @@ Je pense qu'on peut effectuer la modif sans problème majeur.</text>
       <html>&lt;p&gt;Pour le nom de rue, je confirme: avec un T. Pour le "village", sans T, c'est à peu près sûr - mais la plupart des panneaux affichent "Wasmes-A-B"...
 &lt;br /&gt;Je pense qu'on peut effectuer la modif sans problème majeur.&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 06:47:15 UTC</date>
+      <uid>7207260</uid>
+      <user>Bancki</user>
+      <user_url>https://api.openstreetmap.org/user/Bancki</user_url>
+      <action>commented</action>
+      <text>Pour l'orthographie (sans T) de la commune "Wasmes-Audemez-Briffœil" avant 1976:
+code judiciaire (1967): https://www.ejustice.just.fgov.be/mopdf/1967/10/31_S.pdf p. 259 (§ 98)
+arrêté royal portant fusion de communes (1975): https://www.ejustice.just.fgov.be/mopdf/1975/09/25_S.pdf p. 140 (art. 299)</text>
+      <html>&lt;p&gt;Pour l'orthographie (sans T) de la commune "Wasmes-Audemez-Briffœil" avant 1976:
+&lt;br /&gt;code judiciaire (1967): &lt;a href="https://www.ejustice.just.fgov.be/mopdf/1967/10/31_S.pdf" rel="nofollow noopener noreferrer"&gt;https://www.ejustice.just.fgov.be/mopdf/1967/10/31_S.pdf&lt;/a&gt; p. 259 (§ 98)
+&lt;br /&gt;arrêté royal portant fusion de communes (1975): &lt;a href="https://www.ejustice.just.fgov.be/mopdf/1975/09/25_S.pdf" rel="nofollow noopener noreferrer"&gt;https://www.ejustice.just.fgov.be/mopdf/1975/09/25_S.pdf&lt;/a&gt; p. 140 (art. 299)&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>

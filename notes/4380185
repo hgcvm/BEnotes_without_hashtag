@@ -30,6 +30,15 @@ En dan nog enkele fietsherstelpunten, die zijn nuttig als je wel bandenplak spul
       <text>Ik ben niet zeker hoe we dit kunnen mappen, of zelfs als we dit moeten mappen. Eventueel zelf een lifecycle tag uitvinden (bv broken:... daar is wel wat van in gebruik https://taginfo.openstreetmap.org/search?q=broken%3A#keys) en note openlaten om op te volgen?</text>
       <html>&lt;p&gt;Ik ben niet zeker hoe we dit kunnen mappen, of zelfs als we dit moeten mappen. Eventueel zelf een lifecycle tag uitvinden (bv broken:... daar is wel wat van in gebruik &lt;a href="https://taginfo.openstreetmap.org/search?q=broken%3A#keys" rel="nofollow noopener noreferrer"&gt;https://taginfo.openstreetmap.org/search?q=broken%3A#keys&lt;/a&gt;) en note openlaten om op te volgen?&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 06:46:48 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>jawel, via MapComlete &gt; Cyclofix kan je dit normaal gezien aangeven. Ik ken de tag niet meer van buiten</text>
+      <html>&lt;p&gt;jawel, via MapComlete &amp;gt; Cyclofix kan je dit normaal gezien aangeven. Ik ken de tag niet meer van buiten&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>
