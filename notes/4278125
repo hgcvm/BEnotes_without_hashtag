@@ -3,10 +3,10 @@
 <note lon="3.2610914" lat="50.7676404">
   <id>4278125</id>
   <url>https://api.openstreetmap.org/api/0.6/notes/4278125</url>
-  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4278125/comment</comment_url>
-  <close_url>https://api.openstreetmap.org/api/0.6/notes/4278125/close</close_url>
+  <reopen_url>https://api.openstreetmap.org/api/0.6/notes/4278125/reopen</reopen_url>
   <date_created>2024-06-04 09:00:28 UTC</date_created>
-  <status>open</status>
+  <status>closed</status>
+  <date_closed>2024-09-16 10:59:24 UTC</date_closed>
   <comments>
     <comment>
       <date>2024-06-04 09:00:28 UTC</date>
@@ -16,6 +16,15 @@
       <action>opened</action>
       <text>Heraangelegd. Zie nieuwste luchtfoto's</text>
       <html>&lt;p&gt;Heraangelegd. Zie nieuwste luchtfoto's&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 10:59:24 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>closed</action>
+      <text>Aangepast.</text>
+      <html>&lt;p&gt;Aangepast.&lt;/p&gt;</html>
     </comment>
   </comments>
 </note>

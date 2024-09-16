@@ -40,6 +40,15 @@ leisure=picnic_table</text>
       <text>survey is aangewezen</text>
       <html>&lt;p&gt;survey is aangewezen&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 09:31:47 UTC</date>
+      <uid>3710738</uid>
+      <user>s8evq</user>
+      <user_url>https://api.openstreetmap.org/user/s8evq</user_url>
+      <action>commented</action>
+      <text>#OSMbe #SurveyNeeded</text>
+      <html>&lt;p&gt;#OSMbe #SurveyNeeded&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>
