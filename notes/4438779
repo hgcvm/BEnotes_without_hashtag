@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="3.6870317" lat="51.0484781">
+  <id>4438779</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4438779</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4438779/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4438779/close</close_url>
+  <date_created>2024-09-16 19:03:02 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-16 19:03:02 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>opened</action>
+      <text>drink mapillary
+Blaarmeersen
+Duiklaan Gent</text>
+      <html>&lt;p&gt;drink mapillary
+&lt;br /&gt;Blaarmeersen
+&lt;br /&gt;Duiklaan Gent&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 19:56:35 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>is dat deze of nog een ander? https://www.openstreetmap.org/node/12118857326</text>
+      <html>&lt;p&gt;is dat deze of nog een ander? &lt;a href="https://www.openstreetmap.org/node/12118857326" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/node/12118857326&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 20:05:40 UTC</date>
+      <uid>76884</uid>
+      <user>philippec</user>
+      <user_url>https://api.openstreetmap.org/user/philippec</user_url>
+      <action>commented</action>
+      <text>Nee, dat is mijn gewoonte niemand te betrouwen en zeker te zijn wanneer het vastgesteld is om zeker te zijn wanneer het veranderd is.  Trouwens, deze zal geen twee jaar duren om opgelost te worden, ik kom daar regelmatig.</text>
+      <html>&lt;p&gt;Nee, dat is mijn gewoonte niemand te betrouwen en zeker te zijn wanneer het vastgesteld is om zeker te zijn wanneer het veranderd is.  Trouwens, deze zal geen twee jaar duren om opgelost te worden, ik kom daar regelmatig.&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

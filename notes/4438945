@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3836408" lat="50.8533914">
+  <id>4438945</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4438945</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4438945/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4438945/close</close_url>
+  <date_created>2024-09-16 21:46:56 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-16 21:46:56 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Rue Artan 118
+amenity=bar
+name=Les Planches
+contact:facebook=https://m.facebook.com/lesplanches1030</text>
+      <html>&lt;p&gt;Rue Artan 118
+&lt;br /&gt;amenity=bar
+&lt;br /&gt;name=Les Planches
+&lt;br /&gt;contact:facebook=&lt;a href="https://m.facebook.com/lesplanches1030" rel="nofollow noopener noreferrer"&gt;https://m.facebook.com/lesplanches1030&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.4521894" lat="51.2182155">
+  <id>4422983</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4422983</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4422983/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4422983/close</close_url>
+  <date_created>2024-09-06 16:55:28 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-06 16:55:28 UTC</date>
+      <action>opened</action>
+      <text>Ringfietspad is geen formele naam! Zie geopunt vlaanderen! </text>
+      <html>&lt;p&gt;Ringfietspad is geen formele naam! Zie geopunt vlaanderen! &lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-06 18:44:34 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>aanpassingen gedaan in deze changeset https://www.openstreetmap.org/changeset/156288421</text>
+      <html>&lt;p&gt;aanpassingen gedaan in deze changeset &lt;a href="https://www.openstreetmap.org/changeset/156288421" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/156288421&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 08:24:00 UTC</date>
+      <uid>10781652</uid>
+      <user>WimSeghers</user>
+      <user_url>https://api.openstreetmap.org/user/WimSeghers</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 08:25:17 UTC</date>
+      <uid>10781652</uid>
+      <user>WimSeghers</user>
+      <user_url>https://api.openstreetmap.org/user/WimSeghers</user_url>
+      <action>commented</action>
+      <text>Beste
+Ik zie een groene pinpoint maar ik zie geen wijziging in de data.  De naam "Ringfietspad" wordt trouwens foutief gebruikt over de hele lengte van de Ring en aan beide zijdes...</text>
+      <html>&lt;p&gt;Beste
+&lt;br /&gt;Ik zie een groene pinpoint maar ik zie geen wijziging in de data.  De naam "Ringfietspad" wordt trouwens foutief gebruikt over de hele lengte van de Ring en aan beide zijdes...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-09 12:09:40 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>Ctrl+F5 klikken om de kaartvisualisering up te daten</text>
+      <html>&lt;p&gt;Ctrl+F5 klikken om de kaartvisualisering up te daten&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-10 04:23:52 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>closed</action>
+      <text>in deze changeset de namen van de andere segmenten aangepast https://www.openstreetmap.org/changeset/156420815</text>
+      <html>&lt;p&gt;in deze changeset de namen van de andere segmenten aangepast &lt;a href="https://www.openstreetmap.org/changeset/156420815" rel="nofollow noopener noreferrer"&gt;https://www.openstreetmap.org/changeset/156420815&lt;/a&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 10:00:34 UTC</date>
+      <uid>10781652</uid>
+      <user>WimSeghers</user>
+      <user_url>https://api.openstreetmap.org/user/WimSeghers</user_url>
+      <action>reopened</action>
+      <text></text>
+      <html>&lt;p&gt;&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 10:01:42 UTC</date>
+      <uid>10781652</uid>
+      <user>WimSeghers</user>
+      <user_url>https://api.openstreetmap.org/user/WimSeghers</user_url>
+      <action>commented</action>
+      <text>beste dank voor de wijzigingen  Er heten toch nog enkele segmenten Ringfietspad Als u Ringfietspad als zoekterm ingeeft komen ze tevoorschijn  Kan u deze ook nog corrigeren aub? Dank je</text>
+      <html>&lt;p&gt;beste dank voor de wijzigingen  Er heten toch nog enkele segmenten Ringfietspad Als u Ringfietspad als zoekterm ingeeft komen ze tevoorschijn  Kan u deze ook nog corrigeren aub? Dank je&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 12:31:02 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>tussen Turnhoutsebaan en Bischoppenhoflaan de naam nog aangepast ... ok zo? of zijn er nog stukken die ontbreken?</text>
+      <html>&lt;p&gt;tussen Turnhoutsebaan en Bischoppenhoflaan de naam nog aangepast ... ok zo? of zijn er nog stukken die ontbreken?&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 12:38:16 UTC</date>
+      <uid>10781652</uid>
+      <user>WimSeghers</user>
+      <user_url>https://api.openstreetmap.org/user/WimSeghers</user_url>
+      <action>commented</action>
+      <text>Dank!  Als ik het als zoekterm ingeeg komen er nog 2 stukken in Middelheimpark tevoorschijn...</text>
+      <html>&lt;p&gt;Dank!  Als ik het als zoekterm ingeeg komen er nog 2 stukken in Middelheimpark tevoorschijn...&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 12:45:59 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>commented</action>
+      <text>gelieve vanavond nog eens te kijken/zoeken ...</text>
+      <html>&lt;p&gt;gelieve vanavond nog eens te kijken/zoeken ...&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

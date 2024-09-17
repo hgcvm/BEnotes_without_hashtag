@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<note lon="4.3087089" lat="50.8345043">
+  <id>4438917</id>
+  <url>https://api.openstreetmap.org/api/0.6/notes/4438917</url>
+  <comment_url>https://api.openstreetmap.org/api/0.6/notes/4438917/comment</comment_url>
+  <close_url>https://api.openstreetmap.org/api/0.6/notes/4438917/close</close_url>
+  <date_created>2024-09-16 20:57:37 UTC</date_created>
+  <status>open</status>
+  <comments>
+    <comment>
+      <date>2024-09-16 20:57:37 UTC</date>
+      <uid>286563</uid>
+      <user>Thierry1030</user>
+      <user_url>https://api.openstreetmap.org/user/Thierry1030</user_url>
+      <action>opened</action>
+      <text>Rue des Déportés Anderlechtois 17
+name=La maison d'Aletheia
+contact:website=https://www.la-maison-d-aletheia.com
+amenity=community_centre</text>
+      <html>&lt;p&gt;Rue des Déportés Anderlechtois 17
+&lt;br /&gt;name=La maison d'Aletheia
+&lt;br /&gt;contact:website=&lt;a href="https://www.la-maison-d-aletheia.com" rel="nofollow noopener noreferrer"&gt;https://www.la-maison-d-aletheia.com&lt;/a&gt;
+&lt;br /&gt;amenity=community_centre&lt;/p&gt;</html>
+    </comment>
+  </comments>
+</note>
+</osm>

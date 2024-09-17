@@ -21,6 +21,15 @@ Under construction</text>
 
 &lt;p&gt;Under construction&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 19:50:26 UTC</date>
+      <uid>8404193</uid>
+      <user>queerthoughts</user>
+      <user_url>https://api.openstreetmap.org/user/queerthoughts</user_url>
+      <action>commented</action>
+      <text>Still under construction? It doesn't make sense to me to map a temporary situation here, the presence of sound signals might change after the works have finished.</text>
+      <html>&lt;p&gt;Still under construction? It doesn't make sense to me to map a temporary situation here, the presence of sound signals might change after the works have finished.&lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>

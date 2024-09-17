@@ -35,6 +35,28 @@
       <text>can you do that or do you need some help?</text>
       <html>&lt;p&gt;can you do that or do you need some help?&lt;/p&gt;</html>
     </comment>
+    <comment>
+      <date>2024-09-16 17:18:13 UTC</date>
+      <uid>29504</uid>
+      <user>Kurt Roeckx</user>
+      <user_url>https://api.openstreetmap.org/user/Kurt%20Roeckx</user_url>
+      <action>commented</action>
+      <text>I know what and how to do it. I just don't know which roads are part of the urban zone, because they're not tagged properly. Someone can just fix the maxspeed tag, but the other tags are missing out wrong.
+
+If I have time I can do it, but I add a note here because I currently don't have time for it.</text>
+      <html>&lt;p&gt;I know what and how to do it. I just don't know which roads are part of the urban zone, because they're not tagged properly. Someone can just fix the maxspeed tag, but the other tags are missing out wrong.&lt;/p&gt;
+
+&lt;p&gt;If I have time I can do it, but I add a note here because I currently don't have time for it.&lt;/p&gt;</html>
+    </comment>
+    <comment>
+      <date>2024-09-16 20:50:56 UTC</date>
+      <uid>10846743</uid>
+      <user>H4N5-antw</user>
+      <user_url>https://api.openstreetmap.org/user/H4N5-antw</user_url>
+      <action>commented</action>
+      <text>Een aanvang 30 : &lt;iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;image_key=275102391551660&amp;x=0.5&amp;y=0.5&amp;style=split" frameborder="0"&gt;&lt;/iframe&gt; ; tweede aanvang : &lt;iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;image_key=815886552839571&amp;x=0.5&amp;y=0.5&amp;style=split" frameborder="0"&gt;&lt;/iframe&gt; : helaas rest niet bezocht. </text>
+      <html>&lt;p&gt;Een aanvang 30 : &amp;lt;iframe width="640" height="320" src="&lt;a href="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=275102391551660&amp;amp;x=0.5&amp;amp;y=0.5&amp;amp;style=split" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=275102391551660&amp;amp;x=0.5&amp;amp;y=0.5&amp;amp;style=split&lt;/a&gt;" frameborder="0"&amp;gt;&amp;lt;/iframe&amp;gt; ; tweede aanvang : &amp;lt;iframe width="640" height="320" src="&lt;a href="https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=815886552839571&amp;amp;x=0.5&amp;amp;y=0.5&amp;amp;style=split" rel="nofollow noopener noreferrer"&gt;https://www.mapillary.com/embed?map_style=OpenStreetMap&amp;amp;image_key=815886552839571&amp;amp;x=0.5&amp;amp;y=0.5&amp;amp;style=split&lt;/a&gt;" frameborder="0"&amp;gt;&amp;lt;/iframe&amp;gt; : helaas rest niet bezocht. &lt;/p&gt;</html>
+    </comment>
   </comments>
 </note>
 </osm>
