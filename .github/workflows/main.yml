@@ -1,9 +1,9 @@
 name: Refresh notes
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron:  '27 5 * * *'
+#on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron:  '27 5 * * *'
 
 env:
   LANG: "nl_BE.UTF-8"
